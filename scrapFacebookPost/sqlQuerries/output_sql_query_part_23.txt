@@ -1,0 +1,196 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Anne-Sophie Rdlt; contenu : [Poudlist] x [After Work] x [Zéro gaspi]
+
+Bonsoir, ce soir il y’a des réductions à bord du Poudlard Express 🚂 
+
+Venez, c’est gratuit ! On voudrait éviter le gaspillage donc on vous invite à passer en sdb vous régaler ou vous resservir ❤️
+
+Magiciennement vôtre,
+La Poudlist 🧙‍♀️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d’administration] x [Compte rendu]
+
+Bonsoir à tous, ce soir s’est tenu un CA avec à l’ordre du jour : demande de subvention du WEV 🏄‍♀️, séminaire étudiant 👨‍🎓.
+
+Le bureau du WEV 🏄‍♀️ s’est présenté à nous pour nous parler de son projet qui se tiendra le week-end du 29/03 au 1/04. Pour avancer sur l’organisation, le bureau demande 2000 € de prêt 💶ainsi que 1200 € de subvention, qui correspondent à 5€ /jour / personne. Le Cercle a accepté !😍
+
+Notre chère présidente a participé au séminaire étudiant des écoles IMT 📚 rassemblant tous les présidents des BDE du groupe IMT. Cela a été l’occasion de créer des liens avec eux et entre les différentes écoles, et permettra d’échanger des idées au cours des prochaines années.💡
+
+Bonne soirée !
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist] x [Banquet des sorciers]
+
+Salut,
+
+On vous donne rendez vous ce soir pour le grand banquet qui débutera à 20h en sdb 🕺
+
+Pensez à prendre 2 eco-cup et une grosse assiettes 🥤🍽️🥤
+Tous est fait maison avec des produits locaux !
+
+Pour faciliter la gestion de vos arrivées on vous demande de remplir le doodle suivant 👉👈 : 
+
+https://doodle.com/meeting/participate/id/aQAAWjqa
+
+Merci ❤️
+
+Magiciennement vôtre,
+La Poudlist 🧙‍♀️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [RESULTATS DÉFI BDE N°2] X [COMCOM] 
+
+On a fait vivre un cauchemar aux Com Com de la Lucky List et de la Poudlist en les faisant passer en mode avion pendant plus de 2h 😰📵
+
+Tout le monde a survécu et après avoir mis à l''épreuve leurs compétences, leur motivation et leurs connaissances… les Lucky List ont prouvé que c''était les rois des visuels 🤩 même si les Poudlist n''ont pas démérité ! 
+
+On s''attendait à ce que les rôles des troisièmes Com Com soient tenus par les poupées gonflables mais elles devaient probablement être encore en train de dormir. 😢
+Félicitations aux 4 listeux.ses qui se sont levé.e.s tôt et sont arrivé.e.s avec de l’entrain et les mains pleines ! 🥞😋
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Dalil Zeamari; contenu : [DEFI]X[Liberez les listeux]
+
+Nos guetteurs en herbes nous on bien impressionné avec leur conaissances de la street🥷🥷
+
+Félicitations à nos listeux qui finissent le défi guetteur exequo
+🔫🔫', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Campagnes BDE]x[Gagnant.e.s défi BDA]
+
+Hello! 👋
+C''est de bon matin que nous avons retrouvé les cowboys du Far West 🤠 ainsi que les sorciers de Poudlard 🪄 pour notre défi stand-up en salle de musique! 
+Les listeux.ses nous ont bien fait rire avec des blagues plus ou moins douteuses 👀 et on salue leur courage de venir devant nous se produire.
+La liste gagnante est... 
+🥁🥁🥁🥁🥁🥁🥁
+
+La Lucky List! 🤠
+
+Bravo aux cowboys pour leur détermination et leur volonté à passer devant nous 🎙️
+
+On remercie la Poudlist pour leurs blagues ❤️
+
+Artistiquement vôtre, 
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Chiara Frati-peraldi; contenu : Coucou,
+Je ne sais pas quel sort a transporté ce pull chez moi 🪄
+Pull Tommy - taille S
+Je le garde bien au chaud en attendant que le propriétaire se manifeste!
+Bisous', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [Défi]X[EMAMIX]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [RESULTATS DÉFI BDE N° 3] X [Secrétaires]
+
+Ah là là que ce défi fut palpitant… En passant par Wikipédia, les CR et les QG de liste, les Poudlist et les Lucky List ont dû montrer que les secrétaires méritent leur BR !😤
+La finale fut palpitante, mais ce sont les Poudlist qui finissent par remporter la victoire à un cheveu 🤏, au prix d’un nombre de shots sucrés assez peu sain. Félicitations à eux ! 👏
+
+On remercie aussi les deux poupées gonflables … ah non pardon on m’informe que la deuxième était Alexandre de la Hiérogliste ! Merci à lui d’être entré dans la compétition avec autant de volontariat 😵‍💫  
+
+Courage pour le reste des campagnes, même si le meilleur défi de com est désormais terminé 😢
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist] x [Fin des allôs] x [Banquet des sorciers]  
+
+ Salut à tous on arrête de prendre  les commandes ❌
+
+ On vous donne rendez vous ce soir pour le grand banquet qui débutera à 20h en sdb 🕺 
+
+Pour faciliter la gestion de vos arrivées on vous demande de remplir le doodle suivant 👉👈 :
+
+[https://doodle.com/meeting/participate/id/aQAAWjqa](https://doodle.com/meeting/participate/id/aQAAWjqa)
+
+Merci ❤️ 
+
+Magiciennement vôtre, 
+
+La Poudlist 🧙‍♀️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucky List; contenu : [Activités]x[Paintball]
+
+English below 🇬🇧⬇️
+Petit rappel des activités de cet après-midi :
+🏋🏼‍♀️Il y aura certaines des activités de jeudi dernier 
+🌲Tout se passe en pinède
+⏰Le paintball commence à 14h, tout le monde a eu le SG et il reste même quelques places alors hésitez pas !!😎
+🔫Une partie dure 8-10 minutes
+👬Il est possible de réformer les équipes de petites taille
+🥞🍺 Il y aura un stand de crêpes, un bar et de la bonne musique 🎤
+
+Farwestement vôtre, 
+La LuckyList ⭐️🤠
+
+🇬🇧English🇬🇧
+A quick reminder of this afternoon’s activities:
+🏋🏼‍♀️There will be some of last Thursday’s activities 
+🌲Everything happens in Pinède
+⏰The paintball starts at 2pm, everyone has had the SG and there are even a few places left so do not hesitate!😎
+🔫A game lasts 8-10 minutes
+👬It is possible to reform small teams
+🥞🍺 There will be a pancake stand, a bar and good music 🎤
+
+Farwestly yours, 
+The LuckyList ⭐️🤠', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist] x [Allôs] 
+
+ Les allôs wrap sont là ! 🌯 
+
+N’hésitez pas à commander sur instagram (@poudlist_bde) et messenger (Poudlist Bde) 📯 
+
+On s’arrête à 14h pour les activités des cowboys 🐄 
+Magiciennement vôtre,
+La Poudlist 🧙‍♀️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Mousse; contenu : [DEFI]x[EMA MOUSSE]
+
+Coucou les listeux 👋
+
+EMA Mousse convie deux sorciers et deux cow boys pour une succulente dégustation de bière 🍻 
+
+🕦 Aujourd’hui à 18h00
+
+📍Local EMA Mousse (Bat O)
+
+À toute à l’heure ! 😘', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Valentin TF; contenu : 👋
+
+Hier soir, j’ai accroché mon pull rouge Stranger List personnalisé à la porte de la régie vitrée de la sdb.
+
+Connaissant la fraîcheur extrême que peut atteindre la sdb lors de son utilisation, je peux comprendre que quelqu’un ai eu un besoin précipité de me l’emprunter.
+
+Si trouvé ou pour me le rendre : me mp ou l’accrocher à la poignée du Y10.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [DEFI BDE N° 11] X [Défi Président]
+
+Lundi matin, vous aurez l’honneur et le devoir de défendre votre liste lors du défi Président.
+
+⭕️ Membres du BR : president et vice-président.
+
+📜 Entre pouvoir et délégation, assurance et résilience, les compétences présidentielles seront soumises à rudes épreuves.
+
+📆 Lundi 22/01
+
+⏰ à partir de 6h, l’ordre de passage sera annoncé en privé.
+
+📌 Salle Papes.
+
+👥 Le Président, accompagné d’un.e Vice-président.e.
+
+ 💬 A noter : « Nous attendrons un petit déjeuner frais, préparé soigneusement le matin même ainsi que votre meilleure bouteille présidentielle »
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : Bonjour, je tiens à préciser que mon défi n''est pas optionnel.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : [Antenne] x [Amaury triste]
+
+J’ai réalisé tout à l’heure avant de rentrer chez moi que mon antenne de voiture avait disparue. Sûrement à la Meuh après la sdb ou peu être aux reveals 
+Pitié c’est pas une baguette magique, rendez la moi 🥲', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : Bonsoir, 
+Voici la line up de ce soir ! 
+Pour votre plus grand plaisir …😏
+Emamix VII', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucky List; contenu : [Résultats SG SDB]x[LuckyList]
+
+Voici les noms de tous les cow-boys qui ont réussi à sg plus vite que leur ombre !🔫
+On annonce les respos VSS dans un prochain post
+
+Farwestement vôtre,
+La LuckyList 🤠🤠', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Ung; contenu : [SDB] x [Quartier] x [ÇAFLINGUE]🔫🔫
+
+GRRRRICK PAAAW🔫🔫⛓️🐺🔥
+
+Ce soir soirée gun, on vient raffaler la SDB de la Lucky List🤠 🔥🔥
+
+Gros showcase avec en exclu QUEEN SARAH😘 qui vient nous faire un show
+
+2 cowboyz devront aussi nous aider à réaliser cette performance 🔥
+
+A ce soir.🔫🐺', 0);

@@ -1,0 +1,216 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Katell Lafferrière; contenu : [Enceinte "perdue"]
+
+Je suis à la recherche d''une enceinte qui s''est volatilisée en SDB dans la nuit de dimanche à lundi. Si quelqu''un l''a "récupérée" je veux bien qu''il me la rende.
+Contactez moi en mp si jamais vous avez des infos 🙏🏼
+
+PS : 
+Vous apprécierez pas que je vous trouve avant 🙃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : TDM - Sur la trace des Mineurs; contenu : [BUREAU DE LA 2ND EDITON DU TDM]
+
+Hello tout le monde ! 🏃‍♀️🏃
+
+Il est maintenant temps pour nous de passer le flambeau 😊 Nous avons donc le plaisir de vous annoncer le bureau en charge de la seconde édition du TDM ! 🤩
+* Présidente 👑 : Élise Mange
+* VP 💼 : Théo Thomas
+* Secrétaire générale 💬 : Vanessa Chambon
+* Trésorier 🤑 : Paul Serra
+* Responsables Sécurité - Signaleurs ⛑️ : Victor Gasnier et Clarie Bidel
+* Responsables Partenariats 🤝 : Lilou Menu et Bastian Crenn
+* Responsable Ravitaillement 😋 : Lucie Warnery
+* Responsables Logistique 🚚 : Romain Demmer et Cristine Corneanu
+* Responsables Parcours 🏃‍♀️🏃: Tangui Le Boité et Ianis Hodeau
+
+Ce fut un plaisir d’organiser cette année ce nouvel événement 🥰,
+
+L’équipe retraitée de la première édition du TDM 🏃‍♀️🏃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : Amphi de mi-mandat BDE', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Textile BDS]X[Billetterie]
+
+Salut à tous 👋 !
+
+Pour bien débuter la semaine vous pouvez dès maintenant commander les textiles BDS de votre choix via cette billetterie 🥳➡️ : https://boutique.lyf.eu/bds/boutiquetextilesbds
+
+Vous avez jusqu’au mercredi 25 janvier ⏰ pour commander ne tardez pas !!
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comuz; contenu : [Afterwork Com''uz]
+
+Pour bien attaquer la semaine toute l''équipe de la Com''uz vous propose son Afterwork ! 🤩
+
+Au menu : 
+- Rakakat, ces délicieuses bricks aux fromages 🧀
+- Une Croziflette avec option végé 
+- Du pain perdu 🍞
+
+Vous pourrez compléter votre menu avec un diabolo pour 0,50€ de plus ! 🥤
+
+On vous attend donc nombreux ce soir à 20h en sdb pour partager ce moment avec nous 🥰
+Musicalement vôtre
+La Com''uz', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [BDA] x [Fresque] 
+
+Boujour à tous 👋,  
+
+Comme vous avez pu l’apprécier depuis une semaine, une fresque arbore les murs de la cage d’escalier du bâtiment B 👨‍🎨. 
+
+En ce début d’année, le BDA a pu concrétiser une de ses promesses de campagne : reprendre le projet « Relook ton école » pour donner un second souffle aux murs de l’école 🖌.
+Pour réunir les EMAyens autour de valeurs communes, nous avons décidé de mettre à l’honneur le Cartel en reprenant le graphisme de l’édition 2023🏆. 
+
+Le BDA s’est chargé de trouver les artistes pour réaliser cette fresque, de négocier avec l’école pour que le projet aboutisse 🥳.
+Nous avons également assuré l’évolution des travaux. Et pour clore ce projet, nous avons pu passer une après-midi à comprendre, apprendre et réaliser une partie de la fresque 👩‍🎨. 
+
+Nous espérons que le résultat vous plait autant qu''à nous 🥰. 
+
+Très belle année à tous 🌟. 
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [SG]X[CCL]
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Léonie Chauvet; contenu : [COLOC VILLAS]
+
+Salut à tous et à toutes ! 
+
+Je libère ma chambre en coloc à 5 min à pied de la meuh.
+
+Lit 2 places
+430€/mois
+Eligible APL
+
+Contactez moi si ça vous intéresse 😊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''Sterchef; contenu : [Meuh d’Argent] x [2ème édition]
+
+Bonjour à tous,
+
+Le bureau EMA’sterchef est heureux de vous annoncer la 2ème édition de la Meuh d’Argent 🎉 après un grand succès l’année dernière
+
+Le restaurant gastronomique éphémère rouvrira ses portes le dimanche 11 février, et servira 30 couverts 🍽️. Des artistes seront présents pour animer votre soirée dans notre restaurant étoilé 🎶
+
+Vous aurez l’occasion de savourer une expérience culinaire unique, où la diversité des saveurs transportera vos papilles dans un voyage sensoriel inoubliable 🚀
+
+Pour mener à bien ce projet, on a besoin de votre aide. Alors si tu 🫵 es intéressé.e et motivé.e, n’hésite pas à contacter Dénia Hernandez-zga ou Lina Chhang pour être ajouté.e à la conv COMI EMA’sterchef 💬 On va y proposer des missions pour préparer le restaurant 🫡
+
+À très bientôt pour la carte de la Meuh d’Argent… 📜
+
+Le bureau EMA’sterchef 🧑‍🍳👩‍🍳', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Eva Quertigniez; contenu : quelqu''un aurait trouvé les clés du Y05??', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : PASSATION BAR 20H30 
+
+‼️ PAS DE TÉLÉPHONE ‼️
+
+✅RAMENEZ ECOCUPS✅
+
+        🔓OPEN BAR 🔓', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : Ce soir à 20h, 🌟 L''AfterWork de la Meuh Folle vous attend ! 🎉 👩‍🍳 
+
+Au menu :
+- Baguettines alléchantes 🥖aux poireaux, béchamel et lardons 🥓 ou mozzarella pour les végé 🌿
+- De frites bien dorées 🍟
+- Un brookie, mi-brownie, mi-cookie, tout gourmand ! 🍪🍫
+
+En boisson, Bière RED pour les assoiffés de houblon 🍺, un diabolo ou alors notre Meuhcktail 🍑 pour les grands fans de la Meuh Folle 🐮! 
+
+🕺 Pour animer votre soirée, notre com Accueil vous propose un Just Dance ! 💃🎵
+
+La Meuh Folle c''est demain et on lâche rien ! 🐮💛🩵🩷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Nouveau bureau du TROPHÉE ORLANDINI 2024]
+
+Nous avons l’honneur de vous présenter le bureau de la 16ème édition du Trophée Orlandini ! Voici une courte présentation du nouveau bureau !
+
+Pour succéder à Bastien, une femme qui saura soulever les barrières comme de la fonte 
+
+🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁
+
+💪💪💪Axelle Pontheaux 💪💪💪
+
+On passe ensuite à la relève de Laura, la talentueuse et créative 
+
+🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁
+
+📞📞📞Cécile Le Liboux📞📞📞
+
+Passons maintenant au successeur de Guillaume, le sérieux et organisé Taureau, 
+
+🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁
+
+📝📝📝Marius Ledemé📝📝📝
+
+Parlons maintenant de celui qui remplacera Alexis/Picsou, un autre Taureau qui entrera dans la légende, le talentueux 
+
+🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁
+
+💸💸💸Guillaume Doze💸💸💸
+
+Pour succéder à la vice-présidente Inès, accueillons chaleureusement celle qui a la rage du cul, le chaton 
+
+🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁
+
+😺😺😺Eva Quertigniez 😺😺😺
+
+Et enfin, pour diriger ce fabuleux bureau et marcher dans les pas de Martin, celui qui aura l’honneur de présider cette 16ème édition du Trophée Orlandini est le superbe
+
+🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁
+
+🎩🎩🎩Jean Sarrazin🎩🎩🎩
+
+C’est avec émotion et confiance que nous leur transmettons ce merveilleux événement, et nous avons hâte de vous retrouver l’année prochaine🤩
+
+Un grand merci à tous ceux qui ont candidaté pour ce somptueux bureau, vous aurez l’occasion de vous investir en tant que bénévole ou respo 💃
+
+Orlandinistiquement 
+
+🤎🤎Le bureau Orlandini 2023, maintenant à la retraite 🤎🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Crous Montpellier] x [Tremplin Musical Étudiant "Pulsations"] x [Sélections régionales]
+
+Bonjour à tous! 👋
+
+T''es un musicien dans l''âme et tu veux tenter ta chance sur une scène régionale ? Inscris-toi ou ton groupe au Tremplin Musical Étudiant "Pulsations" pour tenter de remporter un prix (de 300€ allant jusqu''à 2000€ 😮‍💨) et un accompagnement pour ton futur projet professionnel 🤩.
+
+Pour plus de détails sur les conditions d''inscription : https://facebook.com/events/s/pulsations-tremplin-musical-et/681325217399857/
+⚠️ La date limite d''inscription est le 26 Janvier 2024 !
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : 🏅[CCL 2024] x [INSCRIPTIONS]📝
+
+Bonjour à tous 👋
+
+Les informations concernant le CCL qui aura lieu le 23 Mars sont disponibles !
+
+Cette année nous avons un quota de 75 places, TOUTES PERSONNES confondues ( sportifs, pompims ou caméramans). Les supporters ne sont malheureusement pas acceptés 😢
+
+Les sports seront les suivants : Badminton, Basket, Foot, Hand, Padel, Pétanque, Rugby, Spike, Ultimate, Volley et Waterpolo pour les sports en équipe et Athlétisme, Escalade, Escrime, Judo, Natation, Trail, Ski, Street Workout, Surf, Tennis et Tennis de table pour les sports individuels. 
+
+L’attribution des places se fera au shotgun pour tous les sports et il aura lieu ce vendredi 12 janvier à 13h 🕐 sur la page EMA Promo. Pour les sports collectifs le shotgun devra être fait par un capi. 
+
+‼️Seuls les sportifs possédant une licence FFSU valide pourront participer au tournoi et donc au shotgun ‼️
+
+Également, un logement 🏠 est disponible mais malheureusement pas pour la totalité de la délégation. 
+Les tarifs 💸 pour cette édition de 2024 varieront de 54 à 69 euros !
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Calista Gaddini; contenu : Bonjour à tous!
+Grâce à vous, le nombre de like est monté en flèche, tout comme nos chances de participer au CCL, merci à tous ceux qui y ont participé ! 🚀🙏🏻
+On peut faire encore mieux pour passer à la première place ! 🥇Alors ceux qui n’ont pas encore lâché leur meilleur like, régalez nous !!🤝🫶🏻
+Merci 🤗
+Les cheertah 🎀✨', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Orlandini]x[Elections demain]
+
+On se retrouve demain à 13h pour l’élection du nouveau bureau en Pasteur🥸
+
+🏉Bisous🏉
+
+🤎🤎Le bureau Orlandini🤎🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Présentation des barmans] x [J-1]
+Il a tout perdu… à commencer par ses souvenirs, et plus d’une fois.
+Mais il n’a jamais perdu une occasion pour tenir le bar à la force de ses épaules (et surtout de son foie) tout le long de cette année.
+Recordman de verre bus lors de la passation (97 rendez-vous compte !), président du bar pour cette belle année, il annonçait la couleur dès le début, et il n’a pas déçu.
+Les habitués du bar peuvent en témoigner, soyez sûr que passé 22h (et un certain nombre de cus de barmans encaissés) le président laisse parfois sa place à la com ultra à présent retraitée pour assurer une animation des moins silencieuses, de quoi faire passer une bien belle soirée aux médecins intolérants à des bruits plus forts que 3 décibels qui ont le malheur de résider un étage au-dessus.
+Barman un jour, barman toujours', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1328607064462766/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Présentation des barmans] x [Passation J-2]  
+
+« 6 000 € de dettes ? Rien à foutre un trou pareil je le rebouche tout seul » aurait-il déclaré en début de mandat.  Mesdames et messieurs, Greg, notre trésorier, était sans aucun doute l’homme de la situation pour relever un tel défi. Garant de l’ardoise des barmans, il n’a pas hésité à mettre des coups de pression (on parle de bière là) sur les malheureux qui pensaient s’échapper sans payer et à garantir un autofinancement efficace (le plus efficace de la Meuh pour ainsi dire), il peut quitter Alès la satisfaction du devoir accompli.  
+
+Barman un jour, barman toujours', 0);

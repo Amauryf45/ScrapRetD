@@ -1,0 +1,130 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [GBA] x [Inscription] x [Défis] 
+
+Salut à tous 👋
+
+Allez checker la page insta @grandbol_dart où vous pouvez retrouver tous les défis et d’autres infos encore notamment le planning du week-end et les menus des Afterworks 😋
+
+Pour vous inscrire aux défis, le SG sera publié dans les stories FB et Insta du BDA jeudi à 15h ⏰
+
+Pour ceux qui veulent pimper leur photo de profil FB voici le lien du filtre Canva à mettre sur votre photo actuelle 🥰 : 
+
+https://urlz.fr/nMcn
+
+Liens 🌟:
+
+Page FB BDA : https://www.facebook.com/BDAMinesAles
+
+Page Insta BDA : https://urlz.fr/nMcb
+
+Page insta GBA : https://urlz.fr/nMc0
+
+The Magazine : https://urlz.fr/nMbV
+
+Artistiquement vôtre, 
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Noah Perry; contenu : https://forms.gle/yBRLtR9Xhzja4kg87
+
+SG Sdb Coqs', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Soirée bowling]x[Partenariat]
+
+Salut à tous,
+Mardi 3 octobre le bds vous propose une soirée bowling !🎳
+
+Il sera possible d’y venir entre 19h et 23h45 🕐
+🎟️ Grâce à ce partenariat, vous pourrez bénéficier ce jour là de 2 parties pour seulement 10€ ! 
+⚠️ Pour bénéficier de cette réduction il vous faut absolument votre carte étudiante de l’école et faire au minimum 2 parties !!⚠️
+
+On vous attend nombreux !
+🎳 Sportivement votre 🎳', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [SDB]X[Coqs]
+
+Salut 👋 
+
+Ton équipe de sport masculine préférée t’attend en SDB ce jeudi 🪩
+
+‼️Le SG aura lieu le mercredi 27 septembre à 13h30 sur EMA promo ‼️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Trophée Orlandini]x[Soirée jaune]
+
+N’oubliez pas la soirée à ne pas manquer : la soirée jaune demain soir 💃 ! Vous êtes invités à 19h au Café Pablo dans le centre ville d’Alès pour une super soirée ! Les ricard  seront à 2€, et il y aura pleins de jeux, et des goodies à gagner !
+
+Voici l’adresse : 7 Place Henri Barbusse
+30100 Alès
+France
+
+⚠️PAIEMENT EN ESPÈCES ⚠️
+
+On vous attend nombreux !!!!
+
+🤎Le bureau Orlandini 🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Srey Nick Keo; contenu : Écouteurs Samsung trouvés au WEI je sais plus où', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Partenariat] X [Haribo]
+
+Ce week-end, nous avons reçu des cartons de bonbons de la part d’Haribo qui nous régale. 😍
+Les sachets seront mis en libre disposition au Cowork et aux AfterWorks comme vous avez déjà peut-être pu le constater. N’hésitez pas à venir vous servir. 😋
+On compte sur vous pour prendre un paquet par personne afin que chaque Emayen.ne puisse en profiter ! 🍬
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [WEI] x [Remboursement] ❤️‍🔥
+
+Bonsoir à tous 👋,
+
+Pour les personnes qui avaient payé leur WEI mais qui ont perdu leur place, vous pouvez contacter Tom Herrou dès maintenant pour vous faire rembourser. Envoyez-lui votre RIB et une preuve de paiement de votre place de WEI.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Miniconi; contenu : Quel département à part ISERM  part à la frontière espagnole en visite de carrière et se régale comme ça rappelez moi ?', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Anne Le Quellec; contenu : [Rock&Salsa] x [Soirée dansante]
+
+À l''occasion du GBA qui a lieu ce week-end, Rock&Salsa organise sa première soirée dansante de l''année ! 💃 
+
+Vous pourrez y danser le rock et la salsa, sur des musiques des années 80 🎶, et nous serons là pour vous apprendre de nouveaux pas !
+
+Elle est ouverte à toutes et à tous, que vous ayez payé le GBA ou non 💰, et que vous sachiez danser ou que vous n''y connaissiez rien 😉
+
+Le but est de passer un moment convivial  et de vous faire découvrir notre asso, alors n''hésitez pas à passer ! ✨
+
+🕒 Vendredi soir à partir de 19h
+📍 Parking du bat S
+
+On vous attend nombreux.ses pour ouvrir la 6ème édition du GBA 🎨', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Bar] x [Enervé] 
+
+Bonjour, 
+
+Je tiens à rappeler aux emayens que je suis gérer par des vaillantes personnes. Si vous souhaitez me solliciter commencez par leur demander c’est la moindre des choses. 
+
+Apprendre que je dois ouvrir sans que mes barpersonnes préférées ne le sachent, est un peu exagéré. C’est pourtant simple de les contacter non, vous les connaissez sûrement n’est ce pas ? Si non, venez au bar les découvrir, ils portent un teddys noir en plus plutôt simple pour les reconnaître. 
+
+Surtout qu’il y a des démarches à faire pour que j’ouvre, donc s’il vous plaît, contactez les barpersonnes avant d’annoncer un événement se déroulant au bar.
+
+Le bar et ses barpersonnes 🍻', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Bonjour à tous 👋
+
+Ce dimanche 1er octobre on te propose un tournoi de spike ball à 14h 🕑 en pinède 🌲. Si tu es intéressé tu peux t’inscrire par équipe de 2 👯‍♂️ via ce forms ➡️ :  https://docs.google.com/forms/d/e/1FAIpQLSczMmLhPmPV3lvvSt7q5G5IURnC1l94hHsEmonBtd3r1lWK2Q/viewform
+
+Tu as jusqu’au vendredi 29 septembre 18h 🕕 pour t’inscrire !! Dépêchez vous de vous inscrire il n’y aura peut-être pas assez de places pour tout le monde ‼️
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Thomas Mrn; contenu : Bar ouvert demain 19h', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : An''Emal; contenu : [AN''EMAL] 🥳 [AFTERWORK] 📋 [INSCRIPTIONS OUVERTES]
+
+Bonjour à tous,
+
+Nous sommes heureux de vous annoncer que les inscriptions pour notre afterwork de mardi sont désormais ouvertes. 🎉
+
+Pour vous inscrire, veuillez simplement cliquer sur le lien suivant : https://forms.gle/3rTwu5k5qhhBfa7J6
+
+Ronron et Calinou 🐾', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Bobine; contenu : [EMA Bobine] x [Afterwork]
+
+Tu rentres du WEI, ton frigo est vide ou tu as la flemme? Passe à l’AW Ema bobine pour te régaler😋
+
+Lundi dès 20h, nous t’accueillons en SDB🧵
+
+Bobinement vôtre 🧶
+EMA Bobine', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Anthony Durand; contenu : Quelqu’un a oublié sa porte de frigo chez nous 
+24B', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Sami Snacel; contenu : Notre ami Greg Blanc a perdu sa chaussure (PRÉFÉRÉE) dans les alentours (elle n''est pas à côté de sa jumelle). Tout indice pourrait être utile (⚠️ c''est la symétrique de celle sur la figure ci-jointe)
+Merci d''avance et bonne journée', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emerick Biron; contenu : Bonsoir
+C''est vachement marrant de jeter des oeufs partout mais la prochaine fois faites ça chez-vous', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Charlotte Houzé; contenu : Téléphones trouvés contactez Samia Bentaleb pour les récupérer', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Léa Mendes; contenu : iPhone 11 violet svp perdu retrouvez le en sdb ☹️ contactez Chinaze Rhb', 0);

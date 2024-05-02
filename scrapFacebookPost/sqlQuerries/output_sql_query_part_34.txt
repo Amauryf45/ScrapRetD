@@ -1,0 +1,234 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Pregala] x[Suprise]
+
+Un anniversaire, ça se fête ! Afin de profiter au maximum du mien, tous mes invités pourront festoyer jusqu''à 4 heures du matin. 🥳', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : [UBER EMA]x[Gala] 
+
+T’as pas sg les navettes ? T’habites en centre ville ? T’es à la Meuh mais t’as pas envie d''attendre une navette dans le froid ??🥶 
+Pas d''inquiétude⚡️UBER EMA⚡️reprend du service cette année ! 
+
+📱0651634284 ou direct sur messenger !
+
+Même principe que l’année dernière, pour ceux qui connaissent pas :
+
+Des trajets toute la nuit à partir 18h, du bat N ou du parc expo. On s''arrange pour les itinéraires spécifiques 🛶🎭
+
+12€ le trajet que vous soyez tout seul ou à quatre 😎 
+🆕 Nouveau véhicule = jusqu’à 2 places en plus dans le coffre ➡️ 15€ le trajet
+
+Tout se fait au SG, tu m’appelles et j’arrive dès que je suis dispo⚡️
+Vous pouvez éventuellement réserver une horaire à condition de payer la moitié à l''avance 💸
+
+🍺Kro offerte aux passagers pour le trajet aller🍺
+(Dans la mesure du stock disponible)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Le BDA est le père Noël] x [Calend’Art] 
+
+Bonsoir à tous 👋
+
+C’est très bientôt l’heure du Calend’Art, le calendrier de l’Avent du BDA 🎅🎄
+
+Chaque jour du mois de décembre jusqu’au 24, deux cotisant.e.s BDA seront tiré.e.s au sort pour recevoir un cadeau ! Si le premier cadeau est généralement très prisé 🎁 le deuxième est disons… plus original. 👀
+
+⚠️Le Calend’Art est réservé aux cotisant.e.s BDA ! 
+
+Si vous ne l’avez pas encore fait, c’est toujours possible pour vous de cotiser BDA 😉 
+Il suffit de contacter Léa Goarin ou Quentin Gobilliard sur Messenger 🤗
+
+Nous annoncerons tous les jours les gagnant.e.s en story Instagram ainsi que sur la page Facebook du BDA. N’hésitez pas à nous suivre 👀
+
+☃️ Les cadeaux pourront être livrés le soir même ! Une permanence sera également effectuée au Noël du Cercle ainsi qu’à la rentrée pour récupérer vos cadeaux !
+
+Liens : 
+Instagram : https://instagram.com/bda_imt_ales?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr
+Facebook : https://www.facebook.com/BDAMinesAles
+
+Calend''artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Magiciens; contenu : [MAGICIENS]X[L''ASSO DU SALE]X[SOIREE STUDIO]
+
+Salut jeune rappeur de l''EMA
+Jeudi soir à partir de 23 h on ouvre le studio pour plier des classiques à la chaine 🔥🧙‍♂️
+Si t''est intéressé pour venir kicker saaale ou simplement venir te poser envoi un message sur messenger à Dalil Zeamari 👀👀
+Magicalement vôtre 
+
+Les magiciens BAAAW 🔥🧙‍♂️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1307550493235090/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Tsiky Zanaka; contenu : [TsikyZanaka]x[Gala]
+
+Coucou ! 
+
+⚠️⚠️ On a besoin de portants pour gérer les vestiaires du Gala ⚠️⚠️
+
+Si vous en avez et que vous êtes chauds pour nous en prêter (juste le temps du Gala) dites moi en privé (Coline Padiolleau sur Messenger). On s’organisera pour le récupérer avant vendredi 📆! On vous filera un chèque de caution si ça peut vous rassurer.
+
+Merci d’avance !! 
+Tsiky Zanaka 🌍
+
+PS : c’est ça un portant', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Rappel] X [Alcool en SDB]
+Bonjour à tous et à toutes,
+
+Nous tenions, à ce jour, à vous rappeler une règle primordiale pour l’organisation de vos évènements. 
+⚠️VOUS NE POUVEZ PAS UTILISER DE L’ALCOOL A PLUS DE 18 DEGRES (même  dilué dans des cocktails de degré inférieur) !
+
+Ceci n’est pas une contrainte imposée volontairement par le BDE ! Ça s’explique par le fait que nous ne possédons que un droit associatif équivalent à la licence III qui correspond à : boissons fermentées non distillées (vin, bière, cidre, poiré, hydromel) et vins doux naturels, crème de cassis, jus de fruits ou de légumes comportant jusqu''à 3° d''alcool, vin de liqueurs, apéritif à base de vin, porto, liqueurs de fraises, framboises, cassis ou cerises avec un taux inférieur ou égal à 18° d''alcool. Nous rappelons aussi que en cas de contrôle par la police, la vente de boisson ne faisant pas partie de la liste des groupes 3 est passible de lourdes sanctions.🚨
+
+Sachez que nous avons déjà réfléchi à investir dans la licence IV. Cependant, cela correspond à une trop grosse somme d’argent et cela aurait un impact sur les subventions que nous pourrions accorder aux associations. 💸
+
+De plus, vous savez tous que même si les tensions se sont apaisées ces derniers temps, la police garde un œil sur nous et n’hésiterait pas à venir, même sous aucun prétexte. Sachez également que des comas éthyliques ont eu lieu récemment ce qui en plus de mettre en danger les emayens, aggrave la situation auprès de la police, et pourrait mettre en péril l’ensemble de vos évènements.
+
+Enfin, si des débordements ont lieu et que MAA est au courant de notre délit, nous ne pourrons pas vous assurer le maintien de la vie associative émayenne. Nous savons que notre vie emayenne est chère à vos yeux. Alors aidez-nous à la préserver comme il se doit.🙏
+ 
+A ce jour, nous faisions rembourser aux associations l’ensemble des alcools forts achetés. Or nous avons constaté que cette sanction financière ne suffit pas à dissuader. Donc, à l’avenir, nous nous réservons le droit d’annuler un ou plusieurs de vos évènements. 
+
+Nous vous remercions pour votre compréhension,
+
+Le cercle des élèves ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Quentin Régnier; contenu : T’as de beaux yeux tsais 😏
+À venir récupérer en W28, je sais plus quand je les ai trouvée 🫠', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Téo Garcias; contenu : [Alès audace] x [ il faut faire gagner Pablo ]
+
+Je vous partage un message de la part d''un camarade tout juste diplômé de notre école. 
+
+Tu veux tester la Tiny House ?
+Je te propose de tenter de gagner un nuit dans ma tiny.
+ 
+Pour participer c''est simple, laisse un like sur cette vidéo et je tirerais au sort le 4 décembre
+https://youtu.be/obKM9_71w_8
+ 
+PS : si ton pseudo yt n''a rien à voir avec toi met ton nom en commentaire pour que je puisse te retrouver 😊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : Pour celles et ceux qui ont eu le SG, une permanence sera tenue en P10 de 17h à 20h.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : Le SG n''aura duré que 5 secondes. Voici les résultats.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''Sterchef; contenu : [Charte de location] x [EMA’sterchef]
+
+Salut à tous, 
+En accord avec le BDE, nous avons décidé de revoir la charte de location du matériel EMA’sterchef.👨‍🌾
+Vous pouvez retrouver les nouveaux tarifs adaptés aux types d’utilisation (association ou particulier)🤑
+
+Une fiche d’utilisation de la poêle à paella est en cours d’écriture, elle sera fournie aux personnes la nécessitant.✍️
+
+☎️ Afin d’utiliser le matériel merci de contacter une personne du bureau:
+
+Claire Trstenjak
+Côme Tourmouche
+Lina Chhang
+Samia Bentaleb
+Pauline Rougeot
+Erwann Battarel
+Lola Forgeois
+Dénia Hernandez-Zga
+
+Culinairemnt vôtre👨‍🍳
+Le bureau EMA’sterchef', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : 🎥[EmaVisual]x[Services Audiovisuels pour les Campagnes] 🎬
+
+Salut les listeux 🚀
+
+À l''approche des campagnes, nous sommes ravis de vous annoncer que nous 
+proposons des services de tournage et de montage vidéo pour vos vidéos 
+de liste … et pas que … 🎉
+
+Tournage & Montage Vidéo 🎬 
+Nous nous occupons de tourner et monter votre vidéo avec nos appareils professionnels et notre expérience dans le milieu de l’audiovisuel. 
+Le prix dépendra de la complexité du projet, et reste avantageux par rapport à la conccurence alors n''hésitez pas à nous contacter pour discuter de vos besoins et obtenir un devis personnalisé 😉
+
+Si vous êtes intéressés, envoyez-nous un message privé avec quelques 
+détails sur votre projet, et nous vous répondrons rapidement.
+
+⚠️ Nous ne pourrons fournir ce service qu''à une seule liste. Les premiers arrivés seront donc les premiers servis.
+
+Photographie 📸
+En plus des vidéos, nous proposons des séances de photos pour vos campagnes. 
+Vous avez même la possibilité d''opter pour un fond vert pour plus de liberté sur le cadre de la photo. 
+Pour connaître nos tarifs, contactez-nous et nous trouverons la formule qui vous convient le mieux 😁
+
+Pendant les Campagnes 🎉 
+En bonus, nous vous proposons de photographier vos activités, votre SDB, votre AW et également d’immortaliser vos révélations pour que vous gardiez un excellent souvenir de cette expérience inoubliable ! 🌟
+
+💸Concernant les tarifs, nous proposons : 
+- 30€ les révélations
+- 40€ les activités 
+- 40€ l’afterwork 
+- 40€ la soirée 
+
+N''hésitez pas à nous solliciter pour discuter de vos idées et obtenir plus 
+d''informations ! 🚀 
+
+Visuellement vôtre 📸', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : Hop hop hop 
+
+[https://forms.gle/voBem8zoqheADheH6](https://forms.gle/voBem8zoqheADheH6)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Rémi Vambacas; contenu : [Bachata] x [West Coast Swing]
+
+Bonjour à tous, 
+En ces périodes de mission 2A, EMA Rock & Salsa propose deux nouvelles danses jusqu''aux vacances de Noël : Bachata et West Coast Swing ! 🔥🕺💃
+
+Les cours auront lieu au gymnase de l''école, les mercredi entre 12h30 et 13h30 pour la bachata et les jeudi entre 13h30 et 14h30 pour le West Coast Swing. Tous les danseurs sont les bienvenus ! 👋
+
+NB : Premier cours de West Coast ce jeudi (30/11/23) // Premier cours de Bachata mercredi 06/12/23 👀👀', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Sainte-Barbe] X [Evènement]
+
+Bonjour à tous et à toutes,
+
+Comme vous avez pu le voir dans de nombreux mails (Eh oui nous allons en rajouter une petite couche), le LUNDI 4 DECEMBRE aura lieu LA SAINTE BARBE. 
+La sainte Barbe est l’évènement traditionnel des mineurs. Cette année, l’école souhaite le remettre au goût du jour en nous proposant un défilé, une retraite aux flambeaux et pour finir de nombreuses prestations au cratère comme les pom pim ou encore l’orchestre.
+Sur place, une petite collation vous sera proposée avec vin et chocolat chaud ainsi que du pain d’épice. ☕️
+
+C’est un évènement important qui retrace notre histoire ! C’est le moment de se montrer unis et de faire perdurer les traditions. Nous aurons l’occasion de chanter nos chants traditionnels et de montrer notre union !!🎶
+
+Alors n’hésitez plus et venez représenter fièrement notre école !🎉
+
+Pour vous inscrire au défilé:
+https://framaforms.org/defile-sainte-barbe-le-lundi-4-decembre-1700812331
+
+Pour vous inscrire au concert de l''OMA, le show des Cheertah et la prestation de Cabar''EMA:
+https://billetto.fr/e/concert-ste-barbe-billets-898591
+
+Nous comptons sur votre présence !!⭕', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Bastien Vezinet; contenu : Clés trouvées à Croupillac', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [L’AW wes]
+
+Salut rider !
+
+Mardi 28 novembre à partir de 20h en SdB c’est L''afterwork du WES 🥳
+
+Préparez vous à une descente gustative à couper le souffle.
+
+Au menu : une ascension montagnarde en raqu(l)ette et pour finir une avalanche chocolatée 😋
+
+En supplément vous pourrez prendre une boisson 0.5€ (chocolat chaud ou spritz) ou pour 1€ un steak ou une galette de pommes de terre
+
+N’oubliez pas votre matériel (assiette, couverts, ecocup, ski, …)
+
+Venez aussi récupérer ou acheter nos goodies 😎
+
+Vous pouvez réserver ici : [https://forms.gle/uV5wuBUZuBfmR9HD8](https://forms.gle/uV5wuBUZuBfmR9HD8) (ce n’est pas obligatoire)
+
+Le WES caresse vos papilles ❄️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Sortie Cinéplanet] x [Napoléon] 
+
+Bonjour à tous 👋 
+
+Suite au résultat du sondage sur notre story insta, le BDA, en collaboration avec Cin''EMA, vous propose d''aller voir le film "Napoléon" ! 🍿 
+Ce film retrace la vie du premier empereur des français, de son ascension à sa chute à travers le point de vue du réalisateur Ridley Scott.
+
+📅: Jeudi 30 novembre à 21h en VOSTFR
+📍: Cinéplanet Alès 
+⏳: 2h38
+💵 : 4€ cotisants BDA, 6€ non cotisants BDA
+🎟️: https://boutique.lyf.eu/bda/cinema-napoleon 
+⚠️Fermeture de la billetterie le jeudi 30 à 12h⚠️ 
+
+Pour plus de détails sur le film 👇 :
+https://cineplanet.fr/films/287126-napoleon/
+
+Nous vous préparerons une conversation afin que vous puissiez vous organiser pour des covoiturages 🚗 
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [Paiement] 
+
+Bonne nouvelle ridersss ! 🏂
+
+Le tour op nous laisse plusieurs jours de plus pour payer. Ainsi, vous avez jusqu’au vendredi 7 décembre inclus pour payer votre wes. 🤩
+
+Le wes vous caresse 🐻', 0);

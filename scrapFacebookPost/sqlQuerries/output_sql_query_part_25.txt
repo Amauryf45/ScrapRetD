@@ -1,0 +1,249 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucky List; contenu : [SG danse country] 
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Campagnes BDE] x [Défi BDA] 
+
+Chères listeuses, chers listeux,
+
+Le BDA vous propose un défi sur le thème de son prochain événement - le Please Stand Up ! 
+On espère que vous serez créatifs et drôles, surprenez-nous ! 😉
+
+Artistiquement vôtre, 
+Le BDA 💖🎨', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucky List; contenu : [Danse country]x[LuckyList]
+
+English below 🇬🇧⬇️
+
+Rebonjour les cowboys, rendez-vous à 21h30 ce soir sur EMA promo pour le SG du cours de danse country, donné samedi matin au cowork en salle créa 2 (ou dehors si le temps le permet) de 10h à 11h30 par notre Com Event Élisa, cowboy confirmée sur le dancefloor 🕺🏼
+⭐️ Niveau : débutant à intermédiaire 
+⭐️ Nombre de places : 10
+⭐️ Objectif : apprendre une choré iconique 🤌🏼
+
+Farwestement vôtre, 
+La Lucky List 🫶🏼🤠
+
+🇬🇧English🇬🇧
+Meet again at 9:30 pm tonight on EMA promo for the SG of the country dance class, given Saturday morning at the coworking place in creativity room (or outside, depends on the weather) from 10am to 11:30 am by our Com Event Élisa, confirmed cowboy on the dancefloor 🕺🏼
+⭐️ Level: beginner to intermediate 
+⭐️ Number of seats: 10
+⭐️ Goal: learn an iconic dance 🤌🏼
+
+Farwestly yours,
+The Lucky List 🫶🏼🤠', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucky List; contenu : [SG SDB]x[LuckyList]
+
+English below 🇬🇧⬇️
+Salut les cowboys, rendez-vous à 13h demain (samedi) sur EMA promo pour le SG de la SDB Rodéo de samedi 🐂🤠
+
+Farwestement vôtre, 
+La Lucky List 🫶🏼🤠
+
+🇬🇧English🇬🇧
+What’s up cowboy, check EMA promo at 1 pm tomorrow (saturday) to complete the shotgun (SG) for Saturday’s rodeo-themed party 🐂🤠
+
+Farwestly yours,
+The Lucky List 🫶🏼🤠', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alexis Senzier; contenu : Oué la team, on devai fair les fotos de prophil mai on et trop daifoncé. Du coup on fai un live twitch : 
+https://www.twitch.tv/xeterny
+
+Vené kiffer et discuté', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [DÉFI BDE N° 7 ] X [À taaaaaable] X [Com Internationaux] 
+
+C’est le moment d’inclure les étudiants internationaux dans vos campagnes ! 🗺️
+
+Voici les infos :
+
+⭕️ Com Intenationaux
+
+📜 Venez rencontrer des étudiants internationaux et échanger avec eux autour d’un moment convivial 😊
+�📆 Dimanche 21/01
+
+⏰ 15h-17h
+
+📌 SDB
+
+👥 Tous les listeux com internationaux
+
+🎒 Amenez de quoi faire un petit goûter avec les étudiants, avec par exemple quelques spécialités françaises ! (Pensez aux produits halal, il existe des applications pour vérifier 😉) 🥖🍫🧃
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [DÉFI BDE N° 6 ] X [ Marchandage en milieu hostile] X [ Défi Com Partenariats] 
+
+💶 Montrez-nous vos talents en négociation ! 💶
+
+Voici les infos :
+
+⭕️ Com Partenariats
+
+📜 L’argent fera vraiment votre bonheur
+
+📆 Samedi 20
+
+⏰ 14h-15h30
+
+📌 En ville
+
+👥 La com partenariats de chaque liste
+
+🎒 Votre costume de liste
+
+PS : La com partenariats adore qu’on la surprenne… 🥞
+       
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist] x [Cérémonie du choixpeau]
+
+Bonjour à tous et à toutes 😊
+
+Le temps est venu pour la Poudlist de se présenter à l’ensemble de Poudlard 🏰
+
+Pour se faire, la traditionnelle cérémonie du choixpeau aura lieu 
+à 18h30 en amphithéâtre Pasteur. 
+
+On compte sur votre présence ! 
+
+Magiciennement vôtre, 
+La Poudlist 🧙‍♂️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Campagnes]x[Défi Entr’EMA x Ema’serchef]
+
+Salut les listeux !
+
+Nous vous convoquons pour un défi à la hauteur de nos valeurs! Venez cuisiner un met de qualité en sdb avec vos ingrédients d’allos qui vous restent, afin d’éviter le gaspillage ! Ce repas être le plus complet tout en utilisant des ingrédients les moins chers au kilo 💸
+
+Le bureau d’Ema’sterchef sera aussi présent et jugera vos qualités (ou pas) de chef cuistot 👩‍🍳
+
+Parce qu’un bon cuisinier s’y prend tôt, rendez-vous demain à 9h en sdb afin d’émerveiller nos papilles ✨', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Radio Ding-Dong; contenu : [Radio Ding Dong] x [Défi]
+
+Coucouuuu les listeux ☺️ 
+
+Radio ding dong attend 2 personnes de chaque liste demain à 13h au studio (contacter Charlotte Houzé si vous n’arrivez pas à entrer) pour son défi ! 
+
+Au programme, petits quizs et jeux ! 
+
+À demain ! 
+Ding Donguement vôtre 🎙.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''rie Antoinette; contenu : Du Pain !! :
+
+"Que demande le peuple ? Du pain ? S''il n''ont pas de pain, qu''ils mangent de la brioche !" a dit Marie Antoinette, en 1789.🇫🇷
+
+Chers listeux, 
+devant la pénurie de pain qui frappe notre France en cette période de révolution, nous faisons appel à vous pour trouver une solution. 
+
+Montrez nous quelle liste a le plus de talent en cuisine ! Nous donnons rendez-vous à vos 2 meilleurs cuisiniers demain à 7h en salle créa pour prendre le petit déjeuner en notre compagnie, que nous vous préparerons chaleureusement.❤️ 
+Chaque liste aura jusqu''au lendemain midi pour faire son meilleur pain maison et nous le livrer. Nous élirons le meilleur pain ! Attention, il faut qu''il y en ait pour tous les membres de la liste, et nous sommes affamés 😈.
+
+Nous fournissons la levure, prenez votre farine et vos fouets, vous bénéficierez de l''aide de paysans pour faire la pâte le matin ! 
+
+Révolutionnairement vôtre 
+EMA''rie Antoinette', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emilien Goujon; contenu : Bonjour 
+Une mère à Alès cherche un étudiant pour assurer de l’aide aux devoirs pour ses enfants (primaire, collège et lycée). Quelqu’un de véhiculé est préférable car c’est galère d’y aller en vélo.
+C’est facile et bien payé.
+Je vous laisse son numéro : +33 6 25 77 05 89
+Bien à vous', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Mtz; contenu : [CAMPAGNES] x [DEFI INFRES] 
+
+coucou les listeux 👋  
+
+La meilleure filière alternante vous convoque pour un défi des plus cableux ! 
+
+On a besoin d''1 INFRES par liste ! 
+(les joueurs de lol non infres sont aussi acceptés uniquement si vous n''avez pas d''INFRES, on vérifie 👀) 
+
+RDV : en Y1, vendredi soir à 23h
+
+⚠️ Dans votre sac à dos d''infres studieux, vous aurez besoin de  :
+* 1 PC par personne 💻
+* 1 tel chargé par personne 📱
+* 1 ecocup 🥤
+* un bonus sera attribué a celui qui ramène de la bouffe d''allo 🌮
+* un bonus plus conséquent à celui qui ramène à boire 🍻
+
+Douchement votre, les INFRES XV 🚿', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jun Jojow; contenu : Bonjour,
+Hier en sdb j''ai perdu mon sweat noir 😬, si quelqu''un l''a contact moi en mp ! Merci', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [DÉFI BDE N° 5 ] X [ Défi Com VSS] 
+
+Venez nous montrer que vous n’êtes pas à ce poste par hasard et que vous connaissez votre domaine !
+
+Voici les infos :
+
+⭕️ Com VSS
+
+📜 Défi VSS 
+Affrontez l’autre liste sur un quiz qui teste vos connaissances sur les VSS
+Moment d’échange entre nous 
+
+📆 Samedi 20 janvier 
+
+⏰ 18h-19h
+
+📌 Cowork
+
+👥 Tous les Com VSS, votre VP référent et votre prez 
+
+🎒 Amenez au moins une tablette par liste 
+
+PS : vos respos VSS sont gourmands 😋 
+       
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [DÉFI BDE N° 4 ] X [ Internal Server Error ] X [ Défi Com Informatique ] 
+
+Avez-vous essayé de l''éteindre et de le rallumer ?
+
+Voici les infos :
+
+⭕️ Com informatique 
+
+📜 Venez tester vos capacités contre le CDP
+
+📆 Samedi 20
+
+⏰ 16h - 19h
+
+📌 On vous le communiquera
+
+👥 Le Com informatique des listes BDE
+
+🎒 Un ordinateur portable par liste (si possible)
+       
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist]X[Allos petit déj]
+
+Bonjour à tous !
+
+Pour les plus courageux d’entre vous on commence nos allôs pour le petit déjeuner on attend vos commandes jusqu’à 7:30 ! Passé ce délai il faudrait passer au Gautier drive. 
+
+Pour qu’Hedwige arrive à destination passez vos commandes soit sur Instagram :  @poudlist_bde
+Soit sur messenger :
+Poudlist Bde
+
+Magiciennement votre, la Poudlist 🧙‍♂️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emerick Biron; contenu : Bonjour j''ai perdu ma cigarette électronique en sdb svp aidez moi', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : VertMines; contenu : [DEFI VERTMINES]X[RESULTATS]
+Après une lutte féroce entre la Poudlist Bde   et la Lucky List incluant lait, farine et coup de douze,  une seule liste s''est montrée digne de gérer cette grande ferme qu''est la meuh.🚜
+C''est la Poudlist qui remporte ce défi ! Félicitations ! 👏
+On souhaite du courage aux deux listes pour le reste des campagnes !
+Vertminement vôtre 🌱', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMAthéniens; contenu : [DÉFI EMATHÉNIENS] X [LES SOMMETS DE L’OLYMPE]
+
+Approchez sorciers et cowboys !
+Les dieux grecs, comme à leur habitude, festoient et vous invitent au sommet de l’Olympe pour goûter l’ambroisie.🥂
+Mais attention, l’Olympe n’aime que ceux qui peuvent embraser le Tartare. 🔥
+Préparez votre meilleur happening de soirée et médusez les dieux de vos talents ! 😱  Étonnez aussi leurs papilles avec votre boisson fétiche🍹
+Une des listes repartira-t-elle avec les lauriers d’or ?👑
+Pour le savoir, soyez à l’heure au rendez-vous !
+
+📆 Vendredi 19
+
+⏰ 22h pour la Lucky list
+      22h30 pour la Poudlist
+
+📌 MDC
+
+👥 le président  + 2 personnes par liste
+
+🎒 un happening et votre cocktail de liste
+
+Diviniment vôtre,
+Les EMAthéniens ⚡️', 0);

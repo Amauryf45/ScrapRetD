@@ -1,0 +1,269 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Sensibilisation écologique]X[Podcast]
+Bonjour à tous,
+
+Comme évoqué dans un des comptes-rendus de CA du mois dernier, les com vert du BDE ont pris l’initiative de trouver un moyen de sensibiliser les EMAyens sur l’environnement.🌱 Après plusieurs présentations sur ce sujet lors de nos CA, nous avons décidé ,en partenariat avec Radio Ding Dong, de les mettre à disposition de tous sous forme de podcast.🎙️
+
+Le premier épisode a pour thème: La votation sur la tarification des SUV à Paris.
+Le 4 février dernier, la mairie de Paris a organisé une votation qui a entraîné l''augmentation du prix de stationnement des SUV en ville. Cette votation a suscité beaucoup de débats par rapport à sa pertinence et à son faible taux de participation. C’est ce sujet qu’on décryptés pour vous Kewin et Guillaume dans ce podcast.
+Vous pouvez l’écouter grâce au lien suivant:
+https://drive.google.com/file/d/1oZ5UT7rFccE_GqUzAGMjVIGFlTZq8o13/view?usp=sharing
+
+Pour compléter cet épisode, nous vous proposons de participer à une émission en live ce mercredi à 20h30 sur la chaine Twitch de Radio Ding Dong. Les thèmes abordés tourne autour de l’écologie en général mais plus particulièrement un retour sur le sujet du podcast, la COP28, la décroissance et les crédits carbones.
+
+Si ce format vous plait n’hésitez pas à faire un retour aux Com Vert. Nous sommes ouverts à toutes remarques pour continuer et améliorer ce format. 
+
+Circulairement vôtre⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [ Collège de la vie étudiante et du campus ]
+
+Bonjour à tous, 👋
+
+Ce jeudi 7, à 14h, se tiendra le Collège de la vie étudiante et du campus. Pour rappel, ce collège a pour but de discuter et réfléchir ensemble sur des sujets importants concernant la vie étudiante avec les principales parties prenantes : associations étudiantes, école, personnel, MAA etc (les sujets peuvent être divers et variés). 
+
+L’ordre du jour suivant nous a été transmis :
+-les nouveaux élus sont invités à présenter leurs promesses
+-Point sur la formation VSS donnée fin août aux étudiants investis dans les différents bureaux ( BDE, Meuh Folle, BDS, BDA etc…)
+-Présentation du projet de Tsiky Zanaka
+-Point amical du personnel
+-Bilan des sujets abordés en décembre 
+
+💡 Nous souhaiterions aborder 2 sujets supplémentaires:
+- intégration des étudiants internationaux, des étudiants en double-diplôme.
+- Valorisation de l’engagement étudiant. 
+
+N’hésitez pas à nous proposer, dans le forms qui suit, vos remarques et réflexions sur les sujets inscrits à l’ordre du jour mais aussi sur ceux que nous proposons. Vous pouvez aussi proposer un nouveau point que vous trouvez pertinent. ✒️
+Enfin, vous pouvez aussi renseigner si vous souhaitez participer à ce collège❗️😊
+
+https://docs.google.com/forms/d/e/1FAIpQLScAwpk8wS6HYVTgNb6aEgNvf1-rpmTlNxJIBAoL_Wmy8ieH4w/viewform?usp=sf_link
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : VertMines; contenu : [VertMines] x [Diapo]
+
+Bonjour !
+
+Voici le diaporama qui vous a été présenté en amphi aujourd''hui.  
+
+Lien pour devenir bénévole : https://forms.gle/Mn1xtfv5mqRDpttF6
+
+Lien pour participer à la scène ouverte : https://forms.gle/2oiFhckRxgLaxSnk6
+
+Vertminement vôtre 🌱', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ines Audinot; contenu : [Cartel]X[Sélection]
+
+Salut à tous 👋 ! 
+
+Le Cartel approche à grands pas et il est temps de sélectionner les joueurs qui représenteront l’EMA à Nantes cette année 🧨🔥 !!
+
+Pour vous départager on vous propose de participer à un tournoi le dimanche 10 mars à 13h30 🕜 en pinède 🌲 !!
+
+‼️ Si vous êtes chauds n’hésitez pas à composer une équipe de 3 joueurs 🚶‍♂️🚶‍♂️🚶‍♂️ et remplissez ce forms ➡️ : https://docs.google.com/forms/d/e/1FAIpQLSe3YNjVOJn89xW4bQH8KFvOr2vNiP__tnt7Pk6_7R843M7MPQ/viewform avant le jeudi 7 mars 16h ‼️ 
+
+Hâte de vous voir jouer avec nos boules 🪩', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d’Administration] x [Compte Rendu]
+
+Bonsoir à tous,
+Ce soir s’est tenu un CA avec à l’ordre du jour : le Gala 🎓, VertMines 🌱 et Pizza 🍕 !
+
+Nous avons tout d’abord discuté de l’édition du Gala 2023. En effet, le nouveau format proposé en accord entre le Gala et l’école a posé problème d’un point de vue financier 💸. L’apport proposé par l’école n’était pas aligné avec le coût de l''événement. Ceci a résulté sur un bilan lourdement négatif qui met en danger les finances du Cercle pour les années à venir📉. Nous avons discuté des problèmes lié à la structure de l’événement et de sa relation avec l’école et le Cercle, de façon à faire en sorte d’éviter que le problème ne se reproduise. Nous continuerons de vous informer des avancées !
+
+Suite aux mauvais bilans financiers de certains évènements dans l’année, le cercle a discuté de la faisabilité ou non de subventionner VertMines cette année. Dans ce contexte, le Cercle a décidé de ne pas financer le projet qui réclamait 2000 €💰. En effet, cela représente une dépense trop importante en vue de l’état actuel des comptes du Cercle et du nombre trop bas de personnes directement concernées par l’événement, notamment à cause du CCL qui a lieu en même temps. À l’avenir, nous réfléchirons avec le club à son financement de façon à ce que cela ne se reproduise pas.
+
+Pour finir sur une note positive, le Cercle a entrepris un potentiel partenariat avec un camion à pizza qui viendrait tout les jeudi.🍕 Nous vous informerons également des avancées !
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emilien Goujon; contenu : Bonsoir bonsoir, 
+Ayant quitté Alès, je vous donne le numéro d’une maman. Sa fille au collège a besoin regulierement d’aide aux devoirs. Elle habite pas très loin d’Alès, je vous laisse la contacter au 06 67 29 32 44 si vous êtes intéressés.
+Bien à vous', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [AW WEC] x [Lundi 20h]  
+
+Bonsoir à tous ! 👋 
+
+À l''occasion du WEC qui approche à grands pas, nous vous proposons une escapade gustative sous le soleil italien 🤤 
+
+Au menu pour 3,5€  :  
+- Gressins 😋
+- Roulés courgette ricotta 🥒
+- Tortilla frittata (omelette aux courgettes et pommes de terre) & Risotto 🍳🍚
+- Tiramisu au chocolat et café ☕️ 🍫  
+- Boisson (+0,50€) : Rossini (alcool) ou diabolo fraise (sans alcool) 
+ 
+Ci vediamo domani alle 20:00 in SDB 🇮🇹', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Entr’EMA] x [Manque de candidatures]
+
+Bonjour à toutes et à tous,
+
+Les candidatures pour le futur BR d’Entr’EMA sont ouvertes depuis deux semaines et jusqu’à dimanche soir🗓️. Or, à ce jour, nous n’avons reçu que 4 candidatures, et cela met en péril la continuité de l’association.
+
+Pourtant Entr’EMA est une association primordiale qui aide un bon nombre d’entre nous, dont les internationaux 👥. Ce sujet ayant été au cœur des campagnes, nous pensions qu’Entr’EMA aurait suscité plus d’intérêt pour sa reprise.
+
+Entr’EMA est un bureau « plein de sens » dans la mesure où il permet de lutter contre la précarité étudiante et le gaspillage alimentaire 😇.
+Entr’EMA est un bureau qui, certes demande de l’engagement, mais cela laisse quand même du temps libre pour s’investir dans d’autres clubs en parallèle  (comme le fait le BR actuel). De plus, c’est une expérience enrichissante tant d’un point de vue personnel que professionnel (un plus pour son CV). N’hésitez pas à demander aux membres actuels du bureau des infos plus précises sur leur rôle. Ci-dessous le trombinoscope afin que vous puissiez savoir à qui vous adresser !
+
+Alors n’hésitez plus et venez lutter activement contre la précarité étudiante 😊 !
+
+Le bureau Entr’EMA 🍎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : VertMines; contenu : [VertMines] x [Amphi]
+
+Bonjour à tous !
+
+Vous voulez en apprendre plus sur la prochaine édition de VertMines 🌽 ? Vous souhaitez nous aider à organiser cette journée de rencontre entre ingénieurs🧑‍🎓et agriculteurs 🧑‍🌾?
+
+Alors venez assister à notre amphi de présentation/recrutement lundi 04 mars à 12h45 en amphi Pasteur 🏫 !
+
+Nous vous parlerons du programme, des activités et des différentes com dans lesquelles vous pourrez vous investir 💪.
+
+Vertminement vôtre 🌱', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louis Le Strat; contenu : Trouvé hier soir bat S
+A venir chercher avant dimanche', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : La Meuhle; contenu : [Meuhle] X [Canditature] X [On arrive à la croûte]
+
+Salut à tous ! 👋
+
+Cela fait presque 1 an que le bureau vous régale avec toutes sortes de soirées, fondues 🫕, dégustations 👅 et soirées oenologie et c’est bientôt le temps pour nous de passer le relais… 🥹
+
+Alors si vous êtes fan de fromage de toute sorte 🧀 et que vous souhaitez faire découvrir votre passion à travers l’organisation d’évènements et des soirées en partenariat avec l’oenologie 🍷, n’hésitez pas à candidater ! 
+
+Pour candidater, rien de plus simple, il faut nous envoyer un CV à l’odeur de fromage du format de votre choix démontrant vos qualités et compétences (le sérieux est exclu). 🤪
+
+PS : Les candidatures ferment le 15 mars ⚠️
+
+Fromagement vôtre,
+Les 10 fromagers 🧀', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [EMABORDAGE ⚔️]
+
+Salut à tous 👋 !
+
+Le BDS organise son traditionnel tournoi multisports de fin d’année le week-end du 9 mars ! Après le tournoi des 6 stations 🏔️ l’année dernière, il se nomme cette année l’EMABORDAGE  🏴‍☠️! 
+Alors préparez vos troupes, rejoignez vos navires pour nous retrouver au rendez-vous annuel de la piraterie   ! ⚔️
+
+Les informations importantes :
+
+📅 Quand ? Samedi 9 mars, toute la journée 
+
+📍 Où ça ? Pinède 
+
+❓ Quels sports ? 
+
+⚽️ Foot : 5 joueurs + 1 gardien 
+🤾‍♂️ Hand : 6 joueurs + 1 gardien
+🏀 Basket : 3 joueurs
+🏐 Beach Volley : 4 joueurs
+🎽 Pétanque : 3 joueurs
+
+Le tournoi opposera 9 équipes de 8 à 15 joueurs. 🏃‍♂️
+
+Tous les inscrits au sein d’une équipe devront jouer au moins un sport. Nous ne mettons pas de quotas fille/garçon mais à vous de faire jouer tout le monde ! 😉
+
+Pour accompagner cette grande journée sportive, Tsiky Zanaka vous régalera tout au long de la journée 😋 Ainsi qu’EMAVisual pour immortaliser vos exploits et EMAmix pour l’ambiance 🔊
+
+Les inscriptions débutent dès maintenant ! Le form est à remplir par un seul membre de l’équipe et il faut y renseigner : 
+- le nom de votre équipe 🤪
+- le nom de tous les joueurs et joueuses 👨‍👩‍👧‍👦
+- le nom du capitaine de l’équipe 👩‍✈️🧑‍✈️
+
+👉 https://forms.gle/8RofuhYgdPhLqCYQ6
+
+‼️ Vous avez jusqu’à MERCREDI 6 mars 23h59 pour former votre équipe et vous inscrire, ne tardez pas nous n’accepterons que les 9 premières équipes complètes ‼️
+
+Sportivement vôtre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Quentin Gobilliard; contenu : Boucle d''oreille retrouvée en sdb', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Florian Laporte; contenu : Téléphone retrouvé en sdb .
+Contactez Suzan Lieutaud s''il est à vous.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [SDB Carnaval]X[Line up]
+
+Voici la line Up de ce soir 🔥
+
+Pour votre plus grand plaisir … 😏😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Sortie Cratère] x [Backbone]
+
+Bonsoir à tous 👋
+
+Le BDA vous propose d''assister à un spectacle d''acrobatie et de haut voltige au Cratère d''Alès. 🤸‍♂
+Vous assisterez à une représentation à couper le souffle avec des acrobates qui portent, se tordent, s’envolent et s’élèvent dans des édifices humains insolites et parviennent à tenir en équilibre sans que l’on comprenne comment 🤯. Des images valent mieux que mille mots (1 min d''extrait du spectacle)👇:
+https://youtu.be/eCoFWhRTULU
+
+📅: Mercredi 6 Mars à 20h30
+📍: Cratère (Centre-ville Alès)
+⏳: 1h20
+💸: 5 € pour les cotisants BDA (contre 12€ initialement 😎)
+🎟: https://boutique.lyf.eu/bda/sortie-cratere-backbone-bda
+
+⚠️ Fermeture de la billetterie le Lundi 4 Mars à 14h.
+Après le vendredi 1 Mars à 16h, les places sur la billetterie peuvent ne plus être disponibles, donc faites vite !⚠️
+
+Pour plus de détails sur le spectacle☺️:
+https://lecratere.fr/spectacle/backbone/
+
+Quelques jours avant, nous créerons une conversation pour organiser les covoiturages 🚗
+
+Artistiquement vôtre,
+Le BDA🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [SDB CART’NAVAL] x [Résultats]
+
+Salut à tous ! 
+
+Voici les résultats du SG ! On vous attend chauds bouillants devant la SDB dès 23h pour prendre vos bracelets ! 🔥
+2,5€ si t’es en carnaval de rio ou déguisé.e sinon 3,5€ 🤠
+Il y a aussi ce soir l’élection du meilleur costume pour gagner une chaise de camping ⛺️ 
+
+Vejo você à noite 😉
+
+Artistiquement vôtre, 
+Le BDA 🎨💖
+
+PS : On a prévu un carré VIP, on vous attend chaudes les Pétas 😘', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Tournoi sportif] x [MSB]🏝️
+
+Salut à tous 👋 !
+
+Cette année les émayens sont réinvités au MSB ! 😀
+
+Le MSB c’est quoi❓
+Un tournoi sportif sur la plage 🏖️ du Grau du Roi qui a lieu le week end du 24 au 26 mai organisé par Centrale Marseille.
+
+On part affronter les autres écoles sur 2 tournois : un en championnat et un en amateur.
+
+Vous pourrez jouer au :
+Beach volley 🏐 
+Beach rugby 🏉 
+Beach soccer ⚽️ 
+Sandball 🤾
+Dodgeball (balle au prisonnier)
+
+D''autres activités sont prévues comme du spikeball, freesbee, concours de château de sable et un show pompims. 
+
+💶 Les places coûtent 60 euros et comprennent le camping 🏕️ , les activités, les soirées 🪩, les consos, les repas et un t-shirt. 
+
+Vous devez seulement amener votre tente et vos affaires de couchage car le tournoi ne prévoit pas de logements mais des espaces de camping !!
+
+Les 1A c''est l''occasion de montrer ce que vaut la promo 174 ! 🫡
+
+Un aperçu du MSB 👀 https://www.instagram.com/msb.ecm?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+
+Sportivement vôtre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [YearBook 2023-2024] X [Billetterie]
+
+Bonjour à tous ! ✨
+
+Après au moins 6 mois passés aux Mines d’Alès, vous avez tous et toutes vécu des moments forts, chaleureux et mémorables. 🤩
+
+Que diriez-vous de redécouvrir ces émotions 5, 10, 20 ans plus tard dans un livre physique posé sur votre étagère ? On vous propose de redécouvrir votre année 2023-2024 en 1A, 2A ou 3A au fil des pages, évènement par évènement et même avec des pages personnalisées pour vos WEF, WEL et autres. 
+
+En effet, la billetterie du YearBook 2023-2024 ouvre enfin ses portes ! 🎉
+
+Le livre sera au prix de 30€ pour la version originale du YearBook 2023-2024 de 60 pages. Avec les 4 pages supplémentaires que vous pourrez personnaliser à votre guise, il faudra ajouter 5€ élevant le prix à 35€. 💶
+Cette option vous permet de créer une version unique de votre Yearbook avec 4 pages finales qui vous représentent et complètent ce souvenir de votre année à l’EMA. Les modalités pour la conception des pages vous seront fournies plus tard dans l’année. 😉
+
+N’hésitez pas à commander dès maintenant votre YearBook en suivant le lien ci-dessous :
+➡️ https://boutique.lyf.eu/cercle-des-eleves/yearbook-2023-2024
+
+Ci-joint, vous trouverez 4 pages du YearBook 2022-2023 pour vous donner un avant-goût du prochain. 😉
+
+PS : Si vous souhaitez voir la version 2022-2023 pour l’exemple, n’hésitez pas à contacter Alexis Garcia ou Camille Osouf.
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucas Guérin; contenu : Stylet Microsoft avec son panini à la pâte à tartiner encore tiède retrouvés en B209 ce jeudi matin à 8h00.
+
+Nous l''échangons contre l''autre moitié du panini.
+
+Cordialement,
+Groupe 3 du projet géosciences.', 0);

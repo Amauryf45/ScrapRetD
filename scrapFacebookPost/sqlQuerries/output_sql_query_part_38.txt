@@ -1,0 +1,245 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [Amphi WES] x [Récapitulatif]
+
+Merci à tous d’être venu aussi nombreux, c’était un régal !
+
+Voici les infos importantes de l’amphi.
+
+Vous retrouverez l’aftermovie du WES 2023 sur notre page facebook et insta 🐻
+
+facebook : [https://www.facebook.com/sejour.ski.ema](https://www.facebook.com/sejour.ski.ema)
+
+insta : [https://instagram.com/wesminesales](https://instagram.com/wesminesales?fbclid=IwAR3Mbcmiai4PNKetbvU7uJyRUARwhxqIR8A6qBlZUeT_Qn_qJ5FPFK3xVus)
+
+Rappel : le sg aura lieu **JEUDI 16/11 à 13h** 🕐
+
+Le lien des coms pour les 1A est ici : [https://forms.gle/ZiqpYNurMAu5vxsx8](https://forms.gle/ZiqpYNurMAu5vxsx8)
+
+Pour toutes questions n''hésitez pas à nous contacter sur instagram ou facebook.
+
+Le wes vous caresse ⛸️❄️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Elisa Mages; contenu : Un étudiant de première technique à qui je donne habituellement des cours aurait besoin d''aide 1h demain (lundi 13 novembre) à partir de 18h pour préparer son évaluation de physique chimie. Le tarif est de 20€ de l''heure et il vous faut être véhiculé. Si vous pouvez me remplacer demain et que vous êtes intéressé n''hésitez pas à m''envoyer un message.
+Mercii', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : TDM - Sur la trace des Mineurs; contenu : [TDM INFOS JOUR J]
+
+Hello tout le monde ! 🏃🏃‍♀️
+
+Tout d’abord, nous souhaitons vous remercier d’être si nombreux à vous être inscrits ! Nous sommes heureux de voir autant d’emayennes et d’emayens sur les parcours du TDM 🤩
+
+Le TDM est dans un peu moins d’une semaine, nous revenons donc vers vous avec les informations pratiques et horaires du jour J.
+
+**Départ pour les deux parcours **:
+
+Mine Témoin d’Ales en Cévennes
+
+**Horaires **:
+
+Coup de Grisou (10km) :
+* Départ : 10h30
+* Retrait des dossards : 8h - 10h15
+* Inscriptions sur place : 8h - 10h
+* Prix sur place : 15€ (Uniquement en espèces) + Avoir une copie de son certificat médical -> Dans la limite des dossards disponibles
+* 1 ravitaillement sur le parcours
+
+Garde-Mines (18km) :
+* Départ : 10h
+* Retrait des dossards : 8h-9h45
+* Inscriptions sur place : 8h-9h30
+* Prix sur place : 22€ (Uniquement en espèces) + Avoir une copie de son certificat médical -> Dans la limite des dossards disponibles
+* 2 ravitaillements sur le parcours
+
+⚠️ Passé les horaires annoncés, il ne sera plus possible de récupérer votre dossard. Vous ne pourrez donc pas prendre le départ ! ⚠️
+
+**Sur place **:
+* Ravitaillement de fin de course
+* Stands nourriture prévus par Tsiky et les Cheertah
+* Achat de tickets de tombola (chaque coureur possède déjà un ticket de tombola gratuit 😉)
+
+⚠️ Enfin, pour ceux qui ne l’ont pas encore fait, n’oubliez pas de déposer votre certificat médical AVANT le 16 novembre sur le site d’Endurance Chrono (pour déposer vos certificats médicaux vous devez vous connecter sur votre compte Endurance Chrono)
+
+N’hésitez pas à nous contacter si vous avez des questions 🙂
+
+L’équipe du TDM 🏃‍♀️🏃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Tournoi Interpromo]
+
+Salut à tous !
+
+La semaine prochaine se déroulera le tournoi interpromo mixte 🏟️
+
+Au niveau des sports co, le calendrier sera le suivant:
+- Mardi : Basket 🏀 et Volley 🏐 
+- Mercredi : Hand 🤾‍♀️
+- Jeudi : Foot ⚽ et Rugby 🏉 
+
+Pour les sports individuels, il vous faut demander les renseignements aux capis concernés.
+
+Vous pouvez participer à tous les sports, aucune limite ! Pour cela rien de plus simple, il vous suffit de contacter le capi du sport correspondant. Il y a ci-joint le guide des sports pour trouver leur contact.
+
+Les résultats de la promo la plus sportive seront annoncés au bar le vendredi soir après l’épreuve finale du relais cul 🍻
+
+Pour l’épreuve du relais cu il vous faudra une équipe par promo de 10 personnes avec au moins 3 filles. 
+
+On espère que vous serez motivés ! Que le meilleur gagne !🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Sortie Cinéplanet] x [Hunger Games]
+
+Bonjour à tous 👋
+
+Le BDA, en collaboration avec Cin''EMA vous propose d''aller voir le film "Hunger Games, La Ballade du Serpent et de l''Oiseau Chanteur" ! 🍿 
+Ce film est le préquel de la saga des Hunger Games racontant la jeunesse de Coriolanus Snow, le futur antagoniste de la saga.
+
+📅: Mercredi 15 novembre à 21h10 en VOSTFR
+📍: Cinéplanet Alès 
+⏳: 2h38
+💵 : 4€ pour les cotisants BDA
+6€ pour les non cotisants BDA
+🎟️: https://boutique.lyf.eu/bda/sortie-cinema-hunger-games
+⚠️Fermeture de la billetterie le mardi 14 à 23h⚠️
+
+Pour plus de détails sur le film 👇 :
+https://cineplanet.fr/films/258080-hunger-games-la-ballade-du-serpent-et-de-loiseau-chanteur/
+
+❗Pour ceux qui voudraient aller à l''Afterwork de Tsiky Zanaka, réservez votre repas dès 19h (la file d''attente peut être longue). Pour ceux qui ont déjà réservé, remplissez ce form pour qu''on vous décale votre horaire 🤗 :
+https://forms.gle/tDBVMyy4oGPRD7zn9
+
+Nous vous préparerons une conversation afin que vous puissiez vous organiser pour des covoiturages 🚗
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Luku LaMule; contenu : C’est qui l’enfoiré qui habite à ici et qui est venu arracher notre drapeau à 3h00 du mat ?', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : La Meuhle; contenu : [Meuhle]x[Afterwork]x[Fondue]
+
+❄️Cette semaine le froid Alésien est de retour mais pas d’inquiétude, la Meuhle est là pour vous proposer deux repas qui vous réchaufferont le cœur ! ❄️
+Tout d’abord lundi, avec un afterwork 100% fromage : au menu, toast chèvre miel, croziflette, cheesecake et un diabolo citron pour vous rafraîchir, le tout pour 4€ ! 🧀🧀
+Et jeudi, la Meuhle vous propose de participer à une fondue savoyarde à 19h30 au bar ! 🫕
+⚠️ Attention, il n’y a que 30places pour celle ci donc soyez vifs lors du shotgun qui aura lieu mardi à 13h sur la page Facebook de la Meuhle ⚠️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : [Tremplin 🐮🎙️]
+Ce soir dès 19h30 au Tremplin de la Meuh Folle en SDB, venez découvrir ce qu''on vous a préparé au snack et au bar ! 🥙🍻
+Au menu: Pita savoureux avec choix de poulet 🐔 ou aubergine & mozzarella pour les végés 🌱, plus des belles frites dorées à souhait 🍟.
+Côté bar, bières IPA Triple A (nouveau fournisseur !!) 🍻  et Blonde Meduz (pour les habitués) 🍺 vous attendent, sans oublier notre rafraîchissant ice tea pêche 🍑.
+
+La Meuh Folle c''est demain et on lâche rien ! 🐮', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Entr''EMA]x[Collecte]
+
+⌛️La première collecte alimentaire d’entr''EMA arrive le week-end du 25 novembre et nous avons besoin de bénévoles!
+
+📍Elle se déroulera au Monoprix et au Utile d’Alès le vendredi soir ainsi que sur les journées du samedi et du dimanche.
+
+C’est un moment crucial pour l’association qui nous permet de refaire nos stocks et ainsi d''aider le plus grand nombre!
+
+En effet, c''est grâce à la collecte qu''on peut vous proposer des produits d’hygiène et de l’épicerie tout au long de l''année ! 🥫🍝🍫
+
+📢 Alors si tu es à Alès en ce moment, et que toi aussi tu veux voir les rayons de l''épicerie pleins n’hésite pas à t’inscrire dans le forms suivant:
+https://docs.google.com/forms/d/e/1FAIpQLSfHg8Ol7j2qf5LnhgTxz-oayNtzkdfvxqL4rQxYt4YO53QyXA/viewform
+
+On compte sur vous et on espère vous voir nombreux 😇!', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : [Meuh Folle 🐮] x [Tremplin 🎙️]
+
+Ce soir au Tremplin de la Meuh Folle, vous retrouverez WendyPOT ! 🎹🌙 Venez découvrir leur pop anglaise innovante et laissez-vous charmer par leur style électro-pop ! ⚡
+Profitez d''un snack délicieux 🥙 et d''un bar rafraîchissant 🍺 pendant que vous plongez dans l''univers musical de WendyPOT. Participez à la tombola 🎫 pour voter pour eux 🗳️, gagner une consommation 🍻 et tenter de remporter des lots incroyables comme des billets pour le festival et bien plus !
+
+Venez de 20h à 01h pour une expérience inoubliable avec WendyPOT au Tremplin de la Meuh Folle. C''est une soirée que vous ne voudrez pas manquer ! 🌟🎶
+
+La Meuh Folle c''est demain et on lâche rien ! 🐮❤️💜', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [Amphi WES]
+Salut les riders ! ⛷️🌨️
+🚨🚨 L’amphi de présentation du WES 2024 aura lieu le LUNDI 13 NOVEMBRE 🚨🚨
+La révélation de la station sera dévoilée à cette occasion 🤩
+Nous vous présenterons aussi le programme, les prix et les différentes activités.
+Ce sera l’occasion pour les 1A de découvrir ce merveilleux week-end et de vous investir en tant que bénévoles.
+A bientôt sur les pistes noires 🐻
+Le WES vous caresse 😏🏂', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Bar] x [Armistease]
+
+J’ouvre ce soir, venez pour le France 🇫🇷 
+
+Ouverture des portes 20h 
+
+Cordialement 
+Le bar', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : [Meuh Folle 🐮] x [Tremplin 🎙️]
+
+Ce samedi, c''est le Tremplin de la Meuh Folle 🐮🎙️ et SunBorn ☀️ est de la partie ! 🎸 Ils débarquent avec leur nouveau son rock-pop qui décoiffe.
+
+Snack 🥙, bar 🍺, et de la bonne musique : tout est là pour passer un très bon moment 🤩. En plus, une tombola pour élire votre groupe préféré et gagner de super lots (place pour le festival, sweat, t-shirt, conso…). 🎫
+
+Venez tôt, restez tard, SunBorn et les autres vous attendent de 20h à 01h pour une nuit où la musique règne ! 🌜🎶
+
+La Meuh Folle c''est demain et on lâche rien ! 🐮❤️💜', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Fermeture billetterie] X [Gala]
+
+Bonjour à tous!
+
+La billetterie du Gala fermera le 26 novembre à 20h. 📆
+
+⚠️ A partir de cette date, il ne sera également plus possible de changer de table. ⚠️
+
+Pour prendre votre billet, suivez le guide 😁 : 
+https://gala-mines-ales.fr/billetterie
+
+ Vénitiennement vôtre 🎭
+Le 96ème Gala', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1297935547529918/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : [Meuh Folle 🐮] x [Tremplin 🎙️]
+Rendez-vous ce samedi en SDB pour découvrir nos artistes du Tremplin de la Meuh Folle qui auront peut-être la chance de faire l''ouverture du festival en avril ! 🤩🐮
+Profitez d''un snack 🥙 et d''un bar 🍺 sur place pour régaler vos papilles pendant que vous vous régalez les oreilles ! 🎶
+Vous pourrez apprécier les performances de :
+💻 Dub Driver
+🎷 SunBorn
+🥁 MangoMango
+🎹 WendyPot
+Tentez votre chance à notre tombola 🎫 sur place pour gagner le droit de voter pour votre artiste préféré 🗳️, obtenir une conso gratuite 🍻 et remporter des lots incroyables 🤯 : Des billets pour le festival, des sweats exclusifs 💝, des t-shirts, et bien plus !
+Rejoignez-nous de 20h à 01h pour une soirée inoubliable ! 🪩
+
+Voici un exemple de musique de l''artiste DubDriver !
+La Meuh Folle, c''est demain, et on lâche rien ! 🐮💜❤️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Martin Maurer; contenu : [AW]x[GORILLES] 🦍
+
+Bonjour chers emayens, les Gorilles vous dévoilent leur recette du repas qui permet de gagner le TRAMS et le Cartel, chaque année ! 🥇Occasion à ne surtout pas manquer !😋
+
+Au menu, nous vous proposons un succulent riz au curry accompagné de son poulet cuit avec amour. 🍗 Pour nos végétariens adorés, nous leur préparerons une poêlée de poivron et d’oignon. En dessert, le gorille raffole de bananes et de fruits. 🍌 
+
+Le tout pour 3€, c’est une affaire à ne pas rater ! On vous attend nombreux mercredi à 19h. 
+
+Bonus du bagne : Pour 1€ supplémentaire le gorille de votre choix mangera devant vous une banane sans les mains. ⛓
+
+Gorillement votre 🦍⛓', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Formation PSC1]
+
+Salut à tous 👋 !
+
+La formation PSC1 est maintenant ouvert à tous ! Elle permet de se former aux gestes de premiers secours 🚑 et se déroule au cowork sur une journée avec un intervenant. Il reste trois sessions qui sont : 
+- ce samedi 11/11 de 9h à 17h
+- le samedi 18/11 de 8h30 à 16h30 
+- le dimanche 19/11 de 8h30 à 16h30
+
+Pour chaque session il n’y a que 13 places ⏰ . Pour ceux qui sont intéressés, contactez Visentin Clément pour vous inscrire.
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Vote]x[Sweat BDS 👕]
+
+Vous souhaitez participer à l’élection de votre logo préféré ? Choisir à quoi ressemblera le futur sweat bds ? Rien de plus simple. Il vous suffit de remplir le forms suivant:
+
+https://docs.google.com/forms/d/e/1FAIpQLSfyI7Jzchal_cOJqF6-TU55uDiZoUoz6WVYUUDsljwON4TtCg/viewform?usp=sf_link
+
+Vous avez jusqu''à mercredi 15 novembre pour vous prononcer. On compte sur vous pour avoir un maximum de réponses ! ✔️
+On remercie toutes les personnes ayant participé à l’élaboration de ces logos. 
+
+Sportivement votre 💪', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Art''phétamines; contenu : **[Cours de dessin/peinture] X [Art’phétamines]**
+
+Bonjour à tous ! 👋
+
+Pour ceux qui ont toujours rêvé de devenir bon dessinateur ✏️, de manier le pinceau comme Rembrandt ou Vermeer 🖌️, de maîtriser les couleurs comme Monet ou Cézanne 🎨 !
+
+Art’phétamines souhaite bientôt vous proposer des cours de dessin et de peinture donnés par des élèves ! 🤩
+
+Pour cela, nous voudrions savoir qui seraient intéressés par ces cours/voudraient en donner à travers ce forms : 
+
+[https://docs.google.com/forms/d/e/1FAIpQLSdBmyeb5K_eeKUnPilx9g-WEPeICNraApbePmPrVtCMgpmODg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdBmyeb5K_eeKUnPilx9g-WEPeICNraApbePmPrVtCMgpmODg/viewform)
+
+Pour ceux qui n’auraient pas encore de PEP, nous travaillons actuellement pour faire passer les cours en proposition de PEP. 😉
+
+Et pour ceux qui voudraient voir un peu le niveau des profs, nous avons déjà reçu une candidature pour donner des cours, on vous laisse admirer juste en dessous… (crédits Elena Filz )👀
+
+Addictement votre,
+
+Art’phétamines.', 0);

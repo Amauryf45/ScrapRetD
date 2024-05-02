@@ -1,0 +1,381 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [CARTEL]X[RESULTATS SG]
+
+Salut à tous 👋!
+
+Voici les résultats du SG supporter pour le Cartel 🥇🐙 ! 
+
+1. MAUFRONT Anna
+2. RIVEAUX Marion
+3. LIEUTAUD SUZAN
+4. MENUT Pauline 
+5. MIRRE Gwen
+
+1. CAZANOVE Benoit 
+2. SURUGUE Bilal 
+3. MIRAMONT Ferdinand 
+4. MORICEAU Quentin
+5. NA Arnaud
+6. MAES Matthieu 
+7. DAURIOS Mathéo
+8. JEHANNO Malo
+9. DUFRENNES Yann
+10. BELMONT Louis 
+11. CHABI Massiwa
+
+Pour toute transparence, nous vous précisons que nous avons attribué 5 places sans SG :
+
+- 3 membres du bureau restreint Cartel 2023 🏆
+
+Gabriel MINICONI (PREZ), Paulin ZUMSTEIN (VP), Pierre PELLICCIA (TREZ)
+
+- Théo BESSIERE (PREZ BDS et représentant de délégation) 
+
+- Ianis HODEAU, (COM ULTRA Alésias) qui aura la tâche de conduire la délégation des supporters Emayens à Nantes 🧨🔥
+
+Nous espérons que vous comprendrez ces choix.
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Partenariat] X [Défi Karos]
+
+Salut à tous ! 🏎️
+
+Karos nous propose un défi, la Battle des Campus, et on a jusqu’au 5 avril pour montrer de quoi l’EMA est capable ! 🏆
+
+Quatre catégories sont à l’honneur :
+🤝 Le plus de Parrainages
+🚗 Le plus de Covoiturages
+🧲 Le plus d''Inscrits Rattachés à son campus
+😍 Le Campus avec les ambassadeurs les plus motivés
+
+Les lots à gagner sont les suivants : 
+- Pour l’un.e d’entre vous : Une paire d’écouteurs Bluetooth Karos 🎶
+- Pour nous : Un photobooth à installer dans un prochain événement Emayen et un trophée 📷
+
+🥇 Comment gagner ?
+Plus vous covoiturez, plus on a de chances de gagner le challenge !
+
+📣 Pensez à bien vous rattacher au campus dans l’appli pour que chaque covoit soit bien comptabilisé. 
+
+Rappel des étapes : 
+* ﻿﻿se créer un compte sur l''application
+* ﻿﻿renseigner l''adresse de l''école en adresse de travail (Clavières: 6 avenue de Clavières & Croupillac: 1A rue Jules Renard)
+* ﻿﻿se rattacher à l''école grâce à la fonctionnalité Mon Compte ->  Mon entreprise/Mon école et rentrer IMT Mines Alès
+ATTENTION : pour pouvoir être rémunéré, il faut entrer en adresse de domicile « Draille des Olivettes, Saint-Privat-des-Vieux » pour respecter la distance minimale de trajet nécessaire.
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''Sterchef; contenu : [EMA’sterchef] x [Recrutement]
+
+Hello tout le monde 👨‍🍳👩‍🍳
+
+Il est temps pour notre bureau EMA''sterchef de passer le flambeau puisque nous allons bientôt prendre notre retraite 😔
+Nous sommes donc à la recherche d''une relève digne de ce nom pour gérer cette super asso 🤩
+
+Nous avons besoin de : 
+1 Président.e 👑
+2 Vice-Présidente.s 👯‍♂️
+1 Trésorier.e 🤑
+1 Secrétaire 📝
+1 Com Com 🗣️
+
+Pour candidater c’est par ici ⤵️
+https://docs.google.com/forms/d/e/1FAIpQLSeY1JOMQseyNCFkvRaOi7KeL-7qEGprNKRMnpKLluDM4uKx1w/viewform?usp=pp_url
+Vous avez jusqu’au dimanche 24 mars à 23h59 ⏳
+
+N’hésitez pas à nous contacter pour toute question 😇
+
+Bisous,
+Le bureau EMA’sterchef, 
+Presque à la retraite ✊😔', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1361823097807829/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : SG SUPPORTER CARTEL 
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Entr’EMA] x [Nouveau BR]
+English below 🇬🇧⬇️
+
+Bonjour à toutes et à tous ! 🍎 
+C’est le moment de vous présenter les membres du nouveau bureau restreint d’Entr’EMA !
+
+A la tête de cette nouvelle équipe : Imane Fergane, la présidente ! 👑 
+Elle pourra compter sur Garance Grandin et Grégoire Pacault, vice-président.e.s, pour l’épauler. 🤝
+Prunelle Ntsame Mezui et Quentin Moriceau trésorier.ère.s, veilleront à la bonne gestion des comptes 💰 
+Enfin, Mathilde Aumonier, secrétaire, gèrera les aspects administratifs de l’association ! 🗓️ 
+Ils nommeront par la suite des responsables pour les aider à faire perdurer l’épicerie solidaire.
+
+L’ensemble de l’ancienne équipe souhaite le meilleur aux nouveaux, et tenait à remercier nos adhérents pour leur confiance et leur soutien. Ce fut un réel plaisir d''avoir fait vivre cette épicerie et d''avoir contribué, à notre niveau, à la lutte contre la précarité étudiante.
+
+Nous tenons à remercier Michel, notre bénévole volontaire, qui assure, depuis un an et demi, le lien avec la Banque Alimentaire du Gard et Keltoum Belaroussi et Marie Chacon, responsables action sociale à IMT Mines Alès, d’avoir été à nos côtés tout au long de l’année. Enfin, nous remercions le Cercle des Elèves, MAA et l’école pour leur soutien.
+
+Bonne continuation à toutes et à tous, prenez soin de vous, et aidez-vous les uns les autres ❤
+
+Le quatrième bureau d’Entr’EMA désormais à la retraite  🥲
+
+🇬🇧Hi everyone !
+
+It is time to present you the new restricted office of Entr''EMA !
+At the head of this team : Imane Fergane, the president ! 👑 
+
+Garance Grandin and Grégoire Pacault will support her as the vice-presidents. 🤝
+Accounts will be managed by the treasures Prunelle Ntsame Mezui and Quentin Moriceau 💰
+Finally, the secretary Mathilde Aumonier will manage the administrative aspects of the association ! 🗓️ 
+The other managers will be appointed after, to help them ensure the proper functioning of the grocery.
+
+All the former team wishes all the best to the new one and would like to thank adherents for their trust and their support. It was a real pleasure to be part of the grocery''s life and to have contributed, at our level, to the fight against student insecurity.
+
+We would like to thank also our volunteer Michel who has made the link with the Gard Food Bank, and Keltoum Belaroussi and Marie Chacon, the managers in charge of social action at IMT Mines Ales, for their help throughout the year. Finally, we would also like to thank the Cercle des Eleves, MAA and the school for their support.
+Good luck to you all, take care of you and continue to help each other ❤
+
+The fourth Entr''EMA office now retired 🥲', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d’Administration] x [Compte Rendu]
+
+Bonsoir à tous,
+Ce soir s’est tenu un CA avec à l’ordre du jour 2 demandes de prêt, une pour le TDM 🏃‍♂️et une de Bod’EMA 🐂, ainsi qu’un point sur la CVEC et la SDB. 🏥
+
+Le nouveau bureau du TDM est venu nous présenter leur projet pour la prochaine édition du trail, après le succès de l’événement en 2023. Ils nous ont sollicité pour un prêt de 1300€ qui leur permettrait l’achat de goodies et le prêt à été accepté. 💵 
+
+Nous avons ensuite reçu Bod’EMA qui prépare la feria à venir. 🏟️ Pour s’assurer du bon déroulement de l’événement, ils nous ont demandé un prêt 8500€. La demande a aussi été acceptée ! 
+
+Nous sommes également revenus sur le Conseil de la Vie Étudiante et du Campus qui s’est déroulé jeudi dernier et nous sommes ravis d’y avoir vu autant de 1A. 😊 Un groupe de travail va être créé pour se pencher sur l’intégration des internationaux et la valorisation de l’engagement associatif reste un sujet à approfondir. 
+
+Enfin, nous avons pu avancer sur l’installation d’une boîte à pharmacie en SDB, idée qui avait été soumise par un emayen, et ce projet devrait se concrétiser. 🚑
+
+Ceci conclut le premier CR écrit en collaboration entre les Emathéniens et les Poudlist ! ⚡️🤝🧙‍♀️ 
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [EMAMIX] X [Dj contest Cartel]
+
+Bonjour à tous !
+Il est enfin l’heure de sélectionner notre DJ international afin de rouler sur le cartel dans tous les domaines 🏆
+
+Pour cela, nous vous présentons nos deux candidats:
+
+Le premier est un habitué du créneau 2h-3h en sdb. On le connaît surtout pour sa spécialité : la techno 😎🎧. Il s’est déjà produit sur les plus grandes scènes et saura gérer le stress du cartel -> Valentaz
+
+Notre deuxième candidat aka le T qui présente un style plus varié 🔥 que vous avez pu entendre et apprécié en sdb sur le créneau 00h-2h. Ce passionné des platines vous a préparé son meilleur set -> Le T
+
+Nous vous invitons à découvrir leurs deux sets! Ils ont travaillé dur pour ce projet 🤙🏼Nous vous remercions d’écouter à fond ces deux sons avant de voter le plus justement possible afin de mettre toutes les chances de notre côté pour gagner le cartel 🥇🥇
+
+Set 1 : https://youtu.be/-ay-aebbkM0
+Set 2: https://youtu.be/NXgbfwXTOYw
+
+Poucez le commentaire en dessous 👍🏼 pour voter soit le set 1 soit le set 2, soyez impartiaux et justes 😇
+
+Merci à tous,
+Le bureau et EMAMIX VII
+Pour votre plus grand plaisir… 😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [CARTEL] X [Quotas finaux] X [SG supporters]
+
+Salut à tous👋 ! 
+
+Nous avons reçu les quotas finaux pour la délégation alésienne qui se déplacera à Nantes pour représenter Alès au Cartel 🔥 !
+
+- 200 sportifs 💪
+- 13 supporters 🧨
+
+Toutes les places de sportifs que nous avons demandé ont été retenues. Mais vous l''aurez compris, nous avons à notre grand regret été largement restreints sur le nombre de supporters 🥲 …
+
+Ceci s''explique par une plus grande 📈demande de joueurs en général dans les délégations des différentes écoles, donc une diminution du nombre de supporters pour toutes les grandes délégations et ce malgré une augmentation du nombre de personnes logées 🏠 à Nantes cette année (1386 personnes contre 1300 à Alès).
+
+Comment allons-nous remplir les places de supporters  🤔 ? 
+
+Nous avons commencé par désigner des supporters "prioritaires" :
+
+- Les participants au DJ contest 🪩, Rock contest 🎸 et Rap contest 🎤
+- Les coachs des équipes de sports collectifs 
+- 2 photographes d''Emavisual 📸
+
+Ces personnes auront leur place de supporters sans procéder à un SG. 
+
+Les places restantes sont les suivantes:
+
+- 4 places féminines 👩‍👩‍👧‍👧
+- 2 places masculines 🧍‍♂️🧍‍♂️
+
+‼️ Elles seront attribuées au SG lundi 11/03 à 13 h sur EMApromo ‼️
+
+(Les places sont différenciées entre féminines/masculines, car nous avons demandé un nombre supérieur de sportifs que ce qui était demandé par nos capis quand le quota par sport n''était pas atteint. Ceci était possible seulement pour des équipes féminines...).
+
+Nous sommes désolés pour ceux qui seront déçus à l''annonce de ce message 😢 …
+Mais vous pouvez compter sur ceux qui seront présents pour donner de la voix comme si les 80 supporters Alésiens avaient été présents 🔥🧨 !
+
+Nous ne gagnerons peut-être pas le prix de l''ambiance à 6... Quoi que ? 
+
+Mais soyez en certain, le 38 ème (32 ème) Cartel, il est pour nous, même si nous ne serons que 213 🥇!
+
+D''ici la fin du week-end, vous aurez reçu les sélections de vos différentes équipes et saurez si vous devez participer au SG. 
+
+Nous reviendrons vers vous rapidement pour d''autres informations, notamment sur le prix 💸 du billet joueur qui sera modifié dû au faible nombre de supporter. 
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Comité Oenologie] x [Le 8ème bureau du COMA 🥳🎉]
+
+Bonjour à tous les bon vivants de l''EMA,
+
+C''est avec une grande fierté et une certaine émotion que nous vous annonçons les heureux candidats qui ont été retenus pour constituer le **VIIIe bureau du Comité Oenologie des Mines d''Alès** 🍷
+
+Nous vous avons préparé une vidéo annonce pour dévoiler les élus  👀
+
+Sans plus attendre, le *Comité Oenologie 2024-2025* ✨
+
+🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁
+
+🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁
+
+🍷🍷🍷🍷🍷🍷🍷🍷🍷🍷🍷
+
+**Bastien Delmas**
+
+**Lucie Leroy**
+
+**Guillaume Doze**
+
+**Mathis Baragnon**
+
+**Charlotte Tholo**
+
+**Lena Farthouat**
+
+**Marius Ledemé**
+
+🍷🍷🍷🍷🍷🍷🍷🍷🍷🍷🍷
+
+Toutes nos félicitations à eux et nous espérons tout de même que les non sélectionnés continueront de se régaler lors des futures dégustations 👏
+
+👀 MAIS le 7e bureau n''a pas encore tiré sa révérence et la dégustation spéciale du jubilé arrive très vite ... 
+
+> In Vino Veritas 🍷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Guillaume Brisbois; contenu : Servez vous on va pas se batte pour des centimes
+Z26
+ François Roger', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Arnaud Teston; contenu : [La neige ça brille]
+Salut, est-ce qu''une gentille personne aurait un masque de ski à me prêter pour ce weekend ?  Merci !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : Voici la line up de cette sdb toujours à l’heure.
+Pour votre plus grand plaisir 😏…
+Emamix VII', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Radio Ding-Dong; contenu : [Radio Ding Dong] x [Émission numéro 4] 
+
+Bonjour tout le monde 😊
+
+Radio ding dong fait sa quatrième émission ce soir à 20h30 autour de l’écologie 🌱 ! 
+
+Nous aurons avec nous deux personnes du cercle, Guillaume et Kewin, qui seront là pour nous parler de leur podcast notamment ! Nous pourrons débattre avec eux et parler de divers sujets comme la COP 28, la décroissance, les crédits carbone ou encore les SUV à Paris 🚙 ! Vous pourrez aussi retrouver l''émission en rediffusion sur notre chaîne. 
+
+[Lien de notre chaîne Twitch] https://www.twitch.tv/radio_ding_dong
+[Lien du podcast] https://drive.google.com/file/d/1oZ5UT7rFccE_GqUzAGMjVIGFlTZq8o13/view?fbclid=IwAR0hVgnvn6eSdVuPKhSlMxoZC0zfc-o2fiDx08_Dbd35-PBZXXhpQRfjmo4
+
+Ding Donguement vôtre 🎙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [EMABORDAGE] X [Sous l’eau 🌧️]
+
+Salut à tous 👋 !
+
+En raison des conditions météorologiques de ce week-end , nous avons pris la décision de décaler le tournoi au samedi 16 mars. 
+
+Pour rappel, 
+
+Le BDS organise son traditionnel tournoi multisports de fin d’année. Après le tournoi des 6 stations 🏔️ l’année dernière, il se nomme cette année l’EMABORDAGE  🏴‍☠️! Alors préparez vos troupes, rejoignez vos navires et pour nous retrouver au rendez vous annuel de la piraterie   ! ⚔️
+
+Les informations importantes :
+
+📅 Quand ? Samedi 16 mars, toute la journée 
+
+📍 Où ça ? Pinède 
+
+❓ Quels sports ? 
+
+⚽️ Foot : 5 joueurs + 1 gardien 
+🤾‍♂️ Hand : 6 joueurs + 1 gardien
+🏀 Basket : 3 joueurs
+🏐 Beach Volley : 4 joueurs
+🎽 Pétanque : 3 joueurs
+
+Le tournoi opposera 9 équipes de 8 à 15 joueurs. 🏃‍♂️
+
+Tous les inscrits au sein d’une équipe devront jouer au moins un sport. Nous ne mettons pas de quotas fille/garçon mais à vous de faire jouer tout le monde ! 😉
+
+Pour accompagner cette grande journée sportive, Tsiky Zanaka vous régalera tout au long de la journée 😋 Ainsi qu’EMAVisual pour immortaliser vos exploits et EMAmix pour l’ambiance 🔊
+
+Les inscriptions débutent dès maintenant ! Le form est à remplir par un seul membre de l’équipe et il faut y renseigner : 
+- le nom de votre équipe 🤪
+- le nom de tous les joueurs et joueuses 👨‍👩‍👧‍👦
+- le nom du capitaine de l’équipe 👩‍✈️🧑‍✈️
+
+👉 https://forms.gle/8RofuhYgdPhLqCYQ6
+
+Vous avez jusqu’à MERCREDI 13 mars 23h59 pour former votre équipe et vous inscrire, ne tardez pas nous accepterons que les 9 premières équipes complètes !
+
+Sportivement vôtre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Valentin Roy; contenu : SG SDB Dindreaux 🦮🦃
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : VertMines; contenu : [VertMines]x[Fin]
+
+Bonjour à tous,
+
+C’est le cœur serré que nous vous annonçons que l’édition 2024 de VertMines est annulée. L’annulation d’un évènement emayen est rare, nous tenions donc à la contextualiser.
+
+Le premier obstacle à VertMines a été une impossibilité de financement de subvention de la part du Cercle. Cette mesure d’austérité est la conséquence directe des bilans négatifs sans précédent d’évènements emayens, car en mai 2023, le financement de VertMines faisait partie de la budgétisation prévisionnelle du Cercle.
+
+N’allez pas croire que nous annulons uniquement pour des raisons financières. Nous avions des pistes de financement extérieures : ténues certes, mais des pistes tout de même. Là où nous avons reçu un véritable coup d’arrêt, c’est sur l’intérêt faible porté par les emayens. Peut-être avons nous mal communiqué, mais, suite à notre amphi, nous étions véritablement surpris de voir si peu de personnes intéressées et volontaires pour la journée, qu’elles soient 1A ou 2A, ayant déjà vu la journée ou non. Il est inenvisageable de faire déplacer des agriculteurs pour qu’ils soient confrontés à une absence d’élèves ingénieurs pourtant promis.
+
+Mais les moissonneuses continuent de tourner, et la vie continue dans le monde. L’agriculture reste un sujet capital et une façon décisive de concevoir notre rapport à la planète. Nous restons convaincus de la pertinence d’un tel évènement.
+Notre travail de cette année, cette organisation presque bouclée, tout cela reste à la portée de quiconque voudrait reprendre le flambeau. Alors si certains d’entre vous en 1A voient autant de pertinence que nous à cette journée, n’hésitez pas à venir nous parler ne serait-ce que pour découvrir notre vision.
+
+Vertminement vôtre 🌱', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/share/p/d2hL3xDHC9BTL78z/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [Election Bureau WES 2025] x [Amphi Mercredi] 
+
+Saluuuttt riderzzzz ! ❄️
+
+On se retrouve Mercredi 06/03 en AMPHI PASTEUR à 12h50 pour l’élection du nouveau bureau ⛷️
+
+Le WES vous caresse et a hâte de découvrir ses successeurs 🐻', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [MSB] x [Inscriptions] 🏝️
+
+Salut à tous,👋 
+
+Envie d’un peu de soleil ? 😎
+
+Le week end du 24 au 26 mai  se déroulera un Tournoi sportif sur la plage du Grau du Roi organisé par Centrale Marseille. 
+Le week-end promet d''être chargé en sports, compétitions, convivialité et festivités !☀️💪🏽
+
+On part affronter les autres écoles sur 2 tournois : un en championnat et un en amateur. 
+⚠️Chaque équipe ne peut être inscrite que dans un seul sport et pour un seul tournoi.
+Les équipes du championship ne peuvent pas être mixte contrairement aux équipes en loisirs. 👫
+
+- Pour les équipes en championship (en comptant les remplaçants) :
+🏐Volley : 4 à 5 joueurs
+⚽️Soccer : 6 à 7 joueurs
+🤽🏻‍♂️Dodgeball : 5 joueurs
+🏉 Rugby : 6 à 7 joueurs
+🤾 Sandball : 4 à 5 joueurs
+
+- Pour les équipes en loisirs(en comptant les remplaçants) :
+           
+🏐Volley : 4 à 5 joueurs
+⚽️Soccer : 7 à 9 joueurs
+🤽🏻‍♂️Dodgeball : 7 à 9 joueurs
+🏉 Rugby : 7 à 9 joueurs
+🤾 Sandball : 6 à 7 joueurs
+
+D''autres activités sont prévues comme du spikeball, freesbee🥏, concours de château de sable 🏰et un show pompims. ✨
+
+💶 Les places coûtent 60 euros et comprennent le camping 🏕️ , les activités, les soirées 🪩, les consos, les repas et un t-shirt.👕 
+Vous devez seulement amener votre tente et vos affaires de couchage car le tournoi ne prévoit pas de logements mais des espaces de camping !!
+
+💶Une caution de 100 euros, ainsi qu''une caution sportive de 10 euros par participant au sein d''une équipe, sera prélevée en cas de non-participation de l''équipe à deux matchs.
+
+Tous les tournois se dérouleront entre 16h le vendredi 24 mai et 18h le dimanche 26 mai sur la plage du Grau du Roi.
+
+⚠️ IMPORTANT : pour participer au MSB, il est impératif d’avoir sa carte étudiante/identité et un certificat médical valide ainsi qu’une attestation civile. 
+
+🥲  Il y aura seulement 60/70 places dont 20 maximum pour les pompims. Les supporters ne sont malheureusement pas autorisés. 
+
+Les inscriptions peuvent se faire par équipe ou seul, dans le cas où vous ne trouvez pas de coéquipiers. Les places étant limitées, les équipes formées dès l’inscription seront prioritaires.
+Si le nombre d’équipes est trop élevé, nous mettrons en place des shotgun par sports afin d’assurer un équilibre dans le nombre d’équipes pour chaque sport.
+
+Pour vous inscrire, rien de plus simple ! Il vous suffit de remplir le forms ci-après, avant le 6 Mars 13h. 
+ 
+C’est l’occasion de représenter l’EMA entre amis, sans passer par les clubs sportifs. ☺️
+
+Sportivement vôtre 🏆,
+
+', 0);

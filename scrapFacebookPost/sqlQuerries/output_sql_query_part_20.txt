@@ -1,0 +1,153 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Campagnes BDE] X [Votes]
+
+Bonjour à tous,
+
+Ça y est, les votes pour élire le prochain BDE sont ouverts !! Qui de la Poudlist🧙🏽‍♂️ ou de la Lucky List 🤠 voulez vous voir reprendre le flambeau ?
+
+Le vote se fera comme chaque année sur Campus via Espaces collaboratifs > Pour les étudiants > Élections étudiantes, ou via le lien suivant : https://campus2.mines-ales.fr/course/view.php?id=143
+
+Vous avez jusqu’à dimanche soir 23h59 !!
+Pour rappel, seuls les cotisants BDE peuvent voter. Si vous rencontrez des difficultés avec le vote merci de contacter Jacques de Gayffier.
+
+On se retrouve mardi prochain, 30 janvier, pour dévoiler le résultat ! 🗳️
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Asgriculteurs BDS; contenu : [Asgriculteurs] x [petit dej] 
+Chers agriculteurs, venez vous remplir la panse avec notre petit déjeuner en haut de la descente pinède et au bât S🥐☕️. 
+
+Cultivement votre🧑‍🌾🌾', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [SDB]X[Asgriculteurs]
+
+Voici les agriculteurs qui mixeront ce soir 🔥 pour votre plus grand plaisir … 😏😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Thomas Bacquet; contenu : [Défi Toto&Toto] x [Résultats] x [✂️]
+
+Nous remercions tous nos volontaires d’être passés sous les lames impitoyables de notre tondeuse, heureusement pour vous, la batterie a bridé notre créativité.
+
+Bravo aux heureux vainqueurs de ce défi : 
+🚜 Les asgriculteurs
+💋 Les pétasses
+
+Merci à vous 6 vous nous avez régalés 🫶🏼
+
+Marine et Bacquet ✂️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Hugo Martin; contenu : Vend grand rideau de douche rouge. État neuf. 
+Fonctionne également comme tapis rouge, pour réception de célébrités 💅
+
+DM pour négociations. On l''offre à ceux qui en feront le meilleur usage. Familles, assos et (fake) listes bienvenues. 
+Anonymat garanti. Dernier délai ce soir minuit. 
+
+#asgriculteursencolere
+#asgriculteursAL''envers
+#fallaitPasSeCoucherSiTotHier
+#serieuxS''abstenir
+#onEstGentilsNormalementCestDissolution', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Thomas Bacquet; contenu : [Défi BDS] x [Bagne] x  [⛓️]
+
+Chers listeux.
+Le bagne reouvre ses portes.
+RDV à 21h pétante.
+Dans la forêt pinède.
+Aucun mensonge, que de l’honnêteté.
+
+A tout à l’heure. ⛓️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alésias ; contenu : [Alésias] x [Amphi de présentation] 
+
+Le moment est venu de vous présenter les membres de notre village Alésias.🛡️
+
+On se retrouve en amphi Pasteur afin de vous présenter le programme d’Alésias à 18h30.
+
+Au plaisir de vous voir nombreux, 😉
+
+Gauloisement vôtre, 
+
+Alésias 🐗', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMAscène; contenu : [DEFI BDS]x[EMA’SCENE]
+Salut les listeux 👋
+Ce soir vous aurez l’occasion de vous affronter 🥊 sur un exercice d’improvisation 🎭 sur le thème du sport 🏀
+Alors alesians 🐗, agriculteurs 🚜, résistants 🇫🇷 et pétasses 💅 on vous attend 📅
+🕦 Quand ? Aujourd’hui à 21h00
+📍Où ? Salle créativité n°2 - Cowork
+👤 Qui ? 2 personnes de chaque liste, fake list
+À toute à l’heure ! 😁', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Asgriculteurs BDS; contenu : [Asgriculteurs] x [shotgun SDB]
+
+Préparez vous à danser, ce soir les Asgriculteurs mettent le son à fond 💃 
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Asgriculteurs BDS; contenu : [asgriculteurs] x [résultats shotgun 🍷] 
+Voici les résultats du shotgun dégustation, nous sommes désolés mais nous ne considérons pas les premiers comme une réponse valide. Merci aux deuxièmes de nous contacter par message privé 🎉', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Asgriculteurs BDS; contenu : [Asgriculteurs] x [shotgun] 
+
+Le premier shotgun est là 🔫🔫🔫
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : Salut les bon vivants, nous invitons 2 agriculteurs de Les Asgriculteurs BDS et 2 gaulois de Alésias pour se retrouver autour de valeurs et produits qui nous unissent 🍷
+
+N.B : Ramener 2 bouteilles par liste 👨‍🌾🐗 
+
+À ce soir ✨', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Miniconi; contenu : Cailloux doit être vrai cailloux pas faux carton', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Pour retrouver plus facilement le live des révélations BDS c''est ici que ça se passe 🔥', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Campagnes] X [Grand tournoi BDS]
+
+Salut à tous, cet après midi a lieu le fameux grand défi BDS! 🥁🥁
+
+Il s’agit d’un tournoi multisport opposant nos deux listes Asgriculteurs et Alesias. 🌾🐗
+
+Pour les départager, du football, handball, du basket 3x3 et du beach volley. Sans oublier, pour finir le tournoi, le traditionnel relais cu interliste. 🍻💨
+
+Nous vous retrouverons donc de 13h45 à 16h sur les terrains pinèdes. 🌲
+
+Il est à noter que les allos, activités et stand seront suspendus donc n’hésitez pas à venir en masse pour supporter les deux listes!! Chauffez vous à venir! 🔥🧨
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alésias ; contenu : [Alésias] x [Petit dej’] 
+
+Bonsoir, 
+
+Préparez-vous à affronter la journée de demain comme de vrais Gaulois intrépides ! Rejoignez-nous devant  le Bat N  pour un petit déjeuner équilibré (croissants, pains au chocolat, pommes, clémentines .. ) 
+À partir de 7h00 jusqu’à 8h15. 
+
+Gauloisement vôtre, 
+
+ Alésias 🐗', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jules Crepy; contenu : Voiture avec phares devant le bat G 😥', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alésias ; contenu : [ Alésias ] x [ Réseaux ] 
+
+Bonsoir camarades gaulois, 👋🏽
+
+On vous propose de rejoindre le village Alésias, en suivant notre compte insta @alesias.bds.
+
+N’hésitez pas à nous contacter pour des allos. 
+
+Gauloisement vôtre, 
+
+Alésias 🐗', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Thomas Bacquet; contenu : [1er Défi BDS] x [Toto&Toto]
+
+Chers bizu bonsoir, nous convions une personne de chaque liste BDS (les fakelists sont également invitées), à venir ce soir à 22h30 à la plancha bat’ S, muni de leur plus belle chevelure, afin de profiter d’un dégradé de qualité réalisé par nos soins.
+
+Nous espérons vous voir nombreux et très motivé. ✂️
+
+Au plaisir et à tout à l’heure,
+Bacquet et Marine 🫶🏼', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Trésorerie du Cercle] X [Tutorat]
+
+Bonsoir à toutes et à tous,
+
+Nous souhaitons revenir vers vous pour apporter quelques précisions concernant les informations données à propos du compte tutorat lors de l’amphi de présentation de la Lucky List. Ce message sert à clarifier des propos que nous avons tenus et n’est aucunement lié aux listes ou aux campagnes BDE. 🤠🧙🏽‍♂️
+
+Pour cela, il nous faut expliquer ce que signifie « avoir de la trésorerie »…
+« Avoir de la trésorerie » signifie avoir une certaine somme d’argent disponible à un instant T sur son (ou ses) compte(s) bancaire(s). 
+
+Ainsi, lorsque nous avons dit que le compte tutorat nous permettait d’avoir de la trésorerie, nous signifiions qu’il nous permet de pouvoir faire toutes les sorties d’argent nécessaires à la vie Emayenne dans une période de mandat où il y a très peu d’entrées (typiquement la période estivale, où il y a des acomptes à effectuer pour le paiement du WEI, les dépenses d’Orlandini ou l’achat de matériel sportif… tandis que les cotisations arrivent en septembre).💸
+
+Le compte Tutorat (et ce n’est pas le seul) sert alors à réguler la trésorerie des comptes mentionnés jusqu’à ce que nous puissions en récupérer avec notamment les cotisations ou les événements organisés à l’intégration. Avec ces entrées d’argent, les comptes peuvent retourner les sommes prêtées, notamment au Tutorat. Ce dernier est ainsi réapprovisionné au cours du mois de septembre et récupère la totalité de sa trésorerie qui est ensuite INTÉGRALEMENT utilisée dans le cadre des actions prévues en collaboration avec Alès Agglomération.  
+
+Enfin, il est à noter que ce mécanisme n’impacte aucunement le Tutorat qui requiert très peu de dépenses lors de la période pré rentrée. 
+
+Ce message s’inscrit dans la continuité de nos promesses de campagnes, notamment en affichant le plus de transparence possible sur notre fonctionnement.
+
+Donc NON, les trésoriers du Cercle ne détournent pas d’argent public. Les accuser d’un tel délit est calomnieux, diffamatoire et irrespectueux du travail qu’ils fournissent quotidiennement.
+
+Circulairement vôtre ⭕️', 0);

@@ -1,0 +1,234 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Elise Mange; contenu : [Défi] x [Ultras EMA]
+
+Voilà défi :', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jacob Degore; contenu : [Défi Ema’scene]x[Campagne BDE]
+
+Pour ce 2ème jour de campagne, Ema’scene 🎭 a prévu un petit défi pour nos listeux 🧙‍♂️vs 🤠
+
+Alors, que la créativité  règne dans vos périples, et que la Meuh brille aussi bien à l''extérieur qu''à l''intérieur de ses murs ! 🌟🐄
+
+Vous avez une mission à réaliser 🤯 :
+
+Improviser un monologue 📜 à partir d’une situation qui vous sera donnée à votre arrivée au défi.
+
+Tenez vous prêt et rdv aujourd’hui à 16h 🕓 en salle créa 2 📍pour un listeux de chaque liste 📋', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Victorien Lebas; contenu : [CleanWalk] x [Défi ?]
+
+Bonsoir !
+
+À l''initiative de merveilleux 3A 🍀 nous organisons une CleanWalk autour de la Meuh
+
+Tu es listeux, Com DD ou tu as juste envie d''aider ? Alors rejoins nous pour rendre à la nature toute sa beauté ✨en nettoyant les alentours de la Meuh 🐮
+
+On te donne rendez vous ce jeudi (ouais aujourd''hui ouais) à 15h au Bat N
+On a des gants 🧤 pour toi (mais si tu en as n’hésite pas à prendre les tiens)
+
+CleanWalkment vôtre 🍀
+
+Bisous 💚
+
+.
+
+#ComDDAuBureau', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : [UberEMA] x [Défis] x [Campagnes BDE]
+
+⚡️ Salut les listeux ⚡️
+
+🤙 Les allos c’est pas que à la Meuh, j’espère que vous avez pensé aux pauvres exté qui se sentent parfois exclus des campagnes 😢🏠
+
+🏎️ Vos meilleurs pilotes doivent être sûr le coup pour livrer 🚚, transporter 🚕 et régaler tous les Emayens 💖
+
+À chaque allo à l’extérieur de la Meuh, faites un selfi avec votre client 🤳📸
+✉️ Envoyez les moi en pv (Amaury Fd sur messenger)
+
+🏆 La liste qui aura pris le plus en compte la communauté exté gagnera ce défis 👏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : 🐮🎬 [Défi Meuh Folle] x [Campagnes BDE] 🎬🐮
+Pour bien commencer les campagnes, la Meuh Folle lance son défi à la Poudliste Bde 🪄 et la Lucky List 🤠!
+📌 Votre mission : Transformez le clip d''un artiste de notre programmation 2024 en une vidéo humoristique à la sauce Meuh Folle (max une minute ⏱️) !
+🌟🎶 Besoin de goodies ? Faites-nous signe ! 🎩🐮
+🗓 Deadline : Dimanche 21 janvier : 12h00 🕛
+👥 Qui : Ouvert à tous, même aux fakelists 🇫🇷🕶️
+La Meuh Folle c''est demain et on lâche rien ! 🐮💛🩵🩷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : VertMines; contenu : [Défi]x[VertMines]
+
+Chers listeux, 
+
+Maintenant que les campagnes ont commencé, il est temps pour nous de vous défier 😈
+
+Après réflexion, un BDE, c’est un peu comme une ferme à gérer : il faut courir partout 🏃. 
+
+Alors venez nous montrer que vous êtes prêts à succéder aux Emaths ⚡️ !
+
+📌 : Terrains de pinède
+⏰ : Jeudi 18 janvier de 14h à 15h
+👩‍🌾 : Deux fermiers par liste
+
+Vertminement vôtre', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : MAJE - Mines Alès Junior Études; contenu : [Campagnes BDE]x[Défi MAJE] 
+
+Bonjour à tous ! 
+
+MAJE a le plaisir de convier 2 membres de chaque liste le 18/01 à 07h30 au bat O ! 📅
+
+La publicité est une composante essentielle dans la stratégie de communication d’une Junior Entreprise,c’est pourquoi notre défi consiste à coller 2-3 stickers à l''effigie de MAJE dans des endroits stratégiques permettant de faire un maximum de pub à l’asso ! 🌐
+
+Il faudra nous envoyer les photos des endroits que vous aurez choisi avant 20h le 18/01 et les membres de MAJE décideront de la liste gagnante ! ✌️
+
+Bon courage ! 
+
+L’équipe MAJE 🙂', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jay Timan; contenu : [Défi 3A] × [Table de BP] 
+
+La Poudliste Bde et la Lucky List envoyez deux joueurs pour récupérer vos tables.
+
+Fake lists acceptées', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Célian Bellengé; contenu : Clefs du E5 trouvées', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : Reveals listes BDE', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louis Blmnt; contenu : [ Défi ] x [ Cloch''Art ]
+
+Chers listeux,
+A quelques heures des campagnes, la Cloch''Art vous défie de ramener au bat N à 23h15 :
+
+- une tente (une pour les deux listes fera l''affaire) ⛺
+- des duvets 🥶
+- une canouche 😋
+- un bizuth de constitution solide 🦸‍♂️
+- un rat (optionnel) 🐀
+
+La présence des Fakeliste est aussi attendue👮‍♂️
+
+C''est rien, c''est la rue 🫶
+
+#RIPlesratsdupapidepaulin
+#CommortdefroidXRespaulin
+#JespereVotreTenteEstEtanche
+#Cafaitlabite', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [PREVENTION] X [CAMPAGNES]
+
+Bonjour à tous, 
+
+Les campagnes débutent ce soir et s’étendent sur les 3 prochaines semaines. 
+Il est donc important que nous fassions un rappel sur le comportement à adopter pendant cette période (et de manière générale), afin de garantir le maintien de tous les événements de la vie associative. 𝐋𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐞𝐬𝐭 𝐮𝐧 𝐩𝐞𝐮 𝐥𝐨𝐧𝐠 𝐦𝐚𝐢𝐬 𝐢𝐥 𝐞𝐬𝐭 𝐢𝐦𝐩𝐞́𝐫𝐚𝐭𝐢𝐟 𝐪𝐮𝐞 𝐭𝐨𝐮𝐭 𝐥𝐞 𝐦𝐨𝐧𝐝𝐞 𝐞𝐧 𝐩𝐫𝐞𝐧𝐧𝐞 𝐜𝐨𝐧𝐧𝐚𝐢𝐬𝐬𝐚𝐧𝐜𝐞❗️
+
+Tout d’abord, comme nous l’avons annoncé à notre amphi de mi-mandat, la SDB de jeudi soir est prévue de 23h à 3h. Elle sera DÉCISIONNELLE pour les horaires (et la tenue) des autres SDB des campagnes. 
+
+      Comme d’habitude, nous vous demandons de 𝐧𝐞 𝐩𝐚𝐬 𝐯𝐨𝐮𝐬 𝐫𝐞𝐠𝐫𝐨𝐮𝐩𝐞𝐫 au BAT S, dans les escaliers, dans les espaces communs de la Meuh et même de sortir petit à petit et non en groupe à la fin de l’événement. Ce sont les discussions en extérieur qui générèrent le plus de bruit. 
+
+      🚨Nous avons reçu 𝐮𝐧 𝐦𝐚𝐢𝐥 𝐝𝐮 𝐬𝐨𝐮𝐬-𝐩𝐫𝐞́𝐟𝐞𝐭 nous indiquant qu’aucun débordement ne serait toléré et que la limite des soirées devrait être fixé à 1h.🚨Avec l’accord de Madame Pinquier, nous avons réussi à garder l’horaire initialement négocié auprès de MAA: 3h. ⏰
+⚠️ Sachez qu’une seule intervention de la police sera suffisante pour annuler les soirées suivantes. Nous vous prions de rester attentifs, 𝐝𝐞 𝐫𝐞𝐧𝐭𝐫𝐞𝐫 𝐞𝐧 𝐒𝐃𝐁 𝐞𝐧 𝐬𝐢𝐥𝐞𝐧𝐜𝐞 𝐞𝐭 𝐝𝐞 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐞𝐫 𝐮𝐧 𝐚𝐫𝐫𝐞̂𝐭 𝐭𝐨𝐭𝐚𝐥 𝐝𝐞 𝐥𝐚 𝐦𝐮𝐬𝐢𝐪𝐮𝐞 𝐨𝐮 𝐝𝐮 𝐛𝐫𝐮𝐢𝐭 𝐪𝐮𝐞𝐥𝐪𝐮𝐞𝐬 𝐢𝐧𝐬𝐭𝐚𝐧𝐭𝐬 𝐬𝐢 𝐀𝐥𝐛𝐚, 𝐮𝐧 𝐝𝐞𝐬 𝐯𝐢𝐜𝐞𝐬-𝐩𝐫𝐞́𝐬𝐢𝐝𝐞𝐧𝐭𝐬 (𝐒𝐢𝐱𝐭𝐢𝐧𝐞, 𝐋𝐮𝐜 𝐨𝐮 𝐏𝐚𝐮𝐥) 𝐨𝐮 𝐦𝐞̂𝐦𝐞 𝐮𝐧 𝐦𝐞𝐦𝐛𝐫𝐞 𝐝𝐞 𝐥𝐚 𝐥𝐢𝐬𝐭𝐞 𝐨𝐫𝐠𝐚𝐧𝐢𝐬𝐚𝐭𝐫𝐢𝐜𝐞 𝐝𝐞 𝐥’𝐞́𝐯𝐞́𝐧𝐞𝐦𝐞𝐧𝐭 𝐥𝐞 𝐝𝐞𝐦𝐚𝐧𝐝𝐞. 🔇 Nous vous prions de respecter les consignes pour le bien des campagnes mais également pour la vie étudiante jusqu’à la fin de l’année. ‼️
+
+🚫 Nous rappelons que les fumigènes sont INTERDITS en intérieur et que le craquage d’extincteur est toujours autant sanctionné.
+
+👉 Au vu, des libertés que certains ont pris récemment, le BDE a décidé d’instaurer des 𝐬𝐚𝐧𝐜𝐭𝐢𝐨𝐧𝐬 𝐢𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐞𝐥𝐥𝐞𝐬 si vous ne respectez pas les locaux (dégradations quelles qu’elles soient) ou les consignes demandées.
+De même, la nudité en SDB n’est plus tolérée, vous devez rester habillé quelle que soit la température intérieure !!
+
+📞 Pour les Listeux nous vous rappelons que 𝐥𝐞𝐬 𝐚𝐥𝐥𝐨𝐬 𝐚̀ 𝐩𝐫𝐨𝐱𝐢𝐦𝐢𝐭𝐞́𝐬 𝐝𝐞 𝐥’𝐞́𝐜𝐨𝐥𝐞 𝐞𝐭 𝐬𝐮𝐫 𝐥𝐞𝐬 𝐡𝐨𝐫𝐚𝐢𝐫𝐞𝐬 𝐝𝐞 𝐜𝐨𝐮𝐫𝐬 𝐬𝐨𝐧𝐭 𝐈𝐍𝐓𝐄𝐑𝐃𝐈𝐓𝐒. 
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Elise Mange; contenu : [Ultras Ema] x [Poireaux]
+
+Retour en images sur le match des poireaux d’hier soir, capturées par l’apprenti Ema Visual : Belmont. 🧨📸
+
+Cliquez ici : https://www.facebook.com/groups/1049481348427139/permalink/24565600656388544/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : Salut riderrssss ❄️
+
+On voulait vous dire un énorme MERCI pour ce week-end de folie !
+
+Que vous soyez pro du hors piste ou alors que vous ayez découvert les joies des descentes pour la première fois, on a adoré partager ces moments avec vous.
+
+Un grand merci aux bénévoles 1A sans qui rien ne serait possible 🫶
+
+On espère que vous avez pris autant de plaisir que nous et on remet ça l’année prochaine 😘
+
+Si vous voulez partager vos photos/vidéos et peut-être apparaître dans l’aftermovie, envoyez :
+* un mail à [wesminesales@gmail.com](mailto:wesminesales@gmail.com)
+* un message à WES Mines Alès sur facebook
+* sur google drive : [https://drive.google.com/drive/folders/1fJma6_9Y1AEe3-x9GA57taSmJGLLxu0j?usp=sharing](https://drive.google.com/drive/folders/1fJma6_9Y1AEe3-x9GA57taSmJGLLxu0j?usp=sharing)
+
+La bise, le bureau du WES vous caresse 😏❤️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : La Meuhle; contenu : [La Meuhle] X [Location Fondue]
+
+Vous n’avez pas encore réussi les Sg des fondues de la Meuhle mais vous souhaitez quand même faire une fondue avec vos amis ? 🧀
+
+Ne vous en faites pas, la Meuhle (encore?) vous régale ! 🤩
+
+Amoureux du fromage ou grands gourmands (les 2 vont bien ensemble 😉) vous pouvez louer une machine à fondue pour 8 personnes GRATUITEMENT et cela jusqu’à la fin de notre petit bureau de souris.
+
+N’hésitez pas à vous régaler en nous contactant tout en commandant des allôs aux petits bizuth 👀
+
+Fromagement vôtre 🧀', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : English below 🇬🇧
+[Entr''EMA]x[Présentation de la carte étudiante]
+
+Bonjour à toutes et à tous☀️
+
+Cette année nous avons décidé de mettre en place un nouveau système afin d’éviter les échanges de compte Entr’EMA. En effet certains se permettaient d’utiliser le compte d’un ami, sans nous puissions nous assurer que ce dernier avait donné son accord.
+
+Ainsi, à chaque passage en caisse, nous vous demanderons de présenter votre carte de l’école 🪪 afin de vérifier que votre numéro de compte est bien le vôtre.
+
+Ce système sera mis en place progressivement dès ce jeudi, donc pensez à ramener votre carte 💡!
+
+Nous comptons sur votre coopération !
+
+Le bureau Entr’EMA 🍎
+
+🇬🇧 [Entr''EMA]x[Presentation of the student card]
+
+Hello everyone☀️
+
+This year we''ve decided to implement a new system to avoid Entr''EMA account exchanges. In fact, some people were taking the liberty of using a friend''s account, without us being able to ensure that the friend had given his or her consent.
+
+So, at each purchase, we''ll ask you to present your school card 🪪 to verify that your account number is really yours.
+
+This system will be set up from this Thursday, so remember to bring your card 💡!
+
+We''re counting on your cooperation!
+The Entr''EMA office 🍎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''Sterchef; contenu : [Meuh d’Argent] x [Menu]
+
+Salut à tous! 
+Petit rappel, la meuh d’argent c’est le 11/02. Le principe est simple, déguster un repas de qualité dont le menu se trouve ci-dessous.🤌
+Le prix du repas et le SG arriveront au plus vite, restez connectés 🕙
+
+Si tu veux t’investir dans l’évènement, n’hésite pas à envoyer un message à   Lina Chhang ou à Dénia Hernandez Zga pour être ajouté au groupe! (Message aux listeux: les campagnes seront terminées donc n’hésitez pas 😉)
+ 
+La bise du bureau Emaster’chef 👩‍🍳', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : [UberEMA] x [Illumination] x [PasDeNavetteMaisPasDinquietude]
+
+QUOI ?? Pas de navettes pour Illumination ?!?😱😰
+Tu l''as entendu à l''amphi BDE, il n''y aura pas de Bus pour rentrer... ❌🚎
+T''es déjà inquiet à l''idée de devoir marcher 30mins dans le froid🥶 pour pouvoir profiter du bar ?🍻
+
+Plus rapide que la lumière⚡UBER EMA⚡reprend du service ✨ 
+
+Et cette fois ce sera moitié prix ➡️ 5€ la course 🤩💸
+(que vous soyez tout seul ou à quatre 😎)
+
+Des trajets toute la nuit du bat N ou de l''école. On s''arrangera pour les itinéraires spécifiques 🏎 
+
+📅 Je vous redonne les infos avant la soirée 😉
+
+⚡⚡ Bisous ⚡⚡', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [CCL]X[Participants]
+
+Salut à tous 👋 !
+
+Voici la listes des sports participants au CCL !!
+
+Bravo à nos pompims les Cheertah qui grâce à vos likes sont sélectionnés pour participer au CCL 👏👏  !!', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d’Administration] X [CR] 
+
+Bonsoir à tous ! 
+Après un week-end sur les pistes ⛷️ le BDE s’est réuni ce lundi soir pour le Conseil d’Administration qui a tourné principalement autour des campagnes qui arrivent. 
+
+Le planning des campagnes a notamment été revu pour qu’un Afterwork de liste ne tombe pas en même temps que le repas des bénévoles Cartel qui n’a pas pu être déplacé. 🍴
+Nous avons discuté des soirées et de l’implication potentielle de la police et du sous-préfet. Nous posterons un rappel mais nous attirons votre attention sur le fait que toutes les règles doivent impérativement être respectées et que nous ne tolérerons aucun débordement. ⚠️
+Enfin, nous nous sommes fixés de poster les bilans de trésorerie et de la Com Vert avant le début des votes. 🌱💰
+
+Ensuite, la Com Vert a pu faire un bilan des AW du premier semestre. Il sera bientôt publié !🥬
+
+Pour finir, la Com Partenariat est en lien avec le Delta Festival pour obtenir des réductions sur les places. 🎤
+
+Bonne soirée et profitez bien de cette semaine festive ! Bon courage pour certains d’entre vous. 👀
+
+Circulairement vôtre ⭕️', 0);

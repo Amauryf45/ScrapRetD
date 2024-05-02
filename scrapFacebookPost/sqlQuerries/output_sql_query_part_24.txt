@@ -1,0 +1,231 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist] x [Indice pour le vélo] 
+
+Bon comme vous galérez on vous aide les moldus : 
+
+Les clefs sont à 10m autour du vélo 🔑 
+
+Bonne chance 🍀 
+
+Magiciennement vôtre,
+La Poudlist 🧙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist] x [Tournoi des familles] x [Rayons lumineux]
+
+Salut les sorciers et sorcières 🧙
+
+Le résultat du shotgun du tournoi des familles est posté sur EMA Promo, la compétition se déroulera en pinède, en face du laser game et commencera à 17:15. Pensez à vos ecocups, on sait jamais 🍺 
+
+On espère que la chasse au trésor et la carte du meuhrodeur vous plaisent. L’indice « rayons lumineux » fait référence à une activité qui a eu lieu en pinède 🙄
+
+Bonne chance, le vélo cherche toujours un propriétaire 🚲 vous auriez besoin d’un indice ?  👀
+
+Magiciennement vôtre,
+La Poudlist 🧙‍♀️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Antoine Joffroy; contenu : [Défis] X [Ralliste]
+hi,', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Magiciens; contenu : [DEFIS MAGICIEN]X[QUE DES CLASSIQUES]
+
+Ouai les reuf lundi soir défi magicien j’ai la flemme de faire un visu mais l’emission va être légendaire.
+
+Biensur on veut du saaale de la part des 2 listes et des FL', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist] x [Bar en pinède] x [Carte du meuhrodeur]
+
+Pensez à vos ecocups pour le laser game en pinède s’il vous plaît🥤 
+
+La chasse au trésor est lancée : la carte est affichée au bat O et il y a déjà des concurrents 🗺️ 
+
+Magiciennement vôtre,
+La Poudlist 🧙‍♀️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist]X[Résultat SG activité famille]
+
+Félicitations à vous pour votre sélection !
+
+Magiciennement vôtre,
+La Poudlist 🧙‍♂️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Guillaume Brisbois; contenu : [DefiBili]x[Les2Listes]
+
+Salut les jeunes listeux, venez partager un moment convivial avec la bili ce soir 21h30. 
+
+#CowBoy #HarryPoter #VictorCestCommentLeTrouDansLeMur #11Septembre2001 #EHBILI #LeDouanier #BandedeBizu  #2CaSuffitSiVousEtesSolides', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist] X [sg activité des familles]
+
+Tenter de gagner votre place au challenge !
+Il s’agira d’un relais cu en fin d’après midi 
+Je vous re précise l’horaire et le lieux très prochainement', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucky List; contenu : [SG paintball]x[maintenant]
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucky List; contenu : [SG SDB Rodéo]x[maintenant]
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist] x [Activités] x [zéro gaspillage] 
+
+ L’heure des activités a sonné 🔔   Rendez-vous dès 14h en pinède pour le laser game des sorciers : préparez vos meilleurs sorts 🪄 les duels opposeront 5 mangemorts 💀 et 5 aurors 🧙  
+
+ À 15h une carte du maraudeur sera affichée dans la meuh, à vous de la trouver et de réussir les énigmes en premier pour gagner les lots 🎁   
+
+Pour les plus gourmands rendez-vous en sdb pour récupérer les restes du brunch équipés de vos couverts, assiettes et ecocups 🧑‍🍳   
+
+Magiciennement vôtre,
+ La Poudlist 🧙‍♀️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Campagnes BDE] X [Défi Gala]
+
+Salut les listeux! 
+On vous attend demain 😉
+
+Le Gala 🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Nous aussi début des allôs] x [Hot dogs]
+
+Passez commande en dm pour votre repas du midi 🍽️ 
+
+On vous rappelle que les commandes se passent sur Instagram (@poudlist_bde) et messenger (Poudlist Bde) 💌
+
+Préparez vous pour les activities de cet après midi on vous en dit plus dans le prochain post 😁
+
+Magiciennement vôtre,
+La Poudlist 🧙‍♀️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist] x [Brunch pour les gagnants] 
+
+Bonjour les sorciers et sorcières 🧙‍♀️ 
+
+On vous rappelle que le brunch de la Poudlist commence à 11:30 ⌛️
+
+Rendez-vous en sdb avec vos couverts et ecocups pour les gagnants 🏅
+
+Magiciennement vôtre,
+La Poudlist 🧙‍♀️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [DÉFI BDE N° 10] X [VP] 
+
+Venez nous montrer que vous avez les épaules pour endosser ce rôle ! C’est le moment de montrer votre détermination, communication et réactivité…
+
+Voici les infos :
+
+⭕️ VP
+
+📜 Défi VP
+Affrontez l’autre liste sur un ensemble de défi qui mettrons à l’épreuve votre cohésion d’équipe, votre communication et tests sur votre aptitude de vp
+
+📆 dimanche 21 janvier 
+
+⏰ 12h 
+
+📌 Cowork
+
+👥 Les 3 VP
+
+🎒 Amenez votre force et tablette 
+
+PS : le travail de vp ça creuse 😋 
+       
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [DÉFI BDE N°9] X [TREZ] X [Poker revisité ♥️♠️]
+
+Prêt à relever le défi des trésoooooriers ?
+
+Alors voici les toutes les infos :
+
+⭕️ Trésoriers
+
+📜 Petits jeux + Poker revisité ♥️♠️
+Les trésoriers des deux listes sont convoqués en MDC à 18h
+
+📆 Samedi 20/01
+
+⏰ 20h30h 
+
+📌 MDC
+
+👥 Tous les trésoriers listeux/listeuses BDE
+
+🎒 Amenez votre meilleure pokerface. 💸 
+
+PS : Les trésoriers aiment tout ce qui est gratuit... 🤑 
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucky List; contenu : [Résultats SG]x[danse country]
+
+English below 🇬🇧⬇️
+
+À demain 10h en salle créa 2 🤠🫶🏼
+
+Farwestement vôtre, 
+La Lucky List 🐂
+
+🇬🇧English🇬🇧
+See you tomorrow at 10pm in creativity room 2 🤠🫶🏼
+
+Farwestly yours,
+The Lucky List', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Fin des allôs] x [Résultat du tirage au sort] 
+
+⬇️ English below ⬇️
+
+Bonsoir les sorciers et les sorcières 🧙
+
+On espère que vous avez apprécié nos crêpes, on arrête pour ce soir ❌
+
+Désolé pour l’heure tardive mais on vous poste les gagnants tu tirage au sort sur EMA promo 🏆 
+
+Les heureux élus sont conviés à un brunch 🇬🇧 demain matin dès 11h30, on vous tient au courant du lieu !
+
+Magiciennement vôtre,
+La Poudlist 🧙
+
+🇬🇧🇬🇧
+
+Good evening witches and wizards 🧙
+
+We hope you enjoyed our pancakes, we’re calling it a night ❌
+
+Sorry for the late hour, but we’re posting the winners of your EMA promo prize draw 🏆 
+
+The lucky winners will be invited to a brunch at 🇬🇧 tomorrow morning from 11.30am, we’ll let you know where!
+
+Magically yours,
+The Poudlist 🧙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucky List; contenu : [SG Paintball]x[LuckyList]
+
+English below ⬇️ 🇬🇧
+
+Salut les cowboys, on espère que vous avez kiffé les allos d’hier soir et que vous allez kiffer le cours de country de ce matin, pour les 10 petits chanceux 😎🕺🏼
+On vous propose une nouvelle activité, et attention elle est complètement zinzin, c’est du paintball 🎨🔫 SG demain (samedi 20) à 13h30, attention les règles pour réussir ce SG sont aussi capitales que l’eau dans le Far West :
+- Il faut constituer des équipes de 🛑9 PERSONNES et trouver un 🛑NOM
+- Vous pouvez affronter vos copains-copines en fournissant le nom de leur équipe !
+- Les joueurs solitaires seront ajoutés à des équipes incomplètes 🫶🏼
+
+Farwestement vôtre,
+
+La Lucky List 🐂🤠
+
+🇬🇧English 🇬🇧
+Hey cowboys, we hope you enjoyed last night’s allos and tomorrow morning’s country class, for the 10 lucky ones 😎🕺🏼
+We offer you a new activity, wich is completely crazy, it is paintball 🎨🔫 Shotgun tomorrow at 3:30pm, beware the rules to succeed this SG are as crucial as water in the Wild West:
+- Teams of 🛑9 PEOPLE and find a 🛑NAME
+- You can compete against your friends by providing the name of their team!
+- Solo players will be added to incomplete teams 🫶🏼
+
+Farwestly yours,
+
+The Lucky List 🐂🤠', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [DÉFI BDE N° 8] X [Fort Boy’Art] X [Défi Pôle Anim + Com Associations] 
+
+🎉Venez à l’un des défis mythiques des campagnes BDE : Le défi PÔLE ANIM 🎉
+Alors qui de la Poudlist ou des Lucky List saura animer le bar pour le plus grand plaisir du Pôle Anim (aka le Meilleur des Pôles)? L’enjeu sera de taille alors une performance hors du commun est attendue pour défendre votre liste et peut-être plus 👀🔑
+
+Voici les infos :
+
+⭕️ Tous les membres du Pôle Anim + Com Asso
+
+📜 Secret mais chacun pourra défendre son pôle
+
+📆 Samedi 20/01
+
+⏰ 21h
+
+📌 Bar
+
+👥 Respo Pôle Anim (Event, Anim, Logi, Alternant, Asso) et leur VP
+
+🎒 Amenez un Fut de bière 30L, écocup, bravoure 
+
+PS : N’hésitez pas à oublier le mensonge dans vos QG et à nous ramener à manger. Ramenez vous à l’heure sinon Paul va lancer Wild Rift…
+       
+Circulairement vôtre ⭕️', 0);

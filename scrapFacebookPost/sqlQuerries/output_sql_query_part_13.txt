@@ -1,0 +1,230 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Résultats] x [Défi Com Vert] 
+
+Après une course acharnée pour recycler nos déchets remportée par la Coup d’Ét’art 🥷, les deux listes ont su répondre aux questions avec précision ou ingéniosité et montrer qu’ils avaient très bien choisi leur com.
+
+La mémorisation des ODD a quant à elle été remportée par la Médiév’art 🏰, c’est donc une égalité qui clôt ce défi.
+
+Un grand merci aux deux amoureux de la nature qui ont su faire preuve de compassion face à ce défi rondement mal préparé. 🤭
+
+PS: merci d’avoir jeté nos poubelles 🗑️ et félicitations pour avoir fini votre verre vert 🥛🤢 !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Résultats] x [Défi Com Décors] 
+
+Avant toute chose, nous tenons à saluer la motivation et l''enthousiasme des com décors des deux listes qui ont su relever notre défi haut la main en prouvant tous qu''ils étaient capables d''être de super com décors. 👏👏
+
+Les deux listes ont su pimper leur œuvre avec brio mais nous avons cependant décidé de faire gagner la Médiév’art 🏰dont nous avons trouvé la chaise plus utilisable comme décor et comme assise.
+
+Nous saluons tout de même le travail de la Coup d’Ét’art 🥷, qui nous ont fabriqués un superbe tabouret/repose pied et on salue leur originalité 
+
+PS : les deux listes ayant travaillé sur les deux chaises, on vous laisse décider qui récupère quelle chaise', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Résultats] x [Défi Trez x Com Asso]
+
+C''est ce dimanche matin qu''a eu lieu le meilleur défi des 3 semaines. Au programme, courses et descentes au service des chiffres et des associations.🤑🤝
+Les 8,5 listeux, une com asso ayant dû partir au milieu du défi mais remplacée au pied levé par son vice-président, se sont brillamment défendus. 
+
+Mais, sur une dernière énigme, la Coup d’Ét’art 🥷 a pris une avance que la Médiév’art 🏰 n''a jamais su rattraper.
+C''est donc la Coup d’Ét’art remporte ce défi 🥷✊
+On tient cependant à souligner la préparation de Baptiste qui avait su anticiper certaines de nos questions 👏.
+
+Bisous, les trez et com assos.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Laurent Galdeano; contenu : [Défi BDAnciens] x [Clip rap gênant] x [Résultats]
+
+Les anciens du BDA sont ravis de voir que les deux listes ont accepté d''être aussi gênants. Un vrai délice.
+Malgré le gros argument de la Coup d’Ét’art🏏, c''est bien la Médiév’art qui a réussi à réaliser le clip qui a su le mieux séduire le jury 🛟.
+Les chevaliers remportent donc le défi des anciens du BDA.
+
+En espérant que cette tradition sera reconduite éternellement 🍆🍑
+
+Artistiquement vieux,
+Les anciens du BDA
+
+#unecouronnepourjackuzi
+#clipdefin
+#libereztousmescopains
+#lapsuceuralameuhfolle
+#jehuuurlederire
+#magrossebite', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Art''phétamines; contenu : **[Résultat défi] X [Art’phétamines]**
+
+Art’phétamines a été attristé de voir que les listes BDE ont utilisé l’IA pour faire leurs logos… 😔
+
+… C’est pour cela que nous avons demandé aux listes BDA d’en refaire de nouveaux (EN UNE HEURE) !
+
+Les votes ont balancé entre les deux propositions, mais c’est finalement la Coup d’Ét’art (deux premières images) qui a conquis Art’phétamines !
+
+Merci beaucoup aux deux listes de s’être données à fond en si peu de temps, et merci aussi à Mathis Jaouen pour avoir bien voulu participer au défi en candidat libre (dernière image faite sur Goodnote !).
+
+Addictement votre,
+
+Art’phétamines.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Germinalès; contenu : **[Résultat défi] X [Germinalès]**
+
+*DONG DONG*
+
+Voilà donc plus de deux jours que le défi Germinalès s’est achevé.
+
+Les listes se sont affrontées dans un Spelling Bee de haute voltige, entre billevesées prolixes, langage de glockenspiel et autres mots magyarophoniques digne d’un aigrefin ultracrépidarien, duquel la coup d’ét’art s’en sortie de peu.
+
+Mais le véritable défi qui devait départager les listes fut l’épreuve de l’éloge funèbre.
+
+Pour honorer un instant l’adversaire sur les notes d’une marche funèbre, la Médiév’art a su trouver les mots juste pour atteindre le cœur des âmes endeuillées.
+
+Mais c’est finalement la Coup d’Ét’art, par la poésie de ses images et par sa richesse littéraire, qui convaincra le jury à l’unanimité !
+
+Félicitations aux deux listes, vous avez géré, et merci à La Cambriol''art d’être venue au défi !
+
+Littéralement votre,
+
+Germinalès.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Glisse; contenu : [RESULTAT DEFI] X [LES PLANCHES DE SKATE LAAAA]
+
+Bon les images valent plus que des mots.
+
+Merci au 2 listes d''avoir fait des dingz sur les planches, en vrai on est trop heureux les 2 sont ultra  quali !
+
+Mais bon, le peuple à voté et c''est les révolutionnaires de la Coup d’Ét’art qui sortent vainqueurs de ce défi !
+
+Encore merci aux chevaliers de la Médiév’art, comme dit précédemment vous vous êtes donné et ça se voit.
+
+Glissement vôtre 🤙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alexis Senzier; contenu : [DEFI MAGICIEN]x[BDA]x [TOUS LES MICROS SONT RÉGLÉS]
+
+Messieurs, mesdames,
+
+Ce soir c’est BDA, ce soir c’est MAGICIENS, ce soir c’est MATCH 🔪🔫
+
+OM vs PSG, Fury vs Wilder, Mediév’art vs Coup d’ét’art : ce soir c’est déjà CLASSIQUE 
+
+Le putain de DERNIER DÉFI de 2024, c’est MAIN-TE-NANT :
+
+https://www.twitch.tv/lesmagiciensema
+
+A ne louper sous AUCUN prétexte 🧙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Cin''EMA; contenu : [Campagnes BDA]x[Résultat défi Cin’EMA]
+
+Objectif du défi : revisiter un film culte associé au thème de leur liste
+
+Contraintes : 
+- faire une scène où tout le monde a les yeux fermés
+- faire mourir un personnage
+- parler une langue étrangère autre que l’anglais
+- introduire une citation du film préféré de la prez ( Asterix et Obelix : mission Cléopâtre )
+
+La Mediev’art 🏰 nous a bien fait rire avec sa parodie des Visiteurs qui comprend : Des effets spéciaux, du bruitage, des transitions et un jeu d’acteur remarquable (on note l’incarnation réelle des personnages). 
+Merci à eux !
+
+La Coup d’etart 🥷 nous à proposé une parodie de Matrix qui comprend : un générique et des bonus, un fin scénario, un comique de répétition (🕶️), des modification sonores et un plot twist.
+Merci à eux !
+
+Après un vote serré, c’est finalement la coup d’etart qui l’emporte. Merci à tous vous avez regalé nos cinéphiles !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Médiév’art; contenu : [Médiév''art] x [Clip de rap]
+
+Nous espérons honorer le défi clip de rap (et vous faire rire)  avec cette vidéo 🙃
+
+Médiévalement votre,
+Médiév''art 🏰
+
+#jackuzi 
+#UnPeuGenantMaisÇaPasse', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Foyer; contenu : [Campagnes BDA]x[Resultat défi Foyer]
+
+Les deux listes se sont affrontées sur un dixit qu’ils ont qualifié de « trop dur ». 
+Le résultat en est la preuve puisque, malgré toute leur bonne volonté de gagner et toute notre bonne volonté de les départager, c’est la Cambriol’art💰 qui leur a roulé dessus.
+
+Finalement, les chevaliers 🏰 et les révolutionnaires📢 ont fini ex-aequo. 
+
+On remercie tous les participants pour leur participations, leur crêpes et leur sourire !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Résultat défi] x [Gala]  
+Samedi dernier nos chers listeux ont pu développer leur fibre artistique lors du défi gala ! 🤩  Nous félicitons la Médiév''art qui remporte haut la main cette activité avec leur belle reprise du thème du 89ème. 👏 
+Un grand merci à la Coup d''Ét''art qui a tout même bien combattu et défendu le thème du 95ème.
+Le Gala 🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Zavatt''art; contenu : [Résultat défi choré] x [Résultat défi Zavattartes] x [❤️Zavatt''art🎪]
+
+Vos clowns préférés se sont régalés 🤩
+C''est un ex-aequo pour les deux listes pour le défi de la choré, où  ils ont pu nous montrer leurs meilleurs jeux de jambes! Même si, malgré la détermination qu''ils avaient, aucune des listes n''est arrivé à la cheville des danseurs de la Zava 😎
+
+Nous ne cachons pas notre mécontentement à l''absence de photos de Zavattartes des listes 😡 mais félicitons la Médiév''art qui, pour le coup, a su faire honneur à cette belle tradition, et avec le sourire ! 😆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Bohémi''Art; contenu : [DÉFI] x [BOHÉMI''ART] x [METAL''EMA] x [RÉSULTATS]
+
+On a oublié les scores mais les chevaliers ont gagné le relai cu donc victoire pour eux bravo
+
+(Merci aux listes pour les bons moments et à metal ema pour le métal)
+
+Toujours plus loin, toujours plus haut, toujours plus fort
+
+#BohemiArtClapDeFin
+#MetalEMAPareil
+#Félindra #CugitoErgoSum
+#SatomiserXseLibérer
+#UnFuckingQuartdeMillierdeCrêpes', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comuz; contenu : [Résultat défi] x [Com''uz]
+
+Toute la troupe de la Com''uz remercie les listeux BDA pour leur participation au défi ❤️
+Ils ont su nous montrer leur combativité tout au long des manches, et ce même face au bureau qui s''avoue vaincu au riff off 🥲
+
+Le match aura été très serré mais nous félicitons la victoire de la Coup d''Ét''art 👏
+Mention spéciale à Marie de la Médiév''art qui nous a tout de même bluffé durant la manche d''imitation !
+
+Musicalement vôtre,
+La Com''uz ❤️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Médiév’art; contenu : [Médiév’art] x [Retour des costumes]
+
+Salutations ⚔️
+
+Nos costumes sont très beaux et nous comprenons que vous les convoitiez. ✨
+Cependant nous devons absolument les rendre dans leur totalité à la costumière, nous avons donné une caution pour la location.
+Nous vous demandons donc de nous rapporter les accessoires, vêtements ou objets nous concernant pour que tout puisse être rendu à temps 😊
+Vous pouvez nous contacter sur nos réseaux 📱
+
+Merci d’avance! 
+
+Médiévalement votre,
+Médiév’art 🏰
+
+#OnVeutGarderLaCaution
+#BourgeoisEnSueur', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Initiation base-ball ⚾️]
+
+Envie de tester un nouveau sport ? C’est le moment !
+
+Cette semaine on vous propose une initiation au base-ball ! Que vous soyez débutant ou joueur expert vous pourrez découvrir ce sport autour de nombreux ateliers. ⚾️
+
+Intéressé ? Rendez vous jeudi 8 fervier de 14h à 16h au stade de Calvière. Merci de remplir le form suivant pour nous permettre d’organiser au mieux cet événement :
+
+https://docs.google.com/forms/d/e/1FAIpQLSfts-OIqTM4OgrbrAypm0bwLePNjjaEnNz8DwpkRZ7TrASHxw/viewform?usp=sf_link
+
+On vous attend nombreux ! 💪', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Magiciens; contenu : [LES MAGICIENS]X[DEFI]
+
+Tout est dans le titre ramenez toute votre équipe ce soir c''est la guerre🧙‍♂️
+
+les prod sur messenger avant 18 h 30 par pitié
+
+https://www.twitch.tv/lesmagiciensema
+
+bisous les loulou 🥰', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : OMA - Orchestre des Mines d''Alès; contenu : [ATHEMA] x [OMA] x [Concert caritatif]
+
+Salut tout le monde ! 👋
+
+Sur une invitation de l’ATHEMA, l’OMA proposera ce mercredi 7 février un grand concert caritatif en amphi Pasteur, à partir de 20h ! 🎶 L’entrée est gratuite, mais il faut s’inscrire par ici : [https://www.helloasso.com/associations/athema/evenements/concert-caricatif](https://www.helloasso.com/associations/athema/evenements/concert-caricatif)
+
+Les fonds récoltés au cours de la soirée seront reversés à deux assos de l’école, Entr’EMA et l’AIMA ! 🤝
+
+Nous vous attendons nombreux !
+
+Musicalement vôtre, 🎷
+
+L’OMA', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d''Administration] X [CR]
+
+Bonsoir à tous,
+
+Ce soir s''est tenu le conseil d''administration de la semaine. À l''ordre du jour : demande de subvention du BDA pour le WEC, point sur les réunions qui ont lieu avec quelques internationaux et présentation de la soirée Illumination.
+
+Le BDA s''est présenté à nous pour une demande de subvention de 1500€, correspondant à une remise de 5€ par jour et par cotisant BDE lors de l''achat du billet du WEC. Cette subvention a évidemment été accordée. 🇮🇹
+
+Plusieurs réunions avec les internationaux ont eu lieu cette semaine, en réaction aux différents messages publiés sur EMA Promo, afin de faire évoluer rapidement la situation. Des actions à court et long terme ont été évoquées et sont en développement. Ces discussions ont notamment eu lieu avec les prochains Com Internationaux. 🌍
+
+Des précisions sur la soirée Illumination: horaires, sécurité et dispositions ont été données.🤩 Tout vous sera communiqué d''ici peu ! 👀
+
+Circulairement vôtre ⭕️', 0);

@@ -1,0 +1,232 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Esteban Felden; contenu : Hello, une de mes collocs (40ans, un chien, très gentille et respectueuse) cherche un logement pour les mois de juillet août et peut-être une partie de juin.
+Si vous êtes chauds de sous louer votre appart, envoyez-moi un message.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [WE BDX] x [Résultats du SG]
+
+Voici les 8 personnes qui vont pouvoir faire de la spéléologie ! 🔦
+
+Pour la via ferrata 🧗‍♀️il reste 1 place en niveau intermédiaire et 7 en niveau facile.
+
+Sportivement vôtre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Daniela Chitorog; contenu : [Meuh] x [Bague perdue]
+
+Hello tout le monde, 
+
+Tout à l’heure je me suis rendue compte que j’ai perdue ma bague à laquelle je tiens énormément. Je l’ai sûrement perdue au cowork/ alentours ou sinon en bas de la meuh vers le bat N.
+Si jamais vous la retrouvez, merci de me contacter 🙏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [WE BDX] x [SG]
+
+Peur du vide ou pas, venez faire de la via ferrata dans un cadre magnifique ! 🧗‍♀️
+2 niveaux disponibles 
+
+https://docs.google.com/forms/d/e/1FAIpQLSew1byCQsd_IQyCZfn0sezNjyHzm_klj2re96TMOrsJAcsx2g/viewform?usp=sf_link
+
+Sportivement vôtre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [WE BDX] x [SG]
+
+Venez explorer les grottes cévenoles🔦
+
+https://docs.google.com/forms/d/e/1FAIpQLSfdiFju3x1o7ePvaSLVoDNRJaVPD-4Q3kUOAyzMy4FnEMnH1g/viewform?usp=sf_link
+
+Sportivement vôtre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Respos Vss Mines Alès; contenu : Bonjour à tous 🙋‍♀️🙋‍♂️ 
+
+Malheureusement, nous n’avons pas eu assez de volontaires au rôle de respo VSS, nous relançons donc l’appel à candidature 📑 
+
+Pour vous donner plus de contexte, nous souhaitons créer une association (sous loi de 1901). L’objectif est d’établir un statut officiel aux respo VSS. Cela permettra d’organiser et de définir le rôle de chacun. Ainsi, la charge de travail sera clairement définie et bien répartit🧑‍🎓🤝 
+
+Le but de cette phase de candidature n’implique pas nécessairement d’être respo VSS à terme. L’idée est plutôt d’organiser des moments d’échange avec vous pour savoir quelles sont les enjeux qui vous tiennent à cœur et comment vous pourriez vous investir !  
+
+On vous redonne le lien du form :
+
+[https://docs.google.com/forms/d/1Roh4aoo1LZdhWrXXeJ3xMon55K9E7e3m6nar3TMfzVs](https://docs.google.com/forms/d/1Roh4aoo1LZdhWrXXeJ3xMon55K9E7e3m6nar3TMfzVs)
+
+Merci à tous,', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alan Retailleau; contenu : Pour les plus créatifs : voici **les filtres du Cartel 2024** ! 📸
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : [EMA Visual] x [Cartel 2024]
+
+Vous les attendiez avec impatience, la bannière et les photos du cartel viennent de sortir ⚡️ ! 
+🚨 Le slogan pour cette année est : « CARTEL 2024, on revient à l’attaque ! » 🚨
+
+Bon courage à tous les sportifs et supporters pour cette nouvelle édition du Cartel 🏆
+
+https://cercledeselevesema-my.sharepoint.com/:f:/g/personal/drive_ema-visual_cercle-des-eleves_fr/Ei6C-Db97EpLrItw0kPfvCYBqKgzE_8u7fwXxfFsuIYQDg?e=Cus6zn
+
+Visuellement vôtre 📸', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/share/p/rLez9EW919aCwkQT/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : [WEV]x[NOUVEAU BUREAU]x[🤙🤙]
+
+Apres un week-end rythmé par la puissance des vagues, la wax, les take-off emayens (ET LE MEILLEUR PACK BOUFFE JAMAIS RÉALISÉ), le bureau du WEV présente les 5 riders qui organiseront le week-end l’année prochaine !!! 🥁🥁🥁
+
+Présidente : Emmanuelle Assailly
+Vice-Présidente : Lili Roche
+Trésorier : Bilal Surugue
+Com Wave : Theo Johnstone et Anastasia Hadjadj
+
+Un nouveau poste est introduit cette année suite à l’édition 2024 : la Com Wave.
+
+Théo et Anastasia auront comme mission de communiquer, prendre des notes et gérer la logistique ensemble 🤝🏄‍♂️.
+
+On espère vous revoir l’année prochaine ! D’ici là, SURTOUT restez chill 🤙🤙🤙🤙
+
+Le WEV qui vend du rêve 🌊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMAscène; contenu : [NOUVEAU BUREAU EMA’SCÈNE]
+
+La fin d’année arrive 😢 et avec elle, c’est aussi la fin de notre mandat en tant que bureau à Ema’scene 🎭
+Et qui dit fin annonce le début d’une nouvelle, c’est donc avec joie que nous vous présentons le nouveau bureau d’Ema’scene 🤗
+
+Présidente : Julie Lagadec 👑
+Vice-président : Jaden Adamczak 🎭
+Trésorier : Hélie Tournyol du Clos 💰
+Com com : Cedric Castro 📱
+
+Nous avons hâte de voir ce que ce nouveau bureau va vous préparer, mais ce qui est sûr c’est qu’ils vont vous régaler 🎭
+
+Théâtralement vôtre,
+Le bureau Ema’scene 173', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : [BDI] x [Choix du thème]
+
+Bonjour à tous ! ☀️
+
+Pour cette année, le BDI a tranché sur 3 thèmes et à présent nous vous laissons décider lequel rythmera l''intégration 2024 ! 💃
+
+Le premier est Mario Kurt 🏎️, une inté dans l''univers de Mario et des courses de voiture 🍄
+La deuxième possibilité est le Kusino 🎰, tournant autour des jeux et de l''argent 💸
+Et finalement, comme dernier choix, nous proposons le Kurnaval de Rio 🎊 dans l''ambiance festive du Brésil 🇧🇷
+
+A vous de choisir ! 🫵
+
+Intégrationnement votre,
+Le nouveau BDI 🎉
+
+PS : c''est normal si on vous demande de vous connecter avec votre compte Google, c''est pour que tout le monde ne puisse voter qu''une seule fois 😁
+
+PPS : n''oubliez pas d''aller remplir le form pour les bénévoles svp 😁', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : [WEV]x[AFTERMOVIE]
+
+Hellooo les riders 🤙
+
+Avant d’annoncer le nouveau bureau ce soir à 18h, le WEV vous propose … 🥁🥁🥁
+
+☀️L’AFTERMOVIE « WEV 2024 : VIEUX-BOUCAU » !!! ☀️
+
+L’occasion de revenir sur un week-end plein de good vibes et de surf 🏄‍♂️
+
+On espère vous revoir l’année prochaine, d’ici là surtout restez chill 🤙
+
+Le WEV qui vend du rêve 🌊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Assemblée Générale Ordinaire] X [Fin de mandat des EMAthéniens] X [😢]
+
+Bonjour à toutes et tous, 👋
+
+L’heure est arrivée pour les EMAthéniens de prendre leur retraite après un an passé au Cercle Des Élèves.⚡️
+
+Cette expérience formidable a été un honneur. La vie associative de l’EMA est incroyablement riche et ce fut une expérience formidable, un honneur de la coordonner. On espère que cette richesse va perdurer longtemps. ✨
+On espère vous avoir fait profiter au maximum de ce qu’elle pouvait apporter et on a adoré y contribuer aussi via nos événements. On a vécu des choses très fortes, parfois des difficultés mais on est très heureux d’avoir partagé ça avec vous pour assurer notre promesse de transparence.🤝
+
+Après plus d’un an à vos côtés et à l’aboutissement de 2 mois de double bureau, c’est à la Poudlist 🧙 désormais de reprendre le flambeau. Nous leur avons transmis de quoi continuer de faire vibrer les étudiants de l’EMA et on a hâte de voir ce qu’ils nous réservent ! 🔜
+
+L’Assemblée Générale Ordinaire aura donc lieu lundi 22 Avril à 20h. Au programme : retour sur l’année ! 🔍
+
+Tous les adhérents sont conviés à assister à l’AGO en distanciel via un lien teams qui vous sera communiqué Lundi.
+
+Pour pouvoir officiellement clôturer notre mandat, un nombre minimum de personnes présentes est requis, nous comptons donc sur votre présence. 😁
+
+Circulairement vôtre ⭕️
+Le BDE des EMAthéniens, très ému 🫠', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Adelie Marrec; contenu : [EMA Rock&Salsa]x[Soirée dansante] 
+
+En ce retour de vacances, quoi de mieux qu''une soirée dansante pour se retrouver ? 🤩
+
+Venez nous rejoindre dans un moment de partage mardi 23/04 à partir de 19h en SDB !
+
+C''est l''occasion de passer du temps avec nos chers 2A que nous ne reverrons pas de suite et de profiter d''un petit moment de détente avant de tout déchirer au Cartel ! 😉
+
+Que vous soyez seul, en duo ou en groupe, que vous sachiez danser ou non, nous serons ravis de vous y trouver voir même de vous initier ! 💃🕺
+
+Rendez vous :
+📍 SDB
+🕖 Mardi 19h', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : Le bureau EmaVisual des 173 👴👵est fier de vous présenter les 10 successeurs qui sauront montrer EmaVisual sous son meilleur profil 👩‍🏫
+
+👑 Président : Gabriel Boubekeur 
+⚔️ VP : Charlyne Pierson  et Inès Lefèvre 
+💸 Trésoriere : Pauline Menut 
+💬 ComCom : Anne Faury  et Bérénice Guémené 
+🎥 ComVidéo : Nina Mayer et Laura Feith 
+🐮 Com Logo : Valentine Brdx 
+🎨 Com Projets Artistiques : Blandine Corteel 
+
+Nous leur confions les rennes de ce bureau indispensable 🌟 qui continuera d''immortaliser les meilleurs moments des emayens 👩🏼‍🎓
+
+Le bureau des 173, fier du travail accompli 🧡
+
+Visuellement vôtre 📸', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [YearBook 2023-2024] X [Deadline]
+
+Bonjour à tous, on espère que vous passez de bonnes vacances ! ☀️
+Juste avant de partir pour le Cartel n’oubliez pas de commander votre Yearbook ! La billetterie est encore ouverte jusqu’à mercredi 01 mai 23h. ⏳
+
+ ➡️ Billetterie : https://boutique.lyf.eu/cercle-des-eleves/yearbook-2023-2024
+
+Circulairement vôtre ⭕️
+
+Post FB : https://www.facebook.com/groups/3465543800402596/permalink/3575861859370789/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : La Meuhle; contenu : [Nouveau bureau Meuhle 2024]
+
+Voici les 8 fromagers en herbe qui constituent le bureau de la Meuhle 2024-2025, et qui vous régaleront tout au long de l’année avec leurs événements pleins de fromage ✨🧀
+
+Présidente : Margot Sablon ✨
+VPelardon : Eva Quertigniez 🧀
+VPecorino : Mael Le Corre 🧀
+Comcom : Garance Grandin 🤳
+Trésorière : Cécile Le Liboux 💸
+Com innovation : Célia Gastineau et Lucas Guérin 🤩
+Golden Cheese : Robin Laborde 🫕
+
+C’est avec émotion que nous leurs confions les rênes de la Meuhle, et avec impatience que nous attendons de voir ce qu’ils nous réservent pour l’année à venir 🧀🫕
+
+Un grand merci à tous ceux qui ont été présents lors de nos événements tout au long de l’année, et à tous ceux qui nous ont envoyé leur candidature pour reprendre le bureau ✨🧀
+
+Fromagement vôtre, 
+
+Le bureau de la Meuhle 2023-2024 💛', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Partenariat] x [COL VERT] x [English below]
+
+Bonjour à tous, 👋
+Le Cercle des Élèves est en partenariat avec le tailleur Col Vert qui propose de revenir à la meuh le 23 avril.  👔 Le tailleur propose trois gammes différentes de costumes et tailleurs, avec une réduction étudiante et tout est sur-mesure ! 🪡
+Ce costume pourra ensuite vous servir lors d’un entretien d’embauche, le forum des entreprises de l’année prochaine et, de manière générale, pour votre future carrière d’ingénieur. C''est particulièrement l''occasion pour les 2A de s''en faire un avant les départs en entreprises ou à l''étranger.🤵‍♂️🤵‍♀️
+
+Col Vert viendra à la meuh pour une séance de prise de mesures, environ 20 minutes par personne. 
+Pour réserver votre rendez-vous, inscrivez-vous via le lien suivant : https://www.col-vert.fr/link/inscription/Mines%20Ales-inscription-6614fe3bd909a.html
+Vous serez alors ajouté à un groupe messenger pour plus d’informations sur la prise des mesures. 
+Attention, il faudra un minimum de commandes pour que le tailleur se déplace. 
+
+🇬🇧
+On April 23rd, a tailor will come in person. Whether you''re a man or a woman, it''s the occasion to buy an affordable tailor-made suit that will be suitable for the Gala, job interviews, your futur engineering carrer in general... 🤵‍♂️🤵‍♀️ 
+Please book a 20-minute time slot in advance with the tailor by clicking on the following link: https://www.col-vert.fr/link/inscription/Mines%20Ales-inscription-6614fe3bd909a-EN.html
+
+Les informations au complet sont ici / For more informations click here : https://www.col-vert.fr/link/inscription/Mines%20Ales-email-6614fe3bd909a.html
+
+Website : https://www.col-vert.fr/
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : [BDI] x [Recrutement bénévoles et respos]
+
+Bonjour à tous !
+
+Il est temps de recruter les bénévoles et les respos pour l''intégration 2024 ! 💪
+A la fin du post vous trouverez un form pour vous inscrire, avec une présentation de chaque com pour avoir plus de renseignements et savoir dans quoi vous vous embarquez 🚣‍♀️
+
+‼️On a besoin de quasiment une centaine de bénévoles alors n''hésitez pas ! ‼️
+
+C''est l''occasion de faire bouger les choses si l''intégration de cette année ne vous a pas 100% convaincu 👊
+Il y aura aussi un amphi à la rentrée pour vous présenter la nouvelle équipe du BDI, les com plus en détail et ... vous annoncer le thème 💥
+
+Com anim, com restau, faux bizu... nous n''attendons plus que vous 🫵
+
+Intégrationnement vôtre 🎉
+Le bureau 2024 😎
+
+', 0);

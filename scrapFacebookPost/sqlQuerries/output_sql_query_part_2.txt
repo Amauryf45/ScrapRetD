@@ -1,0 +1,265 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [Bureau 2024] ❤️‍🔥
+
+C’est l’heure pour le bureau Pokumon de passer le relai à la nouvelle génération… 🥲
+Voici enfin la répartition du nouveau bureau que nous avons tant attendue 🥳 : 
+
+- Président : Alexandre Mapouata 👑
+- Vice-président.e.s : Ilias Jabil 🕺 et Selma Cbs 💃
+- Trésorier : Victor Gasnier 🤑
+- Secrétaire : Alexis de Mercey 🧑‍💻
+- Homme et Femme de fer : Anant Kashid et Lucie Leroy 🦾
+- Com Com : Garance Grandin 🗣️
+
+L’ancien bureau vous félicite pour votre nouveau rôle et on espère que vous allez régaler les prochains 1A. Bonne chance ! ❤️‍🔥
+
+Le bureau Pokumon, 
+Qui part à la retraite 👵👴', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [SDB Pré-Cartel]X[Line Up]
+
+Voici la dernière line Up du VIIe bureau EMAMIX 🪩 !! Venez nombreux pour vous faire ambiancer une dernière fois par les 173 🔥🔥
+
+Pour votre plus grand plaisir … 😏😏
+Le VIIe bureau EMAMIX 
+
+#laderniere
+#cestlheuredelaretraite
+#placealajeunesse', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jean-Baptiste Cellier; contenu : Salut, quelqu''un aurait des câbles de démarrage svp ?', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [SDB PRÉ CARTEL] X [RESULTATS DU SG]
+
+Ce soir les supporters seront bien plus que 13 ! 
+
+On vous attend tous en SDB pour préparer le Cartel🧨', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''Sterchef; contenu : [Ema''mamia]x[Résultat] 
+
+Voici le nom des 33 chanceux qui pourront savourer une délicieuse pizza 🍕 ! 
+Culinairement vôtre,
+Ema''sterchef 👩🏼‍🍳', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [SDB PRÉ CARTEL] x [SG] 
+
+Le prix de l''ambiance c''est pour Alès, venez vous entraîner en sdb🧨🔥📣
+
+https://docs.google.com/forms/d/e/1FAIpQLSfgkAwo0LMxqLaTI5IWAplhdRRBx7FXFwpuREMGCPdSdcauFg/viewform?usp=pp_url
+
+Sportivement vôtre🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Art''phétamines; contenu : **[Concours] X [Art’phétamines] X [Germinalès]**
+
+Chers poètes, chers artistes,
+
+Le concours Art’phétamines X Germinalès vient de prendre fin il y a quelques jours et nous sommes heureux de pouvoir vous partager les oeuvres des poètes/artistes les plus talentueux de la meuh ! 🤩
+
+Pour rappel le principe du concours est de créer, par équipe de deux, une œuvre qui mêle à la fois image et poésie sur le thème du concours (Une émotion) !
+
+Un grand merci à tous ceux qui se sont prêtés au jeu ! Vous pouvez tous être fiers de vous !
+
+Maintenant il ne reste plus qu’une dernière étape… Désigner un gagnant ! 🏆
+
+Les votes sont ouverts sur les groupes Art’phétamines et Germinalès jusqu’à jeudi 23h59 ! (Vous pouvez demander à Stéphane Yang d’être ajouté sur l’un des deux groupes).
+
+Vous pourrez voter pour désigner les meilleur(e)s poète(sse)📝, les meilleur(e)s illustrateur(ice) 🎨 ainsi que pour la meilleure œuvre 😍 qui recevra un prix !
+
+Merci encore à tous ceux qui se sont investis ! 😊
+
+Addictement et littéralement votre,
+
+Art’phé et Germin.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Dalil Zeamari; contenu : Salu qqun a une visseuse svp 🔩', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Nathan Desca; contenu : [Enquête]x[Vous]
+
+(English below)
+
+Bien le bonjour ! J''ai besoin de vos avis afin de pouvoir faire un retour à l''EMA sur les formations ! Le but est de mettre l''accent sur des points d''amélioration des formations des Mines. Cette démarche est uniquement personnel et n''est pas demandé par l''école. 
+
+J''aimerais recueillir votre avis sur trois points importants :
+1. Les corrections apportées à vos projets au long de votre formation
+2. Vos connaissances environnementales acquises grâce à votre formation
+3. Votre expérience des cours de DPPA (pour les alternants)
+
+Formulaire formation (très rapide) : https://docs.google.com/forms/d/e/1FAIpQLScD8jz0wYaunFDyFIbLdJy2eNqm22_cc3SD4Z1XCWW7F7dFbw/viewform?usp=sf_link
+
+De plus, si le temps vous le permet, un formulaire sur votre culture générale au niveau carbone est disponible. Le but est d''évaluer le niveau des élèves des Mines sur les fondements des perspectives nationales en termes de diminution d''émission de GES.
+
+Formulaire carbone : https://docs.google.com/forms/d/e/1FAIpQLScF_by6HVd1KOBj2unVPN-2bNhGNiTlZrfTNjpR7FC7zmXX6g/viewform?usp=sf_link
+
+Merci à tous par avance !
+
+__________
+
+Hello there! I need your feedback in order to provide some input to the EMA regarding the training programs! The goal is to highlight areas for improvement in the Mines training programs. This initiative is purely personal and is not requested by the school.
+
+I would like to gather your feedback on three important points:
+
+1. The feedback provided on your projects throughout your training
+2. Your environmental knowledge acquired through your training
+
+Training survey (very quick): https://docs.google.com/forms/d/e/1FAIpQLSeArRkvOpMhta4nPm3ECXwxDZq3NsAdPB8e7_s1n5M3VTIARQ/viewform?usp=sf_link
+
+Additionally, if you have the time, there''s also a survey available on your general carbon knowledge. The aim is to assess the level of Mines students regarding the foundational aspects of national perspectives on reducing greenhouse gas emissions.
+
+Carbon survey: https://docs.google.com/forms/d/e/1FAIpQLSfOE-KNa7_l8c__YT_Su5LNHpr_QhDUtOiM4z8TyRKDVLQ-IQ/viewform?usp=sf_link
+
+Thank you all in advance!"', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Glisse; contenu : [EMA GLISSE] x [La suite....] 
+
+Bon, on arrive vers la fin de l''année et toutes les assos commence à passer le bureau à l''année suivante. 🙀
+
+EMA GLISSE ne fait pas exception. 🥲 
+
+On attend donc vos candidatures pour le plus glissant bureau de l''EMA (CV / truc sympa original jsp faites qqchose) 🛹 🌊 🧊  
+
+Nous avons besoin de pourvoir les postes suivant :
+* Prez 🫡
+* Trez 🤑
+* Comcom 🥵
+* Gens motivés 🔥
+
+Glissement vôtre, le futur ancien bureau ! 🏝️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Présentation de la nouvelle direction artistique] 
+
+Embarquez avec toute l''équipe pour une aventure mystérieuse lors de notre 97ème gala cette année !🥳
+
+Découvrez notre logo et notre nouvelle direction artistique, le tout inspiré par les secrets des océans 🐳. Un grand bravo à nos respos visus Gabriel Boubekeur et Sylvanie Grateaud pour leur travail ❤️
+
+Restez connectés, la suite arrive bientôt ! 🐙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Mousse; contenu : [Campagnes]x[EMA Mousse] 🍻 
+
+Les campagnes EMA Mousse sont déjà terminées 😢 Merci aux deux équipes pour leur investissement et on espère que vous avez apprécié les bières 🕺 
+
+Pour ceux qui ont commandé des bières vous recevrez tres prochainement un lien par mail pour voter pour la MEILLEURE BIÈRE DES CAMPAGNES EMA MOUSSE 2024 🥳🍺
+
+PS : Les dernières livraisons auront lieu ce soir ou demain 😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Dégustation 173x174] x [Résultats SG]
+
+Voici la liste des heureux élus qui partageront un moment convivial pour la dernière fois avec le bureau 173 😢✨
+
+Sébastian Ciesla 
+
+Laura Sourdiaucourt 
+
+Chinaze Rahhab 
+
+Alexis Senzier 
+
+Ines Audinot 
+
+Marius Verdet 
+
+Samuel Sellouk 
+
+Anastasia Hadjadj 
+
+Adrien Michelot 
+
+Yann Dufrennes 
+
+Théo Imren 
+
+SImon Chapelet 
+
+Amandine Barreaud 
+
+Louise Carrat 
+
+Clément Gatinois 
+
+Emmanuelle Assailly 
+
+Amaury Ung 
+
+Amaury Fumard 
+
+Guillaume Faucher 
+
+Lison Sauzay 
+
+Guillaume Rigaud 
+
+Elise Mange 
+
+Martin Maurer 
+
+Mathieu Bounekir 
+
+Et le nouveau bureau 174 : 
+
+Guillaume Doze 
+
+Mathis Baragnon 
+
+Lucie Leroy 
+
+Léna Farthouat 
+
+Marius Ledemé
+
+Bastien Delmas 
+
+Charlotte Tholosan
+
+À jeudi !
+
+> In Vino Veritas 🍷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : MERCI !! 🫶💛
+
+En regardant en arrière sur ce week-end extraordinaire, il n''y a pas de mots assez forts pour exprimer notre gratitude envers chacun d''entre vous. Vous étiez plus de 200 bénévoles qui ont collaboré pour faire de La Meuh Folle un succès, et cela mérite plus qu''un simple merci. 👏
+
+Un immense bravo aux responsables pour votre leadership et votre capacité à inspirer les bénévoles, qui ont été rien de moins qu''extraordinaires. 🙌
+
+Ensemble, vous avez tous prouvé que La Meuh Folle est bien plus qu''un festival; c''est l’EMA qui se regroupe chaque année depuis 21 éditions autour de la musique et de la culture. 🎶
+Chaque sourire échangé, chaque problème résolu, c''était vous.
+
+Grâce à vous, la Meuh Folle continue de briller et de montrer ce que les emayens peuvent accomplir. ✨🤩
+
+Merci du fond du cœur. ❤️
+La Meuh Folle c''est demain, et on lâche rien !! 🐮💛🩵🩷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''Sterchef; contenu : [Ema''mamia]x[De super pizzas] 
+
+Les saveurs de l''Italie...🇮🇹
+Ema''sterchef te propose de voyager un bref instant en Italie avec une pizza  préparée avec amour au bat O ce jeudi 11 avril à partir de 19h00. 🍕
+
+Pour avoir la chance de se régaler, il faut shot gun Mardi 9 avril à 13h30 sur Ema promo 📱
+
+Culinairement vôtre 
+Ema''sterchef', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ema''Rando; contenu : [EMA Rando]x[Nouveau bureau]
+
+Bonjour à tous ! 🥾
+
+L’année n’a peut-être pas été très riche en voyages à travers les Cévennes ⛰ tout comme l’année dernière mais il est déjà temps pour nous de penser à notre succession. 
+
+Toutes nos sorties n’ont pas pu se concrétiser mais nous sommes ravis d’avoir pu vous proposer des randonnées autour d’Alès et souhaitons transmettre le club à une équipe tout aussi motivée que les précédentes voir plus ! 🍃🌳
+
+Pour la 4e année du bureau EMA’Rando, voici les postes à pourvoir :
+- Un président 
+- Un vice-président 
+- Un trésorier 
+- Un responsable communication 
+
+Envoyez vos candidatures de la forme que vous souhaitez avec une petite présentation de vous et de vos motivations📜 à la page Facebook Ema''Rando ou à Mathéo Daurios directement avant vendredi 12/04 18h 📆!
+
+Soyez créatifs ! 
+
+Le 3e bureau d’ema rando', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Compte rendu] x [Conseil d’administration] 
+
+Bonjour à tous, ce soir s’est tenu le dernier Conseil d’administration du Cercle en double bureau , 🥲 avec au programme : une demande de subvention du BDA 🧑‍🎨 et la présentation du nouveau BDI 🕺 
+
+Le BDA nous a fait un bilan de l’année écoulée et des dépenses des associations. 🎨 Une subvention de 1752,92€ leur a été accordée ainsi que des recommandations pour optimiser les dépenses du prochain mandat. 💸
+
+Le nouveau Bureau de l’Intégration est ensuite venu se présenter au Cercle avec déjà des pistes pour l’intégration à venir. 📆 
+
+Enfin, la Poudlist à fait un point sur la Pâques du Cercle 🐇 en revenant sur les différents événements de la journée. 🍫 Merci aux emayens d’avoir été au rendez-vous ❤️ on espère que ça vous a plu 😁
+
+Circulairement vôtre  ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ingénieurs Sans Frontières Alès; contenu : [Apéro🍕]x [ISF🌱] 
+ 
+Venez rencontrer ISF et ses membres mardi 9 avril à 20h30 en sdb ! 🤩
+
+Tu es intéressé • e par l''asso ou n''es pas encore certain • e de vouloir y participer 🤔? C''est l''occasion d''échanger avec nous avant la clôture des inscriptions (mercredi 10) et l''assemblée générale où sera voté le prochain bureau (le jeudi 11).
+
+Pour rappel, vous pouvez vous inscrire au nouveau bureau sur ce tableau Excel :
+https://imtminesales-my.sharepoint.com/:x:/g/personal/loick_belvindrah_etu_mines-ales_fr/ESsF_SKvNZ5Art3Q6BMTk2oBylNpGTU-TvbFeTGRqqcVMQ?e=V5eJlK
+
+Pour faciliter l''organisation et la commande de pizza 🍕 , pouce ce message si tu comptes venir 👍', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Maxime Lozada; contenu : Bonjour, le fauteuil qui bloquait la porte du Bat N n’était pas à prendre, celui qui l’a pris envoie moi un MP stp', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Léa Cassaïre; contenu : J''ai une place à donner pour la meuh folle ce soir ! C''est gratos, la seule contre partie c''est de payer un coup en rentrant ;) premier arrivé premier servi 😁🎉', 0);

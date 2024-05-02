@@ -1,0 +1,129 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Marie Mauchien; contenu : Salut, hier j''ai perdu une de mes baskets (new Balance 530) 
+Si vous la trouvez je serai ravie de la récupérer 😊
+J''ai aussi perdu une jupe bordeaux', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Matilde Régnier; contenu : Coucou, hier j’ai perdu un petit sac bleu marine avec mon passeport et mon téléphone dedans😿. N’hésitez pas à me contacter si vous savez où il est 🙏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Aurélie Fresse; contenu : Salut, je cherche un pull perdu au Gala. C’est QuickSilver gris qui fait un peu vintage. Il a vraiment une grande valeur sentimentale donc si vous l’avez vu n’hésitez pas à m’envoyer un message.  🙏 Il appartient à Justine Frot une 170.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Daniela Chitorog; contenu : Salut, 
+J’ai perdu mon anorak au gala, c’est un Timberland orange et noir. Si jamais vous l’avez vu, n’hésitez pas à m’envoyer un message.
+Merci d’avance et bonne journée.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Chinaze Rhb; contenu : Bonjour à tous, si quelqu’un aurait retrouvé un manteau bleu d’homme avec dans les poches une casquette, des cigares et des papiers au nom de Maxence BUHON merci de m’envoyer un message 🙏🏻', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jacob Degore; contenu : Salut, j’ai perdu ma veste. C’est une veste Jules bleu marine. Donc si vous la voyez ou si vous l’avez prise par erreur, jsuis chaud merci 😁', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alexandre Ml; contenu : Salut, j’ai perdu mes lunettes au gala, elles sont noires, assez ovales et un peu épaisses. svp dites moi si vous les avez trouvées, j’aimerais bien voir🙏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gustave Boissy; contenu : [RECHERCHE PLACE GALA]
+
+Bonjour bonjour, 
+Est ce que quelqu''un aurait une place pour la gala à vendre en urgence pour un diplômé en détresse ? Merci pour lui', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louis Blmnt; contenu : Trouvé ecouteurs sans fils contactez Belmont', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Charlotte Tholosan; contenu : Salut,
+J’ai perdu 3 bagues, sûrement en Sdb.
+L’une est dorée et épaisse, l’autre est dorée avec un triangle rose, et la dernière est un anneau argenté rayé.
+Merci d’avance si quelqu’un les retrouve.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louis Blmnt; contenu : Bonjour, qui a oublié son téléphone qu''il venait de recevoir pour son anniversaire ??', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Charlotte Houzé; contenu : Si qqn trouve un téléphone huawei noir avec une coque transparente en sdb dites moi Ewen Fraval vous remerciera ☺️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [ SDB Pré Gala ] x [ VSS ] x [ Prévention ]
+
+Les barmans sont à votre disposition pour que vous passiez le meilleur anniversaire possible. 🥳
+
+Voici les responsables VSS, reconnaissables à leur brassard rose et leur écharpe « miss anniversaire » :
+- Louis Belmont : 07 67 87 67 16
+- Inès Audinot : 07 68 93 62 99
+- Thomas Marine : 07 68 23 36 33
+- Anna Maufront : 06 52 60 64 03
+
+On compte sur vous pour que la soirée se passe au mieux, surtout au niveau bruit sur le parking et dans les escaliers ! Restez aussi vigilant sur la soumission chimique 🫶', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : Voici la line Up de ce soir 🔥 ! Joyeux anniversaire 🎊🎁 !!
+
+Pour votre plus grand plaisir … 😏😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : Bonjour à toutes et à tous, 
+
+Ce soir ce tiendra la fameuse soirée du pré-gala accompagnée de sa légendaire sdb organisée par le bar. Comme vous avez pu le voir hier, nous avons réussi à négocier une fin de sdb à 4 heures du matin. Ce qui est exceptionnel compte tenu du contexte actuel. MAA nous fait confiance ce soir. C’est pourquoi nous vous demandons d’être respectueux les uns envers les autres et aussi envers les locaux.  
+
+Si tout se déroule sans encombre ceci pourrait nous aider à négocier l’horaire de fermeture des prochaines sdb. Nous vous rappelons que si cela dérape c’est notre vie associative qui en sera impactée.
+
+Nous tenons aussi à remercier les barmans pour l’organisation de la sdb et nous leur souhaitons bon courage 😊 
+Nous vous souhaitons une belle soirée et de belles retrouvailles avec les anciens.
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : C''est le début du mois de décembre 🎅, et nous sommes plus excités que jamais car nous allons vous couvrir de news  🗞️ 🎁 !!
+
+Notre nouvelle palette de **jaune**, **bleu** et **rose** égayera nos publications quotidiennes, et notre vache 🐮, au-dessus des nuages ⛅ sera là pour vous rappeler que même après une période d''incertitude ⛈️, la **Meuh Folle** brille toujours de mille feux ! 🌟❤️‍🔥
+
+Durant les prochains jours sur notre compte Instagram @festival_meuh_folle, nous dévoilerons progressivement notre line-up d''artistes 👩‍🎤 pour la Meuh Folle 2024, le tout dans le cadre de notre nouvelle direction artistique. 🤩
+
+Mais attention, ce ne sera pas aussi simple que ça ! Nous avons préparé des énigmes pour chaque révélation ! 🧩😈
+
+Aussi, nous vous invitons à aller voter pour notre nouveau sponsor 🤝 **CB4Tech** 🖥️ qui est une entreprise dirigée par un ancien élève Claude Bureau et son fils Antoine Bureau !
+
+Ils ont développés un magnifique projet dont l''objectif est de distribuer l''eau 💧 de façon équitable et de façon durable ♻️ à l''aide de capteurs intelligents. 🌎
+
+Vous pouvez soutenir CB4Tech en votant pour la vidéo en ligne "Proxileaf" sur le site:
+
+[https://www.ales-audace.fr/prix-du-public-votez-pour-votre-projet-prefere-2023/](https://www.ales-audace.fr/prix-du-public-votez-pour-votre-projet-prefere-2023/)
+
+La Meuh Folle c’est demain et on lâche rien ! 🐮💜❤️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Laura Sdrt; contenu : [Safari félin]x[Tournoi samedi]
+
+Salut à tous !
+
+Les Tigresses vous attendent nombreux/ses demain à partir de 14h au stade Mandela pour les soutenir à la Saint Gobain ! 
+
+On compte sur vous pour rugir avec nous 📢
+
+Une composition détaillée de l’équipe se trouve en dessous et sur notre compte instagram : @lestitisdales
+
+🐯🐯Graou graou🐯🐯
+
+Les Titis d’Alès
+
+Ultras EMA
+BDS Mines Alès', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Sdb] x [Voiture] 🏎️💨
+
+Bonjour, pourriez-vous retirer vos voitures du parking du bat s ce soir afin d''éviter tout dommage éventuel ? Si les propriétaires décident de les laisser, le bar ne pourra en aucun cas être tenu responsable.
+
+Bon anniversaire, le bar 🥳', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [E-SPORT] X [PIPE EN BOIS] X [SEMAINE PROCHAINE]
+
+Bonjour à tous !
+
+Cette année encore, les Mines Saint-Étienne nous proposent de participer à la deuxième édition d’un tournoi e-sport 🎮 : la Pipe en bois 2! 
+Il s’agit d’une compétition intermines où cette année les différentes écoles vont s''affronter sur 9 jeux différents : 
+
+League of Legends (équipe de 5)
+Civilisation (solo)
+Super Smash Bros Ultimate (solo)
+Rocket League (équipe de 3)
+Valorant (équipe de 5)
+Teamfight Tactics (solo)
+Mario kart (solo)
+Super Auto Pets (solo)
+Les Échecs (solo)
+
+🗓️ Pour quand ? La pipe en bois aura lieu entre le 4 Décembre et le 10 Décembre. 
+
+👨👩 Pour qui ? : Pour tous les joueurs amateurs ou compétiteurs qui veulent participer
+
+Pas besoin de choisir un unique jeu : il est tout à fait possible de participer à plusieurs jeux ! 
+
+📝 Comment m’inscrire ? : Pour s’inscrire, il faudra remplir le form ci-dessous.
+https://forms.gle/n1YXBfAf5SvHE3vi9
+
+Alors venez représenter les couleurs de notre école, afin d’affirmer notre suprématie dans tous les domaines🔥🏆
+
+On vous attend nombreux au rendez-vous !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Gala]X [Institut Océane]
+
+Salut ! 
+On vient d’apprendre que l’institut Océane  fait une grosse offre de -20% sur les épilations avant le gala 🎭. On vous fait la liste : 
+
+- Jambes complète + maillot simple + aisselles + sourcils : 47,20 € (au lieu de 59 €)
+
+- Jambes complètes + maillot intégral, + aisselles + sourcils : 59,20 € (au lieu de 74 €) 
+
+- deux mi-jambe + maillot simple + aisselles + sourcils : 38€40 (au lieu de 48 €) 
+
+- deux mi-jambe + intégral + aisselles + sourcils : 50,40 € (au lieu de 63 €)
+
+Places disponibles AUJOURD’HUI de 14h à 17h. 
+
+Circulairement vôtre ⭕️', 0);

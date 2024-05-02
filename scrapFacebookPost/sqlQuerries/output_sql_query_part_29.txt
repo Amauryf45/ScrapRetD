@@ -1,0 +1,173 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : [La meuh c’est surcôté] x [La Glacière recrute]
+
+Salut !
+
+Piscine, terrain de pétanque et barbecue pour l’été 🔥🥵☀️
+Cheminée, salon avec écran plat et grande cuisine pour l’hiver 🪵💆‍♂️🥘
+
+Bien moins cher qu’à la meuh (320€/mois hors APL et on paie pas l’été) 💸
+
+Tout est inclus : ta grande chambre avec un lit double, chauffage, elec, la fibre… 👑
+
+Le tout à 5mins à pied de l’amphi Pasteur (même moins si tu marches vite 🏃)
+
+1 ou 2 places libres dès maintenant et 3 places en plus qui se libéreront d’ici à mars. Slide DM, si tu veux venir visiter (et prend ta serviette si tu veux essayer la piscine 🩳👙🥶)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Laury Rttr; contenu : Bonjour à tous, 
+
+Un manteau noir homme a été retrouvé suite au Gala du 2 décembre dernier. Si c’est le vôtre ou que vous connaissez quelqu’un qui en recherche un depuis, envoyez moi un mp avec la taille et la marque 😌
+
+Désolée pour l’annonce tardive 😅', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Présentation des barmans] x [Passation J-3]
+
+« Le bar poste MAINTENANT »
+Il n’a jamais menti à personne, que ce soit au bar ou dans la conv des com com de l’EMA dans laquelle il aura joué le rôle de com com le moins conventionnel (peut-être même l’a-t-il fait pour ce poste 🤯). 
+Et c’est mérité : recordman du nombre de dodo au bar, il n’hésite pas à flasher ses convives un peu trop lent (parce que oui, au bar ça marche à l’envers) pour les rebooster un peu, même lors des soirées « plus calmes », parce que ces soirées n’existent pas pour tout le monde, et surtout pas pour Toto. 
+
+Barman un jour, barman toujours', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Entr’EMA] x [Semaine de collecte]
+
+Bonjour à tous !
+
+Toute l''équipe de l''épicerie solidaire Entr''EMA vous souhaite une excellente année et ses meilleurs voeux 🎉!
+
+Vous le savez peut-être déjà mais des caisses de dons sont installées en permanence dans l''école 🧺. Nous y collectons des produits de première nécessité non réfrigérés (riz, pâtes, conserves, produits d’hygiène, etc.), qui seront ensuite redistribués gratuitement à l''épicerie pour les étudiants bénéficiaires.
+
+Nous souhaitons donner à cette deuxième semaine de janvier, une portée solidaire. En effet l''hiver est une période difficile pour tous et nos stocks ne tiendront pas jusqu''à la prochaine collecte estivale.
+
+Que vous soyez membre du personnel ou étudiant, cette semaine de reprise après les fêtes est l''occasion idéale de ramener quelque chose de chez vous, si vos moyens le permettent 😇.
+
+📍 Vous trouverez ces points de collecte autonomes et permanents aux emplacements suivants :
+    - Au premier étage du bâtiment B (devant le bureau de Mme Binand) (Clavières)
+    - À l''accueil du bâtiment A (Clavières)
+    -  À l''entrée du bâtiment M (Croupillac)
+
+Du lundi 8 janvier au vendredi 12, nous viendrons régulièrement récuperer les dons dans les caisses.
+
+Nous vous remercions par avance pour votre générosité. N''oubliez pas : chaque geste compte 💪
+
+L''équipe d’Entr’EMA 🍎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Présentation des barmans] x [J-4]
+Les listeux et les bureaux le connaissent, il aura donné de sa personne pour eux.
+Plus que présent, il a toujours des bonnes idées de thème pour animer les soirées au bar (et s’infliger 10x plus que les personnes qu’il vise) : kahoot, relais cu, courses, relais cu, karaoké, relais cu, cu, et relais cu, les jeux sont variés, de quoi donner envie aux petits et grands de venir admirer le spectacle qui se déroule au bar chaque semaine.
+La bonne humeur et l’énergie de Chap se sont transmises tout au long de cette année et croyez-nous, ce n’est pas la fin de mandat qui empêchera l’homme devenu le 3A toujours coach des bonos de continuer d’animer le bar.
+Barman un jour, barman toujours', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Présentation des barmans] x [Passation J-5]
+
+LAF, Gabrute, les surnoms sont multiples pour désigner l’as des relais cu (toute mention des lettres K-E-R-G-U-I exclue). Le barman le moins conventionnel de la meuh en a fait une spécialité : blocage de toutes les arrivées d’eau du bar, service de bière vieillie en fût d’inox déjà craqué depuis un an, dégustations surprises de plusieurs dizaines de bouteilles « au nom de la curiosité scientifique », autant de techniques peu conventionnelles que de surnoms. 
+Grand admissible au bar, il aura pourtant porté son rôle à cœur en dépit de ses anciennes obligations. Ah, l’amour du bar, et surtout de la bonne Méduze (ok le dernier point est peut-être faux). 
+
+Barman un jour, barman toujours', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Présentation des barmans] x [Passation J-6]
+Si vous ne l’entendez pas parler, c’est qu’elle a perdu l’usage de la parole.
+En effet, une fois n’est pas coutume pour un barman, Maelia ne ment à personne (sauf peut-être au relais cu du défi bureau x barmans mais on pardonnera pour cette fois (non)).
+La 1ère dame du bar ne perd jamais l’occasion de « nettoyer » le bar après la fermeture administrative de 23h : tout doit disparaître, à commencer par les fûts déjà ouverts, de peur que la bière ne tourne à l''intérieur.
+Barman un jour, barman toujours', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Présentation des barmans] x [Passation J-7]
+
+Bruno ? Burno ?? La burne ??? Allo !?!? Mais bordel où est-il ?!?!?! BRUNNOOOOOOOO  Si vous ne le voyez pas au bar, c’est sans doute parce qu’il prépare avec minutie les nombreuses épreuves que les aspiriens de cette année (les aspidy gonzales) ont dû affronter pour en arriver là. Il les a poussés dans leurs derniers retranchements plus d’une fois : pré-sélection, sélection, et bientôt passation, tout est millimétré, rien n’est laissé au hasard pour la com-passation de la 30e promotion de barmans, les 172, les whaspirites
+
+Barman un jour, barman toujours', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Présentation des barmans] x [Passation J-8]
+
+La passation bar arrive, c’est pourquoi le bar tient à présenter ses membres émérites qui vous ont servi et régalé cette année !
+Le premier membre à avoir droit à sa présentation n’est pas des moindres : si vous le voyez passer devant le bar à un moment de la soirée, c’est normal, on ne peut pas en vouloir à un primate d’avoir des instincts primaires. 
+C’est le cas de la Bacq lors de nombreuses soirées. Et oui, l’auto-financement du bar n’est pas une légende, mais bel et bien une réalité maîtrisée avec brio par les barmans. 
+D’ailleurs, cet auto-financement ne s''arrêtera pas avec la fin du mandat des 172 puisque Bacquet sera là jusqu’en mars (comme TOUS les barmans qui vous ont régalés cette année d’ailleurs, vous pouvez remercier leur GPA minable). Et Bacquet ne compte pas ralentir la cadence lors de ses 2 derniers mois à la meuh, entraînant avec lui ses 3 ans de débauche jusqu’au bout du bout, jusqu’à ce que la dernière goutte de bière soit épuisée. 
+
+Barman un jour, barman toujours', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Orlandini]x[Rappel recrutement] 📇
+
+Coucou tout le monde on espère que vous avez passé de très belles fêtes de fin d’année ! 🎉
+
+On vous rappelle que vous avez jusqu’au DIMANCHE 7 JANVIER 23h59 pour nous envoyer vos belles candidatures pour devenir membre du nouveau bureau Orlandini 🤗
+
+Un amphi aura lieu le mercredi 10 janvier a 13h pour élire le nouveau bureau Orlandini ! 🗳
+
+Bonne fin de vacances 😋', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://m.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1320612211928918/
+
+Les tant attendues 🤵‍♀️🤵‍♂️🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lilah Plst; contenu : Hello
+
+J''ai perdu une longue veste en cuir marron avec plein de trucs dans les poches hier en pinède
+Si vous avez des nouvelles je suis très chaud 😢', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1319387865384686/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Textile BDS]X[Logo du sweat BDS]
+
+Salut à tous 👋 
+
+Bravo au grand gagnant de notre concours pour dessiner le logo du sweat BDS … 🥁🥁🥁 … c’est le logo de … 🥁🥁🥁 … Florian Bonnet !! Bravo à lui qui gagne un sweat du BDS et merci à tous les participants !!
+
+La billetterie arrive bientôt ⏰ , restez attentifs !!
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Nathan Boue; contenu : [Colocataires en détresse] x [Ménage] x [A23]
+
+- Date : Aujourd’hui 
+- Heure : 18h 
+- Etat des lieux demain 
+- Rémunéré', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : TDM - Sur la trace des Mineurs; contenu : [TDM] x [DERNIERS JOURS POUR POSTULER]
+Hello tout le monde ! 🏃‍♀️🏃
+Il ne vous reste plus que quelques jours pour postuler et faire partie du bureau de la seconde édition du TDM 🤩
+Pour postuler, vous devez nous envoyer vos lettres de motivation à l’adresse suivante contact.traildesmines@gmail.com AVANT le 24 décembre à 18h 😄
+N’hésitez pas à nous contacter si vous avez des questions 😊
+L’équipe du TDM 🏃‍♀️🏃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alexis Senzier; contenu : [AW WEV🤙]x[Bénévoles]
+Hello les riders 🏄,
+Le WEV organise un AW le 8 janvier, et on aurait besoin de quelques mains motivées pour nous aider.
+
+Donc si vous avez un petit créneau de libre le dimanche 7 janvier, ou le lundi 8, n''hésitez pas !
+Voici un petit forms pour vous inscrire :
+https://docs.google.com/forms/d/e/1FAIpQLSceD0PekrQ3z_krLbFBSny2KHPVA7MvB1v19PVUKCXW-NHnTw/viewform?usp=sf_link
+
+On compte sur vous 🤙
+D''ici là passez de bonnes fêtes et surtout restez Chill 🍾
+
+Le WEV qui vend du rêve 🌊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [97ème Gala] x [Candidatures]
+
+Bonjour à toutes et à tous,
+
+Le Gala, c’était déjà il y a deux semaines 🤩
+
+Pour le bureau et les respos, la pression retombe, car c’est l’heure de lancer les candidatures pour faire partie de l’équipe du 97ème Gala 😱
+
+Futurs 2A et 3A, que vous soyez généralistes ou alternants, envisagez de reprendre l’héritage quasi-centenaire du magnifique événement intergénérationnel qu’est le Gala 🥳
+
+Voici la liste des postes que nous recherchons :
+* 1 ou 2 Trésorier (3A)
+* 1 Secrétaire (2A ou 3A)
+* 1 Vice-président.e Animation / Accueil
+* 1 Vice-président.e Décors / Logistique
+* 1 Vice-président.e RSG (VSS / Verte / Partenariats x Tombola)
+* 1 Vice-président.e Restauration / Cuvée de Promo / Bar
+* 1 Vice-président.e Communication / Audiovisuels
+
+Nous donnons cette répartition des pôles à titre indicatif, il vous est toujours possible de proposer une nouvelle distribution des pôles dans le forms dans la catégorie “autre” et lors de l’entretien 😉
+
+Pour toute question sur les postes, vous pouvez contacter les anciens membres du bureau 🤗
+
+Pour candidater, il vous faut simplement remplir ce formulaire :
+
+[https://forms.gle/2YZQScN9eFhhcMtG8](https://forms.gle/2YZQScN9eFhhcMtG8)
+
+Nous espérons vous voir nombreux aux entretiens !
+
+Vénitiennement vôtre,
+
+Le Gala 🎭
+
+PS : date limite de candidature dimanche 24 décembre à 20h !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Paul Cazals; contenu : Est-ce que ça intéresse quelqu’un ? 
+MP si jamais 🙂', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Parainnage exceptionnel] X [WES]
+
+Pour ceux qui auraient aimé partir au WES mais qui n’ont pas forcément les moyens 💰on vous fait une offre inédite valable jusqu''au vendredi 23 décembre 13h.
+Si vous n''avez pas encore votre place, le Cercle vous permet de vous faire parrainer par quelqu''un qui l''a déjà. Cette offre vous permettra d''économiser 30€ sur votre place ainsi que celle de votre parrain/marraine en utilisant le code promo WES24. ❄️ 
+La billetterie : 
+https://boutique.lyf.eu/wes/paiement_lyf
+
+Circulairement vôtre ⭕️
+Ps: les parrains/marraines seront remboursés pendant les vacances.
+Ps bis: un parrainage par parrain ou marraine !!', 0);

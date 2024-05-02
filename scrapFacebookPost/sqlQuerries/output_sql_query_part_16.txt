@@ -1,0 +1,200 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : [Défi Meuh Folle] x [Campagnes BDA] 🎨🍹
+
+🌟 La Meuh Folle est fière de vous son défi des campagnes pour nos artistes : Coup d’Ét’art et Médiév’art ! 🌟
+
+Chaque année, nous offrons une chance aux listes BDA de customiser les bars de la Meuh Folle, et cette édition ne déroge pas à la règle ! 🔥💛
+
+Vous connaissez le rituel : nos deux bars éphémères de la Meuh Folle se parent de noms originaux. L''an dernier, "**TaBARnak**" 🇨🇦 et "**BARt**" 🧒 avaient fait sensation avec leurs enseignes hautes en couleur et visibles de loin. 😍
+
+Défi lancé : Créez des enseignes captivantes pour nos deux bars mythiques de la Meuh Folle qui intègrent le mot "**bar**" ! 🍻🍹
+
+Rendez-vous 🕒 : Aujourd''hui à **16h00**, bat **B**.
+
+Nombre de personnes 🧑‍🎨 : **minimum 2 créatifs** de chaque liste (fakelist conviée évidemment La Cambriol''art et l''Art-mour est dans le pré)
+
+Coup d’Ét’art et Médiév’art, montrez-nous votre art de la fête ! 🎉', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Le Dindon Attaque; contenu : [DEFI DINDON ATTAQUE]
+
+Venez vous défier autour des musiques de rocks les plus classiques de l''histoire de la musique 👨‍🎤
+Rdv à 16h, n''oubliez pas le gouter 😉', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Médiév’art; contenu : [Mediev''art] x [SG SDB]
+
+Vous êtes invités à notre célébration nocturne : ne manquez pas le SG SDB à 13h sur EMA Promo! ✨️
+
+Médiévalement votre,
+Médiév''art 🏰', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Cin''EMA; contenu : [Campagnes BDA]x[Défi Cin’EMA]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Foyer; contenu : [Campagnes BDA]x[Défi Foyer]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Germinalès; contenu : **[CAMPAGNE BDA] X [DÉFI GERMINALES]**
+
+*DONG DONG* 🔔
+
+Emayennes, emayens. Les campagnes BDA à peine entamées, que la Maison des élèves doit déjà essuyer un terrible drame.
+
+Oui, hier soir, une liste nous a quitté. 💀🪦
+
+Nous laisserons les familles des victimes faire la lumière sur les sordides circonstances de cette nuit du 31 janvier. L’heure est pour l’instant au recueillement… 😔
+
+À la liste qui est encore parmi nous, Germinalès en appelle à vos meilleures plumes pour rendre un ultime hommage à vos anciens rivaux ! ✍️
+
+Défi : Chaque liste devra écrire un éloge funèbre pour la liste adverse (taille entre 300 et 400 mots, plus si vous êtes forts !) et viendra nous la lire le jour du défi. La lecture du texte sera précédée par un autre défi surprise !
+
+👤Qui ? : les 2 personnes par liste qui écrivent le mieux ! Fake listes conviées.
+
+📅Quand ? : Samedi 03, 10h-11h
+
+📍Où ? : Salle créa 2, Cowork
+
+Condoléancement vôtre,
+
+Germinalès.
+
+PS : envoyez nous le nom des participants pour que l’on puisse faire un rappel avant le défi !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMAscène; contenu : [DEFI BDA]x[EMA’SCENE]
+
+Salut les listeux 👋
+
+Ce midi vous aurez l’occasion de vous affronter 🥊 lors de plusieurs manches d’improvisation 🎭
+
+Alors révolutionnaires 🥷, chevaliers 🏰, agriculteurs 🚜 et cambrioleurs 💸 on vous attend 📅
+
+🕦 Quand ? Aujourd’hui à 13h
+
+📍Où ? Salle créativité n°2 - Cowork 
+
+👤 Qui ? 3 personnes de chaque liste
+
+À très vite ! 😁', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [campagne BDA] x [défi BAR]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Cedric Sallafranque; contenu : [Défi]X[Geeeenre]
+Défi proposé pour les com musiques de chaque liste !
+🕛Jeudi 21h 
+📍Salle de musique
+Vous allez jouer avec nous !!!
+Mélodieusement,
+Geeeenre', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Révélations] x [Campagnes BDA 2024]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Résultats campagnes BDE]
+
+⚠️ English bellow 🇬🇧 
+
+Après une semaine riche et intense, nous souhaitons avant tout féliciter les deux listes d’avoir tout donné et de nous avoir fait vivre des moments mémorables ! 👏
+
+Hier soir a eu lieu l’annonce des résultats. La liste qui reprendra le BDE l''année prochaine est... 🥁🥁🥁
+
+la Poudlist 🧙!! Ce sont eux qui succéderont aux EMAthéniens⚡️et détrôneront les dieux de l’Olympe !
+
+Détail des résultats 🗳️ :
+• Poudlist 🧙 : 327 voix ; 54,87%
+• Lucky List 🤠 : 215 voix ; 36,07%
+• Votes blancs ⚪️ : 54 voix ; 9,06% 
+
+Nous adopterons prochainement un fonctionnement en double bureau 🤝 jusqu''à l''Assemblée Générale Ordinaire pour former le prochain bureau. 🧑‍🎓
+
+Bravo également aux FL qui nous ont régalé, et particulièrement à EMA’rie Antoinette qui remporte la victoire : 
+• EMA’rie Antoinette 🇫🇷 : 290 voix ; 48,66%
+• Quart’ier 🔫 : 264 voix ; 44,3%
+• Votes blancs ⚪️ : 39 voix ; 6,54% 
+
+Circulairement vôtre ⭕️
+
+— 🇬🇧 English 🇺🇸 —
+
+[BDE campaign results]
+
+After an intense week, we would like to congratulate both lists for their commitment and for the great moments they made us live ! 👏
+
+Yesterday came the results of the vote. The list that will take over the BDE next year is …🥁🥁🥁
+
+the Poudlist 🧙!! They will be the ones to take after the EMAthéniens⚡️ and dethrone the gods of Olympus !
+
+Results details :
+• Poudlist 🧙 : 327 votes ; 54,87%
+• Lucky List 🤠 : 215 votes ; 36,07%
+• Blank votes ⚪️ : 54 votes ; 9,06% 
+
+We will soon begin a double team work 🤝 , until the Ordinary General Assembly which will constitute the next office. 🧑‍🎓
+
+Also, congratulations to the FakeLists for making this week a great one, and particularily to EMA’rie Antoinette who wins :
+
+• EMA’rie Antoinette 🇫🇷 : 290 votes ; 48,66%
+• Quart’ier 🔫 : 264 votes ; 44,3%
+• Blank votes ⚪️ : 39 votes ; 6,54% 
+
+Circularily yours ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Bureau Des Art’ificiers] x [Promesses]
+
+Bonjour à tous et à toutes ! 👋
+
+Alors que la dernière semaine des campagnes 2024 s’apprête à débuter, nous vous proposons de faire un point sur les promesses de campagnes de notre bureau ainsi que des projets en cours ou bien revus. 🎆🎇
+
+📅 Semaine à thème ❌ : Cette semaine avait pour but de mettre en lumière les associations sous le BDA en leur permettant de proposer des activités et défis autour d’un thème commun. Nous n’avons pas pu l’organiser mais espérons que cette semaine verra le jour dans les années à venir.  
+
+🎹 Le piano à l’école ✅ : depuis le mois de novembre, vous avez pu entendre de jolies mélodies jouées par nos artistes près de Pasteur, depuis qu’un piano, originellement en salle de musique à la Meuh, a été déplacé par nos bras. Merci à notre Com Musique Olivier qui a pu faire aboutir cette promesse.
+
+🎨 Projet Atelier Créatif dans la Meuh ❌ : Le projet de la Rockst’Art que nous voulions reprendre visait à aménager un lieu dans la Meuh où chacun pourrait exprimer son âme d’artiste. Nous souhaitions mettre à disposition une salle et fournir du matériel pour ceux qui en auraient besoin. Malheureusement, ce projet n’a pas abouti pour faute de lieu adéquat et disponible.
+
+🙋‍♂️ Com alternant ❌ :  Alexis, notre Com Alternant a cherché à placer le plus d’événements en fonction du planning des alternants et a travaillé avec les Com Alternant des deux bureaux BDE et BDS, pour faire convenir un maximum d''événements à tous. Cependant, l’objectif initial de la Com qui est d’inclure davantage les alternants à nos événements n’est pas totalement rempli et nous n’avons pas réussi à exploiter tout son potentiel ! Nous espérons que ce dernier le sera dans les futurs mandats.
+
+🌟 EMA’Star ⏳ : Cet évènement avait pour but de transformer EMA’s Got Talent. Au vu de sa réussite l’année dernière, nous avons décidé de garder l’événement sous son format d’origine.
+
+🖌️ Relook ton école ✅ : Après plusieurs mois de travail, vous avez pu découvrir à la rentrée 2024 la fresque qui arpente la cage de l’escalier du bâtiment B. Un grand merci à Art Attack et aux EMAyens volontaires d’avoir mené à bien ce beau projet !
+
+📲 Le concours de fond d’écran ⏳ : Durant le mois de novembre, vous avez pu nous envoyer vos créations pour qu’elles deviennent notre nouveau fond d’écran d’Ipad. Il n’y en a eu qu’un seul jusqu’à maintenant mais la suite devrait arriver très prochainement !
+
+🎭 Le Cart’naval ⏳ : Au vu de la réussite de la SDB Halloween, nous avons revu le format de l’événement, qui vous sera annoncé très bientôt. Mais attendez vous toutefois à une SDB carnavalesque !
+
+🎬 Les sorties culturelles ✅ :  Plusieurs sorties culturelles vous ont été proposées depuis le début de notre mandat : des films choisis par vos soins ainsi que de multiples sorties au Cratère, sur des thèmes et sujets diversifiés, dans le but de rendre l’art accessible à tous. Nous n’avons cependant pas donné suite aux sorties musée.  
+
+👨‍👩‍👧‍👦 Tournoi des logos de famille ✅ : Après des duels au sommet entre certaines familles de l’EMA durant le mois de décembre, le plus beau logo des familles a été élu par les EMAyens. La famille gagnante recevra très prochainement sa bannière à l’image de son logo.
+
+On souhaite bonne chance à tous les listeux pour cette nouvelle semaine de campagnes BDA et on espère que vous allez nous faire rêver ! 🤩
+Bonnes campagnes à tous !
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucas Riviere; contenu : Bonsoir ! 
+J''ai égaré ma carte de la meuh entre le Bat S et le Bat R. Si qqn l''a récupéré qu''il n''hésite pas à me contacter 😅', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Margaux Cherbonneau; contenu : Téléphone trouvé dans la montée pinède', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : Je suis enfin ouvert ce soir', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Please Stand Up] 
+
+Bonjour à tous 👋, 
+
+Si vous voulez passer une bonne soirée entre amis à rigoler et déconner, le Please Stand Up est fait pour vous 😉.
+Le PSU c’est quoi ? Des humoristes professionnels qui performent sur une partie de leur spectacle 🎙. 
+
+📅 Date : Le 13 février 
+🕐 Heure : 20h45
+📍 Où : au Pélousse Paradise dans le centre-ville d’Alès (🚙 8 minutes de la Meuh) 
+
+🎟 Si vous voulez faire partie du voyage, vous pouvez prendre vos places au lien suivant : 
+https://boutique.lyf.eu/bda/psu2024
+
+On vous attend nombreux le 13 février ! 🤩
+
+📸Les Instagram des deux artistes : 
+Younes Hanifi : https://www.instagram.com/youness.hanifi?igsh=bGZqZmJhZTNvZGNo
+Marine Ella : https://www.instagram.com/marine_ellaa?igsh=MTdid3Fkd3NsbWo2aQ==
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [CA commun]
+
+Lors notre amphi de mi-mandat, nous avons fait part de notre volonté d’intégrer les 2A comme nous le faisons pour les 1A et 3A dans les Conseils d’Administration du Cercle. 
+D’autre part, pour dynamiser les conversations nous avons choisi de regrouper les volontaires sur un seul groupe.  💬
+
+Si vous souhaitez y être ajouté, inscrivez-vous sur ce forms : https://docs.google.com/forms/d/e/1FAIpQLSdAOV2x6DjSaaqvqSBQgT54BdkVAO5K7pZ8gyRwcGi5BeBGXA/viewform?usp=sf_link
+Les Emayens déjà présents sur les groupes seront ajoutés automatiquement ! 
+
+Cette conv vous permettra vraiment de prendre part à notre vie associative, que ce soit en restant informé.e et/ou en ayant la possibilité d''être écouté.e ! 🗣️
+S''inscrire sur ce forms ne vous engage à rien et vous pourrez quitter le groupe dans l''année si vous le souhaitez. Au contraire, si vous désirez rejoindre le groupe plus tard ou si vous avez des questions vous pouvez contacter Luc Mullie. 😉
+
+Enfin pour le « pourquoi » et le « comment ça marche » on vous laisse jeter un œil à l’ancien post : https://www.facebook.com/groups/3465543800402596/permalink/3479907852299524/
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : C''est une victoire des asgriculteurs pour le défi com capi !🏆
+Bravo et merci aux Alesias pour leur implication !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Bravo et merci à tous les participants de ce défi comcom!
+Et bravo aux Alesias pour leur victoire ! 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Pour le défi com tournoi c''est une égalité ! Merci à tous les participants et leur investissement !🏆', 0);

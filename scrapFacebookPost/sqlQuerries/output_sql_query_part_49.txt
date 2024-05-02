@@ -1,0 +1,218 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Allan Seche; contenu : À suivre prochainement sur Instagram, vos vampires préférées vont manger de l''empeadas ! 
+#DracuWomen', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [WEI] x [Bungalow] ❤️‍🔥
+
+Voici les représentants des 4 bungalows de 6 : 
+- Arnaud Noel-Abarca
+- Nils Domenge-Heritier
+- Emma Sohm
+- Arthur Masson
+
+Ceux qui ont sg pour un bungalow à 6, on vous laisse 🚨 jusqu’à 16h 🚨 pour refaire le forms pour un bungalow à 4 : 
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [WEI] x [Bungalows] ❤️‍🔥
+
+Voici le forms à remplir pour les bungalows :
+https://docs.google.com/forms/d/e/1FAIpQLSc7A9Wwlg5QtlolCir0gyt6p9OtkJaOdlutizORUlpN5Ak5gA/viewform?usp=pp_url
+
+⚠️ Une réponse par bungalow suffit.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [Places WEI] ❤️‍🔥
+
+Bonsoir à tous,
+
+C’est avec des infos très importantes concernant le nombre de places au WEI qu’on revient vers vous. 
+
+Nous avons fait appel au tour-opérateur WEI AND GO pour nous aider à organiser le WEI. Nous avions convenu que le nombre de places disponibles était de 450, avec une extension possible jusqu’à 500 places en discussion. 
+ 
+À cause d’une mauvaise communication entre le tour-op et le camping accueillant le WEI, nous apprenons tardivement qu''il y a seulement environ 400 places. 
+
+Nous avons passé plusieurs jours à envisager toutes les issues possibles.
+La seule solution réalisable pour que le WEI se passe au mieux, que nous avons retenue, est de bloquer le nombre de participants à 400. 
+
+Puisque nous avions déjà vendu plus de 400 places, nous sommes obligés de rendre leur place à certaines personnes. 
+En tant que 1A, vous êtes bien sûr prioritaires pour le WEI, donc vos places au camping restent réservées. 
+Mais, pour les autres Emayens, nous ne pouvons loger que ceux qui ont SG et seulement les 400 premiers. 
+
+Pour les personnes qui ont payé mais qui ne logeront finalement pas au camping du WEI, vous serez évidemment remboursées. Plus d’infos vous seront données demain.
+
+Néanmoins, vous pourrez vous rendre au WEI par vos propres moyens, par exemple en logeant dans un des campings voisins. La réservation, les déplacements ainsi que la nourriture ne sont pas pris en charge par le BDI, vous en êtes responsables. 
+Vous aurez accès aux activités et soirées du WEI, grâce à un bracelet à 8€ qui vous sera vendu à l''entrée du camping du WEI dès vendredi soir.
+
+Pour cela, nous révèlerons la destination du WEI demain matin pour que ceux qui souhaiteraient quand même y participer puissent s’organiser et réserver au plus vite un logement.
+
+Nous nous excusons sincèrement auprès des personnes qui ne pourront pas finalement loger au camping du WEI. Nous avons appris tout cela il y a seulement 3 jours et avec le peu de temps qu’il nous reste, nous n’avons pas eu d’autre choix.
+
+Voici la liste des personnes pouvant loger au camping du WEI, ceux qui n’ont toujours pas payé leur place, envoyez-nous un message avant demain (mardi 19) à 12h30 sinon votre place sera redistribuée.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Cabarema; contenu : [Afterwork  Cabar''ema]
+
+Cabar''ema vous propose demain à 20h son afterwork en sdb au bâtiment S.   
+
+Au programme : 2 hotdogs accompagnées de pommes de terres rissolées, une salade de fruits et un cocktail délicieux.  
+En bonus : des pop corn, ainsi qu''un chamboule-tout pour vous divertir.  
+
+Que vous ayez aimé l''afterwork de ce soir, que vous l''ayez raté et que vous vouliez vous rattraper, que vous ayez entraînement ou que vous souhaitiez vous régaler et soutenir l''association, vous avez toutes les raisons de venir demain à partir de 20h. Alors n''oubliez pas votre assiette, pensez à prendre 2 écocups et à demain !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Bilal Delais; contenu : [💈EMA COUPE X OUVERTURE DU SALON ✂️]
+
+Bonjour à toi cher Emayen,
+
+Tu en as marre de devoir chercher un nouveau coiffeur en ville pour te faire les contours ? 
+Tu n’en peux plus de payer 15€ chez YES pour ton degradeh ? 
+Ne cherche plus, Bib’hair est là pour te tailler une coupe vite fait bien fait, que ce soit dégradé, mulet, boule à z, tout ce qui nécessite l’utilisation d‘une tondeuse est possible.
+Au plaisir de te couper les cheveux,
+
+Hairtistiquement
+Bib’hair', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Morgane Moysan; contenu : [Etika Mondo] X [EMA] 🪲
+
+Bonjour emmayen emmayenne,
+
+Etika mondo est un ecolieu situé au coeur des Cévennes qui accueille des missions 1A pour les Mines d’Alès depuis 2 ans.
+
+Ce jeudi 21 septembre un membre de cet ecolieu et ancien élève de l’école (168) vient aux Mines d’Alès et pour l’occasion nous organisons un apéro/table ronde pour discuter autour de ce mode de vie alternatif et lieu d’innovation. 🍻
+
+📍Ou ? L’atelier de marie
+
+🗓️Quand? 21 septembre à 18h30 (des covoit seront organisés depuis la meuh, veuillez contacter Léonie Chauvet pour être ajouté au groupe)
+
+Que vous ayez la fibre écologique ou si vous vous posiez simplement des questions sur le modèle économique de cette société alternative, vous êtes les bienvenu.es.🌱
+
+A très vite pour « faire ensemble »🤝
+
+#permaculture
+
+#lowtech
+
+#redefinitiondesbesoins
+
+Pour aller plus loin : https://etikamondo.com', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Trophée Orlandini]x[Soirée jaune]
+
+Vous êtes invités mercredi soir à 19h au Café Pablo dans le centre ville d’Alès pour une super soirée ! Les pintes 🍻 et les ricard  seront à 2€, et il y aura pleins de jeux, et des goodies à gagner !
+
+⚠️Paiement en espèce⚠️
+
+Voici l’adresse : 7 Place Henri Barbusse
+30100 Alès
+France
+
+Petit rappel, si vous voulez devenir bénévole pour Orlandini, inscrivez vous sur ce form : https://docs.google.com/forms/d/1IXL_sn-E_lVgCR4KS9lcLmSNYcYI2Fn16pSwPW_dCo0/
+
+On vous attend nombreux !!!!
+
+🤎Le bureau Orlandini 🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d''Administration] X [CR]
+
+Bonsoir à tous,
+
+Ce soir s''est tenu le conseil d''administration du Cercle des élèves comme chaque dimanche soir. Au programme: présentation de Mme Chacon 👩‍💼, demande de subvention du WES 💸,  présentation du contrat KOMI 📱, fonctionnement récompenses Com Vert 🍃 ...
+
+Madame Chacon est la responsable du nouveau pôle Vie du Campus et des élèves de l''école. Elle nous a présenté son rôle et les ambitions du pôle: développer l''accompagnement social et médical de l''école pour les élèves en accueillant un infirmier et en organisant des permanences de médecins, sages-femmes, psychologues...🩺
+
+Le WES s''est ensuite présenté pour sa demande de subvention annuelle. ❄️
+Le Cercle a accepté une subvention de 3100 € , ce qui revient à une réduction de 5€ par jour et par EMAyen, comme promis à tous les clubs qui organisent des événements sur plusieurs jours !! ⛷️
+
+Nous avons aussi reçu KOMI qui nous a présenté le nouveau contrat qui va être discuté au sein du BDE ainsi que les différente mise à jours effectuées et à venir !📱
+
+Enfin, les calculs pour récompenser les AW à plus basse empreinte carbone ont été présentés par les Com Vert. Ce système a été mis en place pour encourager tous les EMAyens à faire attention à sa manière de consommer. 💚
+
+Le Cercle vous remercie pour votre participation au week-end que nous avons organisé. C''est avec plaisir que nous avons partagé des moments conviviaux en votre compagnie!! 😍
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : TDM - Sur la trace des Mineurs; contenu : [AW TDM]
+Hello ! 🏃‍♀️🏃
+L’équipe du TDM vous donne rdv demain à 19h30 en sdb pour son Afterwork 😋
+On vous attend nombreux !! 😄
+L’équipe du TDM 🏃‍♀️🏃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Calendrier Alternants] 
+
+Les alternants 1A commencent demain leur première période en entreprise. 🧑‍💼
+
+On en profite pour vous partager leur planning de cette année. 🗓️ Les périodes colorées sont celles où ils sont présents à Alès. 📍
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Magiciens; contenu : [Magiciens]X[Première]X[Bientot dans la légende]
+
+Salut l’équipe !
+c''est le retour des lives et la première du nouveau bureau
+Tu sais pas comment occuper ta soirée en ce dimanche ? Les magiciens débarquent pour réchauffer ton cœur et tes oreilles avec un peu de rap ❤️‍🔥
+RDV 20h sur Twitch pour passer du bon temps avec nous 💜
+Lien Twitch : https://twitch.tv/lesmagiciensema
+À toute à l’heure ! 
+Magiquement votre,
+Les Magiciens 🧙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Margot Decot Mathieu; contenu : J''ai trouvé le permis de conduire de Baptiste C. Viens le récupérer en V06', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Calista Gaddini; contenu : [Canditature mascotte] x [pompim] x [au revoir Louis] 
+
+Emayennes, emayens,
+
+L’heure est venue pour Louis, notre mascotte préférée, de prendre sa retraite 👴🏻🐂🥲 
+
+Tu as envie d’animer le public lors des show pompim, avant les matchs ou pendant les grands événements ? 🎉Tu veux motiver les équipes et mettre l’ambiance ? 💃🏻🕺🏻Tu es dynamique et tu sais amuser la foule ? ✨
+Alors ce rôle est fait pour toi !! 
+
+Il va falloir suivre les entraînements pompim avant chaque événement ou show, afin d’être intégré au mieux ! 🎀🤝
+
+Si tu es intéressé pour reprendre le flambeau et devenir la nouvelle mascotte de l’EMA, envoie un message à une des personnes suivantes : Louis Blmnt Calista Gaddini Mathilde Zurita Arthur Vergnes Fleur Ndl 
+
+On a hâte de découvrir la nouvelle mascotte des Mines d’Ales 🔥🎆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''Sterchef; contenu : [Paella géante]x[Résultats SG]
+
+Voici la liste de nos convives pour la paella de demain 🥘 ! On se retrouve demain pour voyager en Espagne 🇪🇸
+Rendez-vous en SDB à 12h00 (et non plus au bat O) !
+
+Culinairement vôtre 
+L’équipe ema’sterchef', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [Répartition bus] ❤️‍🔥
+
+Salut les 1A 👋
+
+Voici la répartition des bus pour le WEI, qui partiront de la Meuh vendredi à 18h 🚌🏖️.
+
+Si vous voulez changer de bus, il faut que vous trouviez quelqu’un qui veut échanger avec vous, et que vous contactiez tous les deux Srey Nick KEO 👩🏻‍💻.
+
+Pour ceux qui n’ont pas eu ou fait le sg, on va vous partager un excel d’ici lundi. On invite ceux qui proposent un covoit à s’y inscrire 🚙, et aux autres de remplir les covoits.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Week-en du Cercle] x [Brunch]
+
+Bonjour à tous ! 
+
+Le week-end du Cercle commence ce matin avec un délicieux brunch qui commence dès 11h en SDB !
+Au menu : œufs brouillés 🍳 , bacon 🥓 , pancakes 🥞 et jus de fruit 🥤 !
+
+Prenez avec vous une assiette et un ecocup et venez vous régaler 😋
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [Permanences] ❤️‍🔥
+
+Vous pouvez aller déposer votre chèque de caution à partir de maintenant et jusqu’à 21h30 en B23 !
+(Il y aura d’autres permanences d’ici le WEI, notamment les midis au cyber.)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Trophée Orlandini]x[Respo 1A]
+
+Maintenant que l’inté est terminée, il est temps pour vous chers 1A de vous engager dans la vie emayenne ! 
+
+Orlandini est l’occasion parfaite pour cela (les listeux 👀👀), dans une ambiance conviviale 💃
+
+Vous pouvez vous inscrire dans le form ci dessous ( si vous vous êtes inscrits en amphi, faites le à nouveau car le form n’a pas fonctionné ) : https://docs.google.com/forms/d/1IXL_sn-E_lVgCR4KS9lcLmSNYcYI2Fn16pSwPW_dCo0/
+
+Pour rappel :
+
+-Com Accueil 🏠: porte à porte pour trouver des apparts ( compatible joueur )
+
+-Com Logistique 🏗️: installation de la scène et du terrain (incompatible joueur)
+
+-Com Restauration 🍔: Préparer les repas (Incompatible joueur)
+
+-Com Soirée 💃: Organiser la sdb ( Compatible joueur)
+
+-Com tournoi 🏈: Assurer le bon déroulement du tournoi ( Incompatible joueur )
+
+-Com Anim🍻 : Assurer l’ambiance sur les terrains ( Incompatible joueur )
+
+On vous attend nombreux !!!!
+
+🤎Le bureau Orlandini 🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''Sterchef; contenu : [SG Paella Géante]
+
+Sg pour la paella géante de dimanche 12h bat O 🥘
+
+https://docs.google.com/forms/d/e/1FAIpQLSe-V_-D_bCHlU-q6NtdGAgvKLeCfwgXluPOre0NyEBkMC8XSQ/viewform', 0);

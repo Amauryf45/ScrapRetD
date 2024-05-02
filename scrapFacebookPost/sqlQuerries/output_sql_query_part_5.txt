@@ -1,0 +1,230 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : **🌟[AMPHI DE BRIEFING BÉNÉVOLES]x[MERCREDI 27 MARS 12H45] 🌟**
+
+Bonjour à tous 👋
+
+Un grand merci à vous tous de faire partie de cette incroyable aventure avec nous ! 🎉💖
+
+👉 L’amphi de briefing se tiendra le **MERCREDI 27 MARS à 12H45** en amphi Pasteur 👈
+
+Au programme : 🌟
+
+- Présentation du déroulement du festival
+
+- Explication détaillée des créneaux
+
+🔎 Pour ceux qui ne l''ont pas encore fait, n''oubliez pas que vous pouvez régler votre participation et/ou votre pull staff ici : https://boutique.lyf.eu/meuh-folle-2024/benevoles
+
+Pensez également à rejoindre notre groupe "Orga Meuh Folle 2024" pour recevoir toutes les informations importantes à venir, comme :
+
+- Un guide pratique sur les créneaux pour mieux comprendre leur fonctionnement ⚙️
+
+- Un résumé complet de l''édition, incluant les horaires, le menu snack… ℹ️
+
+L''équipe organisatrice de la 21ème édition du Festival de la Meuh Folle 🥳', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ingénieurs Sans Frontières Alès; contenu : [Le Pouce d''Or 👍✨️]×[ISF🌱]
+
+(Message un peu tardif mais... )
+Merci à tous d''être venu au Pouce d''Or ! 🤩
+On espère que la course vous a plu. 
+Voici quelques photos de l''événement ! 🚗
+
+La bise verte 🌱', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d’administration] x [Compte rendu]
+
+Bonsoir à tous, 
+A l’ordre du CA de ce soir, la création du club M’EMA, puis les Com Vert et Com Asso ont pris la parole. Le problème des loyers a aussi été abordé ainsi qu’un bilan sur le Gala. 
+
+Le futur bureau de M’EMA a présenté son projet de création d’un nouveau club de sports de combat. 🥊 Projet qui a été validé par le Cercle devant l’engouement qu’elle suscite déjà. ✅ 
+
+Les Com Vert nous ont fait un bilan des émissions carbone en France pour l’année 2023 et les pistes d’explication de ces résultats. ♻️ La présentation sera bientôt disponible sur EMA promo ⏳ 
+
+Les Com Asso ont également pris la parole sur les associations les plus discrètes de l’EMA et leurs perspectives d’avenir. 🥷
+
+Différentes pistes ont été évoquées pour régler les problèmes de prélèvement des loyers avec MAA. 💸 Une discussion avec eux sera engagée prochainement. 
+
+Enfin, un bilan a été fait sur l’édition 2023 du Gala, 🎭 afin d''améliorer les échanges entre le Cercle et le bureau pour l''édition à venir.
+
+Ce CR a été rédigé en double bureau comme ceux à venir jusqu''à la passation. 🧙🏽‍♂️⚡️
+
+Bonne soirée, en espérant que vous avez aussi hâte que nous de partager le Pâques du Cercle 🐇
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Cin''EMA; contenu : [Cin’EMA]x[Semaine du cinéma]
+
+Salut tout le monde !
+
+Comme chaque année, l’association Cin’EMA célèbre avec les emayens la ✨semaine du cinéma ✨🎉!
+
+À cette occasion, vous pourrez profiter de la projection d’un film choisi par nos soins, tous les soirs du lundi 25/03 au samedi 30/03, ( exception le jeudi pour la Comuz ).⏰
+
+Cette année nous avons parcouru des styles, des univers, des origines variées pour vous faire voyager à travers le 7eme art.🌎
+
+Nous esperons que notre selection vous plaira et touchera la curiosité du plus grand nombre.😉
+
+Excellente semaine du cinéma à vous, n’hésitez pas à passer, il y aura du pop corn ! 🍿✨
+
+Voici notre planning :', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Godefroi Truche; contenu : Hello ! 
+Un habitant de la meuh aurait-il une pompe avec l''aiguille pour gonfler les ballons de basket ?', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comuz; contenu : [Spectacle Comuz 2024]x[Le Chant du Cygne]
+
+Au cœur de la ville de Roseapolis, ville prospère des années 20, deux familles, la famille de Forgias 🐺 et la famille Saint-Roche 🐍, s’unissent contre leur gré pour un mariage qui semble de prime abord salvateur :  le mariage d’Agnès Saint-Roche et de Jacob Seminor. 
+
+Cependant, en cette journée d’immense bonheur et d’euphorie, l’impensable survient… 
+
+Un meurtre est commis. 
+
+Ophélie de Forgias et William Saint-Roche n’ont que seize heures pour retrouver le meurtrier ou le conflit entre leurs familles respectives s’éternisera.
+�Mais un secret se cache dans la mémoire de cette ville, enseveli sous le mensonge. Arriveront-ils à créer la paix et à trouver le coupable alors que tout les oppose ? Rien n’est moins sûr car dans le silence, l’oiseau chante, une fois encore... 
+
+Rejoignez la Comuz pour son ultime représentation de l’année ce jeudi 28 mars 2024 en amphi Pasteur ! 🎙️❤️
+Nous sommes une vingtaine d’actrices et d’acteurs, une quinzaine de danseuses et danseurs et de super régisseurs qui travaillont d''arrache pied depuis des mois déjà pour vous présenter la pièce !
+
+Vous retrouverez encore une fois les Snakes 🐍 et Rock&Salsa 💃 sur scène et du pop corn vous sera également vendu à l’entrée par les Pompims pour la somme de 1 euro pour 25 cl et 1,80 euros les 50cl.
+
+En résumé : 
+📆Jeudi 28 Mars
+🕦19h30
+📍Amphithéâtre Pasteur
+💵Gratuit
+
+⚠️ Il vous faudra votre badge de l’école pour rentrer dans la salle! ⚠️
+
+Musicalement vôtre,
+La Comuz 🎵', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Clément Beutier; contenu : Salut,
+J''ai perdu en début de semaine dernière mon sweat gris de la marque rockshore (écrit en bleu dessus) en B 200 qlq chose.
+Je l''ai toujours pas retrouvé malheureusement et j''y tiens vraiment, c''est un cadeau d''Irlande 
+Si vous avez des news... ;) 
+Mercii', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Dégustation du Jubilé] x [Résultat SG]
+
+Bravo à nos 30 convives qui fêteront le jubilé du 7ème bureau 🍷🎉
+
+**Anna Maufront **
+
+**Théo Le Duc **
+
+**Alexis Senzier **
+
+**Chinaze Rahhab **
+
+**Adrien Michelot **
+
+**Laura Sourdiaucourt **
+
+**Garance Grandin **
+
+**Anastasia Hadjadj **
+
+**Clarie Bidel **
+
+**Dénia Hernandez Zga** 
+
+**Lucie Leroy **
+
+**Lucas Guérin **
+
+**Charlotte Tholosan **
+
+**Cécile Le Liboux **
+
+**Mathilde Fanon** 
+
+**Paul Blanchet **
+
+**Juliette de Vallavieille **
+
+**Marie-Ange Palmesani **
+
+**Marine Boussac **
+
+**Marius Ledemé** 
+
+**Pierre Leblanc **
+
+**Emma Lunot **
+
+**Bastien Delmas **
+
+**Amaury Fumard **
+
+**Chiara Peraldi **
+
+**Benjamin Vairon **
+
+**Claire Quidu **
+
+**Noa Jean-Karam **
+
+**Lili Roche **
+
+**Romaric Mons** 
+
+> In Vino Veritas 🍷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Wendy Dijoux; contenu : [Résultat SG] x [Et non c''est pas tard pour les poster]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [SDB CHATTES]X[Line Up]
+
+Voici la Line Up pour la SDB de ce soir 😼 !
+
+Pour votre plus grand plaisir …😏😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Wendy Dijoux; contenu : [SG] x [SDB Chaaaaaaaaaaaattes😻]  
+
+[https://forms.gle/tvjwJESBQ3mZnNqC7](https://forms.gle/tvjwJESBQ3mZnNqC7?fbclid=IwAR393sTzlUtRZwCQihSqNSGmLGWT9HG6ND_8q91DNZVcrbdxzo6BnUomxQQ)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Wendy Dijoux; contenu : [Sdb Chaaaaaaaaattes😻] 
+
+La sdb chattes c''est ce jeudi ! Alors on oublie pas le sg demain à 13h sur EMAPromo 😼', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1366433694013436/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Comité Œnologie] x [Jubilé ✨]
+
+Bonjour à toutes et à tous,
+
+Après avoir annoncé nos successeurs il y a peu, il est temps pour le VIIe Comité de considérer la retraite viticole 🧓🏻🥲
+
+Cependant, comme un bon vin se bonifie avec le temps, nous avons décidé de mettre les petits plats dans les grands et nous vous convions à la dégustation ✨***Jubilé***✨*** ***de notre mandat ce **Mardi 26 Mars** 🥂
+
+Le Jubilé étant une dégustation spéciale, il n’y aura qu’une UNIQUE session à ne pas rater 🍷
+
+Pour cette dégustation le Comité vous propose : un thème inédit en Œnologie avec de nouveaux vins rigoureusement sélectionnés par nos cavistes de la cave d’Alès, des mets 5 ⭐ ainsi que des fromages d’exceptions de nos amis de la Meuhle et un dress code soigné pour une dégustation comme vous n’en avez jamais vu 💃🍷
+
+À vos rappels :
+
+⚠️ Le **SG** aura lieu ce **Vendredi 22 Mars à 13h** sur la page du Comité ⚠️
+
+MAIS ce n’est pas encore totalement la fin …
+
+Rassurez-vous chers aficionados du terroir, le double bureau 173x174 vous préparent une ultime surprise avant la nezvérence des 173 👀
+> In Vino Veritas 🍷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Clémentine Gaigeot; contenu : Coucou, y''a des livreurs pas très compétents qui laissent des colis par terre, et y''a aussi des amateurs de vin à la Meuh, donc si jamais vous avez pris 2 colis "Vin Addict" à mon nom ça serait cool que je les récupère merci d''avance', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Chaîne du froid]
+Bonjour à tous 🍎
+Voici un rappel sur la chaîne du froid, expliquant ce qu’est la chaîne du froid, comment éviter une rupture de celle-ci et les conséquences d’une rupture de celle-ci.
+Bonne lecture 😊!
+
+Hello everyone 🍎
+Here is a refresher on the cold chain, explaining what the cold chain is, how to avoid a break in it and the consequences of a break in it.
+Good reading !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [Bureau WES 2025] x [Miam miam de la poudreuse]
+
+Salut riderzzzz !
+
+C’est avec une grande émotion que le bureau du WES2024 commence son hibernation. 
+
+Au cours d''une passation très orageuse, le WES 2024 a passé ses skis au nouveau bureau du WES25.
+
+Son but : gravir toutes les montagnes qui se dresseront devant lui.
+
+A la tête de cette ascension **Océane Boyer** 👸 guidera son équipe jusqu’au sommet 🏔️. Quant à elle, notre vice-présidente **Lucie Leroy** assurera la cohésion au sein de l’équipe 🔗. **Antoine André**, trésorier, gardera au chaud notre butin 💰. **Clémentine Gaigeot**, secrétaire 📝, vous transmettra toutes les informations utiles pour faire vos descentes en toute sécurité ⛷️🍺. **Théo Le Duc**, golden star 🏅, approvisionnera son équipe de tout le nécessaire. 
+
+Pour une dernière fois, le WES vous caresse 🥹 ❄️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1365448714111934/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Bot; contenu : [AW] x [EMA Bot]
+
+Salut à tous ! 
+
+On vous donne rendez-vous ce soir à 19h30 en SDB pour notre AW !
+
+On vous attend nombreux 🦾', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Pauline Rougeot; contenu : Salut !!! 
+Je vend une place pour le samedi soir du Festival de la Meuh Folle 🐄
+N’hésitez pas à me contacter par message si vous êtes intéressé 🫶🏻', 0);

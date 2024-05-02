@@ -1,0 +1,196 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Charlotte Tholosan; contenu : Bonjour, 
+
+On m''a volé ma chaise qui se trouvait sur la coursive devant le F06. 
+
+La vie en simplex n''étant déjà pas top, j''aimerais bien récupérer mon UNIQUE chaise. 
+
+Merci d''avance à celui ou celle qui me l''a prise.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''Sterchef; contenu : Hello!
+Comme vous le savez, la Meuh d’Argent c’est le 11 février📆, et on a besoin de vous 🫵 pour y arriver. Que ce soit de la préparation en amont ou le jour J, toute aide est acceptée 🤗
+Si ça vous chauffe, répondez au forms ci-dessous pour qu’on vous ajoute au groupe !😱
+
+https://docs.google.com/forms/d/e/1FAIpQLSfNDT6Ll4oMLQcBHXiaH_2U1HNPfj8prdkebTGI7sNiqFiS4w/viewform
+
+PS: vous pourrez aider ET manger! 😋
+
+La bise du bureau Ema’sterchef👨‍🍳', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : [DEFI WEV]x[RESULTAT]x[🤙🤙🍹🏄‍♂️]
+
+Après avoir ramené un maximum de bonnes vibes 🤙 et des cocktails hauts en couleurs 🍹, les deux listes se sont départagées autour de 2 sketchs mémorables 🤣🍗.
+
+C’est finalement les riders d’Alésias qui ont réussi à rider la wave 🌊 et qui remportent le défi de peu ☀️ !
+
+On espère revoir les listeux sur des planches pleines de wax pour le WEV 2024 ! (29 Mars - 1 Avril) 
+
+Le WEV qui vend du rêve 🌊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jules Crepy; contenu : Hello,
+J´ai perdu ma veste IMT Mines Alès durant les activités Alésias ce dimanche aprem. Elle est un peu abimée et y’a ma carte de l’école dedans
+Si qqn la retrouve je suis chaud de la récupérer, c’est malheureusement mon unique veste et je risque d’avoir un peu froid 🥲
+
+Merci d’avance !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alésias ; contenu : Gauloises, Gaulois
+
+Cette semaine sera inscrite éternellement dans la mémoire de notre village.🫶🏼
+
+Nos 4 mois de préparation ont été mis à l''épreuve. On a passé une superbe semaine à vos côtés en vous partageant notre travail, nos projets et nos valeurs. ✨
+
+Ce fut un plaisir d''être challengé par les asgriculteurs.🧑🏼‍🌾
+
+Il est temps pour nous de doucement se préparer à la sieste d''après banquet.🍽️😴
+
+On espère de tout cœur que les résultats des élections nous seront favorables pour vous régaler jusqu''aux campagnes 2025.
+
+Gauloisement vôtre,
+
+Alésias🐗', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alexis Senzier; contenu : [DEFI MAGICIEN]x[BDS]
+
+Messieurs, dames,
+
+Ce soir c’est BDS, ce soir c’est MAGICIENS, ce soir c’est SAN-GLANT 🔪🔫
+
+Spoiler : les listes ont préparé du MEGA sale🥵
+
+Le putain de live c’est MAINTENANT : 
+
+https://www.twitch.tv/lesmagiciensema
+
+A ne louper sous AUCUN prétexte 🧙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Foyer; contenu : [Résultat défi Foyer] x[Campagnes BDS]
+
+C''est avec une énergie débordante que les listeux sont arrivés et se sont déhanchés sur les musique entraînante du Just Dance.
+
+Les Alesias 🐗 ont su montrer à chaque danse qu''ils avaient le rythme dans la peau, mais sur un dernier mouv'' incroyable, un "Yeah!" fatidique, les Asgriculteurs👒 ont réussi à obtenir victoire !
+
+C''est donc avec 3-2 pour les Asgriculteurs 👒que le défi s''est terminé !
+
+Félicitations à eux !
+
+Mention spéciale aux fake listes qui n''ont pas daigné bouger leur popotins sous les projecteurs, ou bien répondre à l''appel du combat....', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alésias ; contenu : [Alésias] x [Banquet du soir] x [Tirage au sort] 
+
+Durant le banquet qui a lieu à 19h00 Bat S, les villageois proposent à ceux habillés en gris de participer à un tirage permettant de gagner ✨une enceinte Marshall. ✨
+
+À tout de suite,
+
+Gauloisement vôtre,
+
+Alésias🐗', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : [MEUH FOLLE] x [Résultat Défi BDS]
+Un grand bravo aux Alésias  ! 🏆 Après un parcours jalonné d''épreuves tant sportives que divertissantes, ils se sont emparés de la victoire à 3 reprises dans nos mini-jeux et à l''épreuve finale de la peinture d''une porte de toilette (8 votes contre 7) ! Un grand bravo aux Les Asgriculteurs BDS pour leur ténacité !
+
+La Meuh Folle c''est demain, et on lâche rien ! 🐮💛🩵🩷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Résultats] x [Défi BDA x WEC] 
+
+Les coureurs et coureuses des deux listes se sont montrés dignes d''un BDS et n''ont pas eu peur de la distance, puisqu''ils ont parcouru plus de 11km pour dessiner la botte de l’Italie ! 🏃‍♀️🏃🇮🇹
+Mais, chose invraisemblable, les trajets qu''ils ont suivi sont pour ainsi dire identiques ! Hasard de dingue !!😱
+
+Ainsi, nous avons choisi de récompenser l''équipe qui a soigneusement filmé son périple comme cela était demandé 😁
+Félicitations à l''Alésias qui remporte ce défi 🏆 ! Mais on félicite également Les Asgriculteurs BDS pour leur belle performance sportive ! 💪
+
+Bravo aux participants pour s''être donnés à fond, et pour cette sortie Strava qui, quand même, a de la gueule 🤩👏
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Mtz; contenu : [PETAS] X [EPISODE 4]
+
+Girlz and Boyz ! 
+
+Emayens, Emayennes ! 
+
+Vieweur et vieweuse ! 
+
+Le temps est venu pour nos PETAS de livrer leur dernier épisode !
+
+Après toute sorte de rebondissement et d''happenings exceptionnels, il est temps pour nous de vous livrer cette masterclass. 🎆
+
+Je vous laisse avec ce monstre !
+
+Dispo sur Instagram et YouTube 📶
+
+Lien YT : [https://www.youtube.com/watch?v=ECKW11nB57w](https://www.youtube.com/watch?v=ECKW11nB57w) 
+
+Pétassement vôtre 💅', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Guillaume Rigaud; contenu : [DEFI TAUREAUX]x[RÉSULTATS] 
+
+Bravo aux deux listes pour leur participation à ce défi ! 
+
+Avec une victoire des Agriculteurs au beach rugby et une victoire des Gaulois à la lutte, les deux listes étaient à égalité.
+
+Le concours de placage a finalement permis de les départager, avec un score très serré (112 votes à 108) les Les Asgriculteurs BDS  s''imposent finalement au défi Taureaux 🐂', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : C’est au tour des résultats du défi alternant ! C’est une nouvelle victoire des Asgriculteurs malgré une grande implication des Alesias.🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Voici le résultat du défi VP du BDS ! Bravo aux 4 participants et aux asgriculeurs pour leur victoire !🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Résultats - Défis Trez x Secrétaire] 
+
+Après une épreuve sportive intense et remportée par les Alesias! 🐗
+Les deux listes se sont affrontées sur des questions financières, d’orthographe et sur la vie sportive à l’EMA. 
+Ils ont pu terminer ces épreuves en goûtant notre merveilleux dessert et faire un relais flamby remporté par les Asgriculteurs, 🧑‍🌾chapeau à Lili pour cette belle performance !
+
+Les Alesias ont cependant remporté le relais cu 🍻
+
+Ils ont également pu nous affronter lors d’un relais cu malgré les efforts de Lucas ce sont les listeux qui ont gagné 🏅 
+
+En conclusion, ce sont les Alésias qui remportent le défi 🐗🏆
+
+Merci à eux pour leur enthousiasme et ce moment passé ensemble ! Merci pour les croques, ils étaient incroyables ✨😋', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Retour sur le défi prez BDS ! Bravo aux deux participants et particulièrement à Matheo vainqueur de ce défi !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Magiciens; contenu : [LES MAGICIENS]X[DEFI]
+
+Tout est dans le titre ramenez toute votre équipe ce soir c''est la guerre🧙‍♂️
+
+les prod sur messenger 
+
+https://www.twitch.tv/lesmagiciensema
+
+bisous les loulou 🥰', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Défi Orlandini]x[Résultats]
+
+Ce samedi après-midi se sont affrontés 3 Asgriculteurs et 3 Alesias (dont 5 composant le prochain bureau du trophée Orlandini) ! 🏉
+
+Ils ont d''abord dû répondre à des questions sur les précédents bureaux et éditions du Trophée ! 
+Puis ils se sont départagés sur des épreuves sur le thème du rugby ! 
+
+Finalement, tel un bureau déjà très soudé, ce défi a résulté en une égalité parfaite ! 🤩
+
+Merci aux 2 listes pour leur indulgence face à notre retard et à leur implication dans ce défi !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alésias ; contenu : [Alésias] x [Résultat des Olympix] 
+
+Tous les villageois d’Alésias vous remercient pour ces moments conviviaux passés ensemble hier après-midi. ☺️
+
+Voici les résultats du tournoi d’Olympix : 
+
+🏆 Taureaux : 
+1 place aux JO pour un soir de demi-finales/finales d’athlétisme 
+3 places pour le parc Astérix 
+1 switch 
+
+🥈Colons:
+2 places pour un match de l’équipe de France de foot aux JO
+2 places pour le parc Astérix 
+Enceinte JBL 
+
+🥉Dracu : 
+2 places pour les placements/phases finales de rugby à 7 féminin 
+3 places pour le parc Astérix 
+
+4️⃣ Lucky 1 : 
+1 soin visage profond
+1 pose de semi-permanent main
+1 massage anti-stress
+1 Coffret soin 
+Goodies
+
+Merci à tous pour votre participation,
+
+Gauloisement vôtre, 
+
+Alésias🐗', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Défi]X[Com Com]
+
+Voici le défi proposé pour les com com de chaque liste : vous devez ramener le max de personnes au Bat S lundi à 19h 🕖 !
+
+En faisant de la com, motivez les à s’habiller en vert pour les agriculteurs 🧑‍🌾 ou en gris pour les gaulois 🐗 ! Pour départager les listes un décompte sera fait. 
+
+Attention ⚠️ les membres de la liste ne peuvent pas participer et être comptabilisés lors du décompte !
+
+Bon courage ! On espère que vous arriverez à motiver le plus de monde possible !!', 0);

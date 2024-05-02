@@ -1,0 +1,177 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : On vous attend nombreux en amphi pasteur à 13h !
+Le Trophée Orlandini 💛', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Voici les résultats du SG parapente 🪂', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Le Dindon Attaque; contenu : [Concert dindon]
+
+Le dindon organise son premier concert de l''année ! 🎸
+Il se déroulera à La fabrique à boire à Alès. On aura la chance d''accueillir des artistes talentueux tels que Yarglaa et KNTC et nos dj Emamix ! 
+L''entrée est gratuite donc pas d''excuse 😉
+
+On espère vous voir nombreux 💛
+Dindon Attaque - Concert du 15/09/2023', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [Permanences] ❤️‍🔥
+
+Ça y est, les permanences pour les chèques de caution vont commencer. Allez-le déposer en Y24 entre 19h45 et 20h45 ! ⏱️
+(Il y aura d’autres permanences d’ici le WEI, notamment les midis au cyber.)
+
+⚠️ Pour ceux qui ont réussi le shotgun : la billetterie a été réouverte, vous pouvez payer votre place jusqu’à demain à 12h 🤗
+
+https://boutique.lyf.eu/bdi/wei-pokumon', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : Voici la line Up de la soirée Holligan 
+
+Pour votre plus grand plaisir … 😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Miniconi; contenu : [SEMI-CREW]x[On est pas des tocards]
+
+Comme tout le monde y va de son petit défi : 21h30 Bat S
+
+#ACeSoirLesTocards', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [Résultats shotgun] ❤️‍🔥
+
+Après toute cette attente… Voici les résultats du sg pour les places restantes au WEI 🎉 !
+
+Ceux qui ont réussi le sg, nous vous demandons de payer votre place avant demain midi via cette billetterie :
+https://boutique.lyf.eu/bdi/wei-pokumon
+
+Nous sommes en discussion avec WEI AND GO pour pouvoir rajouter des places, nous vous tenons au courant de tout ça 😉
+
+Les permanences pour les chèques de caution commencent ce soir : rendez-vous en Y24 entre 19h30 et 21h 📣.
+
+Pour rappel : il nous faut un chèque de 100€ PAR personne à l’ordre de WEI AND GO. 
+
+(Les 1A, pas de panique, les résultats du sg pour les bus arrive demain.)
+
+(#DslLesAlternantsJeSuisBête)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Thomas Mrn; contenu : [TOCARDS]x[RELAIS CU]  
+Venez défier les Tocards au relais cu à notre stand bat S', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [Shotgun] ❤️‍🔥
+
+Voici le lien du sg pour le reste des places pour le WEI ⤵️
+
+https://docs.google.com/forms/d/e/1FAIpQLSfj7HzvEzV0j3X0S1UdIno4PR1UNXGf8FCJCaKd2d30Um_x0g/viewform?usp=pp_url
+
+Bonne chance 😇
+
+PS : ce n’est qu’un shotgun, les résultats seront postés dans l’après-midi avec le lien de la billetterie sur laquelle vous devrez payer avant demain (vendredi 15) à 12h.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''Sterchef; contenu : [Paëlla géante]
+
+Une envie de voyager?🇪🇸
+
+EMA’sterchef te propose de voyager en Espagne le temps d’un repas ce dimanche 17/09 avec une paella géante au Bat O.🥘
+
+Pour pouvoir déguster cet incontournable plat, il faut participer au shotgun de demain (Vendredi) à 12h45 🕑.
+
+Culinairement vôtre
+L’équipe EMA’sterchef👨‍🍳', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : TDM - Sur la trace des Mineurs; contenu : [Présentation TDM]
+
+Hello tout le monde ! 🏃‍♀️🏃
+
+Cette année l’équipe du TDM organise pour la première fois un trail dans les Cévennes. Nous proposons deux parcours, 10km et 17km, ouverts à tous, le samedi 18 novembre !
+
+Pour avoir toutes les informations concernant l’événement, les parcours et les inscriptions, rendez-vous sur nos réseaux sociaux 😄 :
+* Insta : @trail_des_mines
+* FB : [https://www.facebook.com/profile.php?id=61551067860079](https://www.facebook.com/profile.php?id=61551067860079)
+* Bientôt notre site internet 🤩
+
+A lundi pour notre AW ! 😋
+
+L’équipe du TDM 🏃🏃‍♀️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [Bus WEI] x [Shotgun] ❤️‍🔥
+
+Salut jeune 1A 👋
+
+Voici le lien du shotgun pour les bus du WEI :
+https://forms.gle/YH7vFtqCGnLgnGTE8
+
+Il y a 3 bus :
+- Salamèche : dodo time 😇
+- Reptincel : un peu fun time 🤪
+- Dracaufeu : énervé time 🫨
+
+Fais bien ton choix !
+
+⚠️ Les non 1A, n’oubliez pas le shotgun du WEI à 13h.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [Billetterie WEI] x [Infos] ❤️‍🔥
+
+Bonsoir à tous !
+
+N’oubliez pas que le shotgun du WEI pour les 2A, 3A et anciens se passe demain (jeudi 14) à 13h sur EMAPromo❗️
+Les 1A 📣 on vous conseille donc de prendre votre place dès maintenant si ce n’est pas déjà fait, sinon ça sera au shotgun demain…
+
+Concernant les chèques de caution , il nous faut 🚨 un chèque de 100€ PAR personne à l’ordre de WEI AND GO 🚨. 
+Vous ne pouvez pas faire un chèque de 200€ pour vous et un ami par exemple. MAIS vous pouvez lui faire un autre chèque de 100€ en plus du votre 🫂. 
+Si le nom du chèque n’est pas le votre, écrivez votre nom et prénom au crayon à papier au dos du chèque.
+
+Quand donner votre chèque de caution❓ Pendant les permanences qu’on organise dès demain midi 🫡 (le lieu et l’heure exacte vous seront communiqués avant chaque permanence).
+
+Pour les infos sur les assurances 📄, contactez-nous via Instagram @bdi_pokumon ou Messenger.
+
+Pour vous rendre au WEI, il y aura 3 bus, soit 165 places (réservées aux 1A). ⚠️ Un shotgun se fera sur EMAPromo demain à 10h00 ⚠️. On vous donnera les infos sur le depart d’Alès prochainement 🚌.
+
+Enfin, pour les bungalows, nous reviendrons vers vous bientôt pour toutes les infos 😉
+
+À demain les dresseurs 👋', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Elise Mange; contenu : [Résultats SG] x [SDB Ultras]
+
+Voici les résultats du sg pour la SDB Ultras : 
+
+Les bracelets seront vendus à partir de demain midi à l’école, demain soir au bat S et devant la sdb.
+
+Ultrament votre 🔥', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : SG sortie parapente 
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Elise Mange; contenu : [SG] x [SDB Ultras]
+
+Voici le lien du SG pour la SDB Ultras de jeudi soir :
+
+https://docs.google.com/forms/d/e/1FAIpQLSezw3ReKGMQj8gogbk6YlilooPFT8OymXDVRBh_rGPGMWKcJA/viewform
+
+Ultrament votre 🔥', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Week End du Cercle] x [Programme]
+
+Bonjour à tous !
+
+Le Cercle a le plaisir de vous présenter le Week end du Cercle 🥳 ! 
+Nous vous avons concocté tout plein d’activités pour passer de merveilleux moments !🤩
+
+Au programme : 
+
+Samedi de 12h à 14h : Brunch 🍳🥓🥞 (payant)
+
+Samedi après-midi : tournoi de BP 🏓 en SDB, concours de lancer de fléchettes 🎯, Just Dance 🕺 🪩 
+
+Samedi 20h à 23h : quizz de culture emayenne au bar où vous profiterez aussi d’une vente de hot-dogs 🌭, desserts 🧁 et cocktails !🍹
+
+Dimanche midi : Paella 🥘 géante d’EMAsterchef !
+
+Tout au long du week-end un stand sera tenu pour pouvoir récupérer les YearBook 📕 achetés et commander ceux de l’année prochaine ! 
+
+Ce Week End sera l’occasion pour le Cercle de se présenter auprès des nouveaux arrivants et pour tout le monde de faire de nouvelles rencontres !
+Nous espérons vous voir nombreux !!!🥳
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1269676437022496/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : Bonjour je suis ouvert.
+C’est au bat O', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Mika Mauger; contenu : # Gagnez une Tiny House** **🤩 🏡
+
+Je vous propose de tentez de gagner une tiny house sur mesure et de devenir propriétaire. Sans aucun apport personnel, ni emprunt bancaire.
+# Qui suis-je ?
+
+Un élève des Mines d’Alès de la Promo 171.
+# Quel est le but et le principe de l''opération ?
+
+Afin de lancer sereinement mon entreprise de construction de Tiny House, j’ai organisé ce concours. 𝖢𝗈𝗇𝗌𝖼𝗂𝖾𝗇𝗍𝗌 𝖽𝖾 𝗅𝖺 𝗉𝗋𝖾𝗌𝗌𝗂𝗈𝗇 𝖿𝗂𝗇𝖺𝗇𝖼𝗂è𝗋𝖾 𝗅𝗈𝗋𝗌 de l’achat d’immobilier, J’offre 𝗅𝖺 𝗉𝗈𝗌𝗌𝗂𝖻𝗂𝗅𝗂𝗍é à 𝗊𝗎𝖾𝗅𝗊𝗎’𝗎𝗇 𝖽𝖾 devenir propriétaire 𝗌𝖺𝗇𝗌 𝖺𝗉𝗉𝗈𝗋𝗍 𝗉𝖾𝗋𝗌𝗈𝗇𝗇𝖾𝗅 𝗇𝗂 𝖾𝗆𝗉𝗋𝗎𝗇𝗍 𝖻𝖺𝗇𝖼𝖺𝗂𝗋𝖾. 𝖫’𝗂𝖽é𝖾 𝗈𝗋𝗂𝗀𝗂𝗇𝖺𝗅𝖾 𝖼𝗈𝗇𝗌𝗂𝗌𝗍𝖾 à 𝗈𝗋𝗀𝖺𝗇𝗂𝗌𝖾𝗋 𝗎𝗇 𝗍𝗂𝗋𝖺𝗀𝖾 𝖺𝗎 𝗌𝗈𝗋𝗍 𝖺𝗏𝖾𝖼 𝗅’𝖺𝗂𝖽𝖾 𝗉𝗋é𝖼𝗂𝖾𝗎𝗌𝖾 𝖽𝖾 mon huissier de justice, Maître Silvin CHAINEAU.
+
+𝖬𝗈𝗒𝖾𝗇𝗇𝖺𝗇𝗍 𝗅𝖾 𝗉𝗋𝗂𝗑 𝖽𝖾 1𝟢€, 𝖼𝗁𝖺𝗊𝗎𝖾 𝗉𝖾𝗋𝗌𝗈𝗇𝗇𝖾 𝗉𝗁𝗒𝗌𝗂𝗊𝗎𝖾 𝗆𝖺𝗃𝖾𝗎𝗋𝖾 𝖾𝗍 𝗆𝗈𝗍𝗂𝗏é𝖾 𝗉𝖾𝗎𝗍 𝗒 𝗉𝖺𝗋𝗍𝗂𝖼𝗂𝗉𝖾𝗋 en achetant un billet.
+
+𝖢𝗁𝖺𝗊𝗎𝖾 billet 𝖽𝗈𝗇𝗇𝖾 𝗅𝖾 𝖽𝗋𝗈𝗂𝗍 𝖽𝖾 𝖻é𝗇é𝖿𝗂𝖼𝗂𝖾𝗋 𝖽’𝗎𝗇𝖾 𝖼𝗁𝖺𝗇𝖼𝖾 𝗅𝗈𝗋𝗌 𝖽𝗎 𝗍𝗂𝗋𝖺𝗀𝖾 𝖺𝗎 𝗌𝗈𝗋𝗍 (𝗎𝗇 𝗌𝗈𝗎𝗌𝖼𝗋𝗂𝗉𝗍𝖾𝗎𝗋 𝗉𝖾𝗎𝗍 𝗌𝗈𝗎𝗌𝖼𝗋𝗂𝗋𝖾 autant de billet qu’il le souhaite). Le billet 𝖽𝗈𝗇𝗍 𝗅𝖾 𝖻é𝗇é𝖿𝗂𝖼𝗂𝖺𝗂𝗋𝖾 𝗌𝖾𝗋𝖺 𝗍𝗂𝗋é 𝖺𝗎 𝗌𝗈𝗋𝗍 𝖽𝖾𝗏𝗂𝖾𝗇𝖽𝗋𝖺 l’heureux propriétaire d’une Tiny House sur mesure à hauteur de 55 000€.
+
+𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧𝐬 𝐞𝐭 𝐬𝐨𝐮𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 👉 [https://habitatessentiel.fr/concours-tiny-house/](https://habitatessentiel.fr/concours-tiny-house/%20)
+
+Bonne chance 😉
+
+Pablo Marin
+
+CEO d’Habitat Essentiel', 0);

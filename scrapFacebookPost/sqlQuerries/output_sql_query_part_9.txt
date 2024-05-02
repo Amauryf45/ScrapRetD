@@ -1,0 +1,318 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Arnaud Gauberville; contenu : 🏃‍♂️[Sélections Cartel]x[Relais 10x100m]x[Cross] 🏃‍♂️
+
+Salut à tous ! 
+
+Le Cartel arrivant à grand pas, il est temps de sélectionner nos coureurs les plus rapides sur le relais et le cross pour fièrement représenter Alès et ramener la victoire  !🏆
+
+Les sélections auront lieu : 
+ • Lundi 11/03 au soir pour le relais 10x100m 
+• Jeudi 14/03 après midi pour le cross
+
+Relais : 
+-4 filles et 6 garçons sélectionnés 
+-Sélection au meilleur temps sur 100m
+-Pointes non autorisées le jour des sélections par égalité 
+
+Cross : 
+-2 filles et 2 garçons
+-Sélection au meilleur temps sur un parcours qui ressemblera à celui du cartel (voir règlement)
+
+✅Il est possible de participer aux deux sélections mais il est impossible de courir aux deux épreuves au Cartel
+
+⚠️Les coureurs qui veulent être supporters même s’ils ne sont finalement pas pris aux sélections doivent faire le SG supporter
+
+N’hésitez pas à rejoindre les groupes pour avoir plus d’infos :
+-EMA Trail pour le cross
+-Les Bouquetins pour le relais 
+
+Les capis Trail/Athlétisme 🏃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : [Meuh Folle] x [Bénévole]
+🚨🚨 Dernier rappel pour devenir bénévole et avoir sa place pour 10€ !! 🐮💛🩷🩵
+
+[https://appli-mf.emait.fr/subscription](https://appli-mf.emait.fr/subscription)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [SDB CART’NAVAL] x [SG] 
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : Bonjour à tous les bons vivants ✨
+
+Nous sommes heureux de vous annoncer l’arrivée des **paniers garnis** ! 🧺🍷
+
+Tu veux pouvoir te régaler comme à une œnologie directement chez toi ? C’est possible avec les paniers garnis du Comité et l’application Déguste un Vin ! 🤳📲
+Cette application te permets de concilier plaisir et culture avec un accompagnement composé de quizz et de vidéos de sommeliers tout au long de ta dégustation ! 📖
+L’application est disponible ici : 
+
+https://app.degusteunvin.com/introduction/home
+
+Ces paniers garnis sont composés d’une bouteille au choix parmi 4 vins que nous vous proposons + un met allant des tartinables aux biscuits croquants. 🥠🫒
+ 
+Tu as donc la possibilité de choisir entre 4 vins et 2 types de paniers qui sont…. 🥁🥁🥁
+
+- Le « **Costière de Nîmes** », *Domaine Haut Moulin d’Éole*, blanc sec, rouge ou rosé et son accompagnement pour **12€**.
+
+- Le « **Musardise** », *Domaine Les Grandes Costes* *Languedoc AOP* (Cinsault, Grenache, Syrah), un excellent vin rouge et son accompagnement pour **15€**. 
+
+Vous trouverez ci-dessous un **forms** à remplir qui va nous permettre de vous préparer tout ça 🤩, veillez à le remplir avant le Mercredi 6 Mars ⏰
+
+Pour commander son panier : 
+
+https://docs.google.com/forms/d/e/1FAIpQLSejqlaAKhEmimHuOQJlOwF2XYuAc2J4lfSilvG-407I2QthsA/viewform?usp=sf_link
+
+Les livraisons se feront dans les 2 semaines maximum 📦
+
+> In Vino Veritas 🍷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Projet JSA]x[EMABORDAGE]
+
+Salut à tous 👋!
+
+Nous tenions à clarifier les changements que vous avez pu remarquer sur le planning. 📆
+
+En effet samedi 9 Mars devait se tenir le projet JSA, l’une de nos promesses de campagnes 🏴‍☠️. Comme nous l’avions annoncé en amphi le format originel de l’événement n’était pas réalisable cette année, mais nous avions prévu de le remplacer par une journée sportive 🏃‍♂️à Mandela comprenant matchs d’exhibitions 🏈⚽️ et activités sportives le tout accompagné de stands de nourriture et d’une tireuse 🥪🍻
+
+Malheureusement nous n’avons pas pu obtenir les matchs que nous voulions et nous avons par conséquent décidé d’annuler ce projet. 🥲
+
+Cependant pas de panique si vous ne savez pas quoi faire ce jour là car nous y avons déplacé le grand tournoi sportif annuel du BDS! 🥳
+Vous l’avez peut être connu sous le nom du Tournoi des 6 stations l’année dernière, cette année nous vous proposons de venir participer… à l’EmaBordage ! 🏴‍☠️⚓️
+
+Les modalités du tournoi arrivent d’ici peu, d’ici la préparez vous à l’assaut 💪
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Rappels infos Cartel] x [Changement des deadlines] 
+
+Salut à tous 👋 !
+
+Vous trouvez ci joint ⬇️ la présentation de l''amphi Cartel d''hier. 
+
+D''autre part, nous avons appris hier que la date butoire pour donner à l''organisation du Cartel les renseignements sur les participants était avancée de deux semaines ⏰!!
+
+⚠️Voici donc un planning des échéances à venir : 
+
+- Jusqu''au ⚠️Mercredi 28/02, 13h⚠️ : réponse au Forms "supporter" 🔥🧨
+https://forms.gle/R72cZndcdf4MxVwM7
+
+- Jusqu''au ⚠️ Mercredi 6/03 ⚠️ : réponse au forms "tir à l''arc" 🏹
+https://forms.gle/i88fFRY5cgazFrdP8
+
+- Au cours de la semaine prochaine : retour sur les quotas finaux de la délégation alésienne (on espère qu''il y aura de la place pour tout le monde, si ce n''est pas le cas, nous devrons procéder à un SG pour les supporters).
+
+- Avant le ⚠️ Jeudi 14/03, 13 h ⚠️ : répondre au forms "informations des participants" pour les sportifs 🏋️‍♀️ et supporters 🧨 sélectionnés
+
+Nous reviendrons vers vous dès que nous avons plus d''informations ! 
+
+Nous comptons sur votre réactivité ! 
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Thomas Bacquet; contenu : Coucou les amis ! 
+
+Je pars bientôt battre de mes ailes,
+Mais je ne peux pas partir sans elle,
+Elle est synonyme de ma 1A,
+Et de beaucoup d’autres comas,
+Elle est quelque part à la meuh,
+Sans doute mesdames messieurs, 
+
+Aled 🫶🏼🙏🏼', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [BDA] x [SDB CART’NAVAL]
+
+Le BDA vous ramène le carnaval en SDB ce jeudi 29 🎊✈️ !
+Comme à Rio, venez avec le plus beau costume/déguisement, vous aurez une petite réduction 😉 et vous pourrez peut-être repartir avec le prix du meilleur costume de la soirée et un lot 🤩.
+
+🚨SG Mercredi 28 à 13H sur EMA Promo.
+Les bracelets seront vendus à l’entrée de la SDB.
+
+Quinta à noite 🥳
+
+Artistiquement vôtre,
+Le BDA🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Margaux Cherbonneau; contenu : Hello, si vous avez retrouvé un iPhone 8 blanc vers croupi ou alentours, n’hésitez pas à contacter Amaury Ung sur messenger :)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Germinalès; contenu : **[CONCOURS] X [Germinalès] X [Art’phétamines]**
+
+Chers poètes, chers artistes,
+
+À l’occasion de la Saint Valentin (ahem…) et du Printemps qui arrive, le bureau Art’phétamines 🎨 🖌️ et le bureau Germinalès ✒️📖 sont fiers de vous présenter le premier concours inter-assos artistiques de l’EMA ! 🤩
+
+**Le principe ?**
+
+Par équipe de deux, un(e) poète(esse) ✍️ et un(e) illustrateur(ice) 🖼️, créez une œuvre qui mêle à la fois image et poésie sur le thème du concours !
+
+**Le format ?**
+
+Vous êtes libres ! Le poème peut être en prose ou en vers, l’image peut être un dessin, une peinture ou un photomontage, les deux œuvres peuvent être sur une même image ou sur deux images séparées.
+
+ ⚠️ Le tout doit être imprimable sur une (ou deux) feuille A4 ! ⚠️
+
+**Le thème ?**
+
+*Une émotion.*
+
+Choisissez une émotion qui servira de ligne directrice à votre œuvre, que ce soit pour retranscrire l’émotion, ou mieux, la faire ressentir à votre public ! De préférence choisissez une émotion complexe plutôt que des classiques comme la joie, la colère ou la tristesse. Vous n’avez pas d’idées ? Voici une liste de 50 émotions dans laquelle vous pouvez piocher ! 😄
+
+*(absolution, acceptation, adoration, anxiété, apathie, appréhension, bravoure, compassion, confusion, contemplation, culpabilité, damnation, décrépitude, dégoût, désespoir, désir, doute, doux-amer, enchantement, étonnement, euphorie, excitation, extase, fatalité, ferveur, fierté, grandeur, hargne, honte, interdit, jalousie, mélancolie, mépris, miséricorde, mystification, nostalgie, pitié, plénitude, rage, remords, ressentiment, rêverie, sérénité, solitude, souillure, soulagement, sublime, terreur, triomphe, vacuité)*
+
+**C’est quand la deadline ?**
+
+Envoyez vos œuvres à Stéphane Yang avant 📅 Dimanche 31 Mars à 23h59 !
+
+**Une récompense pour les gagnants ?**
+
+Oui.
+
+**Pour participer ?**
+
+Remplissez le forms, les participants seront ajoutés sur les convs de Germinalès (pour ceux qui écrivent) et d’Art’phétamines (pour ceux qui illustrent) pour avoir les news 📢. 
+
+https://docs.google.com/forms/d/e/1FAIpQLSd0WIp2qHoCkLy_o-K2_9Mr3BlEpY6fGD19o_m_QldgH03JZg/viewform?usp=sf_link
+
+**C’est quoi le jeu ?**
+
+Quel jeu ?
+
+**Si j’ai des questions ?**
+
+Contactez Stéphane Yang !
+
+On espère que vous serez nombreux à participer ! 😄
+
+Addictement et Littéralement votre,
+
+Art’phé et Germin.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Elise Mange; contenu : [Séquence émotion]x[Dép. du mois]x[Simulation ambiance Cartel ?]x[Chattes]x[Taureaux]
+
+Salut les ultras 👋
+
+L''heure est venue pour le déplacement du mois de février !
+Et ce sont nos DEUX équipes de rugby que nous irons encourager au Stade du Pic St Loup ce mercredi 28 à partir de 20h30 🏉
+Plusieurs matchs seront joués par nos 2 équipes, et beaucoup de places sont disponibles autour du stade, de quoi bien rentabiliser ce déplacement avec beaucoup de supporters 💪
+
+💫Nous fêterons quelque chose de plus : le jubilé des derniers 3A, le jubilé de vos premiers ultras, les 172, qui donneront tout une dernière fois à l''EMA🥲
+
+C''est pour cela que nous invitons TOUT LE MONDE à venir avec nous : prenez votre tacos chez Tsiky, vos écharpes, tambours, fumis, drapeaux, mégaphones, prévoyez des covoits, tout ce que vous avez pour venir célébrer une dernière fois en février 🔥
+
+Ultrament vôtre 😍', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Esteban Felden; contenu : Bonjour à tous, l''association IDALÈS recrute !! 
+Nous avons pour vocations d'' organiser des conférences notamment des Tedx à l''école sur des sujets variés de société. Nous avons besoin de monde pour notre prochaine conférence Tedx qui aura lieu le 6 avril. C''est une expérience unique alors n''hésitez pas à vous inscrire via le form : https://forms.gle/hbqGSXJFQSUU6qP58
+
+Plus d''informations disponibles sur les diapos.
+
+Fin des inscriptions vendredi soir 22h00.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Tsiky Zanaka; contenu : Coucou ! 
+
+Petit rappel pour réserver votre tacos de mercredi 28 février !
+🚨🚨 Pas de tacos sans réservation ! 🚨🚨
+
+Vous avez jusqu’à mardi midi pour réserver.
+
+https://forms.gle/TVGnwkgfshyJa6jYA
+
+Tsiky 🌍', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : Voici la liste des heureux duo qui participeront à la dégustation de jeudi soir ✨🍷
+
+Laura Sourdiaucourt & Cyprien Vial 
+
+Guillaume Doze & Mathis Baragnon 
+
+Kewin Bindzi & Marco Moreau 
+
+Simon Chapelet & Ferdinand Miramont 
+
+Juliette de Vallavieille & Emma Lunot 
+
+Bastien Delmas & Marius Ledemé 
+
+Hugo Schreiber & Alicia Biaud 
+
+Cécile Le Liboux & Lena Farthouat 
+
+Hector Bonnet & Paul Dumas 
+
+Alexis Garcia & Hugo Martin 
+
+Florian Bonnet & Elie Pouponnot 
+
+Manon Excoffon & Laurie Cerca 
+
+Mael Le Corre & Clémentine Gaigeot 
+
+Romain Demmer & Eva Quertigniez 
+
+Roman Bernard & Paul Daran 
+
+👀 Les candidatures pour le 8ème bureau se terminent jeudi à 20h 
+
+> In Vino Veritas 🍷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Départs] X [Com Internationaux] 
+
+Bonjour à tous 👋
+
+Le départ de la Meuh approche pour certains et vous avez sûrement des objets ou des meubles dont vous voulez vous séparer: la Com Internationaux sera ravie de vous aider ! 😇
+
+🛋️ Si vous avez un frigo, un micro-onde, des plaques de cuisson ou de la vaisselle dont vous souhaitez vous débarrasser, faites un beau geste en les donnant pour les élèves internationaux. 🌍
+Ça les aide beaucoup à leur arrivée à Alès !
+
+N''hésitez pas à contacter @Coline Roig si vous avez des choses à donner, on s’arrangera pour venir tout récupérer. 😁 
+
+Bonne journée !
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jouck Lrs; contenu : *HELP* qqn connaît le RAL de la peinture des portes des apparts à la meuh ?', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Tsiky Zanaka; contenu : Coucou tout le monde! 
+
+Tsiky revient à la charge avec des tacos de qualité 😋 le mercredi 28 février pour le dernier AW de l’année 🥲. C’est votre dernière occasion de soutenir le projet financièrement tout en vous régalant.  
+
+Pour cela, réservez le tacos sur le lien ci-dessous (jusqu’à mardi 10h) : 
+https://forms.gle/TVGnwkgfshyJa6jYA
+
+⚠️⚠️ Encore une fois pas de réservation, pas de tacos ⚠️⚠️
+
+PS : le projet vous a déjà un peu été dévoilé mais nous vous détaillerons notre mission dans les plus brefs délais.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : [Rappel colloc] x [Economise 4mois de loyer]
+
+Au début du mois de mars 4 des 6 habitants de notre maison s’en vont. Les places ne sont pas toutes prises pour l’instant.
+
+Pour les 2A c’est l’occasion d’économiser **4mois de loyer **👀🐀
+ => Le proprio loue sur RbnB l’été donc si tu viens maintenant t’as une place assuré à la rentrée sans devoir payer de loyer de mai à septembre. (Tu peux même laisser tes affaires dans des malles sécurisées avec cadenas au garage)
+
+Slide DM pour plus d’info
+
+PS : Je vais à toutes les SDB c’est pas un soucis d’être exté 💁
+
+**https://www.facebook.com/groups/3465543800402596/permalink/3543855162571459/**', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Sortie Cinéplanet] x [Dune 2] 
+
+Bonsoir à tous 👋 
+
+Le BDA, en collaboration avec Cin''EMA, vous propose d''aller voir "Dune 2" au cinéma ! 🤩🍿 
+Pas de mini résumé cette fois-ci pour ne pas spoiler ceux qui n’auraient pas encore vu Dune 1 ! Hésitez pas à le voir durant les vacances pour profiter un max de cette séance. 😉
+
+📅: Mercredi 28 Février vers 20h-21h en VOSTFR
+📍: Cinéplanet Alès 
+⏳: 2h46
+💵 : 4€ cotisants BDA, 6€ non cotisants BDA
+🎟️: https://boutique.lyf.eu/bda/cinema-dune
+
+⚠️Fermeture de la billetterie le Mercredi 28 à 12h⚠️ 
+
+Pour plus de détails sur le film 👇 :
+https://cineplanet.fr/films/278742-dune-deuxieme-partie/
+
+Nous vous préparerons une conversation afin que vous puissiez vous organiser pour les covoiturages 🚗
+ 
+Artistiquement vôtre,
+Le BDA🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [CARTEL] x [Sports invités]x [Tir à l''arc]
+
+Salut à tous 👋 !
+
+On revient avec des nouvelles infos concernant le Cartel ! Cette fois ci c''est par rapport aux sports invités 👀
+
+Cette année, les sports invités sont: les échecs ♟️, l''ultimate 🥏, la pétanque 🇫🇷 et le tir à l''arc 🎯
+
+Parmi ces 4 sports, seul le tir à l''arc 🎯 n''a pas de club à l''EMA, c''est pourquoi nous cherchons des adeptes du tir à l''arc pour aller nous représenter de la meilleure des manières à Nantes! 
+
+Pour participer il faudra avoir son propre matériel et constituer une équipe mixte de 2 personnes ( 1 garçon 1 fille 👫)
+
+Vous trouverez les règles de la compétition et détails dans la pièce jointe ci dessous ⬇️
+
+📍Si vous êtes intéressés répondez au questionnaire suivant ➡️ : https://docs.google.com/forms/d/e/1FAIpQLScBSwNuMjBtUSfkd6gNl-bkonIfzqpaWCs9CWAhR7wgKsY_kg/viewform?usp=sharing
+
+Pour les autres sports invités on vous en dira plus à l''amphi ⏳
+
+Sportivement votre 🏆', 0);

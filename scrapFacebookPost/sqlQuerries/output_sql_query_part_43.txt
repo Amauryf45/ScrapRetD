@@ -1,0 +1,201 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : [EmaVisual]x[PhotosCV]
+
+Après la première session photo pour 🌟pimper🌟 votre CV 👩‍🎓, nous vous proposons un deuxième créneau ce jeudi 12 octobre de 14h à 18h en salle créa 2 du Cowork 📸
+
+⚠️ Pour participer, il faut être cotisant MAA (vous êtes cotisants si vous avez la carte de la Meuh)⚠️
+
+Inscrivez vous sur l''excel suivant :
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [WECO]x[Tournois volley]
+
+A l’occasion du WECO, le bds vous propose de vous retrouver autour d’un tournois de beach volley.🏐
+Celui-ci se tiendra samedi 14 octobre dans l’après-midi en pinède.
+
+Comment participer ? Il vous suffit de composer des équipes de 4 personnes. ⚠️Demain à 13h aura lieu un SG lors duquel vous renseignerez les membres de votre équipe !⚠️
+
+On compte sur vous et que les meilleurs gagnent 🏆
+Sportivement votre 💪', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : La Meuhle; contenu : Voici les résultats du shotgun de la dégustation de fromage !
+
+Tout le bureau de la Meuhle vous remercie pour votre enthousiasme pour cette 1ere dégustation de l’année dont le shotgun est parti en seulement 17secondes !!!
+
+Voilà les noms des heureux élus qui auront la chance de nous rejoindre jeudi : 
+
+Anthony durand 
+Delmas Bastien 
+Théo SAWA 
+Le Duc Théo 
+Zoé Roos 
+
+Cbn Margaux
+VIDAL  Mathéo 
+Pereira Dylan
+Elkilany Yacine
+Le flohic Yanne
+
+PAQUIRY Delphine 
+Pic Lila
+Sablon Margot 
+Vairon Benjamin
+Sarrazin Jean
+
+Tesson Manon
+Attali Rebecca
+Bindzi  Kewin 
+Farthouat Lena
+Feith Laura', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Marco Moreau; contenu : [Hugo Martin] × [Bizu]
+Par pitié présentez vous', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Com Partenariat] x [Code Yoot]
+
+Salut à tous 👋 
+
+Vous l’avez peut-être oublié mais chaque cotisant BDA, peu importe sa promotion, a droit à un code Yoot unique, qui se périme à la fin de l''année scolaire. 📅
+Ce code te permet d''avoir des réductions à des festivals et autres spectacles culturels organisés en Occitanie (Alès, Montpellier...), mais aussi à un bon d''achat en librairie de 7€! 📚
+
+Donc si tu es cotisant BDA 172/173/174/alternant.e et que tu n''as pas encore obtenu ton code Yoot, contacte sur Messenger Arthur Rubio et ton code te sera envoyé avec plaisir 🥰 Si vous avez des interrogations sur Yoot, n’hésitez pas à le contacter !
+
+Actuellement sur Alès, vous avez accès à 9 offres Yoot avec notre partenariat du Cratère. Cotisez BDA pour profiter de ces grosses réductions 🤑 en contactant Léa Goarin ou Quentin Gobilliard sur Messenger !
+
+Dépêchez-vous, les places en réduction sont très limitées par spectacle ⏰
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Paul Cazals; contenu : Bonjour à tous ! 
+On rend notre colloc fin décembre. Étant donné que les proprios sont cool, la maison et les voisins sympa je transmet le tuyau. Elle se situe impasse Bourly (5 min de Clavière / 15 de Croupillac). 
+
+Voici le descriptif :
+
+Bas de villa (68m2) situé dans le quartier Chantilly ensoleillé et très calme. C''est une maison exposée sud dans une impasse proche du centre ville.
+Proche de toutes commodités : écoles, Ecole des Mines, centre ville et gare, bus... L''appartement est neuf et décoré . Il se compose de :
+- Un grande séjour avec cuisine toute équipée (four, plaque induction, hotte et frigo-congélateur) et un salon (canapé, TV 150 cm) sur une surface de 34 m2.
+- une grande chambre comprenant un lit (160x190) avec literie de qualité, armoire et bureau.
+- une chambre avec un lit (180x200), une armoire et un bureau
+- une salle de bain équipée avec douche à l’italienne et WC.
+- Une buanderie avec machine à laver le linge et un espace de rangement...
+- Chauffage climatiseur split réversible (Toshiba) et radiateur dans chambre/ SDB. - Une terrasse ensoleillée (de 15 m2) et espace jardin.
+- Une place de parking privée.
+- Loyer : 860 € / mois charges comprises
+
+Ce bien est loué par un particulier. 
+Tél : 06. 88. 70. 08. 01 
+Disponible à partir du 1er janvier 2024', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Julie Cabel; contenu : [Recherche oreilles de Chatte]×[😿]
+
+Samedi soir on m''a piqué volontairement mes oreilles de Chattes.
+
+Et même si je peux en avoir d''autres, ça reste mes premières oreilles 😻 
+
+Si c''est un emayen qui les a je suis chaud de les récupérer sans rancœur, elles sont roses pâles 
+
+#SiJaiPasMesOreillesJeSuisUneTiti', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Miniconi; contenu : Quel département à part ISERM fait une sortie géologie pour gouter les vins et identifier les cailloux sur lesquels ont poussé les vignes rappelez-moi ?
+#2eEpisode', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louise Ribollet; contenu : Bonjour à tous,
+Mr Djerroud (chef de chantier chez Largier technologie) m’a contactée car il cherche quelqu’un pour donner des cours de maths / physique-chimie à sa fille. 
+Le besoin est de 2h par semaine et payé 20€ de l’heure et de préférence une fille. Il habite proche de l’école. 
+N’hésitez pas à le contacter (les infos sont sur sa carte) pour davantage d’informations.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : La Meuhle; contenu : [La meuhle] X [Dégustation]
+
+Bonjour à tous !
+
+La meuhle organise la 1ère dégustation de l’année ce jeudi 12 octobre ! Au programme des jeux sur le thème du fromage et la dégustation de nombreux fromages ! 
+
+Cette dégustation se fera au Bar à 19h, les plus calés sur le fromage auront même la possibilité de gagner un lot !
+
+Le prix de cette dégustation est de 5€ et il n’y a malheureusement que 20 places pour en profiter.
+
+Et qui dit places limitées dit SG !
+Alors soyez prêt demain 13h sur Emapromo pour participer à cette dégustation !
+
+Fromagement vôtre 🧀', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Entr’EMA] x [Afterwork]
+
+Bonjour à tous !☀️
+
+Mercredi aura lieu l’afterwork d’Entr’ema ! Nous vous avons concocté un menu savoureux 🤩
+Afin de gérer au mieux les quantités et de lutter contre le gaspillage, nous vous demandons de vous inscrire via ce form afin de réserver votre repas !
+🚨Vous avez jusqu’à mardi 12h pour vous inscrire !
+https://docs.google.com/forms/d/e/1FAIpQLScUYIZ0nVmBg8Hmm0i_lWPUAG7U8iKDeA57FTaqFA3NSL4OlA/viewform?usp=sharing
+
+On vous attend nombreux 😊!', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jay Timan; contenu : [Ford Fiesta] × [RIP mes suspensions]
+
+Hier soir, deux personnes (ou plus) ont pris ma petite Ford pour un Monster Truck et ont passé du bon temps sur mon capot. 
+Sûrement une discussion très rythmée au vu du liquide cérébro-spinal retrouvé sur mes feux (je vous épargne l''œuvre d''art) 
+
+Aux heureuses personnes responsables de cet acte : faites ça dans votre lit ou invitez-moi la prochaine fois 
+
+Merci beaucoup !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [CR] X [Conseil d’Administration] 
+
+Bonsoir à tous !
+
+Après un week-end sportif avec Orlandini, le Cercle s’est réuni ce soir pour son Conseil d’Administration hebdomadaire. Le Gala est venu nous demander un prêt pour les premières avances qu’il doit régler 💰. Nous avons ensuite discuté de divers sujets dont notamment Orlandini, le WECO à venir, la cotisation des internationaux et un nouveau partenariat avec Dell. 
+
+Le Gala 🎭 est venu nous présenter ses ambitions pour la prochaine édition et, à l’occasion des 180 ans de l’école, l’enjeu est d’autant plus grand. Le Cercle a accordé un prêt de 24 239€ sur les 25 487€ demandés afin de pouvoir régler les premières avances. Le reste, a destination d’un service de billetterie et de systèmes cashless, sera accordé dans une semaine après réflexion sur la manière d’optimiser leur utilisation pour les clubs qui s’en servent. 
+
+En ce qui concerne l’évènement du week-end, Orlandini 🏉, le premier bilan est globalement positif. Pour la SDB, nous nous réjouissons de ne pas avoir rencontré le même problème de chaleur qu’au bat S et aucune plainte concernant le bruit n’a été enregistrée. Certains points ternissent tout de même le bilan : des mésententes avec la sécurité et quelques dégradations. Toutefois,  le week-end s’est globalement très bien passé et assure une entente durable avec l’école pour l’utilisation du self si le besoin se représente, félicitations au bureau. 👏
+
+🤝 Le week-end prochain aura lieu le WECO, c’était l’occasion pour le pôle animation d’exposer le déroulement des journées et d’avancer dans les préparatifs.
+🌍 Les Responsables Internationaux constatent que très peu d’élèves étrangers ont cotisé alors qu’ils souhaitent souvent s’inscrire dans des clubs de sport ou à des évènements. Plusieurs idées ont été évoquées pour améliorer le fonctionnement actuel: un échelonnement des montants selon le temps passé à l’école ou une prise de license sportive individuelle seront examinés. 
+🍎 Entr’EMA fait gracieusement don de son congélateur au Cercle. Il sera installé dans la cuisine de la SDB afin qu’il puisse profiter à tous les emayens pour les afterworks. 
+💻 Un nouveau partenariat avec Dell a été établit. Les emayens pourront désormais bénéficier de réductions en utilisant leur adresse email en etu.mines-ales.fr. Les modalités seront détaillées dans le livret des partenaires du Cercle qui sera mis à jour. 
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Cercle des Élèves] x [WECO]
+
+Bonsoir à tous !
+
+Le week-end prochain a lieu le Week-end Cohésion, organisé par le Cercle ⭕️ . C’est l’occasion pour FIA et FIG de faire connaissance et de tisser des liens 🤝 ! 
+Au planning ce week-end : 
+- Samedi : Tournois BDS 🏀 et SDB 🥳 
+- Dimanche : Activités BDA 🖌️ l’après-midi et AW 🍽️ le soir, avec la diffusion du match France 🇫🇷 Afrique du Sud 🇿🇦 
+Pour pouvoir profiter de la SDB et de l’AW, une billetterie Lyf sera publiée dans la semaine.
+On espère vous y voir nombreux ! 🤩
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Marie Mantel Suire; contenu : Coucou ! Ma marraine a oublié sa gourde avec des dessins de girafes hier à Mandela, si quelqu''un l''a trouvé qu''il envoie un message à Sarah Leprettre svp 🥺🥺 Merci !!', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Aurélie Fresse; contenu : [Afterwork] x [Orchestre]
+
+Salut à tous!
+Après Orlandini, vous êtes fatigués de vous faire à manger? Vous voulez vous requinquer avec un repas copieux et gourmand?😋
+
+L''Afterwork OMA est là pour vous régaler LUNDI à partir de 19h30 avec un gratin dauphinois accompagné de sa brochette marinée.
+
+A demain! 🎺', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Laura Sdrt; contenu : [Recherche Candhal]
+
+Salut à tous, on a perdu Candhal, si vous l’avez vu après 22h hier soir merci de m’envoyer un message. C’est lui :', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louis Blmnt; contenu : [ Affaires perdues ] x [ Belmont ]
+
+Bonjour à tous ! J''espère que vous vous êtes bien amusés à Orlandini. Moi énormément. 🥹
+
+Je suis donc à la recherche de :
+- mon mégaphone bleu
+- une baguette de mon tambour
+- le haut de ma tenue d''hopital
+
+Merci d''avance. À jeudi. 
+Belmont.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alan Retailleau; contenu : Salut les Emayens ! 🌟
+
+Je veux partager avec vous deux clubs formidables auxquels je suis fier d''appartenir : EmaVisual 📸 et la Meuh Folle 🐮.
+
+EmaVisual, bien plus qu''un simple club de photos et vidéos, capture les moments inoubliables de nos soirées et événements. Elle vous aide pour votre communication en vous proposant gratuitement des logos, des photos et des aftermovies.
+Mais derrière chaque cliché magnifique se cache un travail acharné. Je suis membre du bureau de ce club, je réalise énormément de photos, les logos et la plupart des aftermovies et tout cela par passion, mais  j''ai une annonce à faire : pour prévenir l''épuisement, je vais prendre une courte pause à EMAVisual ⚠️. C''est essentiel pour ma santé mentale et physique, et je sais que vous comprendrez! 🧘‍♂️
+
+En tant que membres du bureau, nous ressentons la pression d''être "pris plus au sérieux". Parfois, certains membres d''EmaVisual ne sont pas respectés pendant leurs créneaux de photos pendant les sdb et des critiques déplacées nous atteignent par des associations/clubs, alors que nous donnons notre maximum! C''est normal que certaines périodes soient plus difficiles pour nous. Nous voulons que notre travail soit reconnu et respecté.
+EmaVisual souhaite également être mieux informé des événements à l''avance pour mieux planifier son travail. Votre compréhension et votre soutien sont cruciaux pour nous.
+
+La Meuh Folle, ce festival étudiant qui a marqué 21 éditions à Alès, est en danger. Nous avons besoin de votre soutien. La première proposition pour un événement équilibré a été refusée, mais la Meuh Folle continue de se réinventer et lance un appel aux dons pour sa survie. Elle a alimenté pendant de nombreuses années la vie Emayenne que ce soit financièrement ou culturellement, et c''est un SOS que nous devons TOUS prendre au sérieux. 🚨
+
+Ces clubs sont des piliers de notre vie étudiante. Soyez conscients de leur importance, et aidons-les à continuer de briller à l''EMA. ✨
+
+Ensemble, nous pouvons faire la différence ! 💪', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Orlandini]x[Orlanfini]
+
+On a plié le self 
+
+Biz', 0);

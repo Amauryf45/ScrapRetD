@@ -1,0 +1,926 @@
+{
+  "followers": [
+    {
+      "username": "garancee_gr",
+      "full_name": "garance"
+    },
+    {
+      "username": "adrien_funbreak",
+      "full_name": "Adrien Blaise"
+    },
+    {
+      "username": "amratimfk",
+      "full_name": "amrati mfk"
+    },
+    {
+      "username": "lolo_l0_0l",
+      "full_name": "Loïc Serre"
+    },
+    {
+      "username": "alex_mpml",
+      "full_name": "Alexandre"
+    },
+    {
+      "username": "jrigleposcast",
+      "full_name": "jrig le poscast"
+    },
+    {
+      "username": "les_renards_ema",
+      "full_name": "Les Renards"
+    },
+    {
+      "username": "bda_imt_ales",
+      "full_name": "BDA Mines Alès"
+    },
+    {
+      "username": "les_bouquetins_minesales",
+      "full_name": "Les Bouquetins - IMT Mines Alès Athlétisme"
+    },
+    {
+      "username": "stephaniedecot",
+      "full_name": "Stéphanie Decot"
+    },
+    {
+      "username": "elise.mathouillot",
+      "full_name": "𝗘𝗟𝗜𝗦𝗘 ❀"
+    },
+    {
+      "username": "06d24edg",
+      "full_name": "Faysal"
+    },
+    {
+      "username": "axelle_1210_",
+      "full_name": "Axelle Pontheaux"
+    },
+    {
+      "username": "paul__sra34",
+      "full_name": "Paul Serra"
+    },
+    {
+      "username": "lelongantoine",
+      "full_name": "Antoine Lelong"
+    },
+    {
+      "username": "mrs_prsn",
+      "full_name": "Charlyne"
+    },
+    {
+      "username": "gabriel.bbkr",
+      "full_name": "gabriel.boubekeur"
+    },
+    {
+      "username": "ozgur310k_",
+      "full_name": ".Ozgur"
+    },
+    {
+      "username": "loup.brb",
+      "full_name": "Loup"
+    },
+    {
+      "username": "vincent.chb",
+      "full_name": "Vincent"
+    },
+    {
+      "username": "jbbbbvh",
+      "full_name": "Jean-Baptiste"
+    },
+    {
+      "username": "bastiendelm",
+      "full_name": "Bastien Delmas"
+    },
+    {
+      "username": "brdxvalentine",
+      "full_name": "Valentine Brdx"
+    },
+    {
+      "username": "noah_silberr",
+      "full_name": "Noah Silber"
+    },
+    {
+      "username": "gaetan_bnz",
+      "full_name": "Gaétan"
+    },
+    {
+      "username": "noajk46",
+      "full_name": "Noa Jean Karam"
+    },
+    {
+      "username": "arnaud.tstn",
+      "full_name": "Arnaud Teston"
+    },
+    {
+      "username": "cruush_ema",
+      "full_name": "Crush Ema"
+    },
+    {
+      "username": "hadjadjj",
+      "full_name": "A.H"
+    },
+    {
+      "username": "eliotdbt",
+      "full_name": "Eliott"
+    },
+    {
+      "username": "matheo__vdl",
+      "full_name": "Mathéo Vidal"
+    },
+    {
+      "username": "aileza._",
+      "full_name": "Elsa Lecos"
+    },
+    {
+      "username": "margot_sbn",
+      "full_name": "Margot"
+    },
+    {
+      "username": "yasminee_3",
+      "full_name": "Yas"
+    },
+    {
+      "username": "koneaboubacar601",
+      "full_name": "Kone Aboubacar Sidick"
+    },
+    {
+      "username": "yanis.brm",
+      "full_name": "Yanis Bourimech"
+    },
+    {
+      "username": "error_unknow1",
+      "full_name": "Error Unknow"
+    },
+    {
+      "username": "lagadec_",
+      "full_name": "🦢julie"
+    },
+    {
+      "username": "clementine1903",
+      "full_name": "clémentine gaigeot"
+    },
+    {
+      "username": "suikadam",
+      "full_name": "𝘼𝙙𝙖𝙢"
+    },
+    {
+      "username": "blandine_crt",
+      "full_name": "Blandine Corteel"
+    },
+    {
+      "username": "joris_sch13",
+      "full_name": "Joris Schwarz"
+    },
+    {
+      "username": "romain_crzz",
+      "full_name": "Romain Carozzo"
+    },
+    {
+      "username": "bastian_crenn",
+      "full_name": "Bastian Crenn"
+    },
+    {
+      "username": "antoine_a10",
+      "full_name": "Antoine Andre"
+    },
+    {
+      "username": "raphael_aucmt",
+      "full_name": "Raphaël Aucomte"
+    },
+    {
+      "username": "ev0bcd",
+      "full_name": "ᵉᵛᵃ"
+    },
+    {
+      "username": "ici_demain",
+      "full_name": ""
+    },
+    {
+      "username": "adrien.ft",
+      "full_name": "Adrien"
+    },
+    {
+      "username": "camille_hqt",
+      "full_name": "Camille Hoquet"
+    },
+    {
+      "username": "alex_sirap",
+      "full_name": "Alexandre Paris"
+    },
+    {
+      "username": "nolwenn_clt_",
+      "full_name": "Nolwenn Celton"
+    },
+    {
+      "username": "louispaillette",
+      "full_name": "Louis Paillette"
+    },
+    {
+      "username": "julien.hnlt",
+      "full_name": "Julien Hnlt"
+    },
+    {
+      "username": "emeline_schr",
+      "full_name": "Emeline Scheurer"
+    },
+    {
+      "username": "robin.laborde",
+      "full_name": "Robin Laborde"
+    },
+    {
+      "username": "clem.btr56",
+      "full_name": "Clément Beutier"
+    },
+    {
+      "username": "yves.rdz",
+      "full_name": "Yves Rognandeza"
+    },
+    {
+      "username": "bastienjany",
+      "full_name": "Bastien Jany"
+    },
+    {
+      "username": "martin_scmt",
+      "full_name": "martin"
+    },
+    {
+      "username": "gab_augier",
+      "full_name": "Gabriel Augier"
+    },
+    {
+      "username": "mjfh_prn",
+      "full_name": "Maxence PÉRON"
+    },
+    {
+      "username": "mael_lc.vitesse",
+      "full_name": "Mael Le Corre"
+    },
+    {
+      "username": "youn4sz4hi",
+      "full_name": "Youness Zahi"
+    },
+    {
+      "username": "lune_pkrl",
+      "full_name": "NMPK"
+    },
+    {
+      "username": "arthur.dmcd",
+      "full_name": ""
+    },
+    {
+      "username": "nathan_fonteneau_",
+      "full_name": "Nathan"
+    },
+    {
+      "username": "evan_mani_aramis_vitalis",
+      "full_name": ""
+    },
+    {
+      "username": "gorilles_ales",
+      "full_name": "Les Gorilles d’Alès 🦍"
+    },
+    {
+      "username": "oumayma_dadda",
+      "full_name": "Oumaymadadda"
+    },
+    {
+      "username": "romain__dmr",
+      "full_name": "Romain Demmer"
+    },
+    {
+      "username": "fred1810",
+      "full_name": ""
+    },
+    {
+      "username": "mnt_pauline",
+      "full_name": "Pauline Menut Pergola"
+    },
+    {
+      "username": "thibault_frvl",
+      "full_name": "Thibault Fourvel"
+    },
+    {
+      "username": "odilon_vl",
+      "full_name": "𝑶𝒅𝒊𝒍𝒐𝒏"
+    },
+    {
+      "username": "titouan.dx",
+      "full_name": "Titouan Ducreux"
+    },
+    {
+      "username": "cedricsallafranque",
+      "full_name": "Cedric Sallafranque"
+    },
+    {
+      "username": "noah.perry142",
+      "full_name": "Noah Perry"
+    },
+    {
+      "username": "guillaume149",
+      "full_name": "Guillaume Rigaud"
+    },
+    {
+      "username": "a_dsmps",
+      "full_name": "Adrien Deschamps"
+    },
+    {
+      "username": "annaamfrt",
+      "full_name": "Anna Maufront"
+    },
+    {
+      "username": "amaaandine_",
+      "full_name": "Amandine ♈"
+    },
+    {
+      "username": "no_esct",
+      "full_name": "NoE"
+    },
+    {
+      "username": "margot.dctmt",
+      "full_name": "Margot Decot Mathieu"
+    },
+    {
+      "username": "gagy_mnt",
+      "full_name": "Gabrielle Montat"
+    },
+    {
+      "username": "yacine_ellk",
+      "full_name": "Yacine"
+    },
+    {
+      "username": "mathieu_locheron",
+      "full_name": "Mathieu_lch"
+    },
+    {
+      "username": "axel.bruyere",
+      "full_name": "axlbruyere"
+    },
+    {
+      "username": "cam_deveze",
+      "full_name": "𝐂𝐚𝐦 𝐃𝐞𝐯𝐞𝐳𝐞"
+    },
+    {
+      "username": "cassandrems",
+      "full_name": "CassandreMichelis"
+    },
+    {
+      "username": "chloelst",
+      "full_name": "Chloé 🇫🇷•🇨🇦"
+    },
+    {
+      "username": "maxime_herve__",
+      "full_name": "Maxime Herve"
+    },
+    {
+      "username": "plpatouillet",
+      "full_name": "Pierre-Louis"
+    },
+    {
+      "username": "dindreaux",
+      "full_name": "Dindreaux"
+    },
+    {
+      "username": "paulinzumstein",
+      "full_name": "Paulin Zumstein"
+    },
+    {
+      "username": "taureaux_rugby",
+      "full_name": "EMA Rugby - Les Taureaux"
+    },
+    {
+      "username": "jules.savi",
+      "full_name": "Jules Savi"
+    },
+    {
+      "username": "imt.mines.ales",
+      "full_name": "IMT Mines Alès"
+    },
+    {
+      "username": "bdi_pokumon",
+      "full_name": "BDI 2023 Mines Alès"
+    },
+    {
+      "username": "khaoula_tabib_",
+      "full_name": "vousmevoyez"
+    },
+    {
+      "username": "iamkusten",
+      "full_name": "Simon Kunstler"
+    },
+    {
+      "username": "le_theal_",
+      "full_name": "Théal"
+    },
+    {
+      "username": "sev.jo02",
+      "full_name": "Séverine"
+    },
+    {
+      "username": "martin.mrrr",
+      "full_name": "mm"
+    },
+    {
+      "username": "pauline_rgt_",
+      "full_name": "Pauline"
+    },
+    {
+      "username": "anne_vrc",
+      "full_name": "Anne✝️📚"
+    },
+    {
+      "username": "orchestreminesales",
+      "full_name": "Orchestre des Mines d'Alès"
+    },
+    {
+      "username": "gabin_brf02",
+      "full_name": "Gabin Beroff"
+    },
+    {
+      "username": "elbadaoui_omar",
+      "full_name": "Feral.human"
+    },
+    {
+      "username": "clement_genot",
+      "full_name": "Clément Genot 🐐"
+    },
+    {
+      "username": "louise_crt_",
+      "full_name": "Louise carrat"
+    },
+    {
+      "username": "iliane106",
+      "full_name": "Iliane Er-rachidi"
+    },
+    {
+      "username": "adrien_lcrr",
+      "full_name": "Adrien LC"
+    },
+    {
+      "username": "flo_dav5",
+      "full_name": "Flo 🐝"
+    },
+    {
+      "username": "axel34730",
+      "full_name": "Axel 🤍"
+    },
+    {
+      "username": "margauxcbnn",
+      "full_name": ""
+    },
+    {
+      "username": "emavisual",
+      "full_name": "EMA Visual"
+    },
+    {
+      "username": "alexandre_gwilaomi",
+      "full_name": "Alexandre Guillaume"
+    },
+    {
+      "username": "safaaaaaaae11",
+      "full_name": "Safae 🦋"
+    },
+    {
+      "username": "jules.crepy",
+      "full_name": "Jules Crepy"
+    },
+    {
+      "username": "chaaadine",
+      "full_name": "Chadine"
+    },
+    {
+      "username": "masood_mohammadi22",
+      "full_name": "Masood Mohammadi"
+    },
+    {
+      "username": "dragonsema",
+      "full_name": ""
+    },
+    {
+      "username": "soi_au_fadha",
+      "full_name": "Soi Au Fadha"
+    },
+    {
+      "username": "ema.bobine",
+      "full_name": "EMA Bobine"
+    },
+    {
+      "username": "bastien.saffre",
+      "full_name": "Bastien Saffré"
+    },
+    {
+      "username": "sebastiancsl",
+      "full_name": "Seb :)"
+    },
+    {
+      "username": "remi.dubs",
+      "full_name": "Rémi Dubois"
+    },
+    {
+      "username": "laura_sdrt",
+      "full_name": "lauratz"
+    },
+    {
+      "username": "radiodingdong",
+      "full_name": "Radio Ding Dong 🎙️"
+    },
+    {
+      "username": "emagolf_",
+      "full_name": "EMA Golf"
+    },
+    {
+      "username": "dylann_pereira",
+      "full_name": "Dylan Pereira"
+    },
+    {
+      "username": "h_eeector",
+      "full_name": "hector delesalle"
+    },
+    {
+      "username": "euphrasie_chart",
+      "full_name": "Euphrasie Chartier"
+    },
+    {
+      "username": "irfan_bhf",
+      "full_name": "Irfan"
+    },
+    {
+      "username": "titouan.joly.7",
+      "full_name": "Titouan Joly"
+    },
+    {
+      "username": "hugo_martin16",
+      "full_name": "Hugo Martin"
+    },
+    {
+      "username": "emma_lnt",
+      "full_name": "Emma Lunot"
+    },
+    {
+      "username": "lucas.petitgenet",
+      "full_name": "Lucas Petitgenet"
+    },
+    {
+      "username": "comiteoeno_ales",
+      "full_name": "Comité Œnologie des Mines d’Alès"
+    },
+    {
+      "username": "btnmargaux",
+      "full_name": "Margaux"
+    },
+    {
+      "username": "_hamza.elmokadem",
+      "full_name": "Hamza 🐺"
+    },
+    {
+      "username": "cegc_ales",
+      "full_name": "Centre d’Etude en Genie Civil"
+    },
+    {
+      "username": "ema_sterchef",
+      "full_name": "Ema'sterchef"
+    },
+    {
+      "username": "la_pompiart_bda",
+      "full_name": "La Pompi'Art"
+    },
+    {
+      "username": "ledindonattaque",
+      "full_name": "Le Dindon Attaque 🦃"
+    },
+    {
+      "username": "gala_imt_mines_ales",
+      "full_name": "Gala IMT Mines Alès 🐙"
+    },
+    {
+      "username": "denia_hz",
+      "full_name": "Dénia Hernandez-zga"
+    },
+    {
+      "username": "aude.sln",
+      "full_name": ""
+    },
+    {
+      "username": "jay_tmn74",
+      "full_name": "Jay Timan"
+    },
+    {
+      "username": "gustave_boissy",
+      "full_name": "Gustave Boissy"
+    },
+    {
+      "username": "askipjmapelledalil",
+      "full_name": "D A L I L"
+    },
+    {
+      "username": "lea.goarin",
+      "full_name": "Léa"
+    },
+    {
+      "username": "velociraptor_ema_vtt",
+      "full_name": "Vélociraptor Ema VTT"
+    },
+    {
+      "username": "laury_rttr",
+      "full_name": "Laury"
+    },
+    {
+      "username": "dam_pas34",
+      "full_name": "Damien Pascual"
+    },
+    {
+      "username": "lucascharasse",
+      "full_name": "Lucas Charasse"
+    },
+    {
+      "username": "audrey_prnrt",
+      "full_name": "Audrey Prunarety"
+    },
+    {
+      "username": "mathis_tbnt",
+      "full_name": "Mathis Tbnt"
+    },
+    {
+      "username": "wesminesales",
+      "full_name": "Week-End Ski des Mines d’Alès"
+    },
+    {
+      "username": "ema_trail_",
+      "full_name": "EMA Trail"
+    },
+    {
+      "username": "sixt.g",
+      "full_name": ""
+    },
+    {
+      "username": "m_rick.jstn",
+      "full_name": "Emeric Jestin"
+    },
+    {
+      "username": "s_acha511",
+      "full_name": "Sacha Massicard"
+    },
+    {
+      "username": "ssreynnick",
+      "full_name": "srey nick"
+    },
+    {
+      "username": "wen27_08",
+      "full_name": "Wendy"
+    },
+    {
+      "username": "marc_chg",
+      "full_name": "Marc Cheng"
+    },
+    {
+      "username": "shenanarmand",
+      "full_name": "Shenan Armand"
+    },
+    {
+      "username": "_lens.cns_",
+      "full_name": "𝕃𝕖𝕟𝕠"
+    },
+    {
+      "username": "alanretailleau",
+      "full_name": "Alan Retailleau"
+    },
+    {
+      "username": "theobessiere",
+      "full_name": "Theo Bessiere"
+    },
+    {
+      "username": "alex.mll_",
+      "full_name": "Alex"
+    },
+    {
+      "username": "daniela_chg",
+      "full_name": "Daniela"
+    },
+    {
+      "username": "benjamin_vairon",
+      "full_name": "Benjamin Vairon"
+    },
+    {
+      "username": "c.cvlr",
+      "full_name": "Chloé"
+    },
+    {
+      "username": "la_bodema",
+      "full_name": "La Bod’Ema"
+    },
+    {
+      "username": "gabriel.m.t.z",
+      "full_name": "Gabriel Mtz"
+    },
+    {
+      "username": "laura.brxx",
+      "full_name": "Laura 🌻"
+    },
+    {
+      "username": "arnaudgbv",
+      "full_name": "arnaud"
+    },
+    {
+      "username": "lina.chng",
+      "full_name": "chhang"
+    },
+    {
+      "username": "aigles_ema",
+      "full_name": "Les Aigles 🦅 - Équipe de Badminton de l'EMA 🏸🔴⚪"
+    },
+    {
+      "username": "a_arnaud_",
+      "full_name": ""
+    },
+    {
+      "username": "mathieuufabre",
+      "full_name": "Mathieu Fabre"
+    },
+    {
+      "username": "luc_mullie",
+      "full_name": "Luc"
+    },
+    {
+      "username": "charlotte_houze",
+      "full_name": "chachaaaa"
+    },
+    {
+      "username": "amael_rmd",
+      "full_name": "Amael"
+    },
+    {
+      "username": "carmengoerrian",
+      "full_name": "ᴄᴀʀᴍᴇɴ"
+    },
+    {
+      "username": "teo_garcias",
+      "full_name": "Téo Garcias"
+    },
+    {
+      "username": "__alexis.gr__",
+      "full_name": ""
+    },
+    {
+      "username": "chiara.frp",
+      "full_name": "Frati--Peraldi"
+    },
+    {
+      "username": "clemclem.cst",
+      "full_name": "Clémence C."
+    },
+    {
+      "username": "elisa.mages",
+      "full_name": "Elisa Mages"
+    },
+    {
+      "username": "_paulblnt_",
+      "full_name": "Paul Blanchet"
+    },
+    {
+      "username": "emaglisse2023",
+      "full_name": "Ema Glisse"
+    },
+    {
+      "username": "co_ro27",
+      "full_name": "Coline Roig"
+    },
+    {
+      "username": "marie_chrt9",
+      "full_name": "Marie Charitat"
+    },
+    {
+      "username": "minesalesalumni",
+      "full_name": "Mines Alès Alumni"
+    },
+    {
+      "username": "muh.irfan361",
+      "full_name": "محمد عرفان العيدروس الهاشمي"
+    },
+    {
+      "username": "imt_colombia",
+      "full_name": "Stef 🇨🇴🇫🇷"
+    },
+    {
+      "username": "jdegayff",
+      "full_name": "jacques"
+    },
+    {
+      "username": "lara__e",
+      "full_name": "Lara"
+    },
+    {
+      "username": "lolaforgeois",
+      "full_name": "Lola Forgeois"
+    },
+    {
+      "username": "cami.grt",
+      "full_name": "camille 🤠"
+    },
+    {
+      "username": "valentazingo",
+      "full_name": "Valentin"
+    },
+    {
+      "username": "elyoussfialaoui",
+      "full_name": "Mohamed El Yousfi Alaoui"
+    },
+    {
+      "username": "aurelie_frs",
+      "full_name": "Aurélie"
+    },
+    {
+      "username": "bdeimtminesales",
+      "full_name": "BDE - IMT Mines Alès"
+    }
+  ],
+  "followings": [
+    {
+      "username": "dragonsema",
+      "full_name": ""
+    },
+    {
+      "username": "bdi_pokumon",
+      "full_name": "BDI 2023 Mines Alès"
+    },
+    {
+      "username": "emavisual",
+      "full_name": "EMA Visual"
+    },
+    {
+      "username": "taureaux_rugby",
+      "full_name": "EMA Rugby - Les Taureaux"
+    },
+    {
+      "username": "dindreaux",
+      "full_name": "Dindreaux"
+    },
+    {
+      "username": "orchestreminesales",
+      "full_name": "Orchestre des Mines d'Alès"
+    },
+    {
+      "username": "ema.bobine",
+      "full_name": "EMA Bobine"
+    },
+    {
+      "username": "wesminesales",
+      "full_name": "Week-End Ski des Mines d’Alès"
+    },
+    {
+      "username": "emagolf_",
+      "full_name": "EMA Golf"
+    },
+    {
+      "username": "vertmines_ales",
+      "full_name": "VertMines - IMT Mines Alès - 2ème Édition"
+    },
+    {
+      "username": "radiodingdong",
+      "full_name": "Radio Ding Dong 🎙️"
+    },
+    {
+      "username": "comiteoeno_ales",
+      "full_name": "Comité Œnologie des Mines d’Alès"
+    },
+    {
+      "username": "velociraptor_ema_vtt",
+      "full_name": "Vélociraptor Ema VTT"
+    },
+    {
+      "username": "ema_trail_",
+      "full_name": "EMA Trail"
+    },
+    {
+      "username": "ledindonattaque",
+      "full_name": "Le Dindon Attaque 🦃"
+    },
+    {
+      "username": "la_pompiart_bda",
+      "full_name": "La Pompi'Art"
+    },
+    {
+      "username": "gala_imt_mines_ales",
+      "full_name": "Gala IMT Mines Alès 🐙"
+    },
+    {
+      "username": "ema_sterchef",
+      "full_name": "Ema'sterchef"
+    },
+    {
+      "username": "la_bodema",
+      "full_name": "La Bod’Ema"
+    },
+    {
+      "username": "emaglisse2023",
+      "full_name": "Ema Glisse"
+    },
+    {
+      "username": "aigles_ema",
+      "full_name": "Les Aigles 🦅 - Équipe de Badminton de l'EMA 🏸🔴⚪"
+    },
+    {
+      "username": "minesalesalumni",
+      "full_name": "Mines Alès Alumni"
+    },
+    {
+      "username": "bdeimtminesales",
+      "full_name": "BDE - IMT Mines Alès"
+    }
+  ]
+}

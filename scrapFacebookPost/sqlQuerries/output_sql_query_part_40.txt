@@ -1,0 +1,151 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [Winter is coming]
+
+Salut les ridersss !! ❄️⛷️
+
+Accrochez-vous, après les épisodes cévenoles, une tempête de neige se prépare…
+
+Pour ne louper aucune info, suivez-nous sur les réseaux !!
+
+-facebook : [https://www.facebook.com/sejour.ski.ema](https://www.facebook.com/sejour.ski.ema)
+
+-insta : [https://instagram.com/wesminesales](https://instagram.com/wesminesales?fbclid=IwAR3Mbcmiai4PNKetbvU7uJyRUARwhxqIR8A6qBlZUeT_Qn_qJ5FPFK3xVus)
+
+-komi : WES
+
+Le WES vous caresse … 😏🏔️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Aymen El Mannaouy; contenu : Chers camarades,
+
+Préparez-vous pour une confrontation intellectuelle sans précédent ! Nous affronterons l''IMT Atlantique dans une bataille d''esprit aux échecs. Si notre domination sportive est reconnue dans l’ensemble des IMT, il est temps de montrer notre supériorité sur l''échiquier.
+
+Le tournoi local de sélection a une importance cruciale : il permettra de classer tous nos joueurs et joueuses afin de déterminer qui représentera notre école face à l''IMT Atlantique. Les meilleures stratégies, les mouvements les plus astucieux seront à l''honneur.
+
+Cependant, une chose est essentielle à comprendre : si les meilleurs joueurs de notre école garantiront leurs places, cela ne signifie pas que seuls les échelons supérieurs auront une chance de participer. En fonction des niveaux de l''autre école, il est tout à fait envisageable de former des équipes avec des niveaux variés. L''affrontement se fera sûrement entre les meilleurs, mais il est également envisageable qu''il se déroule entre des niveaux intermédiaires ou même débutants.
+
+C''est pourquoi je vous invite tous, quel que soit votre niveau, à participer à ce tournoi. Que vous soyez Grand Maître ou débutant, chaque participation compte. Ensemble, montrons à l''IMT Atlantique la profondeur et la diversité de nos talents aux échecs !
+
+Mettons nos esprits en action et écrivons ensemble cette nouvelle page de notre histoire.
+
+Voici le lien d’inscription : https://docs.google.com/forms/d/e/1FAIpQLSdzEOjwxicuiPIprTWPhIY4fd53mYmfdGrm71xo_t5HG5awHA/viewform?usp=sf_link
+
+Échiquiennement vôtre ♟️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1291169234873216/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [SDB Halloween] x [Résultats SG]
+
+Voici les résultats du SG 🥶
+
+Les permanences auront lieu :
+- ce soir pendant l’Afterwork des Bonos à partir de 19h30
+- demain soir devant la SDB à partir de 23h
+
+Le prix est de 2,5€ pour tout le monde avant jeudi 23h 👻 
+Et après 23h, ça sera : 2,5€ déguisé et 4€ pas déguisé 🤡
+
+Artistiquement vôtre, 
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA X AssoM; contenu : [EMA X AssoM] X [Infos et bénévolat]
+
+Salut à tous 😁
+
+Pour tous ceux qui ne connaissent pas encore : l’AssoM est une association étudiante de la ville de Marseille qui organise 2 soirées inter-assos au Parc Chanot. Chaque année, des milliers d’étudiants viennent pour passer une soirée de folie 🥳 qui dure de 22h à 5h !
+
+La prochaine a lieu le vendredi 24 novembre à Marseille📍 et on a bien l’intention de s’y rendre avec vous !! Si vous voulez venir simplement profiter de la soirée, on fera un post d’ici peu pour vous expliquer la démarche à suivre pour obtenir le tarif dédié aux étudiants des Mines d’Alès 💸
+
+Mais c’est aussi l’occasion pour vous de venir nous prêter main forte pour proposer un cocktail 🍹 qui déchire avec une liste d''ingrédients qui nous a été fournie et trouver un thème pour décorer le bar. Donc on aura besoin de pas mal d''idées originales pour ça et on organisera sûrement une soirée de test de vos propositions 😄
+
+Pour être totalement transparents avec vous, votre soirée sera très chargée si vous décidez de nous aider mais c''est une super expérience à vivre. Pour plus de précisions n''hésitez pas à nous contacter en mp on sera ravis de vous répondre. 
+Que vous soyez en 1A, 2A ou même 3A vous êtes les bienvenus !!
+
+Si vous êtes chauds pour nous venir en aide, remplissez ce forms : https://forms.gle/6zhHva9tx2pFZoxY9
+
+AssoMement Vôtre', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [SG] x [SDB Halloween]
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Charlotte Houzé; contenu : [Radio Ding Dong] x [Emission spéciale Halloween]
+
+Heyy tout le monde !
+
+Ce soir a lieu notre deuxième émission sur le thème d’Halloween 🎃.
+Ça sera l’occasion pour nous de vous raconter des histoires plus terrifiantes les unes que les autres, de vous tester avec un quiz spécial Halloween et finalement de revenir sur l’actu à l’EMA 👻 ! 
+
+Venez nous écouter ce soir sur Twitch à 20h30 !
+Ça sera aussi le moment d’écouter, dans le cadre de la meuhssion, une histoire d’horreur écrite par un 1A☺️.
+
+Lien du Twitch : https://www.twitch.tv/radio_ding_dong
+
+À ce soir ! 
+Ding Donguement vôtre 🎙️.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emma Sohm; contenu : [Afterwork]x[Bonobonnes] 
+
+Ce mercredi soir, les bonos vous proposent de venir déguster leur afterwork en sdb à partir de 19h30 🏀
+
+Au menu, un délicieux Chili (avec option végé) accompagné d’un banana bread et d’un diabolo en option !
+Portions copieuses au programme, alors venez reprendre des forces après le trams pour tout défoncer aux prochains tournois tout en supportant l’équipe des bonos🥇
+
+À ce soir 🐒', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Pierre-Louis Patouillet; contenu : Airpod gauche trouvé par terre entre la meuh et les villas.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Bar] x [Forum]
+
+Le bar ouvrira ses portes après le forum, offrant ainsi à tous les participants la possibilité de se détendre et de poursuivre les discussions dans un cadre plus décontracté.
+
+Pour garantir une ambiance élégante et appropriée, une tenue classe est exigée pour accéder au bar. Un videur sera présent à l''entrée pour vérifier que tous les invités respectent le dress code 
+
+Les barmans de l''établissement seront à votre disposition pour vous servir une variété de boissons, des bières ainsi que des bières, en passant par une sélection de bières et de bières. De plus, vous pourrez profiter d''une ambiance musicale soigneusement sélectionnée pour accompagner vos discussions et vos moments de détente.
+
+Nous sommes impatients de vous accueillir et de créer une atmosphère où les idées peuvent continuer à circuler dans un cadre raffiné. 
+
+Cordialement, 
+Le bar et ses Barmans.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Yasmine Aissa; contenu : Clés oubliées au cdi', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : [Meuh Folle]x[Préselection Tremplin 🎙️] 
+La Meuh Folle 🐮 fait son grand retour avec son premier événement musical de l''année !🎙️
+Lors des présélections , nous allons choisir quels artistes brilleront sur la scène du Tremplin ce samedi 11 Novembre ! 🌟🚀 Ce soir sur la chaîne Twitch 🟣 de la Meuh Folle à 20h, vous pourrez assister aux présélections en direct 🎬!
+Vous aurez l''opportunité de découvrir en avant première les talents locaux qui auront une place sur la grande scène du Tremplin. 🤩.
+Vous pouvez aussi nous retrouver sur écran géant 🎥 en SDB pendant l''AW Bouquetins 😋. 
+
+La Meuh Folle c''est demain, et on lâche rien ! 🐮💜❤️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Léna Connesson; contenu : La voiture grise immatriculée AV352MA du 30 qui est garée sur le parking du haut vraiment n''importe comment est priée de  bouger au plus vite pour laisser les autres voitures faire demi-tour 😡 . Sinon elle aura probablement des pb de carrosserie avant la fin de la journée, parce que elle bloque tout le monde 🤗', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Guillaume Doze; contenu : [Gala] x [Recrutement] 
+
+Bonsoir à tous,
+Le gala arrive bientôt et qui dit gala dit scène ouverte. On cherche donc des musiciens (basse 🎸, batterie 🥁,piano 🎹...) qui sont motivés pour créer un groupe de musique style jazz/blue et enflammer la piste 🤘👨‍🎤
+
+En résumé, si vous cherchez un groupe de musique, n''hésitez pas à me contacter 🤠
+
+Jazzement votre, 
+
+Guitre', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [SDB Halloween]
+
+La SDB Halloween fait son grand retour ce jeudi 26 octobre 2023 😱
+Venez déguisé.e.s et vous aurez un petit prix 👻
+
+Le SG aura lieu ce mercredi 25 octobre à 13h30 sur EMA Promo 🎃
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d’Administration] X [CR]
+
+Bonsoir à tous, tout à l’heure le Cercle s’est réunit pour le Conseil d’Administration. Au programme: point WECO, Ema X Assom et système de billetterie.
+
+Nous sommes revenus sur le WECO qui s’est déroulé le week-end dernier. Dans l’ensemble, le week-end s’est bien passé même si les activités BDA n’ont finalement pas eues lieu. Il pourra être encore amélioré à l’avenir pour toucher plus d’alternants.🤝
+
+Le club EMA x Assom a finalement été repris, 1€ a été versé pour pouvoir faire partie des écoles éligibles à une réduction sur l’évènement. 🤑
+
+Enfin, la réflexion sur le système de billetterie n’a pas pu fournir de solution concluante pour le moment. Le prêt demandé par Gala lors du dernier CA a donc été versé en totalité.💰
+
+Bonne soirée à tous, 
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Mathieu Fabre; contenu : [Bouquetins] x [Afterwork]
+
+L''équipe des Bouquetins vous donne rdv demain dès 19h30 en sdb pour son afterwork !
+
+Venez apprécier un bon vieux burger - frites rendant hommage aux américains, rois de la piste d''athlé ! 🏆🇺🇲
+Les plus affamés pourront compter sur un supplément bacon, ou sur une double portion de frites ! 🤩
+
+En dessert, vous attendent de savoureuses cornes de bouquetin 😋🐐
+
+On vous attend nombreux ! 🏃‍♂️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Quentin Kyndt; contenu : Pull oublié au cyber vendredi soir', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Dalil Zeamari; contenu : Trouvé hier en sdb j''accepte lyf lydia cash bizou ♥️🧙‍♂️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1288378445152295/', 0);

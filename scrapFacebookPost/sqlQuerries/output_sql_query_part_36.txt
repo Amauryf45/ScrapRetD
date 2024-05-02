@@ -1,0 +1,137 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Baptiste Chapelon; contenu : Écouteurs trouvés devant le Bat N à la meuh', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Gala]x[Soirée d’essayages Maison123]
+
+Bonjour à toutes!
+
+Difficile de trouver la tenue de vos rêves pour le Gala qui arrive à grands pas ? Pas de panique, nous avons une solution pour vous !🤩
+
+En plus de nous proposer un beau lot de tombola, notre nouveau partenaire, Maison123 Alès, vous offre la possibilité de participer à une soirée d’essayages dans leur boutique. 👗
+
+Notre partenaire étant une boutique de prêt à porter féminin, ce post est réservé aux emayennes. 😊
+
+📍Maison123 Alès, 4 bis Rue Dr Serres, 30100, Alès
+
+🗓️ Jeudi 23 novembre 2023
+
+🕡 18h30
+
+Une vendeuse sera disponible pour vous donner des conseils, et vous proposer des pièces à la hauteur de l’évènement : chics et agréables à porter pour passer un bon Gala. 🤩
+
+Vous trouverez des exemples de tenues dans le visuel ci-joint et d’autres modèles pourront vous être proposés ce jeudi.
+
+La gamme de prix se situe, en majorité, entre 60 et 150€. À l’issue de cette soirée, si vous avez trouvé votre bonheur, vous pourrez bénéficier d’une remise de 10% sur vos achats. 💰
+
+Ainsi, n’hésitez pas à remplir le form ci-joint : [https://forms.gle/A54XEbqt9t9Q1rrc9](https://forms.gle/A54XEbqt9t9Q1rrc9?fbclid=IwAR1pjAxFAyd4hE06lxTmw3yUPqULiSgDUepnaz6_OWnqJc3y-If41Q0PWws)
+
+Vénitiennement vôtre,
+
+Le 96ème Gala 🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [sg SdB]
+
+https://forms.gle/YQcHHZiJ6vxYxHjT7
+
+Le WES vous caresse 😏🐻', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lili Roche; contenu : [SAKADO]X[Vente de chocolats]X[Collecte de vêtements]
+Vous avez une doudoune que vous portez plus ?🧣 Des gants trop petits ?🧤 Une paire de chaussures qui ne vous plaît plus ? 👟
+Sakado les collecte tous les midis au cyber ☕jusqu''au 29 novembre pour les rediriger vers les sans abris d''Alès pour leur tenir chaud. Si jamais vous êtes trop généreux et que le cyber n''est pas pratique, contacter Lili Roche pour qu''on récupère les dons.🥰
+
+Après ce don au même endroit même moment, vous voulez offrir un cadeau de Noël gourmand, vous faire plaisir ou pour faire plaisir, on propose en prévente paris un large catalogue des chocolats fait à Alès. 🍫 Vous les recevrez la semaine du 18 au 21 décembre dans leur jolies paquets !🎄
+
+Généreusement vôtre 💓
+Le projet Sakado !🎒', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES]  x [sg SdB] x [13h sur EMA Promo] x [Tout est dit dans le titre] x [J’allais oublier] x [Le WES vous caresse] x [à jeudi]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [Groupe WES 2024 - Val Cenis]
+
+Salut les riderss 🏂
+
+Message important pour ceux qui ont eu le sg.
+
+Pour ne pas ensevelir EMA Promo, merci de rejoindre ce groupe facebook : toutes les infos y seront postées ☃️
+
+[https://www.facebook.com/groups/880893900261791/](https://www.facebook.com/groups/880893900261791/)
+
+Le wes vous caresse', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Information billetterie] X [Gala]  
+
+Bonjour à tous!   
+
+📢Nous vous rappelons que la billetterie fermera ce dimanche à 20h!   
+
+Ne tardez plus à prendre vos places pour la plus grande soirée de l''EMA 🤩 : [https://gala-mines-ales.fr/billetterie](https://gala-mines-ales.fr/billetterie)
+
+Nous aurions besoin de votre participation pour prêter des petits objets  pour les loges des artistes et la safe zone. Si vous voulez participer  vous pouvez remplir ce forms😉:
+
+[https://docs.google.com/forms/d/e/1FAIpQLSfjWt3Gm-9ve0S-5fMCn6DsoKwExsRxqJ2qmm5jH9ktkNR9pw/viewform?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSfjWt3Gm-9ve0S-5fMCn6DsoKwExsRxqJ2qmm5jH9ktkNR9pw/viewform?usp=sharing)
+
+Vénitiennement vôtre, 
+Le Gala🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [SG BUS]
+
+https://forms.gle/xkuF5GSJoEnS2vhm6
+
+Le WES vous caresse❄️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [AfterWork] X [Gala]   
+
+Salut à tous !  
+
+Nous serons au rendez-vous pour vous régaler ce soir en SDB à 20h !  
+
+Vénitiennement vôtre, 
+Le Gala🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Compte Rendu] x [Conseil d’administration]
+
+Bonsoir à tous !
+Ce soir s’est tenu le CA avec à l’ordre du jour : Subvention WESC et alcool fort.
+
+Le WESC ⛷️ (Week-end Ski Club) s’est présenté à nous pour une demande de prêt 💵 et de subvention. En effet, le club prévoit une sortie ski sur un week-end le 9-10 décembre, pour un total de 24 personnes. Pour mener à bien le projet, le WESC nous a fait une demande de prêt de 2808€, ainsi qu’une demande de subvention de 240€ soit 5€/jour/personne.
+Le Cercle a accepté le prêt ainsi que la demande de subvention 🤩 !
+
+Nous avons aussi discuté du problème de l’alcool fort (degré supérieur à 18)🥃. En effet, sa distribution est interdite sous le Cercle ⭕️ et pourtant plusieurs clubs en ont quand même servi. Un message sera bientôt posté pour avertir des conséquences que cela aura à l''avenir. Des sanctions concernant les clubs qui sont fautifs seront bientôt annoncées.
+
+Nous tenons finalement à féliciter l''équipe du TDM pour son organisation et la réussite de son événement ainsi tous les coureurs qui y ont participé !🏆🏃‍♂️
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [SG BUS]
+
+Salut riders 🎿
+
+Le sg pour le bus du WES aura lieu demain à 13h sur EMA Promo 🏎️
+
+Rappel des horaires : 
+Départ : jeudi 11 janvier à 14h depuis la meuh 
+Retour : dimanche 14h 
+
+PS : les 2A/3A peuvent faire le sg mais les 1A seront prioritaires 🚍
+
+Le WES vous caresse ☃️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Victor Neto; contenu : Téléphone retrouvé en sdb', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Antoine Sicard; contenu : [SDB CHANTIER]
+
+Merci, d''être venu
+Merci, à notre partenaire France Bleu Gard Lozère pour la retransmission 
+Ciao,', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Théo Le Roch; contenu : Pour tous objets perdu Merci d''appeler le 07 69 70 52 22
+Bisous', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Théo Le Roch; contenu : Clés de voiture remis sous conditio. D''ouverture de voiture 
+Merci', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Théo Le Roch; contenu : Téléphone trouve en sdb 
+Je suis joignable 
+Remis sous condition de remise du code de déverrouillage.
+Merci', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [SDB]X[Chantier]
+
+Voici la line Up de ce soir 
+
+Emamix VII
+Pour votre plus grand plaisir… 😏😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Gonzales; contenu : Les médias sont arrivés pour couvrir l''événement.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Antoine Sicard; contenu : [BAT]x[SDB CHANTIER]
+
+Salut,
+Vous pouvez passer en sdb pour récupérer votre bracelet. 
+Cordialement,', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [Résultats SG]
+Salut les riderrsss ! 🏂
+Voici les résultats de sg. Pour ceux qui n''ont pas été assez rapide ne vous inquiétez pas, nous sommes en discussion avec le tour op pour ajouter des places 🥳
+Pour les paiements ça arrive très bientôt : restez à l''affût
+Le WES vous caresse ☃️', 0);

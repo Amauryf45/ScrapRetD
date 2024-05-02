@@ -1,0 +1,238 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1306489410007865/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Hugo Martin; contenu : Salut j’ai perdu mon tel samedi soir aux villas. C’est une iphone12 noir avec coque Vilebrequin. Si vous avez des infos ou que vous le trouvez ca serair super', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d''Administration] X [CR]
+
+Bonjour à tous, 
+
+Aujourd''hui s''est tenu le CA du mois en présence de premier et troisième année!!
+Au programme: amphi de mi-mandat, préparation du pré-gala, futur bureau gala, tour des com et discussion des sujets amenés par les élèves invités.
+
+Un amphi de mi-mandat aura lieu début janvier afin de faire un point sur nos promesses de campagnes, les projets en cours et de permettre un temps d''échange entre emayens!!📅
+
+L''organisation du pré-gala a été abordée afin de trouver une solution pour qu''un maximum d''élève puisse profiter de cet évènement en toute sécurité. Notamment en prévenant les voisins et en augmentant la sécurité en SDB.🍻
+
+Un point sur les futurs bureaux du Gala a été effectué. Nous avons notamment évoqué le changement du bureau en un comité d''organisation réunissant les emayens et le personnels de l''école afin de faciliter l''organisation de cet évènement. D''autres idées sur la manière dont les bureaux sont élus, ont été évoquées. 💃
+
+Le prix de la location de la paella a été négocié afin de permettre à un plus grand nombre de clubs d''en bénéficier sans trop impacter la recette de leur évènement. 🥘
+
+La discussion entre les élèves et l''administration de MAA a été évoquée, nous en reparlerons lors de l''amphi de mi-mandat. D’autre part, on remarque que la com de certains événements a été réduite aux seuls membres du groupe dédié au club organisateur. Cette manière de fonctionner pourra être revue pour ne pas resteindre l’accès aux Emayens et mieux faire fonctionner les activités. 🎉
+
+L''organisation du Noël du Cercle a été approfondie et nous avons hâte de vous présenter ce que nous avons prévu !!🎅
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucas Guérin; contenu : [1A en détresse]X[Carte Vitale]
+
+Bonsoir l''EMA.
+Après avoir été convoqué au bar hier soir pour une beuverie où il était nécessaire de présenter une carte vitale je me suis dirigé vers les villas pour prolonger le plaisir.
+Malheureusement j''ai égaré cette même carte verte. Si vous la retrouvez merci de me donner rendez-vous. Je prendrai évidemment cu.
+
+Bien à vous,
+Lucas Guérin (bizuth de merde).', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Dernier rappel] X [Billetterie] X [Gala]
+
+📢📢 Plus que quelques heures pour prendre votre place!
+
+🗓 La billetterie ferme ce soir à 20h! 
+
+⚠️ A partir de ce moment, il ne sera également plus possible de changer de table. 
+
+Pour prendre vos places 😉 : https://gala-mines-ales.fr/billetterie
+
+Vénitiennement vôtre, 
+Le Gala 🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : La Meuhle; contenu : [Meuhle]x[Fondue] 🧀
+
+La Meuhle vous propose une deuxième fondue savoyarde cette semaine, mercredi à 20h au bar ! 🫕
+La fondue sera au prix de 7€ et vous aurez en plus la possibilité d’acheter des bouteilles de vin sélectionnée par un caviste pour accompagné la fondue ! 
+⚠️ Attention, il n’y a que 30places pour celle ci donc soyez vifs lors du shotgun qui aura lieu lundi à 13h sur la page Facebook de la Meuhle ⚠️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [Dernier jour pour payer ⏰]
+
+Permanences cette après midi pour payer par chèque :
+14-15h en J25
+16-17h en I22
+Chèque à l''ordre de : Cercle des élèves de l''IMT Mines Alès - Weekend Ski
+
+Le wes vous caresse ❄️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Nino Dupont; contenu : Lumière intérieure restée allumée (en face du bat L)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [Derniers jours] x [Permanences]
+
+Vous n’avez plus que quelques jours pour venir au wes 🚨
+
+Pour cela il suffit de rejoindre le groupe fb ici : [https://www.facebook.com/groups/880893900261791/](https://www.facebook.com/groups/880893900261791/) puis PAYER 💸
+
+**Une permanence pour payer par chèque aura lieu ce soir en P60 de 19h à 21h**
+
+Le wes vous caresse ❄️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Samuel Sellouk; contenu : [Message aux Boursiers]
+
+Hey, ça vous dit d’aider grandement le club de tennis de l’école ? ☺️
+Ça vous dit aussi de gagner 6€ ?😎
+
+Alors si tu es boursier et que tu n’utilises pas ton Pass’Sport, contacte-moi en privé ! 💪
+
+Ça te coûte rien, tu aides énormément le club, et tu gagnes 6€ !🔥
+
+Merci à tous ceux qui le feront 😁
+
+Samuel', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Places partie soirée] X [Gala]
+
+Les places partie soirée uniquement seront disponibles dans une heure ! 🤩
+
+Vous pourrez évidemment continuer à prendre des places pour assister à tout l''événement sur la billetterie. 😉
+
+📢 Pour rappel, la billetterie fermera dimanche à 20h, pour prendre vos places : https://gala-mines-ales.fr/billetterie
+
+Vénitiennement vôtre, 
+Le Gala 🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Places partie soirée] X [Gala]  
+
+Bonjour à tous,   
+
+Nous avons encore quelques places libres pour le Gala, nous avons donc décidé d''en mettre en vente pour la partie soirée uniquement. 😊 
+
+🗓 Elles seront disponibles sur la billetterie jeudi à partir de 15h sur le site web.  
+
+💰 Elles seront au prix de 40 euros.  
+
+⚠ Nous vous demandons de réfléchir avant de prendre ces places car elles présentent quelques désavantages :  
+
+- vous ne pourrez pas entrer dans le Capra avant 23h30 
+- les navettes pour venir au Capra ne seront pas disponible à cette heure, vous pourrez en revanche repartir avec
+- vous n''aurez pas de place assise dans la salle  
+
+Vénitiennement vôtre, 
+Le Gala 🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1304257376897735/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [ SDB Pré-Gala ] x [ Bénévoles VSS ]
+
+Bonjour à tous ! 👋
+
+De retour cette année, le Bar de la Meuh organise la traditionnelle SDB Pré-Gala ! 🍻
+
+Au vu de la forte fréquentation de cette SDB, nous avons décidé d’augmenter le nombre de responsables VSS au nombre de 4, afin que toutes et tous puissent passer la meilleure soirée possible.😌
+ 
+En plus de ces 4 personnes, nous sommes aussi à la recherche de Bénévoles VSS qui pourraient nous assister dans cette tâche. Votre rôle sera de rester vigilant durant la soirée ainsi que d''aider les personnes ayant besoin d''aide. 🫶
+
+ Alors si vous voulez nous aider à ce que cette soirée se passe pour le mieux, n’hésitez pas à vous inscrire sur ce Forms : https://forms.gle/9inD5oqzQ6J6sHwa8
+
+Même 30 minutes de votre temps serait de la plus grande aide 😇
+
+Afin d’avoir une vigilance maximale, il faudra cependant s’engager à rester 100% sobre jusqu’à la fin de votre créneau. 🙏
+
+Merci beaucoup !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA X AssoM; contenu : [AssoM] x [Vendredi] x [covoits]
+
+Salut à tous,
+
+L''AssoM c''est déjà Vendredi soir au Parc Chanot à partir de 22h jusqu''à 5h🥳 !
+
+Pour ceux qui souhaitent s''y rendre, que vous ayez pris vos places au **tarif normal** grâce à la billetterie en ligne de l''AssoM ([https://www.billetweb.fr/soiree-inter-assos-32](https://www.billetweb.fr/soiree-inter-assos-32?fbclid=IwAR0j7Ji8qOgbql5bfgBoeMWRuLSIQOjlh4d_jdv1ItosJBGufTG_qR5etlM)) ou **tarif réduit** en prenant contact **directement avec nous**, on vous propose de vous inscrire dans cet Excel pour que vous organisiez vos covoits 🚗
+
+https://docs.google.com/spreadsheets/d/1iCu2c0W9Ck8AiKVXkaZ3Np7pNHDDOC5bqgSH_xWujQ4/edit?usp=drive_link
+
+Pour rappel, il est toujours possible de prendre vos places à prix réduit en nous contactant sur nos réseaux sociaux, on s''arrangera pour vous les donner en main propre (**paiement en espèces** et pas de billet de 50)
+
+Et **n''oubliez pas** de prendre votre carte étudiante et votre carte d''identité pour pouvoir rentrer (⚠️ une photo ou un scan ne suffiront pas)
+
+On a hâte de vous voir sur scène ou devant pour profiter de cette belle soirée !
+
+AssoMement Vôtre (on oublie pas le thème EMA’rguerite🌼)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [Places supplémentaires 🥳] 
+
+Salut rider ! ⛷
+
+Après discussions avec le tour op nous avons des places supplémentaires. 
+Voici ceux qui ont les places (les retardataires du sg)
+
+Et pour tous ceux qui viennent au wes REJOIGNEZ LE GROUPE FB : https://www.facebook.com/groups/880893900261791/
+
+PS : Ceux qui ne viennent finalement pas, mais qui ont fait le sg merci de nous le dire pour libérer encore plus de place
+
+PSS : S’il y en a encore qui veulent venir et qui n’ont pas fait le sg nos messages privés sont ouverts. On verra ce qu’on peut faire.
+
+Le WES ne caresse que ceux qui rejoignent le groupe !!!!😘', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Massiwa Chabbi; contenu : [Soirée Villas]X[Deuxième édition 🇧🇷]
+
+Olá Emayens ! Tudo bem ? 🇧🇷
+
+Après une première édition où nous vous avons fait voyager aux US 🇺🇸, nous vous emmenons cette fois-ci au pays du carnaval, de la samba , de la plage et du foot, vous l''avez deviné : 
+
+💚💛 AU BRAZZZIL 💛💚
+
+Vous avez kiffé la première soirée ? 🥳
+Vous avez raté la première soirée ? 🥺
+Alors rendez-vous ce samedi aux villas parce que la recette est la même 🔥 :
+
+Musique à fooond 💃🕺, tireuse 🍻, bar à shots 💥 et cocktails 🍹
+
+Tudo para saber :
+
+🇧🇷 BRAZILIAN PARTY 🇧🇷
+📅Samedi 25 novembre📅
+🕗 20h30 🕗
+📍 VILLAS 📍
+
+Muito amor ❤️‍🔥
+Samba do Brazil 💚💛
+🩸x♠️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Vie Associative]
+
+Bonjour à vous les 1A ! 👋
+
+Cela fait maintenant 2 mois que vous êtes entrés à l’école et que vous vous plongez dans le sport et la vie associative à l’EMA. 🏈🎨🏠
+
+Vous l’avez surement remarqué, cette vie extra-scolaire est omniprésente dans le quotidien des Emayens. Que ce soit au sein des clubs, des associations, des sports, la participation aux AW, petits-déjeuners et des évènements en général, c’est grâce à l''investissement de  TOUS que nous pouvons tenir ce rythme et faire vivre cette richesse qui fait la renommée de notre campus ! 🥇🤩
+
+Pour l''instant, les associations et clubs fonctionnent essentiellement grâce aux 2A/3A mais ça devrait être aussi et surtout grâce à VOUS 🫵, car vous pouvez y participer en tant que bénévoles ou bizuths bureaux : pour aider à l''organisation ou seulement en participant !
+N''oubliez pas non plus que cette vie associative vous permet de développer de nombreuses compétences qui vous seront utiles tant personnellement que professionnellement (et qui feront la différence sur un CV), comme le travail en équipe, l’engagement personnel, la prise d’initiatives, et bien d’autres ! 🎓
+
+L’année prochaine, ce sera à vous de faire vivre cette vie extra-scolaire et de perpétuer cet héritage précieux que chaque promo laisse à la suivante. 💎
+Par ailleurs, si vous souhaitez reprendre une asso ou un bureau, il vous sera difficile de justifier votre engagement si vous attendez la fin des campagnes et la passation des bureaux pour commencer à vous y intéresser. ⚠️ 
+Si une asso vous intéresse de près ou de loin n’hésitez pas (à n''importe quel moment de l''année et même si vous n''y avez jamais mis les pieds) ! 🫵
+
+Cet engagement peut même être convertit en PEP (Projet d’Engagement Personnel) si vous mettez votre énergie dans un projet qui vous tient à cœur (création d’asso, investissement dans le bureau, organisation d’évènements…). 🧑‍💼
+
+Vous trouverez ci-joint un livret numérique qui regroupe les trombinoscopes de tous les clubs et associations. Il vous permettra de vous rendre compte de cette richesse associative et de vous aider à contacter plus facilement le/la président.e ou d''autres membres pour leurs poser toutes vos questions et vous investir ! 📩
+
+📖 : https://heyzine.com/flip-book/f66d5acc35.html
+
+Merci à tous ceux qui auront pris le temps de lire ce message, un peu long mais très important. On espère vous voir aux évènements très prochainement. ❤️
+
+Circulairement vôtre ⭕
+
+PS : pour les trombinoscopes des sports c''est par ici 👉 https://bdsminesales.fr/wp-content/uploads/sites/2/2023/09/Guide-des-sports-2022-2023-1.pdf-1.pdf?fbclid=IwAR2OWX4LsyxqZKPslTSGuE_HleJ-tJGudIRwHYCYWMOLLbRi8_QJRVDsb_c', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [LOGO]X[SWEAT]X[FINALE]
+
+Après les premiers votes trois logos sont sortis du lot, il est grand temps d’en sélectionner un ☝️ !
+
+Alors vote pour ton logo préféré via ce forms ➡️ : https://docs.google.com/forms/d/e/1FAIpQLScVmEuxEuOoX8J6aWGJmPTn_-SejR_Bt4L9ao04rKlnz1K85A/viewform
+
+Tu as jusqu’à dimanche soir pour voter ⏰ !
+
+ ⚠️⚠️UN VOTE PAR PERSONNE⚠️⚠️ 
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : TDM - Sur la trace des Mineurs; contenu : [RETOUR SUR LA PREMIÈRE ÉDITION DU TDM]
+
+Hello tout le monde ! 🏃‍♀️🏃
+
+Le TDM s’est déroulé ce samedi avec succès ! Nous sommes très heureux de vous avoir vu si nombreux sur nos parcours 🤩
+
+Félicitations à tous ! 🎉
+
+Un grand bravo à :
+* Tangui Le Boité, Premier emayen et vainqueur du Garde-Mines en 1h22min08s 🥇
+* Élise Mange, Première emayenne et 3ème féminine du Garde-Mines en 1h55min13s 🥉
+* Cléo Ledez, Premier emayen et vainqueur du Coup de Grisou en 42min01s 🥇
+* Anaelle Haumesser, Première emayenne et 3ème féminine du Coup de Grisou en 58min12s 🥉
+
+Les résultats des deux courses sont disponibles sur le site d’Endurance Chrono. Le lien pour y accéder est sur notre site Internet ([https://www.tdm.ink ](https://www.tdm.ink/)) dans l’onglet « Infos pratiques » -> « Résultats » 😉
+
+Nous souhaitons également remercier une nouvelle fois les bénévoles et tous ceux qui nous ont aidé, sans eux nous n’aurions pas pu organiser un tel événement 😊
+
+Enfin, nous vous donnons rdv le 16 novembre 2024 pour la seconde édition du TDM 🤩
+
+L’équipe du TDM 🏃‍♀️🏃
+
+PS : Nous revenons rapidement vers vous avec les modalités d’élection du nouveau bureau 👀', 0);

@@ -1,0 +1,180 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Miniconi; contenu : [Ultras inquiets] x [TRAMS]
+
+Salut, on espère que les gens qui ont gardé les mégaphones après Orlandini ont la ferme intention de les amener au TRAMS pour s''en servir avec les ultras. Si ce n''est pas le cas merci de les déposer devant le Y27 ou de les donner aux ultras avant 18h svp. Si c''est pas fait on chantera pas. Je vois pas ce que vous allez en faire chez vous ils sont plus utiles dans les mains des gens qui s''en servent pour supporter.
+À demain sur les terrains.
+
+#MinesSainteCEst300Supporters
+#MinesAles...', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : MAJE - Mines Alès Junior Études; contenu : [MAJE] x [Incubateur]
+
+Bonjour tout le monde ! 
+
+Pépite est un programme visant à renforcer la volonté des étudiant(e)s d’entreprendre et d’innover durant leurs études. Notamment Pépite propose des ateliers et le Statut National Étudiant-Entrepreuneur.  
+Afin de toujours mieux promouvoir l’esprit d’entreprendre, Pépite organise la Semaine Créativ’ du 13 au 19 novembre 2023, pour sa 4ème édition ! Le but : toucher les étudiants de l’enseignement supérieur et les pousser à entreprendre. 
+
+C’est dans le cadre de cette semaine que MAJE et l’Incubateur de l’école organise l’événement I’MAJE’ine ! 
+Un après-midi d’ateliers en groupe autour de 4 sujets proposés par des enseignants-chercheurs.
+Au programme 
+🎨 des ateliers animés par des coachs pour t’approprier des sujets 
+💬 des échanges avec les enseignants-chercheurs de l’école
+🍕 un repas convivial pour clôturer l’événement
+
+Si tu as envie d’entreprendre, contribuer à des projets, ou tout simplement tu veux découvrir ce qui peut se faire à l’Incubateur, cet événement est la parfaite occasion !
+RDV le 16 novembre de 14h00 à 20h00 📅
+
+Intéressé(e) ? Inscris-toi dès maintenant, et reste connecté(e) pour découvrir les 4 sujets proposés ! 🔥
+https://forms.gle/W4Pr8U2GPyJ2wAKk8
+
+L’équipe MAJE 👔', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Hugo Martin; contenu : Bonjour, après une belle soirée hier (un peu trop belle peut-être), j’ai malencontreusement perdu mes clés du P13.
+N’hésitez pas à me contacter pour toute info.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Benjamin Vairon; contenu : [MD''EMA] x [Nouveau club ????]
+
+Bienvenue dans le monde électrisant de MD''EMA ! ⚡️🎶 Notre projet est de créer un club avec pour mission de promouvoir la musique électro techno et d''apporter une bouffée d''air frais au sein de l''EMA. 🌟
+
+Au programme, échange et découverte de festivals, d''artistes et de musiques du genre house, électro, techno… 🎉 en plus de sorties organisées pour participer à des évènements notoires ! 🎆
+
+MD''EMA est un club musical, mais c’est surtout une communauté qui cherche à élargir vos horizons, à vous offrir des expériences musicales mémorables et à favoriser votre bien-être en festival. 🙌
+
+On vous invite donc à répondre à ce Forms de quelques secondes avec un maximum de bienveillance ! 📋😊
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Eloi Beziaud; contenu : [béquilles]x[pas cool]
+
+Bonjour à tous, hier soir j’avais laissé mes béquilles devant chez moi au Rez de chaussée du bat N, et malheureusement dans la nuit quelqu’un me les a prises. Je suppose que c’est suite à la sdb que cela a eu lieu et en vrai j’en veux pas à celui qui les a prises, je comprend que ça peut être drôle. Si la personne qui me les a prise peut les redéposer en N05 ça m’arrangerait. J’ai trouvé une autre paire pour ce matin mais c’est pas cool 😢
+
+Merci', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Magiciens; contenu : [sdb]x[lineup]
+
+L''asso est ghetto on poste la lineup tard mais tu connais les classiques sont la 🧙‍♂️🧙‍♂️♥️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Adam XB; contenu : Bonjour à tous, cela fait à peine 4 jours que je suis rentré sur la meuh et je reçois des menaces permanentes.
+
+Qui fait ça ?
+Qu''il se dénonce 😤!
+
+1v1 quand tu veux ! 
+
+Ma réponse sur la dernière photo 🥵
+
+#viensEnFace #tKi? #jaiPasTaTable', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Magiciens; contenu : [SDB MAGICIENS]
+Permanence pour les bracelets de la SDB de ce soir, en U20 et en P31 de 14h à 16h !!!', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Vie associative] X [Prévention]
+
+Bonjour à tous, 
+
+Ce message s’adresse en préambule à Alan Retailleau qui s’est exprimé sur ce groupe le samedi 07/10, cependant, c’est bien à tout le monde que nous nous adressons aujourd’hui. Nous nous excusons également de la latence de la réponse qui a été reportée suite aux récents débordements. 
+
+Cher Alan, nous souhaitions répondre à ton message en témoignant de notre immense gratitude pour l’engagement que tu portes à la vie associative et aux associations dont tu fais partie. Nous ne sommes pas indifférents vis-à-vis de ton état de santé qui nous pousse à porter un message de prévention.
+
+En tant que responsables de la vie associative, nous tenons à remercier les nombreux 2A et 3A qui participent à faire vivre la vie emayenne, à faire vivre cet héritage, à le faire prospérer et à l’étendre à travers leurs engagements. S’impliquer dans une association est extrêmement enrichissant, tant d’un point de vue professionnel que personnel mais il ne faut pas oublier que cela représente de l’investissement et du travail.
+
+Le surmenage est une chose qui, en des temps difficiles, peut nous toucher tous et toutes. La vie associative ne doit pas être vécue aux dépends de certains des élèves. Votre santé est primordiale sur tous vos engagements et sera toujours la priorité numéro 1.
+
+Nous rappelons que le travail que nous fournissons collectivement est un travail bénévole. D’une part, nous avons tous naturellement des choses à faire à côté donc il est important que ce travail repose sur l’entente, l’entraide, la répartition des tâches et savoir reconnaître ses limites ou demander de l’aide à autrui. D’autre part, quand on fait appel à quelqu’un, que ce soit au sein même d’un club ou inter clubs, il est absolument indispensable de prendre en considération son interlocuteur avec des demandes raisonnables, de la compréhension et avant tout du dialogue. Ce respect doit être conservé par tous les emayens et dans toutes les interactions, même pendant les événements. 
+
+Pour vôtre bien et celui de tous, investissez-vous à la hauteur de ce que vous pouvez fournir et faites attention à votre entourage. N’hésitez pas à demander de l’aide auprès de vos bureaux, familles, amis ou professionnels.
+
+Avec peine et beaucoup de reconnaissance pour tout votre travail ❤️
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Magiciens; contenu : Voici les résultats du SG de la SDB MAGICIEN. 
+
+Les permanences pour les bracelets se feront :
+
+-demain au cyber de clavières de 13h à 14h
+
+-demain soir devant la SDB', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [YEARBOOK] X [2022-2023]
+
+Salut à tous ! ✨
+
+Pour celles et ceux qui n’ont pas commandé le YearBook 2022-2023 l’année dernière ou qui auraient décidé d’en prendre un après l’avoir vu en vrai 😍, le Cercle prolonge la billetterie jusqu’au 12 Novembre, dernier délai ! ⏳
+
+Ensuite, il ne sera plus possible de passer commande. ⚠️
+
+💴 Le livre sera au prix de 30€ et l’option personnalisation à 5€ supplémentaires, l’augmentant à 35€.
+
+Si vous souhaitez voir le YearBook 2022-2023, n’hésitez pas à contacter Camille Osouf ou Alexis Garcia. 📲
+
+Voici le lien pour le commander :
+➡️ https://boutique.lyf.eu/cercle-des-eleves/yearbook-2022-2023
+
+PS: Pour le YearBook 2023-2024, un message sera posté une fois la billetterie de l’édition 2022-2023 fermée. 
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Magiciens; contenu : Voici le Shotgun de la SDB magicien,
+Les résultats seront annoncés dans la soirée, et des permanences pour les bracelets se feront ce soir et demain
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Dalil Zeamari; contenu : [SDB]X[MAGICIENS]
+
+Salut ça dis quoi ?
+
+Avec nos meilleurs mages on vous a concocté une soirée FULL RAP/COMMERCIAL avec assez de banger pour faire tomber Yacine dans les pommes 🧙‍♂️
+Alors si tu trouves que Hamza>Michael Jackson ou que Dalil ressemble sacrément à Karim Benzema retrouve nous JEUDI 19 octobre pour pogo saaaal sur les plus grands classiques que la west coast nous a donnés
+
+‼️Le SG aura lieu le mercredi 18 octobre à 13h30 sur EMA promo ‼️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Godefroi Truche; contenu : Portefeuille oublié en B211.
+
+Je le garde avec moi en B212 jusqu''à 12h15.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : [EMAVisual]x[Photos CV]
+
+Préparez-vous à être éblouis par nos dernières sessions de photos CV! 📸🤩
+Voici les liens pour découvrir vos photos:
+
+Session 1 : https://cercledeselevesema-my.sharepoint.com/:f:/g/personal/drive_ema-visual_cercle-des-eleves_fr/EiMUffZP9xZArpcXVF5a1aIBSl-kGxIjOE-jeakZbS1RFw?e=G1KKav
+
+Session 2 :
+https://cercledeselevesema-my.sharepoint.com/:f:/g/personal/drive_ema-visual_cercle-des-eleves_fr/El5-KoiUpS9JnXFpppb89y8Bo3VZSMs-D2rptRhnz2hOPA?e=PxSR7j
+
+Visuellement vôtre 📷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : TDM - Sur la trace des Mineurs; contenu : [BENEVOLES TDM]
+
+Salut tout le monde !
+
+Nous vous informons qu’il vous reste jusqu’à vendredi 20h pour vous inscrire en tant que bénévole pour le TDM 😉
+
+Pour information, nous fournissons le repas pour les bénévoles le midi 😁
+
+Voici le lien du form pour vous inscrire : [https://docs.google.com/forms/d/1BIrF0FrPBPvZVp4Oh3E4wAguJkxVDjBOzbdT-PrK48A/viewform?edit_requested=true&pli=1](https://docs.google.com/forms/d/1BIrF0FrPBPvZVp4Oh3E4wAguJkxVDjBOzbdT-PrK48A/viewform?edit_requested=true&pli=1)
+
+On compte sur vous !!
+
+L’équipe du TDM 🏃‍♀️🏃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : Bonjour à tous, le BDA 🎨 vous propose un tournoi de logos des familles qui aura lieu le lundi 6 novembre sur l’insta du BDA et qui se déroulera sous forme de vote en story.
+Pour participer, il faut que ta famille de l’EMA envoie le logo qui la représente au lien ci dessous : 
+
+https://docs.google.com/forms/d/1vrCUdOQkIzgj4G5yI4SizurZ6egnPi7WD_E_NOk3i70/edit
+
+Deadline : Dimanche 5 novembre minuit 🕛 
+La famille gagnante 🏆 se verra offrir une bannière XL avec son logo pour flex devant toute la meuh 🐮.
+Si tu es déçu de l’élimination d’hier en quart, montre à tout le monde que ta famille peut aller plus loin que l’équipe de France 🇫🇷 
+Artistiquement vôtre, le BDA.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [COM Vert]x[Récompenses AW]
+Bonjour à tous et à toutes👋
+Nous lançons une nouvelle édition du concours d’afterwork le plus vert ☘️
+Cependant nous avons changé quelques modalités par rapport à l’année dernière 🍄
+
+Voici le nouveau système de récompense pour les Afterworks !
+Désormais, il est possible de voir une partie de son Afterwork remboursé indépendamment des autres résultats. Il suffit que le bilan CO2 de votre Afterwork atteigne l’un des paliers pour obtenir jusqu’à 20% de remboursement.
+Les paliers à atteindre sont les suivants :
+- Moins de 1,5kgCO2e/repas → 7% de remboursement
+- Moins de 1,3kgCO2e/repas → 12% de remboursement
+- Moins de 1 kgCO2e/repas → 20% de remboursement
+Il y également une prime de 50€ chaque semestre pour l’AW le plus responsable !
+Pour participer, vous devrez remplir un tableau qui indique les dépenses de votre AW dans les 72h suivant la fin de celui-ci ❗️
+Pour les Afterworks qui ont eu lieu avant cette annonce, vous pouvez également participer.
+Pour obtenir le tableau ou avoir plus d’informations, vous pouvez contacter Kewin BINDZI ou Guillaume RIGAUD.
+
+Les com vert du BDE 🌱', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1286174038706069/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Initiation base-ball ⚾️]
+
+Envie de tester un nouveau sport ? C’est le moment !
+
+Cette semaine on vous propose une initiation au base-ball ! Que vous soyez débutant ou joueur expert vous pourrez découvrir ce sport autour de nombreux ateliers. ⚾️
+
+Intéressé ? Rendez vous mercredi 18 octobre de 18h15 à 20h au stade Mandela. Merci de remplir le form suivant pour nous permettre d’organiser au mieux cet événement :
+https://forms.gle/Mh5PbW2JH8JSKit58
+
+On vous attend nombreux ! 💪', 0);

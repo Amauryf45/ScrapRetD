@@ -1,0 +1,189 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Radio Ding-Dong; contenu : [Radio Ding Dong] x [Première Emission]
+
+Heyy tout le monde !
+
+Après une année un peu compliquée, Radio Ding Dong reprend du service et revient ce soir pour sa première émission : les années 80 🕺.
+
+Venez nous écouter ce soir sur Twitch à 20h30 !
+Vous pourrez aussi participer en jouant avec nous au blind test et quiz prévus ☺️.
+
+Lien du Twitch : https://www.twitch.tv/radio_ding_dong
+
+À ce soir ! 
+
+Ding Donguement vôtre 🎙️.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Tom Boisau; contenu : Salut 
+
+Voici notre liste pour le shotgun BDS : 
+
+Laura Atal
+Marie Grail
+Sam Deufreuil
+Tomas Serfeuille
+Thomas Henry
+Anaïs Fleurette
+Antonin Deschamps
+Marcus Certis
+Antoine Jouillis
+Anna Marignon
+Leo Durant
+Sarah Demise
+Martin Matin
+Antoine Jacquet
+Marc Unbut
+Michel Ferlut
+Émilie Tredvodka
+Marc Husseque
+Maïala Beil 
+Siméon Lebourdon 
+
+En espérant avoir été assez rapide ! 
+
+Theo Bessiere', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Certificat Médical] x [Trail Des Mines] 
+
+Bonjour, 
+
+Pour votre inscription au trail des mines vous devez avoir un certificat médical de non contre indication à la pratique du trail, de l’athlétisme ou de la course à pied en compétition. 
+
+Ainsi, si vous souhaitez obtenir une copie de votre certificat que vous avez transmis au BDS cette année 2023 merci de remplir le formulaire suivant : https://forms.gle/UL9C5PYmtavKUc1KA
+
+⏱️ Vous avez jusqu’au dimanche 15 octobre pour répondre au formulaire. 
+
+Vous recevrez vos certificats à partir du 16 octobre 2023. Nous communiquerons ultérieurement sur la transmission des certificats. 
+
+‼️ Les demandes par mail et ou par Messenger ne seront pas traitées. 
+
+Sportivement votre💪', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [PEP musique] x [Inscription aux cours de musique]
+
+Salut à tous ! 👋
+
+Pour ceux qui souhaitent donner des cours et en faire son PEP, vous pouvez toujours vous inscrire 👇: 
+
+https://docs.google.com/forms/d/e/1FAIpQLSc_SsOSz5FevnCScL5HStNX1jslPscdcTynBfwLM1ct4NUHLQ/viewform?usp=sf_link
+
+Et voici le forms pour ceux qui souhaitent apprendre à jouer d’un nouvel instrument ou se perfectionner 👇 : 
+
+https://forms.gle/fXp7ysod2sB17ijG7
+
+PS : la personne qui souhaite donner des cours de violon a mal rempli le forms et doit le remplir à nouveau si elle souhaite toujours donner des cours.
+
+Artistiquement votre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : TDM - Sur la trace des Mineurs; contenu : [TDM] x [OUVERTURE DES INSCRIPTIONS] x [RECAP AMPHI]
+
+Hello les traileurs ! 🏃‍♀️🏃
+
+Les inscriptions pour la première édition du TDM sont ouvertes !! 🤩
+
+Vous avez le choix entre deux parcours :
+* Le Coup de Grisou : 10km / 270D+ à 10€
+* Le Garde-Mines : 18km / 570D+ à 17€
+
+Vous pouvez vous inscrire sur notre site internet jusqu’à la veille de l’événement, dans l’onglet « Inscription » : [https://www.tdm.ink](https://www.tdm.ink/)
+
+Pour valider vote inscription, vous avez besoin des documents suivants :
+* Certificat médical de non contre indication à la pratique du trail EN COMPÉTITION ou de l’athlétisme EN COMPÉTITION ou de la course à pied EN COMPÉTITION. Ce certificat doit dater de moins d’1 an à la date du TDM.
+* Pour ceux qui ont créé ou renouvelé leur licence cette année (1A et sports de contact : rugby, …), vous pouvez réutiliser le certificat médical fourni pour la licence FFSU à condition de respecter la procédure décrite dans les slides ci-dessous.
+
+(Attendez que les inscriptions pour le TRAMS soient passées pour contacter le BDS)
+
+⚠️ La licence FFSU n’est pas acceptée (licence FFSU ≠ certificat médical pour le FFSU).
+* Code promo cotisants BDE
+
+⚠️Ce code est nominatif et ne peut être utilisé qu’une seule fois.
+
+⚠️Ce code est valable 1 mois, soit jusqu’au vendredi 3 novembre à 12h. Passé ce délai, vous ne pourrez plus bénéficier de la réduction.
+
+Vos amis et vos proches sont aussi les bienvenus ! Ils peuvent s’inscrire au TDM depuis notre site Internet 😉
+
+BÉNÉVOLES :
+* Signaleurs : indiquer le parcours, prévenir en cas d’incident et informer les coureurs. Les signaleurs doivent avoir le permis.
+* Ravitaillement : gestion des postes de ravitaillement sur le parcours et sur la zone de départ/arrivée.
+
+Les bénévoles ne peuvent pas participer au TDM.
+
+Lien pour vous inscrire en tant que bénévole 😁: [https://docs.google.com/forms/d/1BIrF0FrPBPvZVp4Oh3E4wAguJkxVDjBOzbdT-PrK48A/viewform?edit_requested=true&pli=1](https://docs.google.com/forms/d/1BIrF0FrPBPvZVp4Oh3E4wAguJkxVDjBOzbdT-PrK48A/viewform?edit_requested=true&pli=1)
+
+Enfin, vous trouverez en pièce jointe le ppt de l’amphi de ce midi pour avoir un recap des principales infos 😄
+
+N’hésitez pas à nous contacter si vous avez des questions 😄
+
+L’équipe du TDM 🏃‍♀️🏃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1279378769385596/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Thomas Bacquet; contenu : Salut tout le monde, j’ai prêté un jour, l’année dernière, mon tire-bouchon à quelqu’un et j’ai oublié qui c’était avec le temps… si c’est toi ou si tu connais qui c’est, son propriétaire serait plus qu’heureux de le récupérer 🙏❤️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ema''it; contenu : [EMA’IT] X [Wifi MDE]
+
+Bonjour, vous avez reçu deux mails, l’un concernant la procédure à suivre pour se connecter au réseau MDE et un second pour définir votre mot de passe. 🔐
+Si vous n’avez pas reçu ces mails, pensez à vérifier dans vos spams. 🗑️
+
+Attention, les mails ont été envoyés à l’adresse mail que vous avez fournie à MAA, ce n’est pas forcément celle de l’école. ⚠️
+Vous aurez un mois pour créer votre mot de passe, passer ce délai le lien expirera. ❌
+
+Si vous rencontrez des problèmes pour vous connecter au réseau, envoyez-nous un message sur la page EMA’IT ou à l’adresse support@emait.fr. 👨‍💻', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : [EmaVisual]x[PhotosCV] 
+Cette année encore, EmaVisual va 🌟pimper🌟 votre CV 👩‍🎓 
+Nous proposons une première session de photos ce jeudi 5 octobre de 14h à 18h en salle créa 2 du Cowork 📸
+S''il n''y a pas assez de place ce jeudi nous organiserons une autre séance la semaine prochaine 📆
+
+⚠️ Pour participer, il fait être cotisant MAA (vous êtes cotisants si vous avez la carte de la Meuh)⚠️
+
+Inscrivez vous sur l''excel suivant : 
+https://imtminesales-my.sharepoint.com/:x:/g/personal/valentine_lechevalier_etu_mines-ales_fr/EbWDif-4ZLRMtSTe-jDOCEYBWMv6FdgnyIdaFzRk-wrHTQ?e=drhMTA', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Meuhssions]
+
+Bonjour tout le monde ! 😊
+
+Pour celles et ceux qui n''ont pas eu l''occasion d''assister à la présentation, en sdb, des meuhssions mercredi dernier, voici ci-joint un diaporama récapitulatif de toutes les meuhssions proposées par les clubs et assos de cette année. 🎨🎙📷🍺
+
+On vous rappelle que les meuhssions vous permettent de vous investir, d''échanger et de vous rencontrer de façon plus concrète entre vous et de découvrir les passions de nos chers 2A ! 😍
+
+On vous invite fortement à vous y intéresser et à vous inscrire à toutes les meuhssions que vous souhaitez (il n''y a pas de limite 😉) via le forms ci-joint.
+
+Si vous avez des questions n’hésitez pas à contacter les responsables assos du BDE : Alexis Garcia et Camille Osouf. 🤝
+
+https://forms.gle/7UKCVGDbB8xF4CjJ9
+
+Bonne journée ! ☀
+
+Circulairement vôtre ⭕', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Mathis Chapalain; contenu : Oublié au cyber, Rachid du cyber les a récupéré', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Victorien Lebas; contenu : Bonjour, j''ai trouvé les clés du C21a sur la plancha Bat S
+Le ou la propriétaire peut m''envoyer un message pour venir les récupérer en S10
+Cordialement', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alexandre Ml; contenu : Live Trail des Mines 🏃‍♀️🏃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [GBA] x [Remise des lots] x [C''est la fin] 
+
+Bonjour à tous 👋
+
+On se retrouve à 11h30 pour la remise des lots au Bât S qui va clore ce Grand Bol d''Art 2023 🕺!
+
+On espère que cette édition du GBA version 80''s vous a plu autant que nous 💖
+
+Le brunch an''emal vous attend en même endroit que la remise des lots 😋
+
+Le GBA 🪩', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : An''Emal; contenu : [GBA]x [AN’EMAL]
+Bonjour a tous on vous attend pour un brunch au bat s ! Venez vous régaler !🥪☕️🍏🥞
+Ronron et calinou 🐈🐾', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louis Blmnt; contenu : Rendez les clés de chap par peité 🙏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : Voici la line Up de ce soir 🔥
+
+Pour votre plus grand plaisir … 😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [GBA] x [SDB Années 80] x [Résultats SG]
+
+Vous pouvez venir chercher vos bracelets de SDB à 19h au Bar lors du N''oubliez pas les paroles 🎤
+
+Pour ceux qui ont pris le billet GBA avec SDB, vous avez juste besoin d''aller chercher votre bracelet et pour les autres c''est 3,5€ l''entrée 🕺
+
+Le GBA 🪩', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [GBA] x [Snack] x [ISF] 
+
+Venez vous régaler au snack préparé par l''association ISF 😋 jusqu''à 18h au Bat S !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : SG SDB GBA
+Place d’office pour ceux qui ont payé le GBA 
+uniquement pour ceux qui n’ont pas payé le gba 
+pour les bracelets, permanences a 19h au bar pendant le n’oubliez pas les paroles 
+
+', 0);

@@ -1,0 +1,216 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Hugo Schreiber; contenu : Bonjour 
+Monsieur Grégoire ici présent à perdu son téléphone
+Il aimerait présentement le retrouver MP si information
+
+Mais surtout prenez cu', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Quentin Régnier; contenu : Bonjour où est mon téléphone ?', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Yann Dufrennes; contenu : Salut j’ai perdu ma casquette Ralph Lauren verte  hier en sdb, si jamais qqun l’a retrouvée je suis en 46A', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Axel Didier; contenu : Bonjour, Lucien Rimbert a malheureusement égaré son téléphone Redmi bleu acheté hier, il est très triste. Un retour est possible en 15B merci.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Victorien Lebas; contenu : Bonjour j''ai perdu mon téléphone je sais pas la marque mais il est noir avec le sur écran cassé si j''avais vous l''apercevez faites lui prendre cu
+Merci d''avance 
+Nathan Derre', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Thomas Mrn; contenu : Bonsoir, malheureusement nous avons perdu un de nos soldats Sami Snacel. 
+Si vous l’avez vu, ne vous en approchez pas mais prevenez nous. 
+Merci d’avance', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [WEI] x [Très mauvaises nouvelles] ❤️‍🔥
+
+Bonjour,
+
+On vient d’apprendre il y a une heure que le camping du WEI ne peut pas accueillir plus de 400 personnes. Même si ce n’est pas une décision de notre part mais du camping, le BDI s’excuse mille fois auprès des 50 emayens à qui nous avons promis un bracelet. 
+
+On sait que nos excuses ne vont pas changer votre situation qui, on le sait, est vraiment horrible. Beaucoup trop de changements au sujet des places au WEI ont eu lieu, sachez que nous ne contrôlons pas tout.
+
+Il y a eu énormément de problèmes de communication entre toutes les parties prenantes. Nous ne pouvons pas revenir en arrière malheureusement, nous nous excusons de toutes les gènes occasionnées.
+
+Bien sûr, on sait qu’on est responsables de l’expérience que tous les emayens ont pendant l’inté et le WEI. Nous avons bcp travailler pour vous offrir un WEI, on a pris de notre temps pour vous faire kiffer, merci de comprendre aussi notre investissement.
+
+Pour ceux qui souhaitent annuler leur réservation de camping et se faire rembourser, il faut que vous contactiez la directrice du camping du WEI à l’adresse e-mail : dir37@azureva-vacances.com
+
+Voici l’e-mail de la directrice du camping que nous avons reçu :', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Akram Mikati; contenu : Montre trouvée par terre à Clavières. mp pour le propriétaire', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [WEI] x [Participants exté] ❤️‍🔥
+
+Bonsoir à tous, 
+
+Voici la liste de ceux qui pourront acheter un bracelet à leur arrivée au camping du WEI.
+
+Le BDI est vraiment désolé, le camping ne peut pas accueillir plus de personnes. Un agent de sécurité sera présent au camping, et toute personne n’ayant pas le bracelet pourra être virée du camping 😔.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : [EmaVisual]x[ActivitésBDA/BDS]
+EmaVisual vous propose de se remémorer la semaine d''intégration 💛 en visualisant notre selection des meilleures photos 📸 des activités organisées par le BDA🎨 et le BDS 🏀.
+Entre temps, les masques sont tombés pour certains ... 
+Et finalement, les voix des Emayens ont retenti en coeur dans toute la Meuh 🎤
+
+https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1274070716583068/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥[WEI] x [Répartition des bungalows] 
+
+Voici la répartition des bungalows !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [1A et 3A au CA] X [Promesse Emath]
+
+Lors de nos campagnes l’année dernière, nous avions présenté le projet d’intégrer des 1A et 3A dans les Conseils d’Administration du Cercle.
+
+❓Pourquoi intégrer des premières et troisièmes années à certains CA❓
+
+- Pour faciliter, d''une part, le passage des informations et peut-être vous permettre de mieux comprendre certaines décisions en assistant au CA ✉️
+- Pour permettre à chaque emayen(ne) d''être représenté(e) et écouté(e), en donnant son avis en CA 👥
+- Pour montrer une facette importante de la vie associative, surtout aux premières années afin qu’ils puissent commencer à y prendre part et voir comment cela fonctionne 🔆
+
+❓Comment ça marche❓
+
+En vous inscrivant sur ce forms, vous serez ajouté(e) à un groupe messenger avec des personnes seulement de votre promo (1A ou 3A) et une personne du BDE en tant que modérateur et pour communiquer les infos, mais qui n''interviendra pas dans les discussions. 🖋️
+
+Ce groupe vous permettra en premier lieu de discuter de sujets importants sans surcharger la conv de promo.
+Ensuite, une fois par mois se tiendra un CA Commun lors duquel un représentant par promo sera convié (donc un 1A et un 3A), le représentant sera tiré au sort entre les différents volontaires de ce groupe. 
+
+Pendant ce CA, il pourra : 
+- donner son avis concernant les sujets abordés, ils vous seront communiqués en milieu de semaine pour le CA dimanche suivant. 📔
+- disposer de 20 min pour proposer un ou plusieurs sujets qu''on abordera ensemble.
+
+Le représentant sera aussi chargé de faire un petit compte-rendu pour retransmettre les infos aux autres avec un point de vue différent de celui du BDE. 🗃️
+
+Voilà, ces convs vous permettront vraiment de prendre part à notre vie associative, que ce soit en restant informé(e)s et/ou en ayant la possibilité d''être écouté(e) !
+S''inscrire sur ce forms ne vous engage à rien et vous pourrez quitter le groupe dans l''année si vous le souhaitez. 😉
+
+Voici le lien : https://docs.google.com/forms/d/e/1FAIpQLSdlr6icUMQ_aWyUGq342a5RcL50KjGxsJ9U0k7Gpxp18dzaCg/viewform?usp=pp_url
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucas Riviere; contenu : Bonjour, j''ai oublié un chargeur à la salle hier soir (sortie USB + type C), en allant le chercher ce matin il n''y était plus. Est-ce que celui ou celle qui l''aurait pris pourrait me contacter svp ? (C''est un peu la galère sans ça) 
+Merci d''avance.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [WEI] x [Forms bracelets exté] ❤️‍🔥
+
+Voici le lien du sg :
+
+https://docs.google.com/forms/d/e/1FAIpQLSfc-xuteNzceVMrsnN8ta8b9m37muvtQzb97_8re_eqmq61gg/viewform?usp=sf_link
+
+Ceux qui ont réservé un logement, envoyez-nous maintenant une preuve de réservation.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [GBA] x [Scène ouverte]
+
+Bonjour à tous 👋
+
+Voici le forms pour vous s''inscrire à la scène ouverte (SO) du vendredi 29 septembre pour l''ouverture du GBA 2023 🪩
+
+Lien de la SO🎤 : https://forms.gle/k38WX1UBDSsZGvmP9
+
+Lien de la billetterie 🎟️ : https://boutique.lyf.eu/bda/gba2023
+
+Artistiquement vôtre, 
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [TRAMS] 
+
+Salut 👋 
+
+Le samedi 21 octobre se déroulera la 21e édition du Tournoi Rhône-Alpes Multisports (TRAMS) ! 🔥 L''événement promet une journée riche en sport, compétition, convivialité, et festivité ! 🤩 
+
+Tous les supporters de sport sont les bienvenus donc l''accès aux sites de compétition sera libre sans inscription préalable. 🆓 Cependant, veuillez noter que l''accès à la soirée ne sera réservé qu''aux participants ! ⛔
+
+Cette année, une large sélection de sport est proposée :
+
+• Handball masculin et féminin 🤾‍♂️
+• Football masculin et féminin ⚽
+• Rugby masculin et féminin 🏈
+• Volley masculin et féminin 🏐
+• Basket masculin et féminin 🏀⛹️‍♀️
+• Badminton 🏸
+• Escalade 🧗‍♀️
+• Course de 10 km 🏃‍♂️
+• Tennis 🎾
+• Escrime 🤺
+• Natation 🏊🏻‍♂️
+• Pompims 🤸🏼‍♂️
+
+Tous les tournois se dérouleront entre 9h et 18h sur le campus de la Doua à Villeurbanne (69), suivi du spectacle des Pompims sur le campus de l''ENTPE à Vaulx-en-Velin. 💪 La soirée 🎉 aura également lieu à l''ENTPE. 
+
+Pour ceux qui souhaitent participer au barbecue 🍽️ du soir (qui n''est pas inclus dans les frais d''inscription), il sera proposé avant la soirée, avec un petit concert !
+
+Au niveau des Welcome Pack, la formule tournoi + activités + repas du midi + goodies est à 24€, et 27€ en rajoutant l’accès à la soirée. Le tarif Pompom est réduit à 15€ et 18€ avec la soirée. 💶
+Pour information les paiements devront être effectués entre le 7 et 11 octobre 2023. 
+
+Les inscriptions passent par les capitaines, sauf pour l’escrime où vous devez contacter un COM Tournoi si vous voulez participer, avant le 29 septembre. 
+
+⚠️ IMPORTANT : pour participer au TRAMS, il est impératif d’avoir une licence sportive. Vous devez rendre la fiche d’inscription FFSU et le certificat médical (pour les 1A) à vos capitaines.
+
+Sportivement vôtre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : An''Emal; contenu : [AN’EMAL] X [INHUMAIN] X [SOYONS HUMAINS]
+
+Bonjour ,
+Aujourd’hui, c’est très énervé que le bureau s’adresse à vous … 😡
+Malgré notre récent appel à la prudence sur la route, nous avons été informés qu''un CHATON a été écrasé par des étudiants de la meuh …
+
+Je me permets de vous mettre la description qui nous a été envoyée de la scène en dessous de ce message (attention pour les personnes sensibles)
+
+Il est essentiel de comprendre l''importance de la responsabilité que nous portons tous. Si, malheureusement, un accident se produit, il est impératif de s''arrêter pour, soit le secourir, soit abréger ses souffrances afin que celui-ci n''agonise pas ! Ignorer une telle situation est inacceptable.
+Cet événement nous est d’autant plus horripilant que nous devions aujourd’hui faire un tour pour essayer de placer les chatons, pour l’instant errants.
+Aujourd''hui, une vie a été perdue, une vie que nous avions l''intention de sauver... 😢
+
+Que cela serve de rappel poignant : soyez toujours vigilants et responsables sur la route. Des vies dépendent de nos actions et de notre conscience !
+
+Merci de votre lecture !
+En espérant ne plus jamais avoir à réécrire  un message comme celui-ci.
+Ronron et Calinou 🐈', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Comité Oenologie] x [1ère dégustation de l’année] 
+
+Mesdames et Messieurs,
+
+Le bureau 173 du Comité Oenologie est fier de vous inviter à la première dégustation de l’année !
+
+Il y aura 2 sessions : le **Jeudi 28 Septembre** et le **Jeudi 5 Octobre  **🍇
+
+On a super hâte de vous faire vivre ces délicieuses soirées autour d’excellentes charcuteries, de fromages méticuleusement choisis par la Meuhle et surtout d’une sélection de vins grandioses de nos amis de la Cave d’Alès 🍷 autour d''un thème surprise 😏
+
+On invite plus particulièrement les 1A à participer et tenter le SG pour que vous puissiez découvrir ces moments uniques de convivialité et de plaisir ! 😉
+
+Les personnes ayant réussit le SG de la première session ne peuvent pas participer à la deuxième session donc si vous n’avez pas le premier SG 😢, vous pourrez toujours tenter votre chance lors du SG de la deuxième session 🤩🙏
+
+PRIX D’UNE DÉGUSTATION 💸
+
+13€ - Cotisants BDE
+
+18€ - Non cotisants BDE
+
+⚠️⚠️ Les SG seront postés sur la **page FB du Comité** (pas sur EMA Promo). Le SG de la première session aura lieu le **Lundi 25 Septembre à 13H** pile. Celui de la deuxième session le **Lundi 2 Octobre à 13H** pile aussi. ⚠️⚠️
+
+Il va falloir être très rapide 🏎 pour battre le record actuel de SG de ✨ 11 secondes ✨
+
+À vos alarmes, on a hâte de vous retrouver 💃
+> *« In Vino Veritas » 🍷*', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Léonie Chauvet; contenu : [Apéro Etika Mondo] X [Changement de lieu] 🪲
+
+C''est aujourd''hui et c''est à la meuh ! 🙌 
+
+Etika mondo est un écolieu situé au coeur des Cévennes qui accueille des missions 1A pour les Mines d’Alès depuis 2 ans. 🏞️
+
+Ce jeudi 21 septembre un membre de cet ecolieu et ancien élève de l’école (168) vient aux Mines d’Alès et pour l’occasion nous organisons un apéro/table ronde pour discuter autour de ce mode de vie alternatif et lieu d’innovation. 🍻
+Pour ce moment de convivialité et d''échange, on vous propose de chacun emmener quelque chose à boire ou à manger. 😋
+
+📍Où ? À la Meuh en R14
+
+🗓️Quand? Aujourd''hui à partir de 18h30 
+
+Que vous ayez la fibre écologique ou si vous vous posiez simplement des questions sur le modèle économique de cette société alternative, vous êtes les bienvenu.es.🌱
+
+A très vite pour « faire ensemble »🤝
+
+#permaculture
+
+#lowtech
+
+#redefinitiondesbesoins
+
+Pour aller plus loin : ', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [WEI] x [Repas] x [Affaires] ❤️‍🔥
+
+Salut à tous 👋
+
+Il va bientôt falloir préparer votre valise puisque le WEI s’approche à grands pas 😎 ! 
+
+🚨 Mais avant ça, dans le forms pour les bungalows, on vous a demandé si vous étiez végé. Ceux qui ont répondu que non mais qui ne mangent pas de porc (ou halal), envoyez un message tout de suite à Samia Bentaleb svp. 🚨
+
+Voici les indispensables à ne pas oublier pour votre bungalow (liste non exhaustive) : sac de couchage ou duvet 🛏️, sel, poivre, huile, serviette 🚿, liquide vaisselle et éponge 🧽🫧, papier toilette 🧻, plusieurs grands sacs poubelle 🚮, produit anti-moustique 🦟, ecocup…
+
+Les produits ménagers vous seront utiles si vous ne souhaitez pas perdre votre caution 😉. Si des dégâts sont causés et valent plus de 100€, on vous demandera de payer l’entièreté des frais.
+
+Les 1A 📣 n’oubliez pas de prendre votre magnifique T-shirt jaune et un ecocup pour le trajet en bus 🥛 ! 
+
+D’ailleurs, il n’y aura pas de vente ou de distribution de conso sur place ‼️ Le BDI ne se charge que des repas de vendredi soir, samedi matin, midi et soir, et dimanche matin.
+
+La répartition des bungalows vous sera partagée plus tard 🏡🫂, on communiquera aussi sur les bracelets pour ceux qui veulent participer au WEI sans loger au camping.
+En attendant, une permanence pour les chèques de caution sera au cyber de 12h30 à 13h40.', 0);

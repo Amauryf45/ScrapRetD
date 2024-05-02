@@ -1,0 +1,135 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Dylan Pereira; contenu : Génial le TDM, bravo l’orga et les bénévoles 🔥🏃‍♂️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Entr’EMA] x [Collecte en difficulté]
+
+Bonjour à toutes et à tous,
+
+La semaine dernière nous avons lancé un appel aux bénévoles pour réaliser la traditionnelle collecte du mois de novembre à la sortie des supermarchés d’Alès 🧺 
+
+Actuellement le nombre d’inscrits est insuffisant. S’il n’augmente pas nous serons contraints de tout annuler 😢 Or ce cas de figure pénaliserait grandement nos stocks, et mettrait davantage en difficulté nos bénéficiaires les plus fragiles 😔
+
+En effet cet événement nous permet de faire le plein de produits secs jusqu’à l’été, ce qui est essentiel pour nous dans la mesure où la Banque Alimentaire ne peut pas nous fournir suffisamment de ces denrées (pâtes, conserves 🥫… etc). Si nous pouvons vous en proposer à l’épicerie, c’est grâce aux collectes bi annuelles, dont les dates 📅 nous sont imposées.
+
+Nous faisons donc à nouveau appel à votre générosité pour donner de votre temps 🙏 Ils vous suffit de vous inscrire ici : https://docs.google.com/forms/d/e/1FAIpQLSfHg8Ol7j2qf5LnhgTxz-oayNtzkdfvxqL4rQxYt4YO53QyXA/viewform pour donner quelques heures en fonction de ce que vous pouvez vendredi, samedi et/ou dimanche. Si vous voulez réaliser un créneau avec un ou une amie 🤝 c’est possible, donc parlez-en autour de vous ! Pour rappel cette collecte aura lieu au Monoprix et au Utile d’Alès📍 vendredi soir, samedi et dimanche. 
+
+Beaucoup de 2A sont en mission de terrain hors Alès, nous avons vraiment besoin de 1A. 
+
+Si vous trouvez qu’Entr’EMA est une association utile, et que vous êtes à Alès ce week-end, c’est le moment de nous le montrer 🩵
+
+Solidairement vôtre,
+Entr’EMA 🍎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alessio Battaglio; contenu : [BAT] x [SDB CHANTIER]
+
+Voici la liste des ouvriers qui auront le droit de travailler sur chantier demain soir👷‍♂️:
+
+Vous pourrez récupérer vos bracelets demain en sdb à partir de 17h à 19h ou directement à partir de 23h.
+
+Dans l’attente de votre mobilisation', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Laury Rttr; contenu : Salut !
+
+Une enceinte a été trouvée hier soir dehors au bat S après la sdb Gala
+
+Si elle est à vous, envoyez moi un message ! 😊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louis Blmnt; contenu : [ BELMONT ] x [ Rendez pull ] 
+
+Bonsoir,
+
+J’ai malencontreusement égaré mon pull hier soir, sûrement en le prêtant à quelqu’un lors de cette soirée agitée.
+Il est tout blanc et chaud.
+
+Merci d’avance, j’ai froid. 
+
+Belmont ☃️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Loïc Petit; contenu : Bigo retrouvé pinède', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alessio Battaglio; contenu : [BAT]x [SDB CHANTIER] Préparez vos plus belles EPI pour la soirée 🏗️🏗️
+
+Voici le lien du SG SDB CHANTIER :
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Antoine Sicard; contenu : [BAT]x[SDB CHANTIER] 
+
+Comme un bon chantier est un chantier en retard : Nous décalons le SG de la SDB à 15h sur ema promo.
+
+Cordialement,', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Mathilde Zurita; contenu : quelqu’un a retrouvé les clefs du x15?', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Tournoi inter promos] x [Point d’orgue]
+
+Chers emayens, chères emayennes,
+Vous le savez, cette semaine se déroule le tournoi sportif inter-promos. En point d’orgue de cette semaine de compétition, et pour conclure cette 173e édition du tournoi, le top départ du relais cu inter-promos aura lieu au BAR DE LA MEUH ce vendredi à 20h45 🍺.
+Rappel des règles : 
+-Constituer une équipe de 10 personnes (3 filles minimum) ;
+-Arriver AVANT l’heure du départ (y a le bar WES en plus, trop bien) ;
+-ECOCUP de 25CL obligatoire ;
+-Se servir une bière au bar à la dose règlementaire en compétition (donc 25cl) ;
+-Prendre cu ;
+-Perdre contre les 3A.
+Nous comptons sur votre présence (joueurs titulaires comme supporters) pour honorer le sport historique de notre vieille école.
+
+Plus-rapidement-que-vous vôtre
+Les barpersonnes.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [SG]
+
+[https://forms.gle/cLXHLSEqJVYBZXWH8](https://forms.gle/cLXHLSEqJVYBZXWH8)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Godefroi Truche; contenu : Tel trouvé vers l''amphi DUMAS', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [Shotgun DAY]
+
+N´oubliez pas le sg à 13h sur **EMA PROMO**
+
+PS : ne vous trompez pas entre 3 jours et 2 jours
+
+Le wes vous caresse ❄️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Diapo Amphi Bénévoles] X [Gala]
+
+Merci à ceux qui sont venus à l’amphi de ce midi. 😊
+
+Pour ceux qui n’étaient pas là, nous vous partageons le diapo. Vous y trouverez toutes les informations sur comment nous aider  et organiser cette soirée! 🤩
+
+Vénitiennement vôtre,
+Le Gala 🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Adrien Deschamps; contenu : Présentation semaine CAPRA Gala', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [SG]
+
+N’oubliez pas ! ⛷️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Antoine Sicard; contenu : 🏗️🏗️[SDB CHANTIER]🏗️🏗️
+En chantier les p’tites pelleteuses 👷‍♂️👷‍♀️👷
+On se retrouve samedi soir en sdb pour la sdb chantier !
+N’oubliez pas vos EPI !!! 🦺🦺🦺
+SG vendredi 13h
+BAT’ement vôtre', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Elise Mange; contenu : [MATCH DU MOIS]x[Coqs]
+
+Salut les Ultras,
+Cette année, Ultras Ema vous propose chaque mois un 🔥 match du mois 🔥 et un 🧨déplacement du mois 🧨 ! 
+Le match du mois est un match à Alès et le déplacement à Nîmes ou Montpellier.
+Le but est qu''il y ait 2 matchs par mois où tout le monde se chauffe à venir supporter !! 
+Bien sûr tous les sports auront leur match du mois, et vous êtes bien sûr incités à aller voir le maximum de matchs possible MAIS SURTOUT LE MATCH DU MOIS pour avoir un match où on a vraiment une ambiance de fou 💥💥💥
+
+On vous propose ce mois-ci les Coqs face à MOMA ce mercredi 20h à Mandela ⚽️
+C''est presque les seuls à avoir gagné au TRAMS alors ils méritent bien ça 👀
+
+C''est à 20h, un mercredi, à Alès, difficile de trouver des excuses pour ne pas venir 🫣
+
+Ultrament vôtre 
+
+#LesListeuxCEstAuMatch
+#NoPyroNoParty
+#PasDePenosCetteFoisSvp', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [SG SDB] X [Gala]
+
+Voici le lien du SG pour la SDB de ce jeudi 🤩 :  https://forms.gle/1hXUUZJ6wugzVnu99
+
+Vénitiennement vôtre 🎭
+Le Gala', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA X AssoM; contenu : Salut à tous,
+
+Nous revenons avec davantage d''informations à propos de la prochaine soirée inter-assos organisée par l''AssoM le 24 novembre au parc Chanot ! 
+
+Actuellement le tarif d''une place pour se rendre à l''AssoM est de 25 €. Cependant, nous bénéficions d''un tarif avantageux pour tous les élèves de l''EMA au prix de 18 € 💵 à venir récupérer auprès des membres du bureau. 
+Pour bénéficier de cette réduction, il va falloir que vous passiez directement par nous afin de régler votre place (en espèces uniquement).
+
+Pour rappel, il faut que vous soyez majeurs et ameniez votre carte étudiante comme justificatif 🎓
+
+Sur place les consommations seront à 2€ l''unité ou 10€ les 6, où vous pourrez découvrir les boissons concoctées par toutes les écoles partenaires 🍹
+
+Et n''oubliez pas de représenter l''école en venant déguisé en respectant notre thème : EMA''rguerite ! 🌼
+
+Instagram : https://instagram.com/emaxassom?igshid=MTF3NDNrODE1NDNpbg==', 0);

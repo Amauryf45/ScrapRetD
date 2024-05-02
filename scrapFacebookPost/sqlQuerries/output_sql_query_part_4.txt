@@ -1,0 +1,229 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : [EMA Visual] x [Photo CARTEL] 
+
+Bonjour à tous, 
+
+Nous allons commencer les photos en salle fond vert pour le Cartel 2024🥇 dès le début de cette semaine ! 🥳
+
+Il y aura deux créneaux cette semaine : 
+
+- 📅 Mardi 2 avril de 18h00 à 20h00
+
+- 📅 Jeudi 4 avril de 15h00 à 17h30
+
+Vous pouvez vous inscrire avec votre Prénom, Nom et Sport sur l''excel suivant : ✏️
+
+https://docs.google.com/spreadsheets/d/1Fk9giP_S71S08b50jx4prAiOs61f7trdV5k_YQMPNro/edit#gid=839881191
+
+Visuellement vôtre 📸', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Sortie Cinéplanet] x [Kung Fu Panda 4] 
+
+Bonsoir à tous 👋 
+
+Le BDA, vous propose d''aller voir "Kung Fu Panda 4" au cinéma ! 🤩
+Les films Kung Fu Panda suivent les aventures de Po, un panda maladroit mais déterminé, qui devient un maître de kung-fu et sauve la Vallée de la Paix. Dans ce quatrième volet,  Po sera notamment chargé de se trouver un successeur... 👀🍿 
+
+📅: Mercredi 3 avril vers 20h40 en VF
+📍: Cinéplanet Alès 
+⏳: 1h34
+💵 : 4€ cotisants BDA, 6€ non cotisants BDA
+🎟️: https://boutique.lyf.eu/bda/sortie-cinema-kung-fu-panda-4
+
+⚠️Fermeture de la billetterie le Mercredi 3 avril à 12h⚠️ 
+
+Pour plus de détails sur le film 👇 :
+https://cineplanet.fr/films/306226-kung-fu-panda-4/
+
+Nous vous préparerons une conversation afin que vous puissiez vous organiser pour les covoiturages 🚗
+ 
+Artistiquement vôtre,
+Le BDA🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : [Meuh Folle 🐮] x [Tuto Filtre 21ème édition]
+
+Pour ceux qui souhaiteraient mettre le joli filtre Meuh Folle de la 21ème édition de la Meuh Folle :
+1. Se rendre sur https://www.canva.com
+1. Cliquer sur “Créer un design” et cliquer sur “Publication Instagram (Carré)”
+1. Ajouter votre image
+1. Ajouter le filtre (https://drive.google.com/file/d/16oXYhT5-LgTSlnpFLe2vKh_xuutyN-Hh/view)
+Cliquer sur “Partager” puis “Télécharger” !
+1. Ajouter la description ci-dessous
+
+🐮 La Meuh Folle revient pour sa 21ème édition les 5&6 Avril au Parc des Expositions d''Alès ! 🏕🎉
+
+Préparez-vous à être transportés par des artistes incroyables qui vont mettre le feu sur la scène de la Meuh Folle pendant 2 jours !
+
+🎶🔥 Au programme : Hilight Tribe et son électro psychédélique 🪈, Skarra Mucci, Vanupié, Graviity et bien d''autres surprises à découvrir sur notre compte Instagram !
+
+📸🔊Pour prendre sa place :
+
+https://shotgun.live/fr/festivals/festival-de-la-meuh-folle-2024
+
+🎟️ À très vite… 🐮💛🩵🩷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : 🐮✨ C''est dans quelques jours !
+La Meuh Folle débarque à Alès les 5 & 6 avril pour sa 21ème édition. Préparez-vous pour une aventure festive inoubliable ! 🎶🎉
+Pour prendre son billet : https://shotgun.live/fr/festivals/festival-de-la-meuh-folle-2024
+#MeuhFolle2024', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : 🎪🐮 RECRUTEMENT MEUH FOLLE 2025 🐮🎪
+
+Vous rêvez de participer à l''organisation d''un festival hors du commun ? 🌟
+
+**POSTES DU BUREAU À POURVOIR :**
+* 1 Président.e
+* 4 Vice-Président.e.s: Billetterie, Communication, Programmation et Visuel
+* Trésorier.ère
+* Secrétaire
+
+**POSTES RESPONSABLES À POURVOIR :**
+* 3 Accueil
+* 2 Bar
+* 4 Camping
+* 4 Logistique
+* 2 Sécurité
+* 2 Snack
+* 3 Tremplin
+* 1 Village-Associatifs
+* 1 Verte
+
+Pour toute question, l’équipe de la Meuh Folle 2024 est à votre écoute pour partager expériences et conseils.
+
+🚀 Pour candidater, envoyez votre lettre de motivation à theo.tisseur@meuhfolle.com **avant le lundi 8 avril 2024** à 23h59.
+
+Rejoignez l''aventure et laissez votre empreinte pour la Meuh Folle 2025 ! 🎶🐮💫', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ingénieurs Sans Frontières Alès; contenu : [Recrutement nouveau bureau]x[ISF🌱]
+Bonjour à tous, le mandat du bureau d’Ingénieurs sans frontières arrive à son terme et il est temps pour vous de prendre la relève. 😄
+Cette année le bureau est ouvert aux 2A mais pas pour tout les postes (voir l’Excel) 
+Pour rappel, cette asso est l’occasion pour vous de réaliser des actions de solidarité locales et de sensibiliser aux enjeux de demain. 🌿
+
+Les différents postes sont décrits ci-dessous !
+
+Pour postuler c’est via ce tableau Excel :
+
+https://imtminesales-my.sharepoint.com/:x:/g/personal/loick_belvindrah_etu_mines-ales_fr/ESsF_SKvNZ5Art3Q6BMTk2oBylNpGTU-TvbFeTGRqqcVMQ?e=1cUmvb
+
+La bise verte 🌱', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Pâques du Cercle] x [Oeuf d’autruche] 
+
+Félicitations à Emmanuel Lion qui remporte l’œuf d’autruche 🥚on espère qu’il y aura assez de place dans ton frigo ❄️
+
+Merci à la ferme de Courdec chez qui nous nous sommes procuré l’œuf 👨🏽‍🌾 
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [SDB Pâques ]x[Résultat Shotgun ]
+
+Bravo à nos Champions ! 
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [EMAMIX] X [ SDB PAQUES ]
+
+Bonsoir à tous, 
+Voici la Line up de se soir 🐣🎊🎶
+
+Le Bureau Emamix VII 
+Pour votre plus grand plaisir 😏 …', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Repair Café Alès; contenu : [Séance RepairCafé] 
+Salut à tous ! 
+Exceptionnellement nous organisons une séance de RepairCafé ce samedi de 14h à 18h au cowork. 
+Si vous avez des appareils électroniques ou électriques qui ne fonctionnent plus, c''est l''occasion pour vous d''y jeter un coup d''œil avec nous et de tenter de les réparer ! 
+N''hésitez pas à passer nous voir ;) 🛠⚙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Valentin Roy; contenu : [Clés perdu Z13]
+
+J’ai égaré mon trousseau de clé ce matin à Croupi probablement vers le Hub ou les bâtiments M et J 😓
+
+Il y a des portes clés Mines Alès et de la marque 64 bleu et jaune
+
+Faites moi signe si vous le trouvez 🙏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [SDB Pâques]x[SG]
+
+Soyez plus rapide que les cloches 🔔 
+Vous n’êtes pas au bout de vos surprises 😮 
+
+https://forms.gle/Na2aVSy1bYu37tvr7
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Bot; contenu : [ EMA Bot x Cherche bizuts ]
+
+Salut tout le monde !
+
+EMA Bot est à la recherche d''un nouveau bureau, et on compte sur vous ! 🦾
+Si vous êtes intéressés pour prendre un post l’an prochain, on vous laisse répondre à ce petit forms : https://forms.gle/LRVuNjeo2wvEejy5A
+
+💡 Pour rappel, EMA bot est le club de robotique de l''école des mines.
+L''association propose plusieurs projets (table de BP connectée, amélioration du local, robots sumo 🤖) et met à disposition du matériel (outils, imprimantes 3D, appareils de mesure) pour les élèves qui souhaitent réaliser leurs propres projets. 🛠🔩⚙️
+
+Si vous avez des questions, n’hésitez à venir faire un tour au local pour discuter avec nous 😉', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Pâques du cercle] x [Chasse aux œufs] 
+
+Les cloches de Pâques sont passées à la meuh ! 🔔
+
+Des chocolats de toutes les formes et de toutes les tailles sont cachés !🍫 Faites vite avant que d’autres chasseurs ne vous devancent. 👀 
+
+Mention spéciale à nos exté ! On a pensé à vous !😏 Chassez les membres du futur BDE à l’école pour tenter de récupérer votre œuf.😋 Attention le temps vous est compté ! 
+
+Bonne chance 🍀 
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Téo Garcias; contenu : [retrouvé] 
+
+Bonsoir, J’ai perdu les clefs de ma voiture quelque part vers le cowork.
+
+C’est une sorte de carte noire Renault avec un porte clé vert armée de terre si quelqu’un les a trouvé faites moi signe pitié je dois prendre la voiture demain pour aller à Marseille 😭😭😭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Pâques du cercle] x [Tirage au sort] x [Un max de protéines]
+
+Vous êtes à court d’œuf chez vous ? 🥚 Vous voulez prendre de la masse ? 💪🏼 Vous êtes déterminés à remporter à nouveau le Cartel ? 🏆 Nous avons la solution !
+
+Un magnifique œuf d’Autruche qui vous apportera tout ce dont vous avez besoin. Pour participer c’est simple, envoyez un Lyf au *numero* pour participer au tirage au sort 🎰 (0,5€ = 1 chance, pas de maximum 🤑), sinon vous serez inscrit d’office si vous rentrez en sdb jeudi 🤝🏼
+
+Joyeuses Pâques 🐇 
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : Hello les emayens!
+
+Comme tous les ans, la Meuh Folle 🐮 a besoin de vous pour accueillir nos artistes comme il se doit 🤝. Afin de faire les plus belles loges possibles 🤩, vous pouvez nous prêtez du matériel qui vous sera rendu en état bien entendu ✨😉
+
+Ce forms ne vous engage pas à prêter, cochez juste les cases si vous pensez que c''est faisable.
+
+À très vite... 🐮💛💙🩷
+
+[https://docs.google.com/forms/d/e/1FAIpQLSc3TxyjeQyFEDDBW-J1bI3PIV1wlcH4b3yQLDnOKDfbBBHHkw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSc3TxyjeQyFEDDBW-J1bI3PIV1wlcH4b3yQLDnOKDfbBBHHkw/viewform?usp=sf_link)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Radio Ding-Dong; contenu : [Radio Ding Dong] x [Bye bye 😢] x [Ne laissez pas l’asso re mourir 🙏]
+
+Bonjour à tous !
+
+Après la disparition de l’asso quand nous étions en 1A et notre défaite, nous nous étions motivés à reprendre l’asso avec plein de projets en tête !
+
+Si ce que nous avons réalisé cette année n’était pas à la hauteur de nos ambitions, nous sommes quand même très heureux d’avoir pu redonner un second souffle à l’asso et la faire un peu connaître 🥺.
+
+Mais il est maintenant temps pour nous de chill un max 🏖️.
+
+Il nous faut au moins :
+- un(e) président(e) 👑
+- un(e) com com 🤳
+- un(e) trésorier(e) 💸
+- plein de vps 🤩
+
+L’asso n’est pas dutout prenante et le rythme des émissions s’adapte clairement à vos motivations selon les périodes. Envoyez nous votre cv à la page Facebook avant le lundi 1er avril 😊.
+
+PS 1 : Aucune compétence technique n’est requise pour faire partie du bureau, ni de connaissance sur le monde de la radio 😁.
+
+PS 2 : Vous pouvez voir ce qu’on a fait cette année sur notre chaîne YouTube (sauf pour l’émission des campagnes qui n’était pas filmée 🥲) 
+
+[Notre chaîne Youtube] www.youtube.com/@Radioding-dong
+
+Bisous 💛
+Ding Donguement vôtre 🎙️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Calista Gaddini; contenu : [Cheertah] x [AW] x [venez danser] 
+
+Hello les emayens ! 🎀
+
+Vos pompims préférées vous convient à leur afterwork ce mercredi 27 mars en sdb 🤩🥳 
+
+On va vous régaler avec un repas de ✨qualité✨🧑‍🍳
+
+Mais ce n’est pas tout ! 🤯
+Oseriez vous venir défier vos potes voire même, un membre de notre incroyable et talentueuse équipe au légendaire Just Dance ? 🫢💃🏻🕺🏻 
+
+On vous attend nombreux demain 🙏🏻
+
+PS : les sportifs pensez à réserver si vous souhaitez vous régaler aussi !😌
+
+Bisous des Cheertah 🐆🎀', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Killien Lafrechoux; contenu : Quelq''un aurait trouvé un t-shirt blanc avec écrit Always good (en petit en haut à gauche) dans le gymnase de l''école ?', 0);

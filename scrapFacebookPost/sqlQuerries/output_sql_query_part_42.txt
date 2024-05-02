@@ -1,0 +1,215 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : [EMA Visual] x [AW]
+
+Vous avez l’habitude de voir les talents en photographie 📸d’EMA Visual, mais lundi soir nous vous proposons de découvrir les talents culinaires 🧑🏻‍🍳 de l’asso ! 
+
+Nous vous donnons rendez vous en SDB lundi soir à partir de 20h pour vous régaler 🤤 avec nos wraps aux tenders faits maison🍗 pour les adeptes de poulet ou nos wraps végés aux croustys chèvres avec mozza stick 🧀 
+En dessert nous vous réservons un brownie 🍫 et pour vous hydrater de la Jacqueline🍹ou un diabolo fraise 🍓 
+
+Nous avons hâte de régaler vos papilles et nous vous attendons nombreux 😉
+
+Visuellement vôtre 📸', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Benjamin Vairon; contenu : Salut l’EMA, si une personne qui a eu le SG de la soirée du trams mais ne veut pas aller en soirée, venez PV je suis preneur à 1000 % merci !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [SDB]X[métiers]
+
+Voici la line Up de ce soir 
+
+Pour votre plus grand plaisir… 😏😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Pull de promo 174] x [À vos crayons !]
+
+Bonjour les 174 !
+
+Comme chaque année, le Cercle organise un concours parmi la promo du meilleur logo 🏅 pour vos pulls Fig 174, qui sera ensuite utilisé comme base pour concevoir vos pulls de promo ! 
+
+Les consignes sont les suivantes :
+- Pas de dégradé 
+- Pas de détails trop élaborés 
+- Meilleure qualité possible
+- PNG fond transparent
+
+À vous de jouer ! Vous avez jusqu’au 22 octobre pour envoyer vos œuvres à Paul Dumas par messenger ! Bonne chance 🤩
+
+Une fois les logos sélectionnés, vous pourrez voter pour celui qui sera le pull de la promo !
+Proposez le meilleur design qui saura rendre fière votre promo !🤩
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ingénieurs Sans Frontières Alès; contenu : [Fémin’ISF]x[Débat]
+
+Hello! 👋
+
+Fémin’ISF vous propose la semaine prochaine de se rencontrer pour discuter et débattre ensemble sur l’écoféminisme!
+
+On vous propose le mercredi 18 octobre à 19h30 au cowork 🥰
+
+N’hésitez pas à venir, ce sera grave cool ☺️ N’hésitez pas à nous envoyer un message en MP pour être ajouté.e à la conv ISF!
+
+La bise verte 💚', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Comité Oenologie] x [Afterwork]
+
+Bonjour les œnologues !
+
+Le Comité vous ouvre les portes de leur restaurant oenologique éphémère ✨ Venez goûter les délicieux mets d''une cuisine de terroir authentique en SDB **mercredi prochain** 18 Octobre 🍴
+
+À cette occasion, vous aurez la possibilité d''acheter une bouteille de vin parmi notre sélection 🍷  et comme cerise sur le gâteau, une vente aux enchères pour gagner un **Magnum** sera organisé pendant l''AW 🤩
+
+Notre restaurant 5 étoiles ne tolérant pas le gaspillage, nous vous invitons à remplir ce **Forms** où vous pouvez indiquer votre envie d''achat de bouteille de vin ✅ : 
+
+https://docs.google.com/forms/d/e/1FAIpQLSfdDRmTu9qI5bgDe73dA7PwhgRtSeY7uA85mFKWnvW_YDucUA/viewform?usp=sf_link
+
+À mercredi 💃
+> In Vino Veritas 🍷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1284666325523507/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Communiqué] X [Débordements]
+
+Bonjour à tous et à toutes.
+
+Nous vous écrivons ce message pour être totalement transparents avec vous sur la situation actuelle. Vous n''êtes pas sans savoir que des débordements graves ont eu lieu à l''encontre des voisins. 
+
+Nous sommes en contact régulier avec MAA et, encore une fois, notre vie associative est menacée. Les événements récents sont accompagnés de nombreux écarts de conduite qui ont lieu depuis le début de l''année. En effet, des personnes urinent sur les gens durant des soirées ou encore sur le linge des autres et des extincteurs sont constamment craqués. Tous ces dérapages mettent en danger la sécurité, le bien-être sur le campus mais aussi l’intégralité de la vie associative.
+
+Nous savons que la consommation d''alcool est prédominante sur le campus, cependant, nous souhaitons
+que vous restiez respectueux envers les autres et les locaux, que vous vous responsabilisiez. Pour commencer, lorsque vous organisez un apéro chez vous, prévenez vos voisins par respect pour eux.
+S’il y a un dérapage, il faut que vous assumiez vos actes. Quelles qu''en soient les conséquences.
+
+Notre rôle est de faire vivre la vie associative emayenne et de veiller au bien-être des étudiants. Le travail depuis le début d’année de l’ensemble des associations et clubs de l’EMA est remarquable. Beaucoup se démènent afin de proposer des semaines aussi riches en événements. Tout pourrait être réduit à néant par les derniers comportements constatés.
+
+Nous nous trouvons dans une situation périlleuse où nous devons sans cesse nous battre et négocier contre l’annulation des événements. Sachez que nous sommes
+réactifs, impliqués et nous nous défendons face aux menaces de MAA. Toutefois, nous ne pouvons pas avancer sans vous. Aidez nous à préserver ce que nous avons construit ensemble.
+
+Nous comptons sur vous et remercions également tous ceux qui œuvrent et ont œuvré pour le bien commun.
+
+Circulairement vôtre,
+Le Bureau Des Élèves ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Antoine Trc; contenu : [SDB métier] x [permanences]
+Ce samedi soir se tiendra la SDB métier et les pompiers sont fiers de représenter leurs frères de lance 🚒.
+Malheureusement, de nombreuses permanences ont été attribuées par le Colonel et la caserne n’est pas en mesure de présenter comme il se doit ses membres 🥲. Nous recrutons donc pour le temps d’une soirée 5 soldat.e.s 👩‍🚒👨‍🚒 en herbes afin d’assurer la représentation et la sécurité en SDB.
+Les tenues vous seront fournies afin de combattre les flammes et autres dangers sdbesques.
+La brochure de la caserne est disponible en description de ce message et comporte de nombreux flyers.
+La Pompi’Art
+S’allumer, s’éteindre, les pire pompier de Salindres 🚒', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [TRAMS] x [Quotas soirée et échéances futures]
+
+Bonsoir à tous, 👋
+
+Nous avons la confirmation du nombre de places pour la soirée du TRAMS, il s''élève à 140. (Youpi on a gagné 20 places). 🫨
+
+Les résultats du forms que vous avez reçu via vos capitaines montrent qu''il y a toujours trop de personnes qui souhaitent aller à la soirée malgré quelques désistements. 😐
+
+Nous avons donc décidé (après moultes réflexions) de procéder à un Shotgun par Sport et par sexe. Il sera réalisé par les capitaines d''équipe et sera envoyé vendredi 13 à 13 heures sur la conv des capitaines (d''autres infos sur les règles du shotgun arrivent sur la conv des capis)...😉
+
+⚠️ Si il y a des désistements vous avez jusqu''à demain 20 h pour le signaler ! ⚠️
+
+Échéances futures :
+
+- Vendredi 13 à 13 h : Shotgun fait par les capis
+- Vendredi 13 à  18 h : Résultats du Shotgun 
+- Vendredi 13 à 20 h : Fin des éventuels désistements et ouverture de la billetterie 
+- Lundi 16 à 12 h : fermeture de la billetterie
+- Samedi 21 : On gagne le TRAMS 🏆
+- Samedi 21 soir : les 140 chanceux qui peuvent aller à la soirée se régalent (sans détruire l''ENTPE par pitié) 😁 
+
+Nous sommes désolés pour ceux qui n''auront pas la chance d''aller à la soirée... 
+
+Cette année notre comportement devra être irréprochable pour que nous n''ayons plus de restrictions dans les années futures.👍
+
+Nous comptons sur vous ! 🤝
+
+N''hésitez pas si vous avez des questions ! 🙂
+
+Sportivement votre, 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Roman Pasquet; contenu : [CévennesCarClub]x[Élection]
+
+Salut à tous 🚀
+
+L''association CévennesCarClub, aussi connue sous le nom 3C, est à la recherche de ses futurs titulaires : Président, Secrétaire et Trésorier !
+
+Mais qu''est-ce que le 3C ?
+
+- C''est la supervision d''un projet de rénovation d''une supercar Lotus Élise en collaboration avec le Lycée d''Alès JBD 🥇 (avec une séance de roulage prévue en février, ça promet de l''adrénaline !).
+- C''est une plongée dans l''univers de l''automobile et de la mécanique automobile.
+- C''est un projet de PEP pour les étudiants de première année 🏆
+- Et ce n''est pas tout ! Nous avons une trésorerie en positif 🙃 pour concrétiser de nouvelles idées, peut-être les vôtres !
+
+Si l''aventure vous tente ou si vous souhaitez en savoir plus, n''hésitez pas à envoyer un message direct à @romanpasquet (messenger) ! Vous pouvez même postuler en équipe, alors en route vers l''avenir passionnant qui vous attend 🌟
+
+Page FB : https://www.facebook.com/profile.php?id=100064761756345', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Partenariat] x [COL VERT]
+
+Bonjour à tous, 👋
+
+Afin de vous aider à trouver une tenue pour le Gala, le Cercle des Élèves est en partenariat avec le tailleur Col Vert. 👔 Celui-ci propose trois gammes différentes de costumes et tailleurs, avec une réduction étudiante et tout est sur-mesure ! 🪡
+
+Ce costume pourra ensuite vous servir lors d’un entretien d’embauche, le forum des entreprises de l’année prochaine et, de manière générale, pour votre future carrière d’ingénieur. 🤵‍♂️🤵‍♀️
+
+Col Vert viendra à la meuh pour une séance de prise de mesures, environ 20 minutes par personne, le 26 Octobre. 🗓
+
+Pour réserver votre rendez-vous, inscrivez-vous via le lien suivant : https://colv.fr/ckuch
+Vous serez alors ajouté à un groupe messenger pour plus d’informations sur la prise des mesures. 
+
+Attention, le tailleur ne pourra se déplacer que s’il y a plus de 15 commandes. N’attendez pas pour vous inscrire ! Pour les curieux, le site du tailleur est disponible via le lien : https://www.col-vert.fr/
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : Après une ouverture mercredi des plus sympathiques, le bar réouvre ses portes vendredi pour une soirée exceptionnelle.
+
+Les 1A, vous ne le savez peut-être pas, mais il y a des défis ou des passations dans vos années emayennes. Et Chap (un barman pour ceux qui ne le connaissent pas) a perdu l''année dernière l''un de ses défis.
+
+Cependant, c''est gagnant, il est fier de sa véritable famille : le bar. Il revient plus fort que jamais pour affronter ses adversaires nommés, les artistes.
+
+Tous les artistes sont attendus au bar pour affronter sûrement notre meilleur artiste, CHAP. Le duel s''annonce épique, il aura pour simple nom : les BDA vs CHAP.
+
+Artificier et Zavatart, vous êtes attendus au bar, car notre champion ne manquera pas le rendez-vous.
+
+Tout le monde est bien sûr convié à cette confrontation, venez soutenir vos champions, vos choix auront de l''importance. On vous attend nombreux.
+
+Les personnes du bar contre Chap la merde', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Anne-Sophie Rdlt; contenu : Chargeur retrouvé par terre devant le bât A, petite marque verte au vernis sur l’embout USB C', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : TDM - Sur la trace des Mineurs; contenu : [TDM] x [INFOS]
+
+Salut tout le monde ! 😁
+
+Nous avons fini d’envoyer les codes promo TDM pour les cotisants BDE, vous avez donc tous reçu le votre 😉
+
+Information inscription :
+
+Nous venons d’apprendre par l’organisme gérant les inscriptions que vous pouvez vous inscrire en ligne et déposer votre certificat médical ultérieurement.
+
+⚠️ Votre certificat doit obligatoirement être déposé **avant le 16 novembre à 12h**. Si vous vous inscrivez et que vous ne déposez pas votre certificat avant cette date, vous ne serez pas remboursés.
+
+Inscription bénévoles (Nous avons besoin de vous !) :
+
+Si vous souhaitez nous aider et devenir bénévole, inscrivez vous en remplissant le form suivant : 👉[ https://docs.google.com/forms/d/1BIrF0FrPBPvZVp4Oh3E4wAguJkxVDjBOzbdT-PrK48A/viewform?edit_requested=true&pli=1](https://docs.google.com/forms/d/1BIrF0FrPBPvZVp4Oh3E4wAguJkxVDjBOzbdT-PrK48A/viewform?edit_requested=true&pli=1) 👈
+
+N’hésitez pas à nous contacter si vous avez des questions 😄
+
+L’équipe du TDM 🏃‍♀️🏃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Trams]X[soirée]
+
+Salut à tous 👋
+
+Concernant le message de ce matin, nous sommes malheureusement contraints de vous annoncer que le nombre de places à la soirée ne serait pas égale au nombre d’inscrits… 😢
+
+Dès ce soir nous allons transmettre un forms aux capis des équipes afin de savoir si certains d’entre vous ne souhaitent plus aller à la soirée. Sinon un SG par équipe aura lieu dans quelques temps.
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1283610208962452/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Camille Geeraert; contenu : [Octogone 🐙] x[Alba Grall 👑] x [🛒Recherche du bizuth parfait 🛒]
+Vous êtes sans famille et cherchez une marraine digne de ce nom…. 🤩
+N’attendez plus! Alba #albiche #albibiche est la personne qu’il vous faut ! 😎
+Cette chatte dont les cailloux n’ont plus de secret est à la recherche de sa moitié 🎉
+Si vous aimez faire la fête, rire, danser et chanter… elle est faite pour vous ! 🥳
+Déposez votre CV, on vous attend avec impatience ! 😉
+La Team Octogone 🐙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Tournoi de volley] x[SG]
+
+Voici le lien pour inscrire vos équipes !🏐
+On vous attend nombreux !💪
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Trams]X[Mauvaise nouvelle]
+
+Salut à tous 👋
+
+Hier nous avons appris une mauvaise nouvelle concernant la soirée du trams : dû à notre mauvais comportement répétitif et collectif lors de ce tournoi, sur les 220 participants Emayens seulement 120 pourraient venir à la soirée 😢.
+
+Avec le BDS, nous sommes activement en train de trouver une solution, nous vous tiendrons informer plus tard dans la journée.
+
+Sportivement votre 🏆', 0);

@@ -1,0 +1,168 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Campagnes BDA]x[Défi BR]x[Tout est dans le visu]
+
+On se retrouve en salle de musique', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Glisse; contenu : [EMA GLISSE] X [IL NOUS FAUT UN GAGNANT]
+
+Yo la team 🤙
+
+Nos 2 listes BDA, la Coup d’Ét’art et la Médiév’art ont du customiser 2 de nos vielle planche pour leur donner un petit coup de neuf !
+
+C''est choses faites !
+
+Malheureusement étant donnée qu''ils sont trop doué on ne peut choisir entre les 2. 😥
+
+Un sondage va bientôt être mis sur notre story Insta pour les départager.
+
+A vos votes ! 👀
+
+Glissement vôtre 🏝', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [EMAMIX]X[Défi]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : La Cambriol''art; contenu : [La Cambriol’art] x [Défi n°2]
+
+La mamie est désespérée 😣 ! Après une énième attaque de la même petite bande de voyous, Huguette s’est aujourd’hui fait voler toute sa garde-robe 👙. Ça tombe vraiment mal puisqu’elle comptait se mettre sur son 31 pour sa soirée hebdomadaire de bridge 🃏 à la maison de retraite.
+
+Huguette a besoin de votre aide ! Venez devant le bât S ce soir à 18h avec votre meilleure tenue pour l’aider à impressionner ses amies 😎
+
+PS : Huguette a faim 😋 (et ses agresseurs aussi)
+
+Illégalement nôtre,
+La Cambriol’art 💰', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : Air pod trouvé dans l’herbe sous l’escalier tout au bout du bat U, il a du tombé à travers la grille', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Le Dindon Attaque; contenu : Jeudi après-midi, ce sont deux coup d''ét''art et deux médiév''art qui sont venus s''affronter en sdb ! Au programme, des blindtests, de la bonne musique et du bon temps.
+
+Après 1h45 d''affrontement intense, c''est la coup d''ét''art qui ressort vainqueur de ce défi ! Ils se sont imposés sur le score de 113 à 31. Bravo à eux, et aussi à la médiév''art qui n''a pas démérité et nous a offert de belles surprises !
+
+Toutefois, le vrai vainqueur de ce défi, c''est le bureau dindon, qui a une nouvelle fois démontré que le blind test, on rigole pas avec ça, et qu''il en faut plus pour nous battre ! 😆😎🤡
+
+On remet ça quand vous voulez (@Adélie, échauffe toi sur Muse 😉)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [SDB]X[Coup d’ét’art]
+
+Voici la line Up de ce soir 🔥🔥
+Pour votre plus grand plaisir plaisir … 😏😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : L’art-mour est dans le pré; contenu : Ce soir péage 00h devant la SDB
+#agriCUlteur
+#avecdurougetubouges
+#carnageapreslepeage
+#lartmourestdanslepre
+
+https://www.instagram.com/reel/C2zRpd9to5D/?igsh=cXkycGI4eHFzYmVv', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Coup d’Ét’art; contenu : [Coup D’Ét’art] x [Résultats Sg] 
+
+Voici les révolutionnaires qui ont réussi le shotgun pour notre sdb de ce soir. 
+
+On vous retrouve à 23h, munis de vos plus beaux bandanas! 
+
+Révolutionnairement votre ✊, 
+
+La Coup D’Ét’art 🥷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [CAMPAGNES BDA 2024] x [Défi Com Verte]
+
+Salut !
+
+C’est l’heure du défi Com Verte ! Préparez-vous à boire vert si vous n’avez pas les connaissances demandées 🌱🍵
+
+👥 Qui : La com verte de chaque liste
+📆 Date : Dimanche 4 février 2024
+⏰ Heure : 18h
+📍 Lieu : Salle 1 du cowork
+ 
+PS: C’est l’heure du goûter, on compte sur vous pour nous nourrir 😉
+
+Artistiquement votre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Shenan Armand; contenu : Clé trouvé. Bat S ce matin', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comuz; contenu : [Défi Com''uz🎤]
+
+On se retrouve ce soir les artistes 😉 
+
+Ps : Les FL sont également conviées si elles le souhaitent 😇', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Laura Bertieaux; contenu : [La Cambriol’art] x [Défi n°1]
+
+Tout est dit.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Coup d’Ét’art; contenu : Voici le shotgun pour la sdb de ce soir! 
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [CAMPAGNES BDA 2024] x [Défi Trez x Assos] 
+
+Salut les petits ! 
+
+C’est l’heure du défi Trez x Com Assos 🔥 Et oui, cohésion, coordination et bonne entente sont indispensables pour ces postes complémentaires 🤝
+
+👥 Qui : Les trésorier.e.s et les Com Assos de chaque liste
+📆 Date : Dimanche 4 février 2024
+⏰ Heure : 11h 
+📍 Lieu : Bât S
+
+PS : Ramenez à mangeeeeeeer (ou autre 👀) 
+
+Rendez-nous fiers et riches,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Zavatt''art; contenu : [DEFI ZAVAAAAAA🎪]
+
+Coucou les listeux ! Votre troupe d''artistes préférée vous convie à leur défi 🤩 
+Nos chers FL sont également conviés si elles le souhaitent 😌
+
+PS : il fait souvent soif au cirque, n''hésitez pas à ramener de quoi nous hydrater 😉', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [CAMPAGNES BDA 2024] x [Défi Secétaires x Com Com] 
+
+Salut 👋
+
+L’heure du défi Com Com et Secrétaires a sonné 🔥 Et oui, cohésion, communication et bonne entente sont indispensables pour ces deux postes 🤝
+
+À vos visus et comptes rendus pour un défi explosif 💥
+
+👥 Qui : Les comcoms et les secrétaires des deux listes
+📆 Date : Dimanche 4 février 2024
+⏰ Heure : 10h
+📍 Lieu : Salle créa 2
+
+PS : Ramenez à manger, c’est l’heure du petit-déj et on est plus gentils le ventre plein à ce qui paraît… 😋
+
+Artistiquement votre,
+Le BDA 🎨💖
+
+#secrétaireàtoutfaire
+#comcomdébordé', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Art''phétamines; contenu : **[CAMPAGNES BDA] X [DÉFI ART’PHÉTAMINES]**
+
+Bonjour à tous !
+
+On donne rendez-vous aux listeux cet après-midi pour le défi Art’phétamines ! 💉🎨
+
+On ne vous donne pas les consignes tout de suite, mais ça devrait pas être trop dur à deviner… 👀
+
+📍 Où ? : Salle créa 2, Cowork.
+
+📅 Quand ? : Samedi 18h.
+
+👤 Qui ? : Vos deux listeux qui dessinent le mieux !
+
+Addictement votre,
+
+Art’phétamines. 💊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Défi Gala]  
+
+Le Gala vous convoque chers listeux ! 
+On se retrouve demain à 12h pour passer ce moment ensemble ❤️
+Le défi se déroulera au hangar, merci de nous prévenir si vous avez  besoin qu''on organise un covoit avec vos listeux ou si vous y allez par vos propres moyens, à demain !
+Le Gala 🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Glisse; contenu : [EMAGLISSE] X ["DEFI"]
+
+Médiév’art, Coup d’Ét’art !
+
+Bon les rideurs !
+
+Prêt à surfer sur la vague de l''art ?
+
+Tout est écrit sur le visuel ! 
+
+Je recapitule pour les allergiques à canva prenium (jaloux) : 
+* 1 planche par liste
+* A venir chercher à 13h Samedi
+* A restituer dans un états RIDABLE à la meme heure le lendemain
+* les 2 planches sont moche vous avez pour mission de changer le visuel SOUS la planche (soyez inventif)
+* Si vous prenez en photo la planche et votre équipe de peintre dans leur tâches vous aurez des points bonus !
+
+A demain (dans 12h42 exactement) !
+
+Glissement vôtre 🛹🏝', 0);

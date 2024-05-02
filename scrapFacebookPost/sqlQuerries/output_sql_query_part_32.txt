@@ -1,0 +1,213 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1311708242819315/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : Voici les riders présents derrière les platines ce soir 🔥!!
+
+Pour votre plus grand plaisir … 😏😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ema''stro; contenu : [EM’astro] X [Projet mini-fusée C’space]
+
+EM’Astro, club d’astronomie de l’EMA, vous propose de participer à la création d’une mini-fusée, projet organisé par le CNES en partenariat avec Planète Science ! 🚀
+
+Tout au long de l’année, nous allons concevoir et construire une mini-fusée (environ 1 mètre) avec l’aide de professionnels pour qu’elle soit lancée en Août 2024.
+
+Pour mener à bien ce projet, il faudra se consacrer à du bricolage et à de l’étude mécanique et électronique (plus ludique qu’en cours😉) au moins 1 jour par semaine ! 📅🪚
+
+Pour plus d’informations, vous pouvez vous rendre sur le site officiel de Planète Science : planete-sciences.org/espace/C-Space/Presentation
+
+Nous recherchons donc 3/4 personnes (1A ou 2A) vraiment motivées, prêtes à apprendre et à travailler en équipe pour accomplir ce magnifique projet 😍
+
+Si cela vous intéresse, inscrivez-vous sur le forms qui suit:
+➡️ https://forms.gle/nimjEB5uKfEKngb98
+
+PS: Si vous souhaitez rejoindre le groupe messenger EM’Astro 2023-2024, contactez directement le compte Em’Astro ou Alexis Garcia.
+
+Stellairement vôtre, 
+EM’Astro 🌌', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Noël Du Cercle ⭕]x[It’s Tiiiiiiiime ❄️]x[Vidéo Teaser 🧑‍🎄]
+
+Bonjour à tous !
+
+La saison de Noël a enfin commencé !!! ❄️ 🧑‍🎄 🎁
+Pour fêter ça, le Cercle vous a préparé un week-end de qualité !
+Venez découvrir le programme du 15-16-17 décembre dans la vidéo teaser de l’évènement !
+
+Circulairement vôtre ⭕🧑‍🎄', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : An''Emal; contenu : [An''Emal] x[Hiver] x [Vigilance]  
+
+Bonjour à toutes et à tous,🐶 
+
+En cette saison froide, nos petits compagnons à quatre pattes cherchent la chaleur et le confort, parfois dans des endroits dangereux. Un chat ou un chaton sans domicile peut être tenté de se réfugier sous le capot ou sur les roues de votre voiture pour se protéger du froid.  
+
+✨ Alors, avant de démarrer votre véhicule, prenez un moment pour donner un petit coup sur le capot ou, mieux encore, ouvrez-le pour vérifier si un petit visiteur s''y est abrité. Ce geste simple peut sauver une vie et éviter de graves blessures à ces créatures innocentes.  
+
+Votre vigilance peut faire toute la différence !  
+
+Ronron et Calinou 🐾', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [Résultats sg SdB] x [Dernier jour pour payer] x [Permanence ce midi Cyber]
+
+Coucou ridersss !
+
+Voici les riders avec les descentes les plus rapides…
+
+Il y aura une permanence pour les bracelets ce midi au Cyber de 12h30 à 13h30 ❄️
+
+Vous pourrez quand même récupérer les bracelets devant la SdB
+
+N’oubliez pas, vous avez jusqu’à minuit ce soir pour payer [https://boutique.lyf.eu/wes/paiement_lyf](https://boutique.lyf.eu/wes/paiement_lyf?fbclid=IwAR3EJuFoYldbHgUZRp9l3XbVOKUXwsqf4IsvYswQPCOEX3L126Z2WVWIx6E)
+
+Une permanence aura lieu ce midi au Cyber pour payer par chèque.
+
+Le WES vous caresse 🥶', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Noémie Chalard; contenu : [Cours particuliers] 
+
+Une élève de 5ème aurait besoin de cours particulier en maths. Elle habite à Rousson (à 10 min en voiture d''Alès).
+
+Si ça vous intéresse : 04 66 52 96 16', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ihsane Sardi; contenu : Carte bancaire LCL au nom de Zoubair Saidi retrouvé au co-work, elle est sur la grande table à l‘accueil.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Entr''EMA]x[Remerciements collecte] 
+
+Bonjour à tous ☀️ ! 
+
+Il y a un peu plus d’une semaine maintenant avait lieu la collecte alimentaire hivernale d’Entr’EMA. Grâce à l’aide de nombreux bénévoles, cette collecte a été une réussite, malgré le fait que nous avons récolté moins qu''à la collecte précédente de juin dernier 😥
+En effet, nous avons récolté plus de 500 kg de denrées alimentaires et de produits d’hygiène ! Cela nous permet de remplir nos stocks et de pouvoir proposer des produits variés aux étudiants 😊 
+
+Nous remercions tout ceux qui ont participé à cette collecte et espérons vous retrouver aussi motivés pour la prochaine, lors de l''appel au dons de janvier qui aura lieu à l''école 😊
+Enfin, nous tenions à remercier tout le personnel de l’école qui est venu nous aider ainsi que la Banque Alimentaire du Gard qui nous aide quotidiennement 😇 !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comuz; contenu : [COMUZ] X [AUDITION]  
+
+La comuz ouvre ses auditions à toutes les personnes qui le souhaite et présente jusqu''à la piece en fin mars 🥳 
+
+Nous vous demandons juste de répondre au form ci dessous, attention le delai est court vous avez jusqu''à jeudi 12h !!!⚠️
+
+Ensuite nous vous rajouterons au groupe avec les infos pour les auditions qui seront vendredi.   
+
+Rejoignez nous pour faire de ce spectacle un vrai succès ! À très vite 👨‍🎤
+
+ [https://forms.gle/hsevtR6kfUe8rBqQ8](https://forms.gle/hsevtR6kfUe8rBqQ8?fbclid=IwAR3Jt1gVsk7Q8xD9iDezzjcioqNN8hoHkicBclHedjhA0Tc1iQLdttMr1uc)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [sg SdB]
+
+https://forms.gle/YQcHHZiJ6vxYxHjT7
+
+Le WES vous caresse 😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : TDM - Sur la trace des Mineurs; contenu : [TDM ÉLECTION NOUVEAU BUREAU]
+
+Hello tout le monde ! 🏃‍♀️🏃
+
+Après cette première édition, il est temps d’élire le nouveau bureau du TDM qui sera en charge de l’organisation de la 2nd édition 😊
+
+Pour postuler, il faut :
+
+1- remplir le form suivant, dans lequel vous pouvez choisir jusqu’à trois postes, classés par ordre de préférence :
+
+[https://docs.google.com/forms/d/e/1FAIpQLSdCcWzrqNUC6FDBfE4H4NL8qYCfe3GZKUDpYvhnd36kxjHgMQ/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSdCcWzrqNUC6FDBfE4H4NL8qYCfe3GZKUDpYvhnd36kxjHgMQ/viewform?usp=sf_link)
+
+2- nous envoyer votre lettre de motivation par mail à l’adresse suivante : contact.traildesmines@gmail.com 😁
+
+Nous organiserons par la suite des entretiens la semaine de la rentrée 🙂
+
+Vous pouvez postuler pour les postes suivants :
+* Président(e) 👑
+* VP 💼
+* Secrétaire général(e) (en charge de la communication et relations extérieures) 💬
+* Trésorier 🤑
+* Responsable Sécurité - Signaleurs ⛑️
+* Responsable Partenariats (x2) 🤝
+* Responsable Ravitaillement 😋
+* Responsable Logistique (x2) 🚚
+* Responsable Parcours (x2) 🏃‍♀️🏃
+
+Les inscriptions sont ouvertes aux 1A (futurs 2A) et 2A (futurs 3A).
+
+Vous avez jusqu’au **dimanche 24 décembre à 18h** pour remplir le form ci-dessus ET nous envoyer vos lettres de motivation 🙂
+
+Nous attendons avec impatience vos candidatures ! 😊
+
+N’hésitez pas à nous contacter si vous avez des questions ou souhaitez avoir plus de précisions sur les attendus de chaque poste 😄
+
+L’équipe du TDM 🏃‍♀️🏃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1310418426281630/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [WES] x [Ouverture billetterie]
+
+Salut rider ! ☃️
+
+La billetterie est ouverte à tout le monde jusqu’au jeudi 7/12 à 23h59, que tu aies eu le sg ou non (après il sera trop tard, cela ne dépend pas de nous mais du tour op)
+
+[https://boutique.lyf.eu/wes/paiement_lyf](https://boutique.lyf.eu/wes/paiement_lyf?fbclid=IwAR3EJuFoYldbHgUZRp9l3XbVOKUXwsqf4IsvYswQPCOEX3L126Z2WVWIx6E)
+
+Deux permanences pour payer par chèque auront lieu cette semaine :
+
+mardi en R17 de 19 à 20h
+
+mercredi en P60 de 18h30 à 19h30
+
+Vous pourrez venir récupérer vos goodies mercredi en P60 de 18h30 à 19h30 🎿
+
+PS : il ne reste que 2 places de bus
+
+Le wes vous caresse… et à jeudi soir ⛷️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [AW] X [Wraps surprises]
+Bonjour à tous et à toutes,
+
+le Cercle vous propose un AW Wrap mystère ce mercredi 6 en SDB. 
+A votre arrivée en SDB vous aurez à piocher 2 wraps parmi 4 possibilités: VG: wrap œufs brouillés avocat, oignons rouge et cheddar ou wrap falafel, concombre, oignons, sauce à la grecque. Et non-VG: wrap poulet, concombre, oignon, salade, tomate ou wrap nuggets, tomate, oignon, cheddar et salade.🌯 
+
+Ils seront accompagnés par des pommes de terres et un crumble à la pomme ainsi que d''une boisson pour 3€50!!
+
+On vous attends nombreux dès 20h⏰️
+
+Circulairement vôtre⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Tournoi de musique] x [Édition 2023]
+
+Salut à tous 👋,
+
+Après le tournoi des logos toujours en cours sur notre page Instagram, le BDA vous annonce le retour du tournoi de musique 🎶.
+
+🌟 Il aura lieu ce mercredi 6 décembre en SDB à 20h en même temps que l’Afterwork du Cercle !
+
+Le concept est simple : 8 duos d’EMAyens seront confrontés à des thèmes et devront trouver LA musique parfaite pour chaque thème en un temps limité. 
+
+Un jury spécial et le public voteront pour le meilleur choix de musique 😉. Le duo qui aura trouvé le plus de musiques parfaites remporte une enceinte 🔊.
+
+📢 Pour participer, un SG aura lieu demain à 13h sur notre page Facebook BDA Mines Alès !
+
+Artistiquement vôtre, 
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Initiation] x [Mosaïque]
+
+Que diriez-vous d’un après-midi tout en couleur ? Le BDA vous propose une initiation à la mosaïque le samedi 9 décembre en SDB 🤩 
+Valérie de Val Mosaïc d’Alès vous apprendra à faire de petites merveilles avec vos doigts ✨
+
+📍: Samedi 9/12, 14h-17h en SDB 
+🎟️: 12 places 
+💸: 5€ cotisant BDA, 9€ cotisant BDE
+
+🌟Pour s’inscrire, un lien vers la billetterie sera posté sur EMA Promo ce mercredi 6 décembre à 13h30 ! 
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : Bonjour à tous 👋
+
+On espère que vous avez passé une très bonne soirée 💃
+Le Gala n’est pas encore terminé ! 
+
+Si tu as besoin de discuter suite à la soirée ou si tu veux simplement nous faire remonter une situation que tu as trouvé anormale n’hésite pas à nous contacter via Messenger (@Laury Rttr ou Pauline Rougeot), le compte de prévention VSS ou par téléphone 💬 De plus, tu peux retrouver plus de ressources et d’infos sur ce compte Instagram _Prev_VSS_Gala_EMA_ ℹ️ 
+
+Si tu souhaites échanger de manière anonyme tu peux passer par : le chat de Noustoutes commentonsaime.fr, la plateforme de signalement de l’école (https://imt.signalement.net/entreprises ), le numéro 0800059595 (ligne d’écoute anonyme et gratuite) 🫶🏻
+
+Si tu as remarqué que tes potes avaient des comportements  « bizarres » et inhabituels (incohérence entre la quantité d’alcool bu et leur état) n’hésites pas à les rediriger vers nous ou à nous faire par de la situation (avec leur accord bien sûr !)
+
+Passez une très bonne soirée 😴
+Prenez soin de vous 😽
+
+Les Respos VSS du 96ème Gala', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Adrien Michelot; contenu : Veste Mango noire retrouvée chez moi
+
+(promis je l’ai pas volé)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d''Administration] X [CR]
+Bonsoir à tous,
+
+Ce soir s''est tenu le conseil d''administration de la semaine.
+
+L''ordre du jour se résumait à la présentation des réflexions sur la réorganisation du BDI. Un nouveau responsable au sein du BDE à été évoqué. Quelqu''un qui aurait un post au sein du Bureau de l''Intégration et du Bureau des élèves, peut-être une double responsabilité dans ce dernier. Les réflexions sont toujours en cours.
+
+Nous tenons à féliciter et remercier le bureau du Gala pour l''événement d''hier.🎉
+
+Circulairement vôtre ⭕️', 0);

@@ -1,0 +1,199 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Pass''Sport] x [BDS X AS]
+
+Bonsoir à tous, 
+
+Vous avez du recevoir un mail de Monsieur Vieljus concernant  le Pass''Sport. 
+
+L''association sportive (reliée au BDS) vient de finaliser son inscription (tardive) à ce dispositif.
+
+Il permet aux élèves FIG boursiers de faire la demande d''une aide à hauteur de 50 € financée par l''état. 
+
+Nous encourageons donc les élèves qui peuvent en bénéficier de faire la démarche indiquée dans le mail de Monsieur Vieljus. 
+
+Pour l''instant, nous ne connaissons pas toutes les modalités du fonctionnement de cette mesure.
+
+En revanche nous savons que : 
+
+- les 50 € seront reversés sur le compte de l''AS 
+- l''AS ne pourra pas vous faire un virement direct de 50 € mais devra justifier que ces 50 € vous auront bénéficié (par l''achat de matériel, ou un autre type participation financière...)
+
+Étant donné que le pass sport 2023 s''arrête en fin d''année calendaire, vous avez jusqu''au 21/12 pour faire les démarches. 
+
+La démarche à suivre est la suivante:
+Il suffit de suivre le lien vers campus envoyé par M. Vieljus : https://campus2.mines-ales.fr/course/view.php?id=1667
+
+Remarques: 
+- La démarche est possible si vous n’avez pas utilisé votre code Pass’Sport ailleurs (avec les crocos ou un club extérieur). 
+
+Où trouver son code Pass’Sport composé de 9 caractères?
+
+Il a été envoyé par mail les 31 août et 1er septembre. Si vous ne le trouvez pas n’hésitez pas à demander à vos parents ou a obtenir votre code sur le site: pass.sports.gouv.fr/obtenir-mon-code/
+
+Pour plus d’informations, n’hésitez pas à consulter Lucas Petitgenet.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Noël du Cercle] X [Enigmes] 
+
+Ho ho ho 🎅 
+Le père Noël a besoin de vous pour relever un nouveau défi  ! 
+Ce matin, un désastre l’a frappé. 😔 
+On compte sur vous pour l’aider et mener l’enquête . 🔎
+Découvrez ce qu’il s’est passé 👉 https://view.genial.ly/657fa1ac6ce2de0014cb80dd/interactive-content-genially-sans-titre
+
+PS : il n’y a pas besoin de DM une personne ! Mais vous pouvez toujours nous envoyer un petit message si vous stagnez trop 
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Noël du Cercle] X [Enigmes] 
+
+Bonjour à tous  🎅 
+On espère que vous êtes en forme ce matin pour la prochaine Énigme de Noël, ça sort à 10h pile. ⏳
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d''Administration] X [ Compte rendu]
+
+Bonsoir à tous,
+
+Ce soir a eu lieu le conseil d''administration hebdomadaire du Cercle des élèves. Au programme, demande de prêt de la Meuh Folle, présentation projet com Vert et création d''un nouveau club  🎉
+
+La Meuh Folle est venue nous présenter sa demande de prêt annuelle afin de pouvoir subvenir aux dépenses en amont du festival. Cette demande était à hauteur de 30 000€ que le Cercle a accepté 🐮
+
+Une discussion est en cours avec TchaoMégot afin d''installer des cendriers à plusieurs endroits dans la Meuh.🚬
+
+Un groupe de premier année est venue nous présenter leur projet de création de club. EMA''tout serait un club de jeux de cartes tel que Tarot et Belote. La création a été acceptée grâce à leur projet de tournoi, d''initiation et de rencontres. 🃏
+
+Tout le bureau du Cercle vous remercie pour le week-end de Noël qui a été une vraie réussite, on espère qu''il vous a plu autant qu''à nous 🎄
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louis Blmnt; contenu : [ Belmont ] x [ Tout perdu ] x [ Encore??? ] 
+
+Salut tout le monde !
+Hier soir, je me suis bien amusé, mais un peu trop. 🥳
+
+J’ai perdu mon tee-shirt. Il est couleur sable avec un lézard dessus. C’est un cadeau que m’ont fait mes grands parents quand j’avais 8 ans (j’étais sage à l’époque promis) j’y tient donc énormément. 🥺
+
+Je suis aussi à la recherche de mon téléphone portable. Enfin celui que Millien m’a prêté vu que j’avais cassé le mien. Pitié. 📵
+
+J’ai aussi perdu mon portefeuille. Il y a tous mes papiers s’identité dedans. Parfait pour commencer une nouvelle vie sous le nom de Louis Belmont. À vos risques et périls par contre 😔
+
+Merci à ceux qui pourront m’aider 🙏
+
+Joyeux Noël 🎅', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Malo Jehanno; contenu : Salu
+J’ai perdu mon téléphone vendredi sûrement en villa.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : Voici la line Up de ce soir 🔥! Joyeux noël 🎄🎁 !!
+
+Pour votre plus grand plaisir … 😏😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Samuel Ohyn; contenu : Hola,
+J’ai perdu mon super maillot du Tijuana FC à la soirée d’hier, sûrement en villa, merci de m’indiquer si quelqu’un a des indices.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : Bonjour à tou.te.s ! 👋
+
+Si vous avez manqué l''amphi de vendredi, on a une solution pour vous ! 🌟
+
+Découvrez notre diaporama qui vous emmène dans les coulisses de la Meuh Folle en vous expliquant comment vous pouvez vous investir ! C''est votre chance de voir comment apporter votre touche personnelle à notre festival. 🎨🐮
+
+Que vous soyez passionné.e par l''organisation, la déco, ou l''ambiance des festivals, il y a forcément une place pour vous parmi nous ! 🤩
+
+Vous avez envie de nous rejoindre ? Cliquez sur le lien pour vous inscrire et faire partie de cette belle aventure. On a hâte de vous accueillir dans l''équipe ! 🤝🐮
+
+https://forms.gle/ybKKWerrYHYav5pS9
+
+On se retrouve très vite pour préparer ensemble une 21ème édition de la Meuh Folle ! 🎉
+
+La Meuh Folle c''est demain et on lâche rien ! 🐮💛🩵🩷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : Je change mes pneus en début d’aprem au bat S, svp garez vous pas sur les places à côté du Picasso ! Merci <3', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jacob Degore; contenu : Blouson mauve avec telephone et CE perdu en villa hier. Si vous le trouvez merci de le ramener en S24 ou de me contacter svp 🙏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Noël du Cercle] X [Énigmes]
+
+Vous êtes peut être en plein dans la chasse aux cadeaux, 🎁 ou alors vous comptiez obtenir le vôtre ce matin en restant bien au chaud.🕵️
+Dans ce cas j’espère que vous être prêts pour notre énigme traditionnelle : on vous a  concocté un petit conte plein de magie de Noël 🎄
+
+On attend au moins 3 réponses pour l’énigme qui est en 3 partie. 😉
+
+PS : les lutins du Père Noël peuvent éventuellement donner un petit coup de pouce pour ceux qui butteraient et qui envoient un gentil dm 🧑‍🎄', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jean-Baptiste Maréchal-Dinelli; contenu : Bonjour emayens,
+J''ai perdu ma chaise de simplexe hier. Elle était au deuxième étage du bâtiment P.
+Si quelqu''un l''a retrouvé je suis chaud d''être contacté en MP.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Noël du Cercle]x[1000€ de Cadeaux 🎁]
+
+Bonjour à tous !
+
+Comme promis, à l’occasion de son Week-end de Noël, le Cercle vous offre pas moins de 1000€ de Cadeaux 🎁 !!! 
+
+Comment en profiter ?
+
+Une chasse au trésor qui débutera demain à 8h00 !
+
+Soyez prêt !
+
+Circulairement vôtre ⭕🧑‍🎄', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [SDB de Noël]x[Resultat du SG]
+
+Bonjour à tous,
+
+Les résultats du SG de la sdb sont disponibles 
+
+Circulairement vôtre ⭕️🎄', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Résultats SG] x [Dégustation 09/01]
+
+Voici la liste des heureux élus qui participeront à la première dégustation de 2024 🍷
+
+Anthony Durand 
+Kewin Bindzi 
+Juliette de Vallavieille 
+Eglantine Rouxel 
+Alexis Garcia 
+
+Claire Quidu 
+Emma Sohm 
+Thomas Marine 
+Antton Jauréguiberry 
+Alexandre Gautier 
+
+Lothaire Goubert 
+Maelia Duhart 
+Eva Quertiniez 
+Marius Ledemé 
+Guillaume Brisbois 
+
+Inès Audinot 
+Marion Labat 
+Quentin Moriceau 
+Etienne Roquefeuil 
+Bruno Péan 
+
+Lila Pic 
+Greg Blanc 
+Emmanuelle Assailly 
+Nathan Witkowicz 
+Anthony Petitfourg 
+
+Yoann Milli 
+Thomas Boutholeau 
+Quentin Regnier 
+Clémence Bihan 
+Bastien Delmas', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Noël du Cercle] X [Enigmes] 
+
+Bonjour à tous ! Qui dit Noël du Cercle dit ….. énigmes de Noël 🕵️
+
+Quoi de mieux que de se réveiller le samedi matin, après un bon repas la veille au soir, avec un joli conte de Noël ? 🤩
+En tout cas soyez attentifs demain à 9h. 👀
+
+Ensuite, gardez l’esprit bien échauffé pour lundi matin parce qu’on a préparé une énigme pour ceux qui aiment particulièrement se mettre au défi. 🧠🔍
+
+À ce soir, 
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Simon Venet; contenu : [Rock&Salsa]  x [Soirée dansante]x[la der de 2023] 
+Ne serait ce pas le moment de pratiquer un peu avant les fêtes de fin  d''année, alors avis aux danseurs du gala qui veulent se retrouver pour  danser librement, avis à toi qui a décroché des cours de danse car tu ne  préparais pas le gala ou toi qui que tu sois, c''est le moment de  rentrer à nouveau en piste MERCREDI 20 DECEMBRE à 20h30 en SDB!💃
+Vous pourrez y danser le rock et la salsa mais aussi peut être vous essayer à la batchata ou au west coast swing 🎶 ! Alors notez la date, à mercredi! 🕺', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : https://forms.gle/25CnohEjr5hqoMNB7', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : [UberEma] x [Pneu à plat] x [Help]
+
+Ça roule pas très fort pour UberEMA qui s’est bouffé un trottoir ❌⚡️
+J’ai besoin d’aide sur deux points svp 🙏 
+
+Est-ce que que quelqu’un passe proche de Marseille, idéalement vers Aubagne dans les prochains jours ? (Pour récupérer deux pneus avec jantes) 🛞 🛞 
+
+Je suis à la rechercher d’un cric qui peut soulever un Picasso 7places ? Ainsi qu’une clé permettant de démonter une roue ? 👨‍🔧🚗
+
+Récompense à la clé 🎁
+
+Merci bisous', 0);

@@ -1,0 +1,221 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [ SDB BDS ] x [ SG ]
+
+Samedi soir aura lieu la SDB BDS de 23h30 à 2h gratuite pour tous ! 🥳
+
+Il y aura 200 places disponibles au shot gun. Les personnes ayant réussi le sg auront un bracelet leur permettant de rentrer et sortir librement de la sdb.
+Le sg aura lieu vendredi à 13h!!📱
+
+Pour les personnes ayant ratés le sg il y aura également 50 entrées libres. Dans ce cas, si vous décidez de sortir de la sdb durant la soirée on ne peut pas vous assurer que vous pourrez y revenir car une autre personne pourra alors prendre votre place.
+
+On compte sur vous,
+Sportivement votre 💪', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jacob Degore; contenu : Téléphone trouvé au cyber', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : **[Meuh Folle] x [AfterWork]**
+
+Hello ! 🎉 Venez participer au premier AfterWork de cette année organisé par la Meuh Folle ce Vendredi ! 🐮🥳
+
+Menu alléchant à seulement **3,50€** :
+
+🥪 Croque-Monsieur (non végé & végé)
+
+🥗 Taboulé & Frites
+
+🍏 Crumble aux pommes
+
+Bar varié avec :
+
+🍺 Bière blonde
+
+🍻 Bière ambrée
+
+🍹 Cocktail "Le Rio de Ricko"
+
+On vous attend à 19h30 au bât S Vendredi avec assiette et écocup ! 🍽️🤩', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Six Tine; contenu : Gourde oubliée au forum des associations', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : David Martin; contenu : Bonjour,
+Cherche téléphone perdu lors d''aventures aventureuses hier soir (6septembre). C''est un Samsung A50, avec une coque de vieux en tissu noir et marron dedans. J''aimerais bien le retrouver vu que je repars demain.
+Des bisous,
+Bruno Albert', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1267089897281150/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Voici le SG pour l’aquaforest pour les 2A et 3A 
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Visite du comissaire] X [Débriefing] 
+
+La rencontre avec le commissaire qui avait lieu aujourd’hui s’est vraiment bien déroulée. 🥳
+Il a pu visiter le campus ainsi que comprendre tous les enjeux de notre vie associative. Il n’y a eu aucun retour négatif sur le début de semaine et l’intégration : alors même qu’il avait été appelé vendredi soir dernier, il n’a pas constaté de tapage. 😇
+
+Nous remarquons que les forces de l’ordre font vraiment la part des choses en ce début d’année et nous sentons que nous sommes sur une bonne voie.
+Nous tenons particulièrement à remercier tous ceux qui ont fait un effort pour nettoyer et faire paraître la Meuh sous un meilleur jour. 🧼🫶
+
+Nous espérons d’ailleurs continuer à profiter encore longuement de cette entente. Ce message n’est évidemment pas une invitation à pousser les limites et augmenter le tapage mais un encouragement à continuer cette démarche de compréhension. ✨
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Intégration]x[SDB BDE]
+
+Bonjour à tous !
+
+Demain soir l’intégration continue avec la SDB BDE !
+
+Le thème ? 
+« Minions à AquaForest 🏖️»
+Le BDE vous attend donc Jeudi soir dès 22h30 pour les 1A et 23h pour les autres ( dans la limite des places disponibles en SDB ). 😎
+On vous attend nombreux ! 🤩
+
+Attention : la soirée est réservée aux cotisants BDE ⚠️
+
+Aussi : ⚠️ Il est formellement interdit de sortir de la sdb par les portes intérieures sauf en cas d’urgence ! Sinon, exclusion !⚠️
+
+L''entrée de la SDB sera limitée à 270 personnes, contrôlée par compteur.
+
+Circulairement vôtre ⭕️🥳', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Laura Sdrt; contenu : [🏆🇫🇷Diffusion du match de CDM de rugby🇫🇷🏆]
+
+Le Trophée Orlandini et les Ultras vous invitent vendredi soir à 21h devant le bâtiment S pour supporter les bleus durant le match d’ouverture de la coupe du monde ! 🏉🏉
+
+Juste avant vous pourrez vous régaler à l’AW de la Meuh Folle 🐮
+
+On vous attend nombreux pour une ambiance de folie 🤪
+
+Le trophée Orlandini et les Ultras', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Forum des Associations]
+
+Bonjour à tous ! ✨
+
+Comme vous avez pu le voir un peu partout le Forum des Associations est de retour !
+
+Que vous soyez un nouvel étudiant cherchant à vous impliquer dans la vie associative ou que vous cherchiez simplement de nouvelles passions à explorer, cet évènement est fait pour vous ! 🫵
+
+Le Jeudi 07 Septembre de 12h30 à 18h vous aurez l’occasion à l’école de rencontrer et de discuter avec plus de 70 clubs et assos des Mines d’Alès ! 📆
+
+On vous joint ci-dessous le plan détaillé du forum des associations !
+
+Comme vous pouvez le voir des amphithéâtres NON obligatoires sont proposés pour découvrir un plus précisément les clubs et assos.
+
+On vous attend nombreux ce jeudi, à bientôt !
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Respos Vss Mines Alès; contenu : --- English below --- 
+
+[Sensibilisation REVERTO]  x [1A]
+
+Bonjour à toutes et à tous ! ☀️
+
+ La sensibilisation REVERTO, est une sensibilisation pour lutter contre les violences sexistes et sexuelles. Lors de votre semaine d’intégration vous allez suivre cette sensibilisation supervisée par les responsables VSS 173.  Cette sensibilisation a la particularité d’avoir comme support la réalité virtuelle. 
+
+ Les contre – indications de la réalité virtuelle :  
+
+• Femmes enceintes 
+
+• Personnes atteintes de troubles psychiatriques, d’anomalies de la vision binoculaire
+
+• Personnes atteintes de maladies cardiaques, de troubles épileptiques ou d’autres maladies graves ainsi qu’aux personnes portant un stimulateur cardiaque   
+
+Si vous avez des contre – indications à l’utilisation de casques de réalité virtuelle, si vous avez le moindre doute ou grosses appréhensions quant à cette sensibilisation, merci de contacter ZURITA Mathilde, Com VSS du BDE par mail ou via Messenger au plus vite.  
+
+⚠️ Pour les FIG listes avec vos groupes et vos horaires de passage sont disponibles sur Campus ! 
+[https://campus2.mines-ales.fr/mod/forum/discuss.php?d=8671](https://campus2.mines-ales.fr/mod/forum/discuss.php?d=8671)
+⚠️Pour les FIA, la liste a été transmise sur votre mail étudiant
+
+Hâte de vous rencontrer et de discuter avec vous lors de cette sensibilisation  
+
+ Bonne journée à vous !   
+
+Vos respos VSS 173 🤍
+
+[ENGLISH VERSION]  
+
+Hello everyone ! ☀️
+
+REVERTO is an awareness campaign to fight against gender-based and sexual violence (VSS in French). During your integration week, all first year students will follow this awareness program supervised by the VSS leaders 173. This awareness campaign has the particularity to be shared on a virtual reality medium.   
+
+ The contra-indications to virtual reality:  
+
+• Pregnant women  
+
+• People with psychiatric disorders, binocular vision anomalies  
+
+• People suffering from heart diseases, epileptic disorders or other serious illnesses as well as people with pacemakers     
+
+If you have any contraindications to the use of virtual reality helmets or if you have any doubts or apprehension about this awareness campaign, please contact ZURITA Mathilde by email or via Messenger as soon as possible.  You can find your group and the timing on Campus ! ⚠️
+
+We look forward to meeting and discussing with you during this awareness time.
+
+ Have a nice day ! 
+
+ Your VSS 173 Leaders🤍⚠️⚠️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Maxime Coqk; contenu : A venir chercher villa C', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Journée d’Intégration Sportive]
+
+Salut ! 👋
+
+Nous avons le plaisir de vous annoncer qu’a lieu ce samedi 9 septembre après-midi la journée d''intégration sportive à la Maison des élèves en pinède. ⛳️
+
+Au programme: match de volley, foot, basket et hand ! Nous terminerons cette après - midi par un goûter offert par le BDS. 🥞🧃
+
+Nous serons également accompagnés D’EMAboule et Emavisual 📸 durant toute l’après-midi! ☀️
+
+Pour information :
+
+Une équipe est constituée au maximum de 6 joueurs.
+Vous pouvez choisir de ne faire qu’un seul sport ou plusieurs.
+Les matchs sont d’une durée de 10 minutes.
+Pour les personnes ou groupes de personnes qui ne trouvent pas d’équipe ou qui ne sont pas au complet, vous pouvez vous inscrire et nous formerons des équipes en fonction des sports que vous avez choisis et ainsi, vous pourrez rencontrer de nouvelles personnes 🤝
+
+Vous pouvez d''ores et déjà vous inscrire en cliquant sur le lien ci-dessous. Vous aurez jusqu’à vendredi 8 septembre à 12h00 pour remplir le Forms. ⏰ Merci d’inscrire qu’une seule fois l’équipe ☺️
+
+Dès que les inscriptions seront closes, vous recevrez le planning et les équipes dans l’après-midi.
+
+Voici le lien du Forms pour s’inscrire : https://forms.gle/MFuBBEjJC2Vs4zXy9 
+
+Il sera également possible de venir jouer sans inscription en fonction des places disponibles.
+
+Ambiance chill et détente garantie, alors on espère vous voir nombreux s’ambiancer au soleil ! 🎵
+
+Sportivement vôtre 💪', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1266315677358572/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Loshan Rasan; contenu : [EMA Bike] x [Permanence]
+(English bellow)
+
+Salut aux nouveaux arrivants ! 😃
+
+EMA Bike organise une permanence de location de vélo le mercredi 6 de 18h30 à 19h30. Comme le nombre de vélos est limité, ce sera "premier arrivé, premier servi" sur place. N''oubliez pas que la location du vélo comprend un casque, un antivol et un gilet jaune pour seulement 5€/mois. 😎 Il faudra seulement payer une caution de 30€ qui vous sera rendue à la fin de la location (si aucun dommage n''est constaté 😉). 🚲 Demain, il s''agit uniquement d''une permanence de location de vélo.
+Si vous ne pouvez pas être là demain, ce n''est pas grave. Des séances de réparation de vélo, ainsi que d''autres séances de location de vélo, seront proposées dans les jours à venir. 😊
+
+Bicyclettement vôtre, 🚴‍♂️🔧🚲
+
+Hello to our new arrivals! 😃
+
+EMA Bike is hosting a bike rental event on Wednesday, the 6th, from 6:30 PM to 7:30 PM. Please note that there is a limited number of bikes available, so it will be "first-come, first-served" on-site. Don''t forget that the bike rental includes a helmet, a lock, and a reflective vest, all for just 5€ per month. 😎 You''ll only need to pay a 30€ deposit, which will be refunded at the end of the rental period (if no damage is found 😉). 🚲 Tomorrow, it''s just a bike rental session.
+If you can''t make it tomorrow, no worries. Bike repair sessions and other bike rental events will be offered in the coming days. 😊
+
+Bikefully yours, 🚴‍♂️🔧🚲', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Visite commissaire] X [ Meuh]
+
+Bonjour à toutes et à tous, 
+
+Ce mercredi, le commissaire de police ainsi que des officiers vont réaliser une visite à la maison des élèves.  👮‍♂️
+Nous souhaitons leur montrer la meuh sous son meilleur jour. C’est pourquoi nous vous demandons de nettoyer vos couloirs si cela est nécessaire et de jeter vos déchets correctement. 🧹
+Cette visite est très importante. Elle montre notre respect des lieux et notre savoir vivre. Elle met aussi en jeu notre vie associative. 🏘
+
+⚠️Nous comptons donc sur vous pour faire un effort, notamment CE SOIR lors de vos aperos et ainsi préserver la vie de la meuh.
+De plus, un nettoyage de certains espaces communs évitera une hausse de frais inutile !!⚠️
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Simon Venet; contenu : Hey le BDS Mines Alès vous prévoyez quelque chose pour la CDM de Rugby?', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Journée Aquaforest]
+
+Salut 👋 
+
+Vous l''avez sûrement remarqué sur le planning de l''intégration : Dimanche 10 septembre aura lieu la sortie à l''AquaForest de Bagard. Au programme Accrobranche🧗‍♂️ et WaterJump 💧
+
+Cette sortie est entièrement prise en charge, y compris le transport 🚎, par l''école afin de participer à l''intégration 🤝 des premières années FIG et FIA!!!
+
+Il y a 350 places pour 320 1A, donc nous ouvrirons 50 places pour les 2A et 3A, lors d''un SHOTGUN qui aura lieu jeudi 7 septembre à 13h00 🕐 . 
+
+Les départs se font de la maison des élèves aux horaires suivants : 8h45 et 9h30 🕦 . Pour les 1A, vous devrez vous inscrire sur un des 2 créneaux ce mercredi 6 septembre, quand au 2A et 3A l’inscription se fera lors du SG.
+
+Le repas 🍽️ est à votre charge 
+
+Sportivement votre,', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Yoji Yamakawa; contenu : groupe pour les SDF, histoire de rentrer ensemble (1A)👌', 0);

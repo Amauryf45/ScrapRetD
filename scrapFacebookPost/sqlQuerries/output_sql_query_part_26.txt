@@ -1,0 +1,243 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [poudlist]x[sdb magique]
+
+Pour les moldus qui veulent s’élever au rang d’auror la sdb de la Poudlist va ouvrir ses porte !
+
+Pour les plus rapide d’entre eux ils auront le droit à une surprise au bar et ce sera pas de la bière au beurre ……….
+
+À la carte ce soir :
+- bière (toujours sans beurre)
+- Cocktail aux fruits (avec ou sans alcool)
+
+Pensez à vos ecocups !
+
+On vous attend nombreux !
+
+La Poudlist 🧙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Dalil Zeamari; contenu : Oh les bizuth defi guetteur 1 de chaque list en laverie du bas', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucky List; contenu : [Fin d’amphi]x[Allôs]
+C’est l’heure, contactez la Lucky List pour profiter un max de nos allôs ! 
+Au menu de ce soir :
+- croque dinde halal emmental
+- croque jambon emmental
+- paninis nutella 
+- crêpes nutella
+- shots de potion
+
+Farwestement vôtre,
+
+La Lucky List', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Wendy Dijoux; contenu : Coucou ! Désolé de poster sur une période si intense mais j''ai perdu mon collier auquel je tiens énormément, probablement en amphi pasteur. (Chaine doré et pendentif rond) 
+Si ya des 1A qui passent par là demain 😭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Hierog’list; contenu : [Émath] x [Hiero] x [Défi]
+
+Coucou les listeux ! 
+
+Les émathéniens et la hierog’list vous mettent au défi de créer la plus belle stèle en hommage à Mino, un rat grecque devenu égyptien, parti trop tôt 😩🐀 
+
+Vous devrez nous la ramener dimanche à 21h en MDC, la plus belle remportera le défi ! 
+
+Antiquement vôtre,
+⚡️ x 🏺', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Hierog’list; contenu : [Hierog’list] x [Défi]
+
+Salut les listeux ! 
+
+Pour le défi hiero, envoyez nous 2 sorciers et 2 cow boys à 22h en V29 demain, celui qui nous ramènera le meilleur grec (cuisiné ou acheté) remportera le défi , soyez originaux 🥙😋 
+
+Une petite surprise vous attendra ☺️ 
+
+Les fakelists sont évidemment conviées 🔥🔥
+
+Hierog’listement vôtre,
+La Hiero 🏺', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : Bonjour, 
+Voici la line up de ce soir 
+Pour votre plus grand plaisir …😏
+Emamix VII', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist]x[Salon « BarberF16 »]x[2ème édition]x[Fermeture]
+🪄🧙‍♂️
+Suite à cette excellente session de 3h, les clients ont été très nombreux et sont tous satisfaits ! 😆
+Rendez-vous très prochainement pour la suite du rayonnement du salon de coiffure BarberF16 ! 🧙‍♂️
+Bon après-midi à tous,
+Par la magie vous serez coiffé 🪄,
+Magiciennement et cisaillement votre ✂️📐', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : [Campagnes BDE] x [Défi BDI]
+
+Il est maintenant temps pour vous de nous prouver que vous êtes devenus des maîtres dresseurs hors pair ❤️‍🔥
+
+Nous vous demandons donc de réaliser une vidéo pour le générique de Pokémon 📹 et de nous l’envoyer avant lundi matin à 8h.
+Surprenez-nous 😎
+
+PS : les FL on compte aussi sur vous 🇫🇷👸🏢🚬', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : [Défi BDE]x[EmaVisual]
+
+Coucou les listeux, 🤠 
+
+EmaVisual vous met au défi👩‍🎨
+
+Vous devez réaliser un montage photo de l''autre liste. 🤡
+
+Montrez nous que vous savez être créatifs, tout en restant bienveillants 💗
+
+Qui ? 👤
+Vos plus vaillants Photoshopers 
+
+Pour quand ?⏰️
+Dimanche 15h
+
+À qui ? 📧
+Sur le messenger de Carmen Goerrian ou celui d'' Emma Leroy 
+
+Surprenez-nous 🌟
+
+Visuellement vôtre 📸', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist]X[Résultats]
+
+Bravo ! Le poudlard express a pris moins de trois minutes pour arriver à destination. Malheureusement les cowboys ont fait un hold-up et nous réclament une rançon de 2,50€ par personne …', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Martin Maurer; contenu : [QUARTIER]x[DEFIS]
+
+00h en sdb : ke la poudlist
+Laverie : 1 de chak liste
+
+Le reste s’est ecri en ba', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Foyer; contenu : [Campagnes BDE]x[Défis]x[Foyer]
+
+Coucou les listeux et listeuses !
+
+Comme vous le savez, un bureau est soudé s’il sait communiquer. 
+On invite donc 2 apprentis magiciens et 2 petits cowboys pour qu’ils s’affrontent avec les mots.
+
+On vous attend samedi à 20h au Foyer !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Défi BDS]x[Campagnes]
+
+Aujourd''hui les asparrow vous mettent au défi. 🏴‍☠️
+
+Parce que le sport est quelque chose d''indispensable rendez-vous au bat S à 22h. Ramenez vos 5 meilleurs joueurs pour pouvoir prétendre à la victoire !🏆
+
+N''oubliez pas ecocup et boisson !🍺
+
+PS: les fake list vous ne faites pas exception et êtes aussi attendus !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lucky List; contenu : [Lucky List]x[Réseaux]
+
+Bien le bonjour les cowboys,
+
+On espère que le reveal vous a plus 😎 Nous on s’est bien amusés à tout préparer, et pour continuer à partager notre fun on vous invite à suivre nos comptes (les visus créés par vos Com Com préférés vont vous régaler) :
+🤠 Insta : @la_lucky_list
+🤠 Facebook : Lucky List (la page)
+
+Rappel : pour enjoy un max les allos, contactez uniquement ces comptes-ci !
+
+Checkez notre magnifique bannière Facebook hand-made pour avoir un récap de la semaine, et pour plus de détails sur les activités (qui sont complètement crazy) c’est sur insta 🤌🏼
+
+Farwestement vôtre, 
+
+La Lucky List 🐂😎
+
+~ English ~
+
+What’s up cowboy,
+
+We’re hoping that you enjoyed the reveal as much as we did 😎 If you want more fun, feel free to add us on social media :
+🤠Insta : @la_lucky_list 
+🤠Facebook : Lucky List (the page)
+
+Reminder : contact us only on these accounts to enjoy allos !
+
+Check our wonderful hand-made Facebook banner to catch up on this week’s planning, and for more information on the activities, it’s on Insta 🤌🏼
+
+Farwestly yours,
+
+The Lucky List 🐂😎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [DÉFI BDE N° 3 ] X [ Où EMA boussole ??? ] X [ Défi Secrétaire ] 
+
+Pour les travailleurs de l''ombre, il est l''heure de sauver sa liste 🦇
+
+Voici les infos :
+
+⭕️ Les secrétaires
+
+📜 Navigation sur la mer d''information (attention au rhum moussaillon !)
+
+📆 Jeudi
+
+⏰ 21h - 22h
+
+📌 MDC
+
+👥 Les secrétaires des listes BDE
+
+🎒 Un ordinateur portable par liste
+
+PS : l''océan donne grand faim et surtout grand soif 🤤
+       
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist]X[Shotgun sdb]
+
+Chers Emayens et Emayennes
+Essayez d’être plus rapide qu’un nimbus 2000
+
+🇬🇧🇬🇧
+
+Dear Emayans
+Try to be faster than a nimbus 2000', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [DÉFI BDE N° 2 ] X [ Défi COMCOM ] 
+
+Salut les Com Com, vous avez pu déjà le voir, on en attend beaucoup de vous...alors venez nous prouver votre talent !
+
+Voici les infos :
+
+⭕️ Com Communication
+
+📜 Défi Communication 
+On passe un moment tranquille ensemble pour découvrir vos talents de ComCom 
+
+📆 Samedi 20 janvier
+
+⏰ 8h-10h
+
+📌 Cowork - Salle Créa 1
+
+👥 Tous les Com Com de chaque liste BDE
+
+🎒  Arrivez préparés : 
+- présentez nous un petit montage vidéo / photo / story / on laisse libre cours à votre créativité... pour revivre l''aventure de la Fake List qu''on vous a attribué, depuis le début de ces reveals 🤩
+- Emmener des ordinateurs ou tablettes 
+
+PS : C''est à l''heure du petit-déjeuner.... 😋
+       
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [DÉFI BDE N° 1] X [Guerre des Vertu-oses] X [Défi COM Vert] 
+
+Il est l’heure de nous prouver vos convictions 🌳
+
+Voici les infos :
+
+⭕️ COM Vert
+
+📜 Après une petite montée sportive, affrontez les membres de la liste adverse aux travers de mini-jeux (quasiment) neutres en carbone et durables.  
+
+📆 Date : Jeudi 18 janvier
+
+⏰ 15h-16h
+
+📌 Début en bas de la montée pinède
+
+👥 Tous les COM Vert
+
+🎒 Venez munis d’un vélo chacun 😉
+
+PS : En temps qu’extés, venir à la meuh pour vous proposer des défis ça creuse l’estomac…
+       
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist]x[Salon "BarberF16"]x[2ème édition]x[Shotgun]
+
+Bonjour à toutes et à tous 🧙‍♂️✂️ 
+
+Pour s''occuper le mieux de l''image de nos emayens, la Poudlist est au rendez-vous ! 🧙‍♂️
+Vous l''attendiez tous depuis son apparition, nous vous l''avions promis, c''est cette fois sous l''effigie de la Poulist que nous reprenons du service ! 
+Cet après-midi, un créneau vous est spécialement dédié afin de vous préparer pour la meilleure sdb de l''année ! (14h-17h)✂️
+Cependant, le nombre important de coupe effectué pour la première édition nécessite de mettre en place un shotgun ! Dépêchez vous, la satisfaction de nos anciens clients risquent de remplir rapidement cette session de 3h. 😁
+Contactez moi sur messenger (Théo Thomas), et dîtes-nous si vous voulez être coiffé à domicile ou... dans un lieu inédit que nous vous dévoilerons en privé ! 😄
+Nous vous souhaitons de profiter d''un moment agréable pour votre prochain taper ou dégradé,
+Par la magie vous serez coiffé 🪄,
+Magiciennement et cisaillement votre ✂️📐', 0);

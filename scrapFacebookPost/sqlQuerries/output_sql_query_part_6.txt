@@ -1,0 +1,225 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d’Administration] X [CR]
+
+Bonsoir à toutes et à tous, 
+Ce soir s’est tenu le CA hebdomadaire du Cercle, conjointement avec le futur BDE📚. À l’ordre du jour : les passages de la Meuh Folle et de la Poudlist pour nous faire un point sur les événements à venir.
+
+Tout d’abord, à l’approche du 5&6 avril, la Meuh Folle 🐮 est venue nous présenter l’avancement général du festival à ce jour. Les derniers préparatifs sont mis en place pour proposer un événement mémorable.🔥
+Pour rappel, les 1A généralistes, vous avez la possibilité de vous investir en aidant à préparer le Capra en remplissant le form suivant : https://forms.gle/zjyh5jGmL7wjz1VVA
+Vous aurez rarement l’occasion de vivre un expérience pareille, dans les coulisses d’un festival. 🤩
+
+Ensuite, la Poudlist 🧙 a partagé ses propositions pour le Pâques du Cercle qui se déroulera le 28 mars. 🐰 Nous avons hâte de vous retrouver pour partager ce moment qui s’annonce convivial. 🥳
+
+Enfin, le CA s’est terminé par des discussions avec le futur bureau sur les difficultés qu’a pu rencontrer le Cercle au cours de l’année et ainsi les conseiller pour que leur mandat se passe au mieux. ✨
+
+Ce CR a été rédigé en collaboration par les deux bureaux. 🤝
+Bonne soirée à tous ! 
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Rayan Allalou; contenu : Salut, j’ai perdu mon téléphone hier pendant le tournoi Emabordage, je l’ai sûrement jeté sur un pull/sac ou une chaise de camping, si vous pouviez y voir si il n’a pas atterri malencontreusement dans vos affaires je vous en remercierai grandement. Vivre sans donner des nouvelles à mon père est très dur 🥲', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Romain Carozzo; contenu : Salut, j''ai oublié mon sac de tennis (avec 2 raquettes) en pinède hier aprèm. Quelqu''un sait qui l''a ramassé ?', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Theo Barbet; contenu : Téléphone retrouvé en sdb (la personne peut venir le chercher au bar! Ou contactez moi demain  :))', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [SDB]X[Line Up]
+
+Voici la Line Up de ce soir 🔥 ! Faites vos jeux 🎰 !
+
+Pour votre plus grand plaisir … 😏😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [SDB CART''SINO] x [Résultats SG] 
+
+On se retrouve ce soir avec la roue de la for-thunes 🤑.
+
+Que la chance vous sourit 🤠
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : La Meuhle; contenu : [Meuhle]x[Dernière dégustation]
+
+Salut à tous 🧀 
+La Meuhle organise la dernière dégustation du bureau actuel le jeudi 21 mars prochain à 19h30 au bar ! Au programme de cette dernière dégustation, une dizaine de fromages choisis avec soin par le bureau et la fromagère ainsi que des accompagnements pour bien vous rassasier 🧀🧀
+
+Pour cette dernière dégustation, nous allons mettre l’accent sur la diversité et l’originalité des fromages, et nous allons également vous proposer des associations avec d’autres aliments et boisson (non alcoolisée) pour encore plus les apprécier 🧀 🍇🫒
+Bien sur, vous dégusterez aussi quelques fromages incontournables de la gastronomie française 👀 
+Le prix exact vous sera communiqué lundi, mais il sera aux alentours de 12€ 🧀
+
+Comme pour les autres dégustations, il n’y a que 20 places, et le shotgun aura lieu lundi prochain (le 18) à 13h sur la PAGE FB DE LA MEUHLE 🧀
+
+Pour les 1A, n’oubliez pas que les candidatures pour le bureau ferment ce soir à 23h59 ‼️
+
+Fromagement votre 🧀', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Entr’EMA] x [Recrutement respos]
+
+Bonjour tout le monde! 🍎
+
+Le moment est venu pour le nouveau bureau d''Entr''Ema d''élire ses nouveaux respos!
+1A FIG et 1A FIA peuvent tous deux s''investir dans les différentes coms.
+Il est très important qu’une équipe complète soit formée pour pouvoir faire tourner l’épicerie.😎
+Voici les postes de respos pour lesquels vous pouvez candidater : 
+- Respo gestion des stocks (3 personnes, permis de conduire + voiture requis) 🚗
+- Respo gestion interne (1 personne) 
+- Respo liens associatifs (1 personne, voiture souhaitable) 🚙
+- Respo locaux (1 personne)🏢
+- Respo banque alimentaire/collecte (2 personnes, permis de conduire requis)🛒
+- Respo communication (1 personne)💬
+- Respo com internationaux (1 personne)🌍
+- Respo informatique (1 personne, connaissances en langage Flutter (dart) requises)💻
+
+Par ailleurs, si jamais vous hésitez encore à vous investir à Entr’EMA, n’hésitez pas à contacter des membres de l''ancien et du nouveau bureau pour échanger avec eux sur les différents postes, ou l''asso en général😉.
+
+N’hésitez pas à vous engager dans la nouvelle équipe de ce projet plein de sens et de valeurs, pour aider et rencontrer les Emayens 🤝!
+
+Pour candidater, il suffit de remplir ce nouveau forms avant le dimanche 24 mars à 23h59 ! 
+https://docs.google.com/forms/d/1ZjLksHpyo3BXgOI47AIcq_tiaowLGiEM1rDLuQJH560/edit
+
+Le nouveau bureau d''Entr''Ema!🍏
+
+🇬🇧 English 🇬🇧
+Hello everyone!🍎
+
+The time has come for the new Entr''Ema board to appoint its new managers !
+Both 1A FIG and 1A FIA can get involved in the various roles. It is highly important to form a complete team in order to run correctly the grocery. 
+
+Here are the roles of manager for which you can still apply : 
+-Inventory manager (3 people, driver’s license and car required) 🚗
+- Internal manager (1 person) 
+- Associative links manager (1 person, owning a car is preferable) 🚙
+- Premises manager (1 person) 🏢
+- Food bank/food collect manager (2 person, driver’s license required) 🛒
+- Communication manager (1 person) 💬
+- International communication manager (1 person)🌍
+- IT manager (knowledge in the langage Flutter required, 1 person)💻
+
+Moreover, if you are still hesitant, contact our former and current members to exchange and know more about the roles.😉
+
+Don’t hesitate to engage with the new team full of values to maintain the grocery and help and meet Emayens !
+
+To apply, you just have to answer this form before Sunday 24th at 11:59 pm !
+https://docs.google.com/forms/d/1ZjLksHpyo3BXgOI47AIcq_tiaowLGiEM1rDLuQJH560/edit
+
+The Entr’EMA office 🍏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [SDB WEV ] X [ EMAMIX] 
+
+Voici la Line up pour la SDB de ce soir ! 🌊🪩
+
+LE BUREAU EMAMIX VII
+Pour votre plus grand plaisir 😏…', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [BDA] x [SDB CART''SINO]
+
+Ce samedi, venez profiter de l''ambiance électrique ⚡️ du casino et d''une soirée rythmée par la roue de la for-thunes : elle pourra décider de votre boisson du soir 🥂, et si la chance vous sourit, elle pourrait même vous offrir l''entrée en SDB 💸 !
+Pour la tenue, pas de place au hasard, soyez élégants 👔. 
+
+SG Vendredi 15/03 à 13h sur EMA Promo 🕚. 
+Les bracelets seront vendus à l''entrée de la SDB.
+
+Faites vos jeux 🎰
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [BDA] x [SDB CART''SINO]
+
+Ce samedi, venez profiter de l''ambiance électrique ⚡️ du casino et d''une soirée rythmée par la roue de la for-thunes : elle pourra décider de votre boisson du soir 🥂, et si la chance vous sourit, elle pourrait même vous offrir l''entrée en SDB 💸 !
+Pour la tenue, pas de place au hasard, soyez élégants 👔. 
+
+SG Vendredi 15/03 à 13h sur EMA Promo 🕚. 
+Les bracelets seront vendus à l''entrée de la SDB.
+
+Faites vos jeux 🎰
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1363257780997694/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : [RESULTAT SG SDB]x[WEV]
+
+Restez chill, voici les résultats du SG 🤙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [EGT] x [Tic Tac...⏰️]
+
+📣 Avis à tous les talents, il ne vous reste plus que quelques heures pour vous inscrire à l''EMA''s Got Talent ⏳, une opportunité en or de faire découvrir votre passion aux Emayens et Emayennes ✨ ! Musique 🎶, danse 💃 , arts du cirque 🎪 , stand up 🎤... ne laissez aucune limite à votre créativité et tentez de remporter la victoire et un de nos lots 🎁 !
+
+https://forms.gle/CKBNznfKVRHTYLUx7
+
+Pour accompagner la soirée, le BDA vous prépare un AW alléchant 😋, au menu :
+- Hot Dog ou Panini (Pesto Mozza Tomates séchées) 🌭
+- Frites 🍟
+- Churros ou Milkshake 🥤
+
+On espère vous voir nombreux pour encourager tous les talents 🙌 et voter pour votre préféré, à partir de 20h vendredi en SDB !
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : Rebonjour les riders ! 🏄‍♂️
+
+Restez chill voici le lien du SG 🤙 : 
+
+https://forms.gle/Bm2ti5P5N4CbawEQ6
+
+Que la wave soit avec vous 🌊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Chloé Cruvellier; contenu : [Bod’Ema 🍇] X [ Bénévoles 🤝 ]
+
+Avec l’arrivée du soleil ☀️ vient l’arrivée des Ferias 🐂
+
+📅 Tous les ans a lieu la fameuse Feria d’Alès le week-end de l’Ascension, du 08 au 12 mai. Cet événement rassemble près de 300 000 personnes chaque année autour de stands 🍻 , de concerts 🕺, d’animations 🎤, de spectacles et bien d’autres encore…
+
+Depuis plus de 10 ans, la Bod’Ema s’invite à la Feria et tient une bodega 😋, un stand dans lequel est proposés sangria 🍷, bières 🍺, softs 🥤 (et peut-être même de la nourriture 🫣)…
+
+📍Chaque année tous les emayens se rendent au centre ville afin de participer à l’un des rares événement qui a lieu à Alès dans lequel les emayens prennent part 🤝 
+
+🫵 Afin que l’événement se passe au mieux, nous avons besoin de vous ! Être bénévole à la Bod’Ema 🍇 c’est être au coeur de la Feria, de son ambiance 🕺et de sa fête 🍻
+
+Alors si tu es intéressé, curieux de découvrir l’univers de la Feria, remplis ce questionnaire 🗒️ Tu as jusqu’au dimanche 17 mars ⏳
+
+https://docs.google.com/forms/d/e/1FAIpQLScoIrAx6kB-dJIMDqwAZtkMKzCB_kGTviKGEbWM4s_gdsxnnQ/viewform?usp=pp_url
+
+N’hésitez pas à checker notre insta pour voir l’édition 2023❣️ @la_bodema 
+
+Fériament vôtre 🍻,
+
+La Bod’Ema 🍇', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comuz; contenu : [Spectacle de la Comuz 2024] x [Annonce]
+
+« Madame, Monsieur, 
+
+C’est avec une immense joie que nous vous invitons à célébrer notre union, ce jeudi 28 mars 1924 à 19h30 au sein de l’amphithéâtre Pasteur.
+Venez célébrer avec tous les invités notre mariage si exceptionnel !
+
+Signé,
+
+Agnès Saint-Roche et Jacob Seminor » 
+
+La Comuz 🎙️ vous invite à son spectacle de comédie musicale, sur lequel nous travaillons d’arrache-pied depuis presque un an déjà 😌! Les troupes de danseurs des Snakes et Rock&Salsa nous accompagnent une fois encore dans cette formidable aventure 🔮
+Du chant, de la danse, et une histoire palpitante, voilà ce qui vous attend !
+
+Pour résumer : 
+📆Jeudi 28 Mars
+🕦19h30
+📍Amphithéâtre Pasteur
+💵Gratuit
+
+Plus d''informations sur le spectacle arrivent bientôt… 👀
+
+Musicalement vôtre,
+La Comuz 🎵', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louise Carrat; contenu : [AW]x[venez soutenir les titis🐯]
+
+Ce mercredi les Tigresses vous invitent à leur aw à partir de 20h en sdb! 🥳
+
+Au menu : un poke bowl coloré 🍚🍗🥒🥕🌽 qui rassasiera nos sportifs (version non végé avec poulet et œuf et végé avec 2 œufs mollets) et un gateau marbré en dessert. 🍰🐯
+Le tout pour 3,5€, avec un supplément diabolo citron à 25 centimes! 🥤
+
+On vous attend nombreux demain en sdb à partir de 20h, avec votre bol ou assiette creuse, vos couverts et un ecocup! 🍽️
+
+Graou Graou 🐯', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : [WEV]x[SDB JEUDI]
+
+Hellooo les riders !🏄‍♂️
+
+Quoi de mieux en cette belle semaine ensoleillée qu’une SDB WEV et un cocktail rempli de vitamines D ? 🏖️
+
+Pour les 1A, venez faire le plein de soleil entre 2 jours de séminaire créativité inintéressant ☀️
+
+Pour les 2A, cest l’occasion d’avoir un avant-goût d’été pendant vos missions R&D⛱️
+
+Thème : Brice de Nice 
+
+⏳ Rendez-vous demain 13h pour le SG sur Ema-Promo ⏳
+
+D’ici là n’oubliez pas de chiller un max 🤙
+
+Le WEV qui vend du rêve 🌊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/share/p/quoaYd5vWu4DPuzF/', 0);

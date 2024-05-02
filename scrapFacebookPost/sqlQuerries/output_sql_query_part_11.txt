@@ -1,0 +1,218 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : **[Meuh Folle 🐮] x [Rappel BÉNÉVOLES]**
+
+🌟Vous avez la possibilité de devenir bénévole à la Meuh Folle, et de transformer 2 à 3h de votre temps par soir en **2 jours de festivités pour 10€ au lieu de 40€**. 🎉😍
+
+Les **boissons 🍻 et les repas 🌯 vous sont offerts**, en compagnie de vos meilleurs amis (Les FIA 1A & 2A seront en période de cours) !
+
+[https://appli-mf.emait.fr/subscription](https://appli-mf.emait.fr/subscription)
+
+La Meuh Folle c''est demain et on lâche rien ! 🐮💛🩵🩷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Gala] x [Présentation du 97ème] 
+ 
+ C’est officiel, l’édition du 96ème Gala est close. Il est maintenant grand temps de céder la place au nouveau bureau. J''ai aujourd''hui l''honneur de vous présenter, pour ce 97ème Gala, toute notre équipe !
+ 
+ Président : Axel Prouvost 🎩
+ Secrétaire : Katell Lafferriere ✒
+ Trésoriers : Marc-Alexandre Michelin & Enora Hollecou 💎
+ VP Soirée : Erwann Battarel 💃
+ VP Restau/Boisson : Audrey Prunarety & Dénia Hernandez 🍹
+ VP Communication : Wendy Dijoux 💻
+ VP RSG : Romain Goussu 🌿
+ VP Décors/Logi : Loïck Belvindrah 🎨
+ 
+ Nous nous efforcerons de faire de cet événement un souvenir mémorable pour tous les emayen.ne.s. Pour vous le prouver, nous vous donnons rendez-vous à 13h en Amphi Pasteur ! 
+ 
+ Le 97ème 🫶', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1347564642567008/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [96ème Gala] x [Bilan Carbone]
+
+Bonjour à tous ! 
+
+Deux mois ont passé depuis le 96ème Gala et pour nous, Com Verte 🌱, une grande partie de notre travail restait à faire. En effet, nous avions pour objectif de réaliser le bilan d''émissions de l''événement du Gala pris dans sa globalité avec ; les deux AWs, la SDB, les nuits des décors et la soirée du Gala.  
+
+Vous pouvez dès maintenant consulter le bilan complet sous format de livret numérique au lien suivant : [https://heyzine.com/flip-book/f57f5e956e.html](https://heyzine.com/flip-book/f57f5e956e.html) 
+
+Nous tenons ici à insister sur le but de notre travail : par la réalisation d’un bilan des émissions de CO2, nous souhaitons donner un ordre de grandeur de l’impact de l''événement du fait de l’imprécision de certains secteurs. Nous ne prétendons nullement fournir un bilan exact. Ce travail a également pour vocation de servir de point de repère pour les éditions suivantes, permettant de travailler sur les secteurs que nous estimons avoir la plus grande marge d’amélioration. 
+
+Comment faire en sorte que l’an prochain, le bilan d''émissions du Gala soit plus faible ? 
+
+Poursuivre les actions mises en place telles que les deux AWs végétariens, les bonnes pratiques écologiques de la part des différentes commissions du Gala et maintenir le contact avec Re’Up, une start-up proposant un accompagnement des évènements afin de diminuer leur impact environnemental. Mettre en place les axes d''amélioration constatés cette année : c’est-à-dire, proposer un repas du Gala végétarien dans l’idéal ou faute de mieux, à base de viande blanche, récupérer des moquettes biosourcées et écoresponsables et proposer des navettes motorisées aux biocarburants. Nous sommes ravis d’avoir continuellement œuvré à façonner un Gala éthique et durable, et nous espérons que ce travail constitue des bases solides pour nos successeurs !
+
+Vénitiennement vôtre, 
+
+Le 96ème Gala 🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d''Administration] X [CR]
+Bonjour à tous, 
+
+Ce soir a eu lieu le CA commun du mois, au programme sensibilisation des com Vert, retour d''illumination et point abordé avec les représentants 1a et 3a.
+
+Pour rappel, la com Vert s’est donnée comme nouvelle mission de sensibiliser le Cercle ainsi que les emayen sur un sujet d’actualité une fois par mois. Cette fois-ci, le sujet traité est celui de la pénalisation du stationnement des SUV à Paris, la présentation réalisée sera bientôt disponible sur EMA Promo !🌱
+
+Les représentants 1a et 3a ont fais un point commun sur le sujet des campagnes notamment sur le secret des membres et des rôles qui bloquent la transmission d''information lors de la préparation. Ce sujet a amené certaines pistes de réflexion 
+qui seront développées dans les prochaines semaines. ✍️
+
+Lors de leurs campagnes, les Alésias  n''ont pas respecté le règlement en utilisant de la pâte à tartiner composé d''huile de palme. Pour ce non-respect, les Alesias vont devoir rembourser la différence d''un montant de 64.40€ qui sera reversé à une association environnementale. 🐗🌱
+
+Hier soir a eu lieu la soirée Illuminations, le dernier événement organisé par le BDE 2023. Merci pour vos retours positifs, cette soirée vous a plus autant qu''à nous!!🎉
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : [Amphi WEV]
+
+Hello les riders 🤙 !
+
+🚨L’amphi de présentation du WEV 2024 se déroulera CE MARDI 13 FÉVRIER !🚨
+
+Ça sera l’occasion d’enfin vous dévoiler: 
+
+- Le déroulement du week-end 🤙
+- Les activités proposées 🏄‍♂️
+- ET SURTOUT : Le lieu incroyable où les plus rapides pourront passer un week-end fort en émotions 🌊☀️🏖️
+
+Pour rappel : le WEV c’est du 29 mars au 1er avril 2024
+
+A ne rater sous aucun prétexte !
+(Vous pouvez prendre vos plateaux en Paster)
+
+Le WEV qui vend du rêve 🌊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jean Nicolas Vailhé; contenu : Salut à tous mes steufs, j’ai perdu mon coupe vent Poireaux hier soir dans la bataille. Si vous l’avez retrouvé je suis archi chaud 🙏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : [UberEMA] x [FlashNews]
+
+Face à la concurrence d’UberEmath, UberEMA abandonne le marché du covoit pour ce soir 😢
+
+Il préfère noyer son chagrin… Ce n’est pas sa voiture qu’il va démarrer ce soir mais lui même⚡️
+
+Bisous, désolé à mes fans je vous aime 💋', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [SDB]X[ILUMINATION]
+
+Voici la line Up pour la soirée illumination 💡🌈
+
+Pour votre plus grand plaisir … 😏😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Bar]x[Tournoi des Six Nations]
+Je suis ouvert demain pour regarder le rugby.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Augier; contenu : Bonjour à tous !
+
+Deux places viennent de se libérer dans la colocation où je suis (coloc à 3) boulevard Charles Gounod (1 min à pied de Clavières / 10 de Croupillac). J’en profite donc pour partager l’annonce en espérant que certains puissent être intéressés.
+
+Voici le descriptif :
+
+2 chambres avec rangements, chaise, bureau et écran plat disponibles : une à partir du 9 Février (lit de 120x190) et une à partir du 2 Mars 2024 (lit de 140x200). 
+
+Particulier (très sympa) propose deux chambres en colocation dans un appartement entièrement rénové et meublé, lumineux, entièrement équipé, de 80 m2, avec salon, cuisine, salle de bain, WC, buanderie, balcon et place de parking privé.
+Idéalement placé : à Clavières (La tour Plein Ciel), à deux pas de toute commodité (épicerie, coiffeur, tabac, boulangerie, snack, banque, pizzaïolo, pharmacie, pressing, station essence), à une minute à pied de l’école des Mines. 
+
+Le logement est entièrement meublé et équipé : machine à laver, lave-vaisselle, écrans plats, connexion internet wifi haut débit (fibre), canapé, frigo, congélateur, micro-ondes, plaques induction grand format, bouilloire, machine à café, grille-pain, hotte, kit complet d’ustensiles de cuisine, vaisselle fournie, literie de qualité (matelas à mémoire de forme), aspirateur, planche et fer à repasser, piano… Appartement refait à neuf récemment, il n''y a plus qu''à poser vos valises !
+
+TOUT est à disposition des colocataires et inclus dans les charges : Internet, eau, électricité, TV, ordures ménagères, femme de ménage à hauteur de deux fois par mois pour les pièces communes.
+
+Loyer/Détails : Loyer, charges comprises, de 450 €/mois. Location en direct : pas de frais d’agence. Vous aurez un bail ouvrant droit aux aides, pas de clause de solidarité pour le loyer. Chèque de caution à hauteur de 2 mois de loyer demandé.   
+
+N’hésitez pas à me contacter par messenger si jamais vous êtes intéressés !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Covoit Illumination] x [Gratuit !]
+
+Le Cercle vous proposera des covoits pour aller et revenir de la soirée! 🚘
+Il vous suffit de vous rendre au point de rendez-vous et un membre du Cercle viendra vous chercher !
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Comité Oenologie] x [Résultats du SG] 
+
+ Voici les couples d''œnologues qui vivront une superbe soirée lundi prochain 💞🍷
+
+Massiwa Chabbi & Jean-Nicolas Vailhé 
+
+Eglantine Rouxel & Maelia Duhart 
+
+Julien Rogel & Marius Verdet 
+
+Léo Vasseur & Yann Dufrennes 
+
+Anastasia Hadjadj & Emmanuelle Assailly 
+
+Lucie Leroy & Garance Grandin 
+
+Louis Belmont & Gabriel Miniconi 
+
+Inès Audinot & Romain Carrozzo 
+
+Théo Nicolau & Antoine Joffroy 
+
+Guillaume Brisbois & Marion Labat 
+
+Louise Carrat & Emma Sohm 
+
+Théo Le Duc & Noah Perry 
+
+Gwenaëlle Mirre & Maria-Chiara Peira 
+
+Chinaze Rahhab & Amandine Barreaud 
+
+Lucas Texier & François Roger 
+
+Pour les autres tourtereaux, le SG de la deuxième session de cette dégustation de la Saint-Valentin sera Lundi 26 Février à 13h ⏰ (la dégustation étant le Jeudi 29 Février)
+
+> In Vino Veritas 🍷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : [UberEMA] x [Illumination] x [Karos]
+
+⚡️UberEMA⚡️a enfin percé et décroche son premier sponsor 📈 
+
+Même concept que d’habitude, je fais les trajets aller ou retour pour la soirée, depuis la Meuh ou le centre Ville 🏎️ 
+
+🚨Si t’installes Karos avec le code **ORANGE690 **tu gagnes 6€ sur l’appli et 10 trajets gratuits 💸
+Bonus : je fais 1€ de remise sur ma course si tu l’installes avec moi samedi   
+
+**T’as déjà Karos ?? **😢
+Pas grave ! On met le trajet dans l’appli et je te prend en passager, les 2€ payés par Karos participe à payer la course 😎(Après si t’as plus de trajet offert dans l’app là je peux plus rien pour toi fréro, tu vas devoir monter avec les Emath 🥶) 
+
+**Mais c’est vrai ça le BDE font déjà des trajets gratuits non ? 
+**C’est vrai. Et je sais pas si t’as vu leur emoji c’est aussi un⚡️#plagia  
+Mais en vrai, j’ai des bonbons et pas eux 😉
++ je prend les extés en ville
+
+⚠️ Bonus pour encore plus de trajets : pensez à mettre IMT Mines Alès dans votre lieu de travail sur Karos⚠️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Campagnes BDA] X [Bilan carbone]
+Bonjour à tous,
+Voici le dernier résultat des bilans d’émissions CO2e de ces campagnes ! 🌲
+
+Bravo aux 2 listes qui, avec des résultats sensiblement semblables, se placent en dessous de la moyenne 2023 (4600kgCO2e) ! 
+Avec 4000kgC02e pour les Coup D''Et''Art et 3700kgCO2e pour les Medievart. 
+
+Un grand merci aux deux listes pour leur communication et leurs efforts fournis durant leurs campagnes! 👏
+
+ℹ️ Les campagnes touchent à leur fin on serait intéressé de recevoir vos retours sur les bilans d''émissions ou des propositions quelconques sur des campagnes plus responsables !🍃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Campagnes BDA] x [Comptes de trésorerie] x [Ouverture des votes]
+
+Bonjour à toutes et à tous !
+
+Les votes sont ouverts sur Campus et fermeront lundi 12 février à 00h05 ! 🗳
+Pour voter, c’est par ici 👉: https://campus2.mines-ales.fr/mod/feedback/view.php?id=33586
+
+Voici les comptes de trésorerie des deux listes BDA afin que vous puissiez voter en connaissance de causes. 💸
+Le bilan carbone sera posté très bientôt par le Cercle, nous vous conseillons d’attendre ces données avant de faire votre choix ! 😌🌱
+
+N’oubliez pas, on se retrouve pour les résultats le lundi 12 février à 19h45 au Bât S et pour la soirée PSU le mardi 13 février à 20h45 au Pélousse Paradise ! 🤗
+Prenez vos places par ici 👀 : https://boutique.lyf.eu/bda/psu2024
+
+Artistiquement vôtre,
+Le BDA  🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Anna Bisière; contenu : [Collier perdu]x[svp]
+Salut, hier soir j’ai perdu mon collier préféré dans la meuh…😢
+Il ressemble beaucoup à la photo jointe.
+Si jamais vous le voyez, merci de m’envoyer un message 🫶🏼', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Bastien Saffré; contenu : [Ultras EMA]x[Partenariats]
+
+Bon, il est plus que temps de communiquer sur ça.
+Cela fait maintenant des mois que l’Asso Ultras a des partenariats avec certains clubs professionnels de la région afin que vous puissiez aller voir des matchs à prix réduits.
+Le but : aller supporter des clubs professionnels et vous rendre compte ce que c’est qu’une vraie ambiance dans un stade
+Quand : quand y a des matchs
+Comment : vous m’envoyez un message si y a un match qui vous intéresse et on s’arrange
+Il n’y a pour l’instant pas beaucoup de clubs, mais bon c’est déjà pas mal donc il fallait au moins qu’on le dise. (désolé y a bcp de hand)
+Ultrament votre,
+La fumi-bise', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Le Dindon Attaque; contenu : [SDB Dindon] x [Résultat SG]
+
+GLOUGLOUUUUUUUUUUUUUUUUUUUU 🦃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Victorien Lebas; contenu : Bonsoir !
+
+La Folé 🐣 a retrouvé ce pull dans ses sacs d''alcools
+Je sais pas pourquoi, je sais pas comment mais si c''est à vous envoyez moi un message pour le récupérer
+
+Bisous', 0);

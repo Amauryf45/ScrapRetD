@@ -1,0 +1,125 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist] x [Fin des campagnes]   
+
+Bonsoir à tous les sorciers 🧙  
+
+Les campagnes s’achèvent, on espère que vous vous êtes amusés ✨ 
+
+N’oubliez pas les sorciers au moment des votes 😁 
+
+On vous retrouve bientôt pour de nouveaux tours 🪄 
+
+Magiciennement vôtre, 
+La Poudlist 🧙‍♀️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Mousse; contenu : [DEFI]x[EMA MOUSSE]
+
+Les deux listes se sont retrouvées au local EMA Mousse dimanche soir pour une succulente dégustation de bière artisanale 😋
+
+Au cours de la dégustation les deux listes ont su décrire a la perfection les 4 bières qui étaient proposées. Et cette épreuve a fini à la parfaite égalité. Toutefois un relais cu a permis a nos sorciers et cowboys de se départager. C’est finalement la Lucky List qui remporte ce défi. Bravo à eux 🍻', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louis Blmnt; contenu : [ Défi Cloch''Art ] x [ Résultats ] 
+ 
+Bonsoir à tous, 👋 
+
+Mercredi dernier, les Cloch''Arts avaient mis au défi nos chers listeux d''obéir à la dure loi de la rue. 💥 
+
+Malgré des températures positives, nous sommes au regret de vous annoncer qu''aucun des prétendants n''a passé la nuit au campement. 😔⛺ 
+
+Nous déclarons donc les Cowboys et les Sorciers perdants de ce défi. Pareil pour les fakelistes 🤕 
+
+Bravo quand même pour nous avoir suivi dans cet after de Cloch''Art, on s''est encore une fois rééégalé. 🥳😵‍💫🍻 
+
+#CestRienCestLaRue
+#EnVraiOnEstDéçu 
+#LeBDSGareAVous', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Radio Ding-Dong; contenu : [Radio Ding Dong] x [Défi] x [Résultats]
+
+Heyyy ☺️ 
+
+Le bureau Radio Ding Dong voulait remercier la Poudlist Bde et la Lucky List pour le défi d’avant hier ! 
+
+Nous étions ravis d’apprendre à connaître les listeux (qui ne sont pas arrivés les mains vides) et de les tester à travers les petits jeux que nous leur avions préparés 🤠🧙
+
+Malheureusement, nous n’avons pu les départager, ils remportent donc tous les deux ce défi ! 
+
+Encore merci à eux d’avoir participer ainsi qu’aux invités ! 
+
+Ding Donguement vôtre 🎙.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alexis Senzier; contenu : Oubliez pas le putain de live des magiciens MAINTENANT les poto 🧙‍♂️
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jules Crepy; contenu : Clés retrouvée en pasteur. En haut des escaliers', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : Amphi débat : 🧙 VS  🤠', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : MAJE - Mines Alès Junior Études; contenu : [Défi campagnes BDE MAJE]
+
+Bonjour à tous ! 
+
+Nous avons le plaisir d’annoncer la victoire par forfait de la Poud’list et déplorons que la Lucky List n’ait pas daigné se présenter à l’endroit et à l’heure convenus…. 🙃
+
+Nous remercions la Poudlist pour leur participation et les félicitons pour leur choix de lieux perspicace,
+
+L’équipe MAJE 😉', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Foyer; contenu : [Campagnes BDE]x[Résultat défi Foyer]
+
+Samedi soir nos chers listeux devaient s’affronter au Foyer pour une partie de Code names endiablée….
+
+Mais suite à l’absence des apprentis magiciens de la Poudlist c’est la Lucky List qui a gagné haut la main le défi !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Elise Mange; contenu : [Résultats défi] x [Ultras Ema]
+
+C’est une victoire sans appel pour la Poud’list', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : [MEUH FOLLE 🐮] x [AMPHI BÉNÉVOLES]
+
+Envie de découvrir le festival de la Meuh Folle ? 🐮 Nous vous proposons de rejoindre l''aventure en tant que bénévole les jours J de notre festival ! 🌟 
+
+📅 Rendez-vous MARDI (demain) à 12h50
+📍 AMPHI PASTEUR
+
+La Meuh Folle c''est demain et on lâche rien ! 🐮💛🩵🩷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Dalil Zeamari; contenu : [Défi BDE] x [Les Magiciens] 
+
+Salut l’équipe,  L’association préférée des français revient pour vous proposer le défi préféré des emayens : une mise à mort des deux listes sur la place publique en live, sur Twitch.  Les listeux et fake-listeux sont invités à venir au studio Bat O à 20h40 pour un début du live à 21h. Préparez vos meilleurs 16 mesures pour annihiler la liste adverse, avec dans l’idéal au moins 3 personnes qui posent.  On attend un flow à la PLK, Timal, pas du Grand Corps Malade On veut du Kaaris qui couche Booba, pas du Camille Lelouche A Capella. On veut du Mister You torse nu, du Alpha Wann qui sirote de la canette.  Faites-vous plaisir sur le choix de vos prods, sur vos couplets et vos manières de poser : on apprécie l’originalité, et plus vous êtes mieux c’est, on veut un studio blindé !  À ce soir l’équipe, on vous enverra le lien du live plus tard dans la soirée – Restez dispo.  
+Le bureau ghetto des Magiciens', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Défi]X[BDS]
+
+Pour le défi BDS nous avions préparé un relai sportif pour les listeux ! La course a été très serrée mais c’est finalement les cowboys qui ont remporté la victoire 🏆 
+On a décidé de donner aux gagnants l’opportunité de nous affronter mais nous avons gagné haut la main !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Campagne BDE] X[Résultat défi bar]
+Après avoir ouvert mes portes tôt hier matin à la Poudlist et à la Lucky List, celles-ci se sont montrées vaillantes devant tous les obstacles de cette rude matinée. Il faut cependant élire un vainqueur et c''est la Lucky List qui ressort en tête.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [Défi]X[EMAMIX]
+
+Hier soir se tenait le défi EMAMIX qui consistait en un blindtest tous styles confondus ! Les deux listes ont été au côte à côte durant l’épreuve mais c’est la lucky list qui a réussi à s’imposer, cependant en arrivant avec beaucoup de retard nous avons décidé de donner la victoire aux deux listes !!', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [RESULTATS DÉFI BDE N° 4] X [COM Informatique]
+
+Après une bataille acharnée des listeux derrière leurs claviers et dans diverses activités, c''est finalement la Poudliste qui s''impose dans le défi Com Informatique du Cercle. ⌨️
+
+Il convient cependant de souligner la performance plus qu''honorable de la Lucky List qui n''a pas baissé les bras et s''est battue jusqu''au bout face à un adversaire redoutable. 👏
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [RESULTATS DÉFI BDE N° 1] X [Défi COM Vert] 
+
+Après nous avoir prouvé leur détermination lors d''une montée pinède sportive🚴, nos 3 aspirants com vert ont enchainés les défis en nous faisant part de leur capacité de réflexion et de leur habilité à prendre cul🥂.
+
+Les deux listes ont su se démarquer chacun son tour mais sans arriver à se départager. C''est donc sur une belle égalité que se conclut finalement ce défi Com Vert !🍃
+
+Félicitations à la Poudlist et à la Lucky List pour leurs performances !🏅
+       
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Mtz; contenu : [RESULTATS DÉFI] X [INFRES] X [GAEL WIN] X [MANU LOOSE]
+
+Bon bah pas grand chose a ajouter c''est une victoire pour nos amis cowboy qui était bcp trop volontaire pour notre défi ! 🤠
+Merci quand même aux sorciers le match était un peu serré au début. 🪄
+
+A l''année prochaine pour le meilleur défi des campagnes.
+
+En vrai c''était une dingz ❤️‍🔥
+
+Douchement vôtre, les INFRES XV ! 🚿', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Poudlist Bde; contenu : [Poudlist]X[Petit déjeuner ]
+
+Bonjour à toutes et à tous ! 
+
+Pour ce dernier petit déjeuner, commander ou venez récupérer devant le bat N des bonnes crêpes au nutella ! 🥞
+
+Magiciennement vôtre,
+La Poudlist 🧙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Kewin Bindzi; contenu : [Perte de clefs]
+Bonjour, j''ai perdu mes clefs dans la meuh, possiblement en sdb. Leur seule particularité est un decap Emath. 
+Je suis exté et maintenant véritable SDF.', 0);

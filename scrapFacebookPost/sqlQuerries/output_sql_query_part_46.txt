@@ -1,0 +1,225 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Bonjour à tous! 👋
+
+Comme vous le savez ce dimanche se tiendra le tournoi de spike ball en pinède 🏆
+
+De nombreuses équipes se sont inscrites et nous sommes très heureux de l’engagement et l’engouement généré par ce tournoi.🥳
+Cependant nous ne pourrons malheureusement pas accepter toutes les équipes pour des raisons d’organisation. Le tournoi serait trop long et moins agréable pour tout le monde avec un nombre trop important d’équipes.😢 
+
+Nous avons donc restreint la liste aux 20 premières équipes ayant répondu au forms.Celles-ci ont été ajoutées sur un groupe dédié à l’organisation. 
+
+Nous nous excusons auprès des équipes non sélectionnés et espérons vous voir sur d’autres événements sportif très vite! 🏃
+
+Sportivement votre💪', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Anthony Durand; contenu : [AMERICAN PARTY] x [PHOTOS]  
+
+Here are the photos of the soirée americaine 🇺🇸
+
+xoxo', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [GBA] x [Afterwork 2] 
+
+Venez déguster le deuxième Afterwork au Bât S à partir de 13h 🕺 
+
+C''est ouvert à tous ! Venez vous régaler 😋
+
+Pour ceux qui ont pris leur billet pour le GBA, l''Afterwork est compris, pour les autres c''est 3,5€ + 0,5€ le soft et 1€ la bière 😋
+
+Le GBA 🪩', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Tsiky Zanaka; contenu : [TsikyZanaka]x[PetitDejeunerGBA]
+
+Bonjour à tous 😉
+
+Venez vous régaler demain matin au Bat S. 
+Tsiky Zanaka vous propose un petit déjeuner de 9h à midi 🥰
+Au programme viennoiseries, crêpes, jus, thé et café ☕️🥞🥐
+
+On vous attend nombreux 💪🏼
+
+Tsiky Zanaka 🌍', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [GBA] x [Lancement]
+
+L''heure du commencement du GBA a sonné 🥳!
+
+Pour ceux ayant pris leur billet, rendez vous dès 19h au niveau de l’accueil au bâtiment S afin de récupérer votre welcome pack 🤗(et un petit goodies en plus 👀). Vous pourrez également vous y inscrire!
+
+On vous attend à 19h pour la soirée dansante organisée par Rock et Salsa 💃🕺, pour l''Afterwork et la scène ouverte à 20h30 🤩 
+
+On précise pour ceux qui souhaitent faire le défi bodypainting de venir aussi à l’accueil au bâtiment S afin de tester la peinture sur votre peau 🎨 afin de s’assurer que vous n''ayez aucune réaction😊
+
+Nous vous ajouterons pendant la soirée aux conversations par défi! 🪩 
+Si vous n''êtes pas ajouté d''ici demain, regardez vos spams, contactez-nous ou rendez-vous au village asso 💗
+
+Le GBA 🪩', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1277889002867906/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Billetterie]x[Trophée Orlandini] 
+
+Salut à tous,
+
+Il est temps d’acheter vos places pour le tournoi ! Il y a plusieurs packs possibles, donc faites attention à bien cocher celui qui vous convient !
+
+Les packs contiennent : 
+-3 repas du samedi 🥪
+-Un t-shirt et un ecocup 👕
+-Une paire de chaussettes 🧦 (seulement pour les joueurs)
+-L’accès à la soirée 👯‍♂️
+-Les navettes pour aller à la soirée 🚌
+
+Il est nécessaire que tout les participants soient inscrits avant mardi 3 octobre à 23h59, et vous n’aurez pas accès à la soirée sans prendre un pack !🕙
+
+Voici le lien de la billetterie 💸: https://boutique.lyf.eu/orlandini-2023/billetterie-orlandini-2023-ales
+
+🔥PLACE À LA SURPRISE🔥:
+
+La soirée se déroulera : 🥁🥁À LA CANTINE 🥁🥁
+
+Des navettes seront disponibles toute la nuit pour vous y emmener et rentrer ! On compte d’ailleurs sur vous pour faire attention et ne rien dégrader pour que d’autres événements puissent s’y dérouler 💃.
+
+Ovalement vôtre
+
+🤎Le Trophée Orlandini 🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [GBA] x [Scène ouverte] x [Afterwork 1] 
+
+Ce soir pour l''ouverture du week-end du Grand Bol d''Art 2023 🪩, il y aura la scène ouverte et l''Afterwork au Bat S à partir de 20h30 🤩 
+
+C''est ouvert à tous ! Venez régaler vos yeux et vos ventres 😉
+
+Pour ceux qui ont pris leur billet pour le GBA, l''Afterwork est compris, pour les autres c''est 3,5€ + 0,5€ le soft et 1€ la bière 😋
+
+Le GBA 🪩', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Dégustation œnologique] x [Photos] x [Rappel SG]
+
+Bonjour à tous !
+
+Hier soir s''est tenue la première dégustation œnologique de l''année au cadre idyllique de la terrasse du bâtiment Z 💃
+
+Arrosée de soleil et d''excellents vins, nous avons passé un moment exquis de convivialité et d''amour des bonnes choses 🍷🥖🧀
+
+Nous vous partageons donc les photos de la dégustation (un grand merci à EMA Visual 🤩) pour que vous puissiez avoir un avant-goût de tels soirées ! 
+
+⚠️ **N''oubliez pas le SG de la deuxième session Lundi 2 Octobre à 13h sur notre FB** 🏎
+
+> In Vino Veritas 🍷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [GBA]x[Résultat sg]x[Parking bat S]
+
+Bonjour à tous, voici le résultat du sg pour le n’oubliez pas les paroles. 🎤
+
+On se retrouve donc demain à 19h au bar avec croque-monsieur 🥪. Rien de mieux pour se préparer avant la SDB Années 80 🕺🪩
+
+N’hésitez pas à venir ce soir la première scène ouverte de l’année et au premier AW du GBA ! 🎶
+
+⚠️ On a besoin du parking bat S pour installer la scène il faut donc enlever les voitures du parking dès que possible ⚠️ Merci d’avance !
+
+Artificiellement Vôtre, le BDA 💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Forum Entreprises IMT Mines Alès; contenu : [Forum des entreprises]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Tsiky Zanaka; contenu : [TsikyZanaka]x[NouveauBureau]
+
+Bonsoir à tous 🤪
+
+Cet après midi a eu lieu l’élection du bureau Tsiky Zanaka 2023-2024 ! 
+
+Et ça y est l’heure est arrivée !! Il est enfin temps de vous annoncer les nouveaux membres du bureau Tsiky Zanaka 🥁🥁🥁🥁
+
+🎉 Félicitations à : 
+
+-Présidente : 
+Rebecca Mukengeshayi 
+
+-Vice-Président : 
+Théo Le Duc
+
+-Trésorier : 
+Bastien Delmas 
+
+-Vice-trésorière : 
+Weeame Moutiq
+
+-Secrétaire et responsable communication : 
+Coline Padiolleau
+
+C’est avec émotion qu’on achève notre mandat 🥲
+Merci  pour tout, pour votre soutien et votre confiance tout au long de l’année 💛
+
+On vous fait confiance pour la suite les 174 🫶🏼
+
+Un des derniers posts de Tsiky 173 🥹
+
+Margaux, Élise, Émile, Maëlys & Juliette 👩🏼‍🤝‍👩🏾👩🏻‍🤝‍👨🏼👨🏾‍🤝‍👨🏻', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Thomas Mrn; contenu : [OURS] x [RECRUTEMENT]
+
+Après une année difficile sans aucune victoire, le club des ours est à la recherche d’un capitaine et d’un coach afin de peut-être gagner un match.
+
+Pour postuler, rien de plus simple : il vous suffira de déposer votre candidature à l’adresse e-mail ci-dessous avant dimanche minuit.
+
+capiours@gmail.com
+
+Les ours comptent sur vous !
+
+Cordialement, 
+L’ours', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [GBA] x [N''oubliez pas les paroles] x [SG]
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ines Audinot; contenu : [Trophée Orlandini]x[Accueil]
+
+Afin de pouvoir accueillir les autres écoles, on a besoin de vous ! Il vous suffit de prêter votre appartement le temps d’un week-end et d’aller dormir chez un/une ami(e) 👀
+
+Les personnes hébergées donnent une caution bien entendu, et seront très respectueux ( il n’y a eu aucun soucis l’année dernière ). Il y a juste à ranger un peu ton appart !
+
+On compte sur toi !
+
+https://docs.google.com/forms/d/e/1FAIpQLSdVwBOarkN_2rWhA0kmfovPquUcy7f8nV77MQW-hGtgrjvCTQ/viewform
+
+🤎Le bureau Orlandini 🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : Voici le retour en images de la sbd ultras :
+ https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1276947279628745/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Tsiky Zanaka; contenu : [TsikyZanaka]x[ElectionsNouveauBureau] 
+
+Bonjour à tous 😉
+
+⏰ Demain, jeudi 28 septembre à 16h aura lieu l’élection du nouveau bureau de Tsiky Zanaka, l’association de solidarité internationale de l’école. 
+Elle se tiendra au bâtiment P à la meuh. 
+Vous êtes tous conviés et toutes les personnes présentes sur place pourront voter ! 🗳️
+
+Pour les personnes qui n’ont pas la possibilité d’être sur place, on partagera un live sur ema promo. Pour les personnes absentes qui veulent voter, ce sera possible uniquement si vous êtes connectés sur le live. Il vous suffira de m’envoyer un message en privé (messenger Juliette Dvlv) après les speechs de tous les candidats, je vérifierai. 
+
+On compte sur vous pour venir nombreux ! 💪🏼
+
+⚠️ Merci à toutes les personnes garées au bat P de déplacer leurs voitures avant demain midi 🙏🏼
+
+A demain 🥰
+
+Le bureau Tsiky Zanaka 173, bientôt retraité 🌍', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Noah Perry; contenu : [Résultats SG Sdb Coqs] 🐓', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : TDM - Sur la trace des Mineurs; contenu : [TDM] x [INFOS INSCRIPTIONS]
+
+Salut tout le monde !
+
+Les inscriptions pour le TDM ouvrent ce lundi ! 🤩
+
+Pour vous inscrire, vous avez besoin d’un certificat médical de non contre indication à la pratique du trail ou de la course à pied EN COMPÉTITION.
+⚠️ La licence FFSU n’est pas acceptée.
+
+De plus, la semaine prochaine vous allez recevoir un mail sur votre adresse de l’école contenant un code. Ce code vous permet d’obtenir la réduction pour les cotisants BDE lors de l’inscription (-2€ sur le parcours auquel vous souhaitez participer).
+⚠️ Ce code est nominatif et ne peut être utilisé qu’une seule fois.
+
+Enfin, le TDM est ouvert à tous ! Autrement dit, si vous souhaitez inviter des amis ou des proches c’est possible ! Leur inscription se fera également à partir de lundi 😄
+
+Nous vous expliquerons tout de façon plus détaillée lors de l’amphi TDM de lundi midi 😉
+
+L’équipe du TDM 🏃‍♀️🏃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jean Nicolas Vailhé; contenu : What''s up les Ricains ? 🇺🇸
+You know what ?
+On vous propose un apéro général into une big party ce vendredi 29 septembre 20h30 aux AMAZING Villas
+Le thème : AMERICAAAAAAA 🦅
+On a même pris une tireuse et préparé un bar a shot 💥 Ramenez quand même des drinks pour ne pas être thirsty 🍹
+Les plus grands DJ des states ont cancel Coachella pour venir mixer alors on attend que vous !
+So on récap for your best understanding you know :
+🇺🇸 AMERICAN PARTY 🇺🇸
+📅vendredi 29 septembre📅
+🕗 20h30 🕗
+📍 VILLAS 📍
+Big kiss and see you friday
+Make America drunk again
+xoxo
+
+La fraternité
+🩸x ♠️', 0);

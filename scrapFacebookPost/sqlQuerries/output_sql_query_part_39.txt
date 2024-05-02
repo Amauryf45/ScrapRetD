@@ -1,0 +1,246 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Salut à tous 👋 !
+
+Ce jeudi 9 novembre aura lieu la journée handisport !
+
+Le matin une conférence tenue par M. Vadant aura lieu en amphi pasteur à 10h15 autour de la déficience visuelle 👁️.
+
+L’après-midi nous proposerons du basket fauteuil 🏀 et du tennis de table fauteuil 🏓 au gymnase de l’école. Un stand Tsiky sera mis en place 🥞 !
+
+Pas besoin de SG ou de s’inscrire à l’avance alors pas d’excuses, on espère vous y voir nombreux !
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Le garçon et le héron] x [ Sondage] 
+
+Bonjour à tous,🎞
+
+L''école aimerait offrir des places de cinéma pour aller voir le nouveau film des studio Ghibli: le garçon et le héron. Si vous êtes intéressé.e.s merci de remplir ce forms au plus vite (c''est à titre indicatif):
+
+https://docs.google.com/forms/d/e/1FAIpQLSdk63b951sVDB980pqlwLTL6OHERVZbZ4N585w2EyahajOzgQ/viewform?usp=sf_link 🎬
+
+Nous reviendrons vers vous quand nous saurons le nombre exact de places mises à vôtre disposition. 🙃
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lina Chhang; contenu : Coucou j’avais laissé mes baskets reebok 5 min devant le n40, si la personne qui me les a prises pouvait me les rendre ça serait super cool 😀', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Dégustation] x [Résultats SG]
+
+Bonjour à tous, voici les heureux élus qui participeront à la dégustation du mardi 7 Novembre ✨
+
+Pour la deuxième session, n''oubliez pas le SG vendredi à 13h !
+
+Anthony Durand 
+Chinaze Rahhab
+Louis Belmont 
+Guillaume Doze
+Gabriel Miniconi 
+
+Thomas Marine 
+Marius Ledemé 
+Eglantine Rouxel 
+Laura Sourdiaucourt 
+Lucie Leroy 
+
+Anna Maufront 
+Julie Cabel 
+Maelys Lepas
+Bastien Delmas 
+Adrien Michelot 
+
+Malo Jehanno 
+Manon Sardi 
+Fanny Roberto
+Emma Lunot
+Emerick Biron 
+
+Claire Quidu 
+Heloise Rousselet 
+Pellegrini Saint Lilah 
+Clementine Gaigeot 
+Marion Labat 
+
+Anna Bisière 
+Cedric Sever
+Axel Pasqualini 
+Massiwa Chabbi 
+Lucas Guérin', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jules Savi; contenu : 🐂 [AW] X [TAUREAUX] 🧑‍🍳
+
+C’est le retour des vacances et vous n’avez pas encore eu le temps de faire vos courses ? Les taureaux vous accueillent demain soir à partir de 19h30 pour leur afterwork « Comme au stade ». Venez déguster nos bons hot-dog (option halal et végé) et nos frites maison autour de plein d’activités et d’une tombola !! 🎰 
+Pensez à réserver pour les sports finissants après 22h !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Entr’EMA] x [Recrutement 1A]
+
+Bonjour tout le monde 🍎!
+
+Comme vous avez pu le constater, depuis la rentrée l’épicerie profite à beaucoup d’emayens et vous êtes nombreux à venir nous aider à tenir l’épicerie 😊.
+
+Pour assurer le bon fonctionnement de celle-ci, l’équipe souhaite accueillir de nouveaux membres et les former. Nous proposons donc aux 1A de s’engager auprès de nous et de porter l’épicerie à nos côtés pour, pourquoi pas, faire partie du prochain bureau l’année prochaine 💪.
+
+Nous aurions ainsi besoin de deux personnes afin d''être respo hygiène/local et une personne comme respo Com/Local; 2 postes créés spécialement pour vous permettre de découvrir plus en détail le fonctionnement de l’épicerie.
+
+Pour finir, nous recrutons une à deux personnes pour rejoindre l’équipe Gestion des Stocks et Collecte. Vous pouvez retrouver les fiches de poste détaillées ci-dessous. Vous devrez aussi tous assistez aux réunions du bureau et effectuez des créneaux régulièrement.
+
+Si vous souhaitez ainsi candidater et assurer la continuité de l’association, vous pouvez répondre au form suivant avant ce samedi 11 novembre 2023 🗓️: https://forms.gle/5UhDVndoB5KbRzAv7
+
+⚠️Attention : On ne peut pas candidater pour être respo 1A si on liste bureau restreint BDE ou président.e BDS/BDA. Cela n''est seulement pas conseillé pour les autres VP et trésoriers BDS/BDA. Cependant il sera toujours possible de candidater plus tard dans l''année lors du changement de bureau 😉
+
+Merci à tou.te.s pour votre soutien 🤝
+
+N’hésitez pas à nous poser vos questions !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WES Mines Alès; contenu : [Amphi WES] x [Chèque]
+
+Salut rider 🏂
+
+L’amphi de présentation du meilleur week-end arrive bientôt. La station, l’organisation et les prix y seront dévoilés 🤩
+
+N’oubliez pas de ramener votre chéquier ou un chèque en blanc (merci les darons) pour le chèque de caution qui vous sera demandé dès novembre 💸
+
+Le WES vous caresse ☃️🐻', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Comité Oenologie] x [Nouvelles dégustations 🥳]
+
+Salut les bons vivants !
+
+On espère que vous passez de belles vacances arrosées 🍷 tandis que nous vous annonçons la 2ème dégustation de l’année : elles auront lieu le **mardi 7 novembre** (mardi de la rentrée) et le **mardi 14 novembre** ✨
+
+Le **shotgun** de la première session aura lieu ce **dimanche 5 novembre à 19h** et celui de la deuxième session **vendredi 10 novembre à 13h**, toujours sur la page FB du Comité ⏰
+
+ ⚠️ Nous avons eu affaire à de nombreux désistements lors du dernier SG, et ce n’est pas un plaisir de devoir gérer les indisponibilités des uns et des autres. Nous vous demandons donc de bien vérifier vos emplois du temps (partiels, matchs, etc …) avant de SG  ⚠️
+
+À dimanche pour le SG ! 
+
+> 🍷 satireV oniV nI', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Faysal El-Aziz; contenu : 🔥 Sentez la puissance du Taekwondo à l''EMA ! 🔥
+
+Chers camarades et passionnés,
+
+Je suis ravi de vous annoncer l''ouverture du club de Taekwondo au sein de l''EMA 🥋. Que vous soyez débutant ou pratiquant confirmé, cette discipline millénaire coréenne saura vous satisfaire 💪🏽.
+
+Saisissez cette occasion unique d''appréhender de nouvelles technique de combat et de développer votre souplesse🥊.
+
+📍Les entraînements auront lieu dans un dojo aux alentours d''Alès (~ 10min en voiture, on s''organisera en covoiturage).
+
+📆 Dès la rentrée, et en fonction des motivés, les Mardi, Jeudi et Vendredi.
+
+⏳ Je vous confirmerai lieux et horaires precise d''entraînement à la rentrée de la Toussain.
+
+📝 Enfin si le Taekwondo vous intéresse, n''hesitez pas à remplir ce forms.
+
+https://forms.gle/4czquEHcR6zcHV1w6
+
+Sportivement,
+Faysal El-Aziz.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : MAJE - Mines Alès Junior Études; contenu : Bonjour à tous ! 👋 
+
+MAJE organise, dans le cadre de la semaine Créativ’, l’événement I’MAJE’ine le jeudi 16 novembre de 14h à 20h à l’Incubateur de l’école (HUB Créativité).  
+
+Un après-midi d’ateliers en groupe autour de 4 sujets proposés par des enseignants-chercheurs. Une occasion parfaite si tu veux te lancer dans l’entreprenariat mais que tu manques d''idées de projet ! 💡 
+
+Sujet 1 : Conception d’une housse de protection motorisée anti-grêle pour voiture 🚗Des orages avec des grêlons de taille conséquente sont de plus en plus fréquents. L’enjeu est d’imaginer des dispositifs de protection à la grêle pour les véhicules.   
+
+Sujet 2 : Motorisation d‘orthèses de membres supérieurs 🦾Répondre aux besoins spécifiques des personnes handicapées, par cette étude axée mécatronique, ayant pour objectif de concevoir, motoriser et choisir les matériaux adaptés à une prothèse d’un membre supérieur.  
+
+Sujet 3 : Conception de prothèses de membres supérieurs 🦿De nos jours, la réalisation des prothèses s’appuie sur l’industrie pétrochimique. L’objectif est ici de trouver des alternatives afin de concevoir une prothèse éco-responsable en choisissant les matériaux adaptés.  
+
+Sujet 4 : Application mobile de gestion de karaoké avec I.A. 🎤Pour choisir une chanson lors de karaoké, il faut encore utiliser un bout de papier et un stylo. L’objectif est d''imaginer une application basée sur l’I.A. afin d’améliorer l’ambiance et l’expérience utilisateur lors de soirées de karaoké.   
+
+L’un de ces sujets t’intéresse ? 🔥
+
+Alors inscris-toi dès maintenant !  Lien du forms : [https://forms.gle/W4Pr8U2GPyJ2wAKk8](https://forms.gle/W4Pr8U2GPyJ2wAKk8?fbclid=IwAR1HLjMoCOzVda_oZIva7v4Z1fzCgeZIrONPG3Y-4BtHUpDKIi7QfjnMrXs)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Ouverture Billetterie] X [Gala]
+
+Bonjour à tous!
+
+La billetterie pour le 96ème Gala d''IMT Mines Alès est maintenant ouverte pour tous les emayens🤩
+
+Pour prendre sa place, c''est par ici 😁 : https://gala-mines-ales.fr/billetterie
+
+Pour réserver ses boissons, c''est par là 😉: https://gala-mines-ales.fr/boutique
+
+Pour toute question, rendez-vous sur la page Facebook du Gala 😊
+
+Vénitiennement vôtre, 
+Le 96ème Gala🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Loïc Muller; contenu : [LETTRE OUVERTE] x [EMAMIX]
+
+Cher VIIème Bureau Emamix,
+
+Étant un grand amateur de SDB et des soirées de l''EMA en général, je me permets d''émettre une proposition afin d''améliorer l''ambiance en SDB. En effet, les musiques "Boum-Boum" à partir de 0h30-1h me semble programmées un peu tôt, les SDB commençant à 23h et se finissant à 2h sont quelques peu différentes des grosses soirées finissant à 5h où ce type de musiques est plus adapté. Je ne pense pas être le seul à le penser, serait-il possible de réfléchir à retarder ces types de musiques (dans la dernière demi-heure ?) au profit de musiques plus chantantes/dansantes.
+
+Merci de nous ambiancer chaque semaine toujours avec autant de motivation.
+
+(Ce message rédigé sans ChatGpt a pour vocation d''être constructif)
+
+PS: J''ai peut-être tort 
+Sincèrement,
+Loïc & co', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Com Musique] x [Nouveau Piano]
+
+Bonjour à tous 👋
+
+Comme vous l’avez peut-être déjà vu, le piano blanc qui était dans la salle de musique à la Meuh a été déplacé et installé dans le hall Pasteur 🎹
+
+Il est mis à disposition de tous ! Vous pourrez jouer pendant les pauses et peu importe votre niveau tout le monde peut en profiter 🥰
+
+On compte sur vous pour prendre soin de ce beau piano et de ne pas jouer pendant les horaires de cours 🤗
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Marco Moreau; contenu : À la recherche de lunettes jaunes emaths, valeur sentimentale 😢🥺', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gael Tuc; contenu : Perdu hier en SDB. Ca ferait tres plaisir de le revoir', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Marius Ledemé; contenu : Perdu hier soir en sdb donc si vous les avez trouvé je suis grand preneur', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Theo Johnstone; contenu : Les gars vous avez trouvé des clés de voiture volkswagen en sdb ?', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : Voici la line Up pour la SDB de ce soir 🔥
+
+Pour votre plus grand plaisir … 😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ema''it; contenu : [EMA’IT] X [Réseau Wifi_mde]
+
+Bonjour à tous, comme spécifié dans notre post du 2 octobre, il ne vous reste plus que 5 jours pour accéder au réseau « wifi_mde » avant que le lien que nous vous avons envoyé afin de créer votre mot de passe expire, passer ce délai, il ne sera plus possible de s’y connecter. ❌
+
+Nous vous encourageons donc à essayer de vous y connecter au plus vite si ce n’est pas déjà fait. ✅ 
+
+Si vous rencontrez des problèmes pour vous connecter au réseau, envoyez-nous un message sur la page EMA’IT ou à l’adresse support@emait.fr. 📲', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : Bonjour à tous ,
+
+Nous souhaitons mettre au clair certains points concernant Entr’EMA.
+
+Tout d’abord, nous souhaitons rappeler qu’Entr’EMA est une épicerie solidaire 🤝, qui a pour but d’aider un maximum de personne en vendant des produits à prix réduits afin de lutter contre la précarité étudiante. Nous avons, à notre plus grand regret, constaté que certains semblent attendre toujours plus d’Entr’EMA en manquant de considération face au travail des bénévoles.
+
+Il y a deux semaines, a eu lieu notre AW et nous sommes heureux de son succès 😊. Il avait pour but de faire connaître notre association et de promouvoir nos valeurs . Nous avons tenu à mettre notre repas à bas prix 💰 (sans que nous fassions de marge), afin qu’il soit accessible au plus grand nombre, conformément aux valeurs d’entr’EMA. Cependant, nous avons eu ouïe de rumeurs concernant la provenance des produits utilisés. Certes, Entr’EMA travaille avec la Banque alimentaire (BA) et lutte contre le gaspillage en proposant des produits en date courte, mais les produits utilisés à l’AW ont été achetés en supermarché avec nos fonds propres, et n’étaient donc pas périmés.
+
+De plus, nous avons reçus des commentaires jugés inappropriés dans les réponses du form : prendre plusieurs AW (justifié par son bas prix) ou des commentaires demandant des portions plus importantes que celle servie, ce que nous avons trouvé irrespectueux.
+
+Le deuxième point que nous voulions aborder est le respect de l’épicerie et des bénévoles 😇. Entr’EMA est une association dont les membres donnent de leur temps gratuitement (comme toutes les assos et clubs de l’EMA).
+
+Nous avons constaté un non respect des consignes, notamment sur les quotas sur les produits (œufs, lait, pâtes…). Nous rappelons que nous sommes une épicerie solidaire et non un « supermarché », il convient donc de rester raisonnable sur la quantité des produits achetés. Nous n’appliquons pas systématiquement de restrictions sur tous les produits de l’épicerie mais il est anormal de se présenter avec une dizaine d’articles du même type (sauf fruits et légumes). Il faut donc que chacun.e fasse preuve de bon sens et d’altruisme : l’épicerie doit profiter au plus grand nombre (et pas qu’au 20 premiers qui passent…).
+
+Aussi, la limite de personnes dans l’épicerie (5 personnes max) n’est pas souvent respectée, en dépit de nos nombreux rappels lors des créneaux pour faire respecter cette règle 😔…
+
+Concernant notre local, nous avons fait installer un porche, afin d’être protégé du soleil ☀️ ou de la pluie 🌧️ lors de la queue. Il n’a donc pas vocation à protéger les vélos, nous vous demandons donc de ne plus les accrocher en dessous 🙏.
+
+Nous avons aussi constaté que certains se permettent de gruger la queue: certes la file est longue, nous n’y pouvons rien; les bénévoles faisant de leur mieux pour être les plus efficaces à la caisse; mais respectez les autres et ceux qui étaient déjà là en faisant la queue 👥.
+
+Enfin, concernant les AW, nous avons fait don de notre ancien congélateur au BDE qui l’a placé en sdb. Nous rappelons aussi qu’il est impossible de faire ses courses à Entr’EMA pour un AW à deux exceptions près. Le club nous emprunte des denrées, mais nous rachète l’équivalent avant le créneau suivant (de la même gamme de prix) ou bien nous avons un sur stock de denrées périssables.
+
+Nous remercions également tous les clubs qui ont fait don de leur restes de denrées à l’issue des AW et nous souhaitons encourager cette démarche 😊 !
+
+Enfin, concernant les stocks nous ne choisissons pas ce que nous recevons de la BA. Aujourd’hui, beaucoup d’associations caritatives sont en difficultés, et nous faisons au mieux pour aider le plus grand nombre.
+
+Cette mise au point nous semblait primordiale mais nous sommes heureux de voir qu’Entr’EMA est une association utile pour les étudiants de l’EMA !
+
+Le bureau d’Entr’EMA 🍎
+
+🇬🇧 English below ⬇️
+
+Hi everyone, 
+
+We would like to clarify a few points about Entr''EMA and remind you that Entr''EMA is a solidarity grocery 🤝, in the aim to help as many people as possible by selling products at reduced prices in order to fight against student poverty. To our great regret, we have noticed that some people seem to be expecting more and more from Entr''EMA, with a lack of consideration for the work of the volunteers.
+
+The first point is about respecting the grocery store and the volunteers 😇. Entr''EMA is an association whose members give their time to manage the grocery (like all EMA''s associations and clubs). We have noticed a lack of respect for instructions, particularly concerning quotas on products (eggs, milk, pasta, etc.). We would like to remind you that we are a solidarity grocery store and not a "supermarket". The association want to help the students in need. So, the quantity of products you buy should be reasonable. We don''t systematically apply restrictions on products, but it isn''t normal to show up with ten items of the same type (except fruit and vegetables). Everyone should show altruism : the grocery store should benefit as many people as possible (and not just the first 20 who come through...). Also, the limit of people in the grocery store (5 people maximum) is often not respected, despite our numerous reminders during slots to enforce this rule 😔...
+
+Then, we have installed a porch to protect our premises from the sun ☀️ or the rain 🌧️ for the people wainting outside. (It is not intended to protect bicycles, so please do not hang them underneath.) 
+We''ve also noticed that some people take the liberty of cutting in line: of course the queue is often long, and the volunteers do their best to be the most efficient at the checkout; so please respect others and those who were already there wainting 👥.
+Regarding stock we don''t choose what we receive from the food bank. Today, many charities are in difficulty, and we do our best to help as many as possible.
+
+Finally, two weeks ago, our AfterWork took place, and we are delighted with its success😊. Its aim was to raise awareness of our association and promote our values. We have insisted on putting our meal at a reduced price 💰, so that it would be accessible to as many people as possible, in line with Entr''EMA''s values. We also remind that international students are always welcome to participate to Entr''EMA''s events.
+
+This clarification seemed essential for us, but we''re happy to see that Entr''EMA is a useful association for EMA students!
+
+The Entr''EMA office 🍎', 0);

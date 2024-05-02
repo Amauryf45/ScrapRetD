@@ -1,0 +1,277 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Noël du Cercle ⭕❄️]x[SDB de Noël 🎉]
+
+Bonjour à tous !
+
+Ce samedi le Cercle organise la SDB de Noël !
+Le thème ? Noël !
+De la bière meduz blonde triple A et un cocktail champagne cranberry vous seront servis 🍹🥂
+
+Déguisés en père Noël, en lutin, en bonhomme de neige ou d’autre encore, venez faire la fête de 00h à 04h00 🥳
+Le SG sera jeudi à 13h00 sur EMA Promo. Soyez prêts !
+
+Circulairement vôtre ⭕🎄', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : English below 🇬🇧⬇️
+
+Bonjour à toutes et à tous ❄️ !
+
+Les vacances de Noël approche à grands pas, et nous savons que certains d’entre vous restent à Alès. Nous avons décidé de mettre en place un « panier de Noël » 🎄, un colis s’adressant aux étudiants qui restent à Alès durant ces vacances et qui sont dans le besoin (on compte sur votre bonne foi). 
+
+En effet, l’épicerie sera fermée durant les deux semaines de vacances, ainsi ces paniers permettront de pallier cette absence d’ouverture. 
+
+Le prix de ce colis sera  de 6 euros💰, un prix moindre par rapport à la valeur réelle du panier 🛒. 
+
+Ce panier contiendra des féculents, de la viande, des produits laitiers ainsi que de l’épicerie sucrée. Aucun de ces produits ne sera périmé.
+
+Afin de bénéficier de ce panier de Noël (réservé aux adhérents d’Entr’EMA), il faut que vous remplissiez le form ci-joint: https://docs.google.com/forms/d/e/1FAIpQLScxKSQsLOR7sX-WLSc_tL_9jCPvX7d6Zcrlc9p-_xS5B9j0ig/viewform?usp=pp_url
+
+🗓️ Le colis sera à récupérer et à payer à l’épicerie jeudi prochain, entre 16h30 et 18h (en se munissant d’un sac). Toute personne ne se présentant pas et ayant commandé un panier se verra débité son prix sur son solde. 
+
+Si toutefois vous êtes en trop grande difficulté financière pour payer ce panier, contactez Léna Connesson.
+
+⚠️ Deadline pour remplir le form : samedi 16/12 à 11h
+
+Hello everyone ❄️!
+
+The Christmas holidays are approaching, and we know that some of you are staying in Alès. We''ve decided to create a "Christmas pack" 🎄, a package for students who are staying in Alès during these vacations and are in need (we''re counting on your good faith). The grocery store will be closed during the two-week vacation period, so these packs will help the students for this period. 
+
+The price of this package will be 6 euros💰, a lower price than the actual value of it 🛒. 
+
+This pack will contain starchy foods, meat, dairy products and sweet groceries. None of these products will be out of date.
+To benefit from this Christmas pack (reserved for Entr''EMA members), please fill in the attached form.
+
+🗓️ The package has to be collected and paid for at the grocery store next Thursday, between 4.30pm and 6pm (please bring a bag). No-shows who have ordered a pack will have the price deducted from their account. 
+
+However, if you are in serious financial difficulty to pay for the pack, please contact Léna Connesson.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Théo Nicolau; contenu : [Soirée villas]x[3e édition 🇲🇽]
+
+Holà Emayanos ! ¿ Qué tal ?
+
+Un jour, un grand sage a dit : 
+《 Jamais deux sans trois 》
+
+Après deux soirées endiablées aux USA 🇺🇸 et Brésil 🇧🇷 nous vous proposons un nouveau voyage vers des contrées lointaines et festives ...
+
+Ce vendredi, après avoir dégusté l''AW du BDE devant la scène ouverte du BDA et pour rester dans le thème de Noël 🎅 direction les villas pour :
+
+🇲🇽 LA MEXICAN FIESTA 🇲🇽 
+
+Vous connaissez la recette :
+
+Tireuse de cerveza 🍻, bar à shots 💥 cocktails 🍹 et DJ Sets muy caliente 💃🕺
+
+Para saber todo : 
+
+🇲🇽 MEXICAN FIESTA 🇲🇽
+📅Vendredi 15 décembre📅
+🕗 À partir de 21h 🕗
+📍 VILLAS 📍
+
+Muchos besos 🥰
+Guacamole 🥑 y fajitas 🌮
+Que se paso ? Old el paso ? No no jose
+🩸x♠️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Partenariats]
+
+Bonjour à tous, 
+Le livret des partenaires du Cercle a été mis à jour dans le post épinglé, on vous invite à y jeter un œil ! 📖
+Vous pouvez aussi passer directement par ce lien : https://heyzine.com/flip-book/eb23738d95.html
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Tsiky Zanaka; contenu : [AWTacos]x[Tsikyyy]
+
+Tsiky revient pour vous régaler une deuxième fois avec un AW tacos 🌮 🍟 le lundi 18 décembre!
+
+On compte sur vous pour venir nombreux, tout l’argent récolté servira au financement de notre projet 😉.
+
+Je vous laisse réserver sur le forms, on veut pas de gâchis donc ⚠️ pas de réservation, pas de tacos !⚠️ Vous avez jusqu’à samedi 12h00!
+
+https://forms.gle/2y7SU1UGjXzPvYJU6
+
+Tsiky Zanaka 🌍', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Résultat SG]x[AW Gratuit]
+
+Bonsoir !
+
+Les résultats du SG pour l’AW gratuit sont disponibles.
+
+Bravo à ceux qui vont pouvoir profiter du festin !
+
+Circulairement vôtre ⭕🎄', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Orlandini]x[Élections du bureau 2024]
+
+Bonjour à tous !
+
+Il est maintenant l’heure pour nous de baisser le rideau et de laisser la place au futur bureau de la 16ème édition du Trophée Orlandini 🥺
+
+Chers 1A, nous vous invitons à candidater pour ce somptueux bureau en envoyant une vidéo de présentation sur la page Instagram ou Facebook. Nous sélectionnerons les meilleures pour l’élection qui se fera en Amphi Pasteur. Vous avez jusqu’au 8 janvier !
+
+Cette aventure est vraiment incroyable et unique, alors n’hésitez pas !🤎
+
+Ovalistiquement 
+
+🤎🤎Le bureau de la 15ème édition du Trophée Orlandini🤎🤎
+
+PS : Vous pouvez lister et candidater 
+PSS: dites pour quel poste vous candidatez dans votre vidéo 
+PSSS: Si vous avez des questions n’hésitez pas à nous envoyer un message !
+
+#orlanfini
+#orlanbibisemi', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Campagnes] X [Matière première]
+Cher listeux, listeuses
+
+L''écheance des campagne arrive à grands pas et on vous sait pleinement engagés dans vos préparatifs. 👀
+
+Nous vous proposons une commande groupée d''oeufs bio locaux (quissac) à un tarif plus que compétitif allant de 0,35€ à 0,26€ l''unité !💰
+
+Le tarif dépendra de la quantité commandé cummulé de toutes les listes, si vous jouez tous le jeu on devrait facilement obtenir le prix le plus bas possible. 📉🤑
+
+Voici le forms pour cette pré-commande avec toutes les informations importantes. 📋
+
+https://docs.google.com/forms/d/e/1FAIpQLScFBUWEgY2tClRdUJZ3Kzq4L_sNhU6Cyt1HQujfWg-74Py9_Q/viewform?usp=sf_link
+
+Cette initiative fait partie de de notre engagement pour des campagnes plus responsables, en commandant chez un producteur local vous participez à l''économie circulaire de notre région 🔄️ et cela vous coutera sûrement moins cher qu''en magasin !✅
+
+On compte sur vous et on attend avec impatience le début de ces campagnes !
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : https://forms.gle/om47XA3ywWQ5ZNR18', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Sortie Cratère] x [Rave Lucid] x [Spectacle de danse] 
+
+Bonjour tout le monde 👋, 
+
+Vous n''avez pas pu prendre votre train pour le jeudi 21 décembre et vous voulez vous changer les idées après les missions et les partiels ?
+Des danseurs de renommée internationale (certains sont champions du monde 🤯) passeront au Cratère d''Alès pour réaliser une chorégraphie de hip-hop, d''électro, de house et de popping 🤩. Avec son côté dynamique, la représentation vous propulsera dans le monde explosif des battles de danse 💥.
+Le BDA vous propose alors comme dernière sortie de l''année d''y assister 🤗. 
+
+📅: Jeudi 21 Décembre à 19h 
+📍: Cratère (Centre-ville d''Alès)
+⏳: 1h30
+💸: 3€ pour les cotisants BDA (contre 11€ initialement 😎)
+🎟: https://boutique.lyf.eu/bda/sortie-cratere-rave-lucid-bda 
+
+⚠️ Fermeture de la billetterie le mardi 19 décembre à 14h ⚠️
+(À partir de lundi après-midi, les places restantes de la billetterie pourront ne plus être disponibles) 
+
+Après la représentation, si l''envie vous prend, vous pourrez participer gratuitement à une soirée DJ 🎧🎶 (une où des danseurs pourront vous apprendre des pas de danse et une autre qui vous fera voyager dans les années 60/70).
+Pour plus de détails ☺️ : https://lecratere.fr/spectacle/perception-rave-lucid/ 
+
+Quelques jours avant, nous créerons une conversation pour organiser les covoiturages 🚗 
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Soirée bowling 🎳]
+
+Quoi de mieux en cette période qu''une partie de bowling ?
+
+Jeudi on vous propose une nouvelle soirée bowling ! Pour y participer que faut il ? Sa carte étudiante et... c''est tout !🪪
+Viens avec ton groupe à partir de 18h pour profiter de 2 parties pour seulement 10€ par personne!🎟
+Les dernières entrées se feront à 22h30 🕐
+
+On vous attend nombreux !
+Sportivement votre 💪', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Noël du Cercle ⭕🎄]x[AW Gratuit !!!]x[SG Mardi 13h00 🕐]
+
+Bonjour à tous !
+
+Comme vous le savez, à l’occasion du Noël du Cercle, nous vous offrons un AW GRATUIT vendredi soir.
+Pour en profiter, il faut faire le SG qui aura lieu Mardi à 13h00 sur EMA Promo ! Le nombre de place est limité à 250 personnes.
+
+Au menu : Bouchée à la reine saveur mozzarella, Rôti de porc (ou rostis) sauce champignon avec poêlée de légumes et roulés au nutella !
+
+Circulairement vôtre ⭕🧑‍🎄', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Anna Bisière; contenu : [EMA’TOUT]x[Nouvelle asso]
+🃏Salut les joueurs de cartes🃏
+Une association de tarot, belote et contrée va sûrement ouvrir ses portes à l’EMA.🫢🫢
+Il vous manquait une occasion de vous retrouver pour jouer aux cartes ? ♣️
+Vous souhaitez affronter les meilleurs joueurs de la meuh? 🏅
+
+Alors n’attendez plus et répondez à ce Google forms 🙃🙃
+On proposera des initiations, des rencontres, des tournois… 🎁🎁
+
+https://docs.google.com/forms/d/e/1FAIpQLSciGQ1-KRVUYMI3s22XirJw68kI8UoiBcIOBvebfZhbJVOtFw/viewform?usp=sf_link', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : Bonjour à tous, le jeudi 14 décembre l’Institut Océane organise une journée spéciale. ✨
+De 14h à 18h il y a -20% sur les épilations (excepté sourcils et lèvre) et les soins du visage simples sont à 35 euros au lieu de 50 euros ! 💆‍♀️
+Réservez votre créneau : 
+📞 0661358351 ou sur Planity 
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : Bonjour à tous 👋,
+
+La week-end prochain c’est le Noël du cercle ⭕️🎄!
+Et qui dit Noël 🎅, dit scène ouverte de Noël du BDA 🌟🎤
+Que vous chantez, dansez, jouez d’un instrument, jonglez, faites de la magie ou encore des blagues, inscrivez-vous dès maintenant 👀 : https://forms.gle/fFi7mnGdTALNpxut5
+
+La scène ouverte de Noël aura lieu vendredi 15 décembre à 20h en SDB 🧑‍🎄
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Bar] x [Défi]
+
+Nos chers bureaux bientôt les 1A se battront pour prendre votre place. On espère une lutte acharnée et de belles campagnes 🔥
+
+Mais vous êtes toujours en activité, le bar veut vous tester. C’est pourquoi 3 de ces éléments inconditionnels vous attendent pour un grand défi 🗡️
+
+Les bureaux doivent travailler ensemble pour la vie emayennes, nous allons tester vos liens. Chaque bureau aura son importance. Le défi sera aussi bien culturel, sportif et artistique et bien sûr soyez prêts à boire 🫡
+
+Tout le monde est le bienvenu pour soutenir soit le bar ou bien les bureaux, choisissez bien votre équipe, pour votre information les barmans sont jamais battus sur leur terre 🍻
+
+BDE, BDS, BDA ou plutôt Grecs,Pirates et Artificiers seraient vous prêt à relever le défi du bar ? 🫵
+
+Parce que oui vous serez plus les bureaux mais bien vos listes respectives, montrez nous que vous méritez vos bureaux ⭕️🏆🎨
+
+Cordialement 
+
+Le bar', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Charlotte Houzé; contenu : Coucou ceux qui ont pris cette table pitié ramenez là devant le B23 😭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Dégustation de Noël] x [Résultats SG]
+
+Mazette vous avez EXPLOSÉ 🤯 le record de vitesse de SG qui est désormais de ... 🥁🥁🥁 4 SECONDES 🏎
+
+Voici la liste des heureux élus qui iront fêter Noël mardi prochain 🍷 :
+
+Emma Lunot
+Cyprien Vial
+Chloé Cruvellier
+Laura Sourdiaucourt
+Paul Daran
+
+Elie Pouponnot 
+Lucie Leroy 
+Paulin Zumstein 
+Théo Imren 
+Thomas Bacquet 
+
+Gabriel Miniconi 
+Jaden Adamczak 
+Adrien Michelot
+Léo Vasseur 
+Alexis Senzier 
+
+Léna Farthouat 
+Simon Chapelet 
+Dénia Hernandez Zga 
+Marion Riveaux 
+Aliénor De Bayser 
+
+Pierre Pellicia 
+Nils Domenge 
+Marie Hamant 🥳🎉
+Anastasia Hadjadj 
+Nathan Derre 
+
+Amaury Ung 
+Louis Belmont 
+Anne Faury 
+Charlotte Tholosan 
+Anna Maufront 
+
+N''oubliez pas le SG de la deuxième dégustation vendredi prochain à 13h ⏰', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Marie Mantel Suire; contenu : Un telephone a été trouvé entre le bat F et le bat L. Si vous souhaitez le récupérer contactez Antoine Trc', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Eva Quertigniez; contenu : [perdu]x[téléphone]
+
+hello!
+
+Je pense avoir perdu mon téléphone, un samsung galaxy s10 de taillle normale et de couleur nacrée avec une coque intégrale. Si vous le trouvez par pitié contactez moi!!!!
+
+Merciiiiii!', 0);

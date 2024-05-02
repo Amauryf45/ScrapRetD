@@ -1,0 +1,247 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Clarification lettre ouverte] 
+🇬🇧English Below 🇬🇧
+
+Bonjour à tous,
+
+Le message publié hier sur cette page nous attriste beaucoup, nous sommes conscients des problèmes qu’il y a dans la communication et l’intégration des internationaux et nous essayons d’être à l’écoute et impliqués sur ce sujet. Malgré les défauts du fonctionnement actuel, nous sommes très déçus de la réaction face au travail d’un des membres du BDE. Nous souhaitons revenir sur plusieurs points qui ont été soulevés, c’est pourquoi notre réponse est adressée directement aux internationaux. 
+
+Comme beaucoup d’entre vous le savent, l’école propose chaque année un poste rémunéré à la DAI pour aider à l’intégration des internationaux. Nous ne remettons pas en cause le travail de Clément Genot, qui s’est investi même au delà de ce pourquoi l’école l’engage, mais c’est bien cette personne qui doit aider et accompagner les internationaux sur toutes leurs démarches administratives. Nous voulions y mettre un membre de la Com Internationaux pour que le lien soit plus rapide entre vous et le BDE. Ce rôle devait initialement être assuré par Ouarda qui, malheureusement et pour raisons personnelles, n’a pas pu le faire. Cela n’a pas aidé pour la transition dès le début de l’année scolaire, on le reconnaît. 
+
+En ce qui concerne votre arrivée à Alès, l’école, pour des raisons de confidentialité qui lui sont propres, ne peut pas donner les noms des étudiants internationaux (tout comme elle ne donne pas la liste des étudiants FIG et FIA). Cette mesure nous handicape énormément pour l’intégration en début d’année et nous nous retrouvons en grande difficulté pour recenser l’ensemble des étudiants internationaux.
+
+D’autre part, cette année a vu le lancement, ou plutôt le RE-lancement, de l’association AIMA. Malgré l’envie de travailler avec eux à la rentrée, nos demandes de prise de contact n’ont jamais abouties. C’est même une mise à l’écart de notre Com Internationaux Coline qui s’est fait ressentir.
+
+De même, nous avons récemment appris l’existence d’un groupe Whatsapp réunissant tous les internationaux avec de nombreux responsables internationaux mais dont la présence de Coline n’avait pas été jugée nécessaire malgré son engagement. La création d’un tel groupe en début d’année était impossible étant donnée que, pour les raisons exprimées plus haut, nous n’avions pas accès aux contacts des internationaux avant leur arrivée à l’EMA.
+
+Nous tenons à souligner et mettre en avant le travail de Coline qui a assuré son rôle tout au long de l’année. N’oublions pas que, comme Héloïse l’année dernière, Coline a organisé la récupération de nombreux appareils électroménagers comme des frigos, des micro-ondes, mais aussi du mobilier comme des couverts et assiettes pour ensuite les redistribuer aux Internationaux. Elle a également tenu ses promesses en organisant des rencontres autour de goûters, non pas pour donner un sens à sa Com mais pour continuer son travail de cohésion, apprendre à vous connaître et échanger sur vos remarques, vos idées et vos problèmes. Trop souvent,  le travail de Coline s’est confronté à un manque de retours. Plusieurs de ses rendez-vous de récupération d’électroménager se sont soldés par une absence de receveur au moment du rendez-vous et, malgré l’implication dont elle a fait preuve, il est difficile d’établir un contact quand il n’y a pas de réponses en face, ni sur le groupe Messenger. 
+
+Quelles sont les solutions à mettre en place rapidement ? 
+
+Nous pouvons dans un premier temps faire une rencontre BDE/Internationaux sous peu pour que vous nous exprimiez vos remarques et vos idées. Cela permettra de réfléchir ensemble de sorte que vous puissiez apprécier pleinement votre vie étudiante à Alès et que nous ayons les clefs pour préparer au mieux la prochaine rentrée des nouveaux arrivants.
+
+Une discussion avec l’école semble également nécessaire, discussion qui peut être entamée lors du prochain collège de la vie étudiante et du campus le 1er février.
+
+Nous condamnons fermement les mises à l’écart et les propos racistes. N’hésitez pas à venir nous en parler, nous vous écouterons en toute discrétion et pourrons mener des actions concrètes contre ce type de comportement.
+
+Notre dernière remarque concerne l’incitation au vote pour une liste qui est interdit après la période de campagne étant donné qu’ils ont l’interdiction de répondre. Nous pensons en tant que BDE que les deux Com Internationaux des deux listes ont pris conscience des enjeux vous touchant, ce qui est souligné par la présence de promesses en ce sens de chaque côté. Il sera de notre devoir sur les 3 derniers mois de notre mandat de les former et de réfléchir ensemble au renouveau.
+
+Circulairement vôtre ⭕️
+
+🇬🇧 English version🇬🇧
+
+[Explanations about the inclusion of foreigners] 
+
+Hello everyone,
+
+The message posted here yesterday saddens us greatly. We are aware of the existing issues in communication and in the integration of foreign students. We are listening and working on this matter. Despite the current malfunctions, we are disappointed of the answer given to the work put out by members of the students office. We would like to react to several mentioned points that’s why this message adress directly foreigners.
+
+As many of you might know, the school offers a paid position at the Direction of International Action to work on hosting foreign students. We do not put to question the work of Clément Genot, who comitted himself beyond what he was initially hired to, but it is that person’s task to help the foreign students complete their administrative filings. We wanted to have a member of the International Comission of the students office in this position so that the link between the students office and the foreigners would be greater. This position was to be taken by Ouarda, who for personal reasons, could not. We acknowledge that this did not help the transition into the beginning of the school year.
+
+As for your arrival in Alès, the school will not, for confidentiality reasons, share to us the names of foreign students, just like for the generalists and the alternating students. This choice turns out to be a big hurdle for us in the beginning of the year regarding the census of foreign students and their integration.
+
+This year also saw the rebirth of the AIMA (Association for Foreigners of the Alès Mines). Despite our wish to work with them since the beginning of the year, our attempts to establish contact never bore success. It even felt as though Coline, our International manager, was being left out.
+
+We also recently learned about the existence of a Whatsapp group text, including all the foreign students with a lot of international managers but in which in the addition of Coline was never seen as necessary despite her commitment. It was impossible for us to create such a group in the beginning of the year since, as explained above, we had no access to the foreigners’ contact informations before their arrival.
+
+We would like to underline and appreciate all the work Coline put in her role all year long. Let us not forget that, much as Heloïse last year, she helped to gather a lot of kitchen appliances (fridges, microwaves, furnitures, plates, kitchenware, …) to then give it out to foreign students. She upheld her promises to set up meetings around snacks, not to simply follow her role, but to keep up the integration work, to get to know you and to exchange with you about your ideas, suggestions and issues. Too often has Coline’s work faced a lack of answer. Some of her meetups to give out appliances ended up without the foreign student showing up, and despite her implication, it is difficult to establish contact when there is no answer face to face nor in the Messenger group.
+
+What solutions can be put up in the short term ?
+
+Firstly, we would like to organize a meeting between foreign students and the students office shortly so that you may explain your point of view and your ideas. We would think together about a way to have you enjoy the student life here the best you can and to host the next foreign students the best we can.
+
+A talk with the school also seems necessary, one which can take place at the next student and campus life college February 1st.
+
+We firmly condemn all racist and excluding behaviours. Do not hesitate to come talk to us, we will listen with all due discretion et will take action against those.
+
+Lastly, we would like to remind all of you that it is forbidden to call for votes for a list after the end of the campaign week since they cannot answer. We think as a students office that both lists’international managers have gained consciousness of the issues surrounding you, since they both offer promises directed towards you. It will be our duty for the last 3 months of our mandate to teach them and to think together about tomorrow.
+
+Circulary yours ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [FIN DES CAMPAGNES BDE]
+
+Bonjour à toutes et à tous ! 👋
+
+Les campagnes BDE sont déjà terminées et ça n’a pas été de tout repos pour nos listeux ! 
+Nous remercions grandement les sorciers de la Poudlist 🧙 et les cowboys de la Lucky List 🤠 de nous avoir organisé ces quelques jours mémorables!
+À l’issue de ces campagnes, vous le savez, une seule liste peut ressortir victorieuse.🏆 Il va donc bientôt être temps d’élire le bureau qui effectuera le mandat 2024-2025 du Cercle. ⭕️
+Le vote se fera comme chaque année sur Campus via Espaces collaboratifs > Pour les étudiants > Élections étudiantes. Il s’ouvrira le vendredi 26 janvier à 8h et prendra fin le dimanche 28 à minuit. ⏰
+
+Quelle liste aura l’étoffe de devenir le Bureau Des Élèves ?? 🤔
+Pour que vous puissiez faire votre choix avec toutes les informations entre vos mains, nous vous laissons ce petit récapitulatif des résultats de défis 🥇 et nous publierons les bilans carbone réalisés par les Com Vert du BDE 🌱 ainsi que les bilans financiers des deux listes. 💰
+La résultat sera dévoilé comme l''année dernière au bâtiment S, le mardi 30 janvier ! 
+
+Circulairement vôtre ⭕️
+
+PS : Si vous rencontrez des difficultés avec le vote merci de contacter Jacques de Gayffier.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : **[Meuh Folle 🐮] x [Récap Amphi bénévoles]**
+
+Les sweats de la Meuh Folle sont désormais disponible pour nos bénévoles à 25€, ils vous permettront d’être plus visible les jours J et de conserver un joli souvenir de l’évènement. 🐮🟡
+
+🌟 Vous avez la possibilité de devenir bénévole à la Meuh Folle, et de transformer 2 à 3h de votre temps par soir en 2 jours de festivités pour 10€ au lieu de 40€. 🎉🤩
+Les boissons 🍻 et les repas 🌯 vous sont offerts, en compagnie de vos meilleurs amis (Les FIA 1A & 2A seront en période de cours) !
+
+Pour s''inscrire: https://appli-mf.emait.fr/subscription
+
+⏳ La Semaine CAPRA donne le coup d''envoi de la Meuh Folle : du 03/04 au 08/04, nos 1A auront 3 demi-journées maximum d’absences justifiées pour aider à l''installation.
+
+[https://docs.google.com/forms/d/e/1FAIpQLSdL2SaClthfKAlyInfLmpT2m9Ikj-vbgJRZl3_jcOXZg_emzw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdL2SaClthfKAlyInfLmpT2m9Ikj-vbgJRZl3_jcOXZg_emzw/viewform)
+
+Des questions ? Contactez Valentine Bredoux ou Théo Tisseur !
+
+La Meuh Folle c''est demain et on lâche rien ! 🐮💛🩵🩷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMAthéniens; contenu : [Défi Emath X Hiéro] X [Résultat] 
+
+Pour honorer notre ami parti trop tôt 🐀😫nous avions demandé aux listes d’ériger la plus belle stèle. 
+Merci à eux d’être venus partager ce moment commémoratif extrêmement poignant avec nous. 
+
+La victoire est sans équivoque, on vous laisse juger par la photo. 🤠
+
+Antiquement vôtre, ⚡️ X 🏺', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMAthéniens; contenu : [Défi Emath] X [Résultat]
+
+Vendredi dernier nous avions convié nos chers listeux à nous préparer un Happening du Tonnerre.⚡️
+Les cow-boys n’ont pas trop compris la consigne 😬 tandis que les sorciers nous ont  préparé un réel happening avec de quoi boire et manger ! 🤹😍 
+
+Pourtant, après ces entrées fracassantes, nous avons vécu un véritable retournement de situation au moment de tester les connaissances des deux listes sur les dieux de l''Olympe. 🏛️
+
+C''est donc une égalité que nous déclarons sur ce défi, bravo aux deux listes ! 
+
+Divinement vôtre ⚡️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Adrien Le Gal; contenu : Clés du E18 trouvées dans la paille...', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''rie Antoinette; contenu : [Défi EMA''rie Antoinette] x [Poupée roi 👑 ]
+Bravo à la Lucky List 🤠, qui ont pris plus de photos avec leur poupée-cowboy que les magiciens 🎩 ! Bravo à la Poudlist Bde 🧙‍♀️ pour le déguisement spécial de leur poupée en SDB ! 😍🇫🇷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''rie Antoinette; contenu : [Défi EMA''rie Antoinette] x [PAIN 🥖 ]
+Félicitations à la Lucky List  🤠 pour avoir remporté le défi du pain lancé par EMA''rie Antoinette ! 🇫🇷
+Avec un score serré de 7 votes contre 6, ils surpassent la Poudlist Bde 🧙‍♀️. Bravo à tous les participants pour avoir nourri le peuple ✊, même si les wraps avaient bien meilleurs goûts 🌯.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Cibele Fonseca Januario; contenu : [Lettre ouverte à tous] [Situation des internationaux] [Honte]
+
+Bonjour l’EMA,
+
+Je m''appelle Cibele, étudiante brésilienne arrivée en sept/2022 pour un double diplôme. Cela fait maintenant un an et demi que je suis à l''EMA, et certains d''entre vous ont pu me connaître à travers certaines assos ou encore parce que nous avons suivi des cours ensemble. À travers ces moyens, j’ai réussi à rencontrer des gens et approcher la culture française d’une manière idéale. Cependant, les internationaux comme moi sont rares, et c''est précisément le point que je souhaite aborder dans ce message.
+
+Les étudiants internationaux ne sont pas du tout intégrés et aucun de ceux que je connais qui ont fréquenté l''école n’ont jamais réussi à l’être. L''intégration est extrêmement difficile, et la situation ne semble pas s''améliorer. Malgré le Cartel, Orlandini, Gala, WEI, Meuh Folle, WEC, WEV, WES, GBA…. il reste dur pour les étudiants internationaux de faire activement partie d’une communauté d’étudiants. Comprends qu’il est difficile de sortir tout seul dans un pays dont tu as appris la langue il y a moins d’un an à cause du contexte économique et éducatif du tien. Bien sur il existe une différence culturelle qui crée des barrières entre les gens, qui fait partie de l’expérience d’aller étudier à l’étranger et nous en sommes conscients, mais les efforts fournis par le Cercle sont insuffisants.
+
+La COM internationaux du BDE releve plus d’une blague et d’une manière de satisfaire des quotas qu’autre chose. Avec seulement 2 représentants pour gérer plus de 100 élèves internationaux, une conv Messenger inactive, deux ou trois propositions de « goûters » ENTRE les internationaux auxquels personne ne va par sentiment qu’il est organisé pour donner un sens à la COM international ou car l’écrasante majorité utilise WhatsApp, qu’est-ce que le BDE et l’école attendent pour créer une association destinée à fournir le support minimal à ces élèves qui participent tout autant au rayonnement de l’école ?
+
+Je trouve honteux qu’il y ait beaucoup d’internationaux qui ne connaissent même pas le prénom de la COM inter de cette année et que rien ne soit fait. Heureusement, l’année dernière était différente. Félicitations à Héloïse Rousselet qui a fait son max en 2022-2023 pour aider le plus d’étudiants possible avec les moyens dont elle disposait. Si la bureaucratie française est déjà difficile quand tu parles français, imagine quand tu arrives avec un niveau B1 ou moins et qu’il n’y a qu’une personne motivée pour t’aider avec la CAF, EDF, logement, assurance logement, assurance maladie, forfait téléphonique, carte de bus, titre de séjour, bureaucratie de l’école, comment aller au médecin, où faire tes courses…
+
+Un autre exemple : si l’objectif du BDI est l’intégration, pourquoi est-ce que nous ne recevons pas la même intégration que les 1A ? (Pack d’intégration, t-shirt, messages sur la conv…). Il faut vraiment que vous compreniez que quand on arrive on comprend rien à ce qui se passe et qu’on n’est pas suffisamment guidé.
+
+C’est un sentiment difficile. Imagine que tu veux ouvir une compte bancaire mais tu n’arrives même pas à appeler la banque pour avoir un rdv parce que tu ne comprends rien, ou que tu n’as aucune idée de comment marche le système de transport parce que tu n’as jamais pris un TGV de ta vie. Imagine que tu ne comprends pas la valeur de € 5,00. Je pourrais aussi parler d’un membre de l’ancien BDS qui a dit à un groupe d’internationaux de retourner dans leur pays et que rien n’a été fait parce qu’il était « juste bourré ». Si la prochaine COM veut changer quelque chose, il faut connaître les problèmes que les internationaux ont. Réfléchissez bien à la liste BDE que vous allez élire si vous voulez aussi que les choses changent. Renseignez vous sur les ambitions portées par la COM internationaux des 2 listes afin de mieux nous inclure.
+
+Des solutions existent et peuvent être mises en place l''an prochain. Je reste à disposition si le prochain bureau veut en parler.
+
+Ce texte vise simplement à partager l''expérience d''une étudiante internationale à l''EMA.
+J’espère vraiment que le nouveau bureau réussira a mener un changement significatif pour les nouveaux arrivants en septembre.
+Le secret pour réussir : parler aux internationaux.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [CHALLENGE DU MINEUR] x [ALBI]
+
+Les Chattes et les Taureaux participent au Challenge du Mineur ⛏️ le samedi 2 mars.
+Seulement 20 supporters pourront assister au tournoi😢
+
+C’est pourquoi nous organisons un SG pour savoir ceux qui pourront accompagner encourager nos Emayens🧨
+
+À noter que le coût pour les supporters s’élève à 36€ la place (logement vendredi + samedi soir et repas du midi inclus)💶
+
+Le SG se deroulera DEMAIN à 13h ! 
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [RÉSULTATS DÉFI BDE N°11] X [PRÉSIDENTE PAS CONTENTE]
+
+Les deux présidents n’ont pas jugé nécessaire de respecter une partie du défi. Nous trouvons cela dommage qu’un président n’ait pas été attentif aux consignes et que son vice-président en ait fait de même.
+
+Les présidents et le vice président choisis par ces derniers se sont tout de même bien défendus face à une administration féroce. Merci au deux listes, mais malheureusement, l’une d’entre elles a commis l’erreur de trop en arrivant en retard (15 min). Félicitations aux Poudlist qui remportent ce défi. 
+
+Merci à Gabriel Miniconi de nous avoir assistés lors de ce défi 😊
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [RÉSULTATS DÉFI BDE N°10] X [Vices Présidents]
+
+Après avoir relevé de nombreux défis mettant à l’épreuve leur communication, leur détermination et leur professionnalisme, les listeux VP BDE se sont battus pour nous prouver qu’ils n’étaient pas là par hasard. 👩‍💼👨‍💼
+
+Ce fut une lutte acharnée entre les deux listes. Chaque VP a su faire ses preuves et a brillamment relevé les épreuves proposées. 🤩
+
+Malheureusement, il faut faire un choix et c’est la Lucky List qui remporte ce défi. 🤠
+
+Félicitations aux deux listes !
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [RESULTATS DÉFI BDE N°9] X [TREZ] 
+
+Vous l’attendiez toutes et tous🥁🥁…. Le résultat du défi trésorier !!💸💸
+
+La première partie du défi a été l’occasion de tester nos trésoriers listeux et leurs connaissances sur le poste.🤑Cette partie à été remportée haut la main par les cow boys🤠 de la Lucky List avec entre autres une solide prestations de Jean-Baptiste et Ambre.🫡
+
+La deuxième partie du défi était un poker entre les deux listes. Là où Raouf a su montrer son talent pour bluffer ses adversaires😎, il a du se confronter à la poker face de Gautier et au caractère téméraire de Yanis qui a pris des risques jusqu’à la fin pour remporter la partie ♦️♠️. Le poker est donc gagné par les sorciers de la Poudlist.🧙‍♂️
+
+Le défi se termine donc sur un score d’égalité entre les deux listes avec une manche gagnée de part et d’autre.🙌
+
+Nous tenons donc à remercier les trésoriers listeux pour leur participation et ce très beau moment partagé 🤩 mais également Paul et Alan, les trésoriers hiérog’list pour leur visite au cours du défi.🏺🤝⚡️
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [RESULTATS DÉFI BDE N° 8 ] X [Défi Pôle Anim + Com Associations] 
+
+Samedi soir, c’était au tour du pôle Anim d’organiser son défi, le meilleur on le rappelle (pas celui des secrétaires 😜). Au programme, de nombreux jeux spécialement concoctés pour toutes les coms présentes (Alternants, VP, Event, Asso, Logistique…).
+
+Les équipes se sont aussi battues pour obtenir les clés de la SDB pour préparer leur AfterWork avec des petits malus pour les perdants 👀.
+
+Au final, puisque le dernier jeu n’a pas pu être fait avec le départ en SDB de la Lucky List, nous ne pouvons attribuer ce point à aucune des listes, ce qui nous amène à …
+
+🎉 Une égalité entre les 2 listes🎉
+
+On remercie grandement les 2 listes qui nous ont beaucoup amusé avec Daniela, Amaël et Anthony de la Hierog’list.
+       
+Circulairement vôtre ⭕️
+
+#PaulLeBot', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [RESULTATS DÉFI BDE N° 7 ] X [Com Internationaux] 
+
+Nos deux listes se sont retrouvées dimanche autour de quelques crêpes et viennoiseries pour rencontrer  nos étudiants internationaux ! 🧃🗺️
+
+Après avoir bien échangé, on arrive sur une ÉGALITÉ entre nos cowboys 🤠 et nos sorciers 🧙🏻‍♂️!
+Merci aux deux listes pour leur présence !
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [RESULTATS DÉFI BDE N° 6 ] X [Com Partenariats] 
+
+Lâchés en plein centre-ville avec comme seules armes leur éloquence 🗣️ et un stylo 🖊️ , nos deux com partenariats ont dû redoubler d’ingéniosité afin d’obtenir les objets les plus chers. 🤑
+Malgré une lutte acharnée des deux côtés, c’est finalement la Poudlist qui a su ensorceler les commerçants de la ville pour remporter ce défi ! 🧙
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Entr''EMA x EMA’sterchef]x[Résultat défi]
+
+Bonjour à tous !
+
+Voici le résultat du défi faisant appel aux talents de cuisinier 👩‍🍳 des deux listes ! Nous souhaitions remercier la Lucky List et la Poudlist Bde pour leur implication, nous avons passé un moment qui valait 10/10!
+
+Malgré des efforts conséquents de la Poudlist 🧙‍♂️afin de réduire au maximum le prix au kilo de leur repas et de le rendre très très accessible, cela n’a pas suffit à surpasser les talents de cuisinier de la Lucky Liste 🤠! Félicitations à la Lucky Liste qui gagne d’1 point près !
+Merci aux deux listes !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [RESULTATS DÉFI BDE N° 5] X [Défi Com VSS] 
+
+Malgré une absence de ravitaillement 🥞, les cowboys 🤠 et les sorciers 🧙‍♀️ ont su nous prouver leurs nombreuses connaissances sur le domaine des VSS !
+
+Nous avons été contents de recevoir les deux listes pour ce moment de partage, mais c''est la Lucky List 🥳 qui a su être plus rapide et plus juste sur les questions que nous leur avions préparées ! Bravo à eux 👏
+
+Nous remercions également la Poudlist de s''être battue jusqu''au bout 💪
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : [UberEMA] x [Resultat défis] x [un peu déçu]
+
+Bon j’ai reçu plus de messages d’extés déçus de pas être livrés que de photos de livraison 😢
+
+Mais je sais qu’il y a quand même eu quelques allos hors de la Meuh, donc merci aux pilotes qui ont joués le jeu 🚗 😎 
+
+C’est la Lucky List dont j’ai entendu le plus parlé / qui m’a envoyé des photos 💁‍♂️
+Ils sont donc les gagnants pour ce défis ⚡️UberEMA⚡️👏
+
+Merci aux deux listes pour ces campagnes ✨
+
+Ps : les bds c’est pas parceque y’a pas de défis là semaine pro qu’il ne faut pas livrer les extés 👀', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Résultat défi Gala]
+
+Hier s''est déroulé le défi du Gala, durant lequel, trésoriers et com asso ont été testés sur leur connaissance de l''événement et la relation entre le Gala, le BDE, l''école et MAA. 🤝
+Nous espérons que les discussions qui ont émergé pendant le défi permettront au futur BDE de bien appréhender le Gala.
+
+La Poudlist Bde 🧙‍♂️ sort vainqueur de ce duel avec un score très serré, bravo ! Nous félicitons également les membres de la Lucky List 🤠 qui ont été de véritables adversaires.
+
+En attente du nouveau thème du Gala-ment vôtre
+Le bureau du Gala bientôt retraité 👴🏻👵🏻', 0);

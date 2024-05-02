@@ -1,0 +1,155 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Miniconi; contenu : Hyper chaud que la personne qui m''a pris une béquille vienne la déposer devant le Y27 demain au réveil. Mon écrasement des lombaires l''en remeciera 👍', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Paul Decroux; contenu : [STAGE 2A] x [2IA]
+hello j''ai fais une stage de recherche a l''université de Portsmouth en IA pour faire de la détection de discours haineux chez Twitter sous la supervision de Dr Linda Yang. Je me suis régalé et j''ai même pu rédiger un article de recherche. Bref je me dis que ça peut intéresser des 2ia. Seul bémol c''est pas payé mais après ca valide le SIO et c''est vrt très souple. Bref si ca intéresse l''un d''entre vous je peux vous recommander et vous donner des petits tips. 
+hésitez pas à me dm, gros bisous', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1281157982541008/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Orlandini]x[Petit dejeuner]
+
+On vous attend de 7h à 9h au petit déjeuner demain matin au bat S 🍳
+
+🤎🤎Le bureau Orlandini🤎🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lili Roche; contenu : SAKADO]x[AW]
+🚨DANS 30 MIN L''OUVERTURE DE L''AW🚨
+Venez vous régaler avec bagel, frites et gâteau marbré maison !
+On vous attend nombreux !🥰
+À tout de suite !
+ISF - SAKADO 🎒', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Cercle] X [Partenaires] 
+
+Bonjour à tous, 
+
+Vous le savez probablement déjà mais le Cercle a de nombreux partenaires ! 🤩
+Pour que tout soit clair et qu’un maximum de personnes puisse en profiter, nous vous avons préparé un petit Flipbook avec toutes les informations nécessaires. 📖
+
+Vous y retrouverez notamment la procédure pour utiliser Karos, notre nouveau partenaire, et ainsi rémunérer vos covoiturages ! 🚗💸
+
+Ça se passe ici 👉 https://heyzine.com/flip-book/a9666adaee.html
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Trophée Orlandini]x[Poules]
+
+Les poules sont disponibles sur l’Instagram du tournoi ! 
+
+Pour les découvrir allez suivre : https://instagram.com/trophee_orlandini?igshid=OGQ5ZDc2ODk2ZA==
+
+N’oubliez d’enlever vos voitures du bat S 🚗
+
+🤎🤎Le bureau Orlandini🤎🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Juliette Dvlv; contenu : chargeur d’IPad trouvé en C107. me contacter pour le recup', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [🏆🇫🇷Diffusion du match de CDM de rugby🇫🇷🏆]
+
+Le Trophée Orlandini vous invite ce soir à 21h devant le bâtiment S pour supporter les bleus durant ce match ÉLIMINATOIRE! 🏉🏉
+
+Vous pourrez aussi accueillir les participants au tournoi Orlandini !
+
+On vous attend nombreux pour une ambiance de folie 🤪
+
+N’oubliez pas d’enlever vos voitures du bat S 🚗
+
+🤎🤎Le trophée Orlandini 🤎🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lili Roche; contenu : [SAKADO]x[AW]
+Bonjour à tous !
+Ce soir l''équipe du projet SAKADO de l''association ISF vous régale avec son afterwork ! 🎒 
+Au menu: Bagel et frites 🥯🍟 et gâteau marbré maison !
+Objectif : récolter des fonds pour remplir des sacs de denrées, produits d''hygiène et vêtements pour les sans abris de Alès ! Avec l''aide de la Croix Rouge, nous irons les distribuer. Pour cela il nous faut des sacs remplis. Les fonds serviront à financer ce projet solidaire. 😉
+
+On vous attend nombreux !🥰
+À ce soir !
+ISF - SAKADO 🎒', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Orlandini]x[Enlever vos voitures svp] 
+
+⚠️⚠️ MERCI D’ENLEVER VOS VOITURES DU BAT S AVANT 18H SVPPPPP ⚠️⚠️
+
+Ce soir c’est l’ouverture du Trophée Orlandini 🏆 Nous accueillerons les écoles au Bat S. Diffusion du match à 21h !
+
+🤎🤎Le bureau Orlandini 🤎🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [SDB WEV] X [EMAMIX] 
+Bonjour à tous, 
+Voici la Line up de ce soir pour la sdb wev🌊,
+Laissez vous emporter par la wave ! 
+
+Emamix VII 
+Pour votre plus grand plaisir …😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Tsiky Zanaka; contenu : [TsikyZanaka]x[SnackOrlandini]
+
+Bonjour à tous ! 
+
+L’association Tsiky Zanaka va tenir un stand de paninis et crêpes 🥖🥞 pendant le tournoi Orlandini. Le 7 octobre de 9h à 18h, venez vous régaler avec des paninis au Nutella et des crêpes au Nutella, confiture, caramel et sucre. 😋 
+
+On espère vous voir nombreux! 😊 Les fonds collectés serviront pour financer le projet de solidarité internationale de l’association. 
+
+A samedi ! 
+Tsiky Zanaka 🌍', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Radio Ding-Dong; contenu : [Radio Ding Dong] x [Première émission] 
+
+Bonjour à tous ! 
+
+Hier soir a eu lieu notre première émission de l’année, nous tenons à remercier ceux qui ont regardé 🫶. Vous avez été actifs et on a vraiment kiffé ! 
+
+Je vous remets nos réseaux et le lien du forms dans lequel vous pouvez faire des suggestions et remarques : 
+
+https://www.twitch.tv/radio_ding_dong [Twitch] 
+
+https://www.facebook.com/RadioDingDong [Facebook]
+
+https://instagram.com/radiodingdong?igshid=OGQ5ZDc2ODk2ZA== [Instagram]
+
+https://forms.gle/aTgbDmYVewGtvFGh7 [Forms]
+
+N’hésitez pas à rejoindre nos réseaux pour ne pas rater les prochaines émissions ! 
+
+Encore merci pour hier ☺️ ! 
+
+Ding Donguement vôtre', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : Bonjour à tous !
+
+Lors de la soirée du Gala, 2h sont accordées pour des représentations artistiques emayennes.
+Musique 🎸, spectacle de danse 💃, magie 🧙‍♂️ ... laisse ton talent s''exprimer !
+
+Si tu as envie de te produire sur scène le soir du Gala, ce message est fait pour toi !
+
+Le jeudi 12 octobre, des auditions seront organisées. Pas d''inquiétude, tu peux te présenter quel que soit ton niveau! 😉
+
+Pour t''inscrire, rien de plus simple, c''est par ici que ça se passe ➡  : [https://forms.gle/7NQgjwCb8ah6guzYA](https://forms.gle/7NQgjwCb8ah6guzYA)
+
+Plus  d''informations sont données dans le forms et notamment une procédure  spéciale pour les alternants et ceux qui ne seraient pas présents sur  Alès le 12 octobre.
+
+Vénitiennement vôtre !
+La Com Anim du Gala 🎭', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alexis Senzier; contenu : [WEV]x[Résultats SG SDB]
+
+Voici les résultats du SG pour la sdb 🤙 :', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [BDS]X[Textiles]
+
+Salut 👋 !
+
+Le BDS organise un jeu concours pour dessiner le logo du prochain sweat 👕 ! Le créateur du meilleur logo gagnera … 🥁🥁🥁 LE SWEAT FLOQUÉ DE SON LOGO !
+
+Pour y participer c’est très simple envoie ton motif sur insta @bds_imt_ales ou sur la page facebook.Tu as jusqu’au lundi 23 octobre pour participer, alors dépêche toi !!
+
+‼️ Petit détail, le sweat sera rouge grenat ‼️
+
+Sportivement votre 🥇', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alexis Senzier; contenu : [SG] x [SDB WEV]
+
+Voici le lien du SG pour la SDB WEV de jeudi soir:
+
+https://docs.google.com/forms/d/e/1FAIpQLSe70cHjHU3AKBFCBW8-ZzCUdP4XAvNDnhjn9NIt4rHrpX5bcw/viewform?usp=sf_link
+
+Ridement votre 🏄‍♀️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Afterwork]x[Trophée Orlandini] 
+
+Salut à tous,
+
+Vous êtes attendus ce soir à partir de 20h en sdb pour l’afterwork Orlandini !
+
+Au menu 🥁🥁🥁KEBAB🥁🥁🥁
+
+Il y aura aussi des pancakes avec nutella/confiture/sucre 🥞,et en boisson de la jacqueline ou un diabolo grenadine 🍷, le tout pour 4€ ou 4,50€ avec la boisson !!!
+
+Vous pourrez aussi récupérer vos packs !🧢👕
+
+Ovalement vôtre
+
+🤎Le Trophée Orlandini 🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ikram Ziani; contenu : Écouteurs trouvés au cyber de Clavière. Je les ai donnés a Rachid si le proprio veut les récup !', 0);

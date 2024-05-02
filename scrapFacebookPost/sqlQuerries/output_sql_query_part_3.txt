@@ -1,0 +1,227 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Comité Oenologie] x [Dégustation double bureau] 🍷
+
+Bonjour à tous les bons vivants de l’EMA,
+
+Nous arrivons au bout du mandat de l’actuel bureau du Comité Oenologie et avant de tirer notre révérence et laisser les rênes du bureau aux 174, nous vous avons préparé une ultime surprise …
+
+Pour la première fois, nous vous invitons à une dégustation spéciale organisée en double bureau ✨ Cela sera l’occasion de vous présenter le nouveau bureau et de les épauler pour leur première dégustation !
+
+À cette occasion, le Comité voit grand et vous propose un voyage à travers la France 🇫🇷 viticole avec les meilleurs vins de chaque région d’origine des membres du bureau 🍷
+
+De l’Alsace au Sud-Ouest en passant par Bordeaux (enfin …), découvrez de nouvelles saveurs et des vins excellents issus de nos terroirs 🤯
+
+La dégustation aura lieu **Jeudi 11 Avril** à la terrasse du bâtiment Z si la météo le permet ✨
+
+⏰ Le SG sera **Lundi 8 avril à 13h** sur la page FB du Comité ⏰
+
+Nous vous attendons nombreux à tenter le SG (c’est la dernière dégustation des 2A avant le départ en stage 😢)
+
+> In Vino Veritas 🍷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : C''est le grand jour, on est trop excités ! 😍
+On vous attend nombreux ce soir au parc des expositions d''Alès pour une soirée de folie ! 🎉
+La billetterie est ouverte sur place, alors n''hésitez pas à prendre vos places dès maintenant à l''entrée du parc.
+Les prix sont les suivants : 1 jour = 31€ et 2 jours = 43€. 🎟️
+Profitez-en pour faire la fête avec nous toute la nuit ! 🤩
+On a hâte de vous voir ! 🎉🎉🎉', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : Voici les créneaux des navettes pour aller au CAPRA ce soir !
+À ce soir... 🐮💛🩵🩷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amaury Fd; contenu : [Respo VSS]x[Recrutement]
+
+Bonjour à tous 🙋‍♀️🙋‍♂️
+
+Le manda des respo VSS de la promotion 173 touche à sa fin. Nous lançons donc la campagne de recrutement. 
+
+Si vous souhaitez contribuer à un changement positif au sein de notre école, n’hésitez pas à postuler ! 🙌
+
+En tant que membre de notre collectif, vous aurez l''opportunité de participer activement à des actions de sensibilisation, de prévention et de soutien aux victimes de VSS 🎗️
+
+Si vous êtes intéressé·e à faire partie de cette initiative, on vous laisse remplir le formulaire suivant : ', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : La Meuh Folle c’est VRAIMENT DEMAIN, et on lâche rien !!! 🐮💛
+Dernier moment pour prendre sa place 😬🤩
+
+Lien de la billetterie : https://shotgun.live/fr/festivals/festival-de-la-meuh-folle-2024', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Mousse; contenu : [CAMPAGNES EMA MOUSSE]x[INSTA]🍺
+
+Pour découvrir les magnifiques visuels créés par les deux équipes ca se passe sur Insta ! 📸
+
+EMA Source : https://www.instagram.com/ema_source?igsh=ZXFpbG1ub21sd2sx
+
+EMATLANTIDE : https://www.instagram.com/_ematlantide_?igsh=MWZmenJpMWg3ZXJtMQ==', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Mousse; contenu : [CAMPAGNES EMA MOUSSE] 🍻
+
+Il est grand temps de vous présenter les deux équipes qui vont vous faire kiffer jusqu’à la fin de la semaine 🤯
+
+Il s’agit de 🥁🥁🥁🥁🥁🥁 Ematlantide et Ema Source !!!!!
+
+Vous pouvez des à présent commander une biere de chaque équipe via le lien ci-dessous ! (Vous pourrez ainsi participer au vote) 🍺
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Magiciens; contenu : LES GARS C’EST L’HEURE !!!🧨🧨🧨🧨🧨
+
+Les rap du cartel on été posté sur le insta du cartel C’EST LA GUERRE DES LIKES.🥷🧙
+Les 3 délégations avec le plus de likes gagnent et vont sur scene le faire en showcase.😍😍
+
+Je sais que le charisme de yacine ne laisse personne indifférent et on reve tous de voir noah rapper comme un ricain sur scene.
+Donc par pitz partagez un max likez et envoyez à vos parents pour leur montrer qu’a ales on sait rapper.😈🧨
+
+Ps: hesitez pas a rappeler a albi qu’ils sont claqué au sol😵🥊
+
+https://www.instagram.com/reel/C5TsknYRBfB/?igsh=eXkxaXJxbTdjbDdj', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Le Dindon Attaque; contenu : [Nouveau bureau dondon🥹]  
+
+Après une année où on a kiffé travailler avec les artistes pour vous offrir des concerts de qualité, il est temps pour nous de passer la main...
+Voici la tant attendue répartition du nouveau bureau que nous avons choisie 🥁
+
+- Présidente : Rebecca Attali 👨‍🎤
+- Vice-présidente : Marine Parpillon 🎤
+- Trésorier : Tyty Senidre🤑
+- Com Bar : Vincent Charbonnier🍻
+- Com Logi/Sono : Matéo Carrico et Joris Schwarz🎸
+- Com Com : Sylvanie  Grateaud☎️
+
+🥳Vous faites maintenant partie de l’aventure du Dindon Attaque, une asso qui sait faire du bruit, et on espère que vous en ferez de très beaux projets  
+Glougloument vôtre, 
+Le bureau Dondon 173 (qui se fait vieux) 🦃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [96ème Gala] x [Dernières photos 🥹 ] 
+
+Bonjour à tous ! 
+
+Nous nous excusons du délais des dernières photos, nous étions dépendants des retouches du photographe 📷  Cependant elles sont enfin là et un grand merci à l''équipe Tournage ESTP.  On vous laisse profiter de ces dernier souvenirs du 96ème 😊  
+
+[https://photos.app.goo.gl/HvXB3TtigQeoD9js8](https://photos.app.goo.gl/HvXB3TtigQeoD9js8) 
+
+Toute l''équipe du Gala 🫶 (modifié)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : [WEV]x[Nouveau Bureau]
+
+L’édition 2024 du WEV s’étant achevée en beauté sur les vagues de Vieux-Boucau ce week-end, il est temps pour nous de passer la main aux futurs organisateurs du meilleur week-end de l’année 🐬
+
+Nous déclarons donc ouvertes les candidatures pour postuler au futur bureau du WEV jusqu’au lundi 08/04 à 23h59 🚨
+
+Pour postuler, rien de plus simple : envoie ta candidature sous le format de ton choix à Adrien Michelot sur messenger.
+
+Les postes à pourvoir sont les suivants :
+
+- Un.e Président.e 👑
+- Un.e Vice-président.e 🥇
+- Un.e Trésorier.ère 💸
+- Un.e Secrétaire ✍️
+- Un.e Golden Wave 🌊 
+
+N’hésitez pas à nous contacter si vous avez quelconque question 🙋‍♀️ 
+
+Ridement vôtre 🏄‍♀️
+Le bureau, bientôt retraité', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louis Lacombrade; contenu : [FINALE ACADÉMIQUE] [TAUREAUX]
+Suivez la finale académique des taureaux contre MBS à partir 20h20 en live CE SOIR. 🔴⚪️🐂
+
+https://www.instagram.com/taureaux_rugby?igsh=Nm10aG5qeG56bHgz', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA ski club; contenu : [SkiClub]x[NouveauBureau]x[Réorganisation stratégique face au changement climatique]
+
+Le Ski Club cherche 4 jeunes cadres dynamiques et motivés pour prendre la relève !!
+
+Si tu aimes la neige, le ski, le snowboard, les raquettes ou même la luge, le ski club est fait pour toi 🫵. Que tu sois débutant ou un as de la glisse ⛷️.
+
+Après une longue discussion avec l’ancien bureau et les Com Assos du BDE, il est apparu essentiel de repenser l’asso en terme d’organisation, de type d’événement et de date. Les challenges s’annoncent donc nombreux mais non insurmontables pour une nouvelle équipe💪, fraîche et motivée, pour redonner un coup de boost (ou de génép😋) au Ski Club.
+
+Si tu kiffes les sports d’hiver et es prêt à relever le défi🏔️, contacter Sacha Kosztur sur messenger.
+
+Ridement votre !
+L’ancien bureau', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : VertMines; contenu : [VertMines] x [Futur]
+
+Bonjour à tous !
+
+Avant de finir notre 2A, le bureau de VertMines souhaiterait revenir sur cet évènement.
+
+Pour rappel, nous avions préparé une journée où chacun pouvait venir pour discuter avec des agriculteurs du département au sujet de leur métier. L’objectif était qu’ils présentent un problème lié à leur exploitation et que les emayens puissent rapidement réfléchir avec eux à des solutions. Ces problèmes sont très souvent en lien avec le changement climatique.
+
+Malheureusement, nous sommes tombés sur trop d’écueils à un délai trop proche de l’évènement : le BDE ne pouvant pas nous subventionner, un manque d’engouement des emayens, des problèmes avec les conférenciers, …
+
+Cependant nous croyons toujours au bien-fondé de VertMines : un ingénieur de demain qui sait ce que vivent les agriculteurs est bien plus sensibilisé aux enjeux du changement climatique. C’est de l’aveuglement que d’ignorer leur situation qui empire toujours plus. C’est la mission que nous nous étions confiés : sensibiliser au changement climatique en ouvrant le dialogue avec des agriculteurs.
+
+C’est pourquoi nous voudrions que VertMines continue, sous un nouveau format. Avec le départ de Michel Ferlut, la direction des études sera sûrement plus ouverte à des nouvelles idées l’an prochain. Une version de VertMines accompagnée par l’école, inscrite dans l’emploi du temps serait plus viable. Pour sensibiliser les élèves de 1A au climat, cette demi-journée/journée paraît plus pertinente qu’une conférence de 4 heures en Pasteur ou une formation à l’innovation frugale (ce que les agris font déjà très bien).
+
+Malheureusement, nous ne pourrons pas assurer ce format : d’autres projets nous attendent et nous devons laisser notre place au sein de la vie asso. Si ce projet vous semble aussi pertinent qu’à nous et que vous voudriez reprendre le club, n’hésitez pas à nous le faire savoir ;)
+
+Ce forms nous permettra de savoir si vous jugez cette idée pertinente :
+https://forms.gle/BDoANvBV7E1VGr9Y7
+
+Vertminement vôtre 🌱', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : OMA - Orchestre des Mines d''Alès; contenu : Bonjour à tous,
+
+L''Orchestre des Mines d''Alès a le plaisir de vous inviter à son dernier concert de la saison! Il se déroulera le jeudi 11 avril à 12h45 au Hub Créativité sur le campus de Croupillac pour une durée de 45 minutes.
+
+Le programme sera réduit mais tout aussi beau qu''à notre habitude.
+Nous vous attendons nombreux !
+
+L''OMA 🎵', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [SG spike]
+Vous l''attendez, le voilà !
+Soyez le plus rapide pour gagner votre place!🕑
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''Bike; contenu : [EMA’Bike] x [ Venez apprendre à réparer un vélo ! ]
+
+Bonjour à toutes et à tous ! 👋
+
+Cette année touche à sa fin pour les 2A, et le bureau EMA’Bike va bientôt prendre sa retraite 🧓 Il aimerait donc partager et transmettre son savoir-faire avec le plus de monde possible !
+C’est pourquoi dans les prochains jours, des sessions seront organisées au local EMA’Bike du bât H afin de permettre à chacun d’apprendre les bases nécessaires pour réparer un vélo ! 🧑‍🔧🚲
+Ce sera l’occasion pour vous de découvrir l’asso, et ce qu’on peut y faire.
+
+Alors si vous êtes intéressés pour participer à ces sessions, ou même pour vous investir dans cette association géniale et essentielle, n’hésitez pas à envoyer un message à Mathieu Fabre sur messenger, pour être ajoutés à une conv dédiée ! 
+
+Bicyclettement vôtre,
+
+EMA’Bike 🚲🔧', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Mousse; contenu : [Campagnes EMA Mousse]x[Ca commence demain] 🍻
+
+Coucou les emayens, 👋
+
+Les campagnes EMA Mousse  que vous attendiez tous commencent demain 😰 
+
+Deux équipes de bizus concoctent depuis quelques mois déjà la meilleure des bières possibles 🧑‍🍳
+
+Les campagnes se dérouleront de mercredi à dimanche 📆 Vous pourrez commander via une billetterie Lyf un pack contenant les bières des deux équipes ! 🍺 Cela vous donnera alors le droit de voter pour la MEILLEURE BIERE 🥵
+
+Chaque bière vous sera livré en personne par les membres de chaque équipe durant la semaine de campagne 🕺
+
+Bisous mousseux 😘', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [RAID VINCI] x [On remet ça ?] 🏃🏃‍♀️
+
+Salut à tous,👋
+
+Si tu ne connais pas le RAID VINCI, il consiste à te faire découvrir des paysages exceptionnels ⛰️par équipe de 2 pendant un week-end avec au programme trail🏃, VTT🚴‍♀️, canoë🛶, course d''orientation 🧭 et des activités surprises !
+
+Il y a 2 parcours :
+
+• Version courte : 49 kilomètres et 500 mètres de dénivelé
+
+• Version sportive : 95 kilomètres et 2000 mètres de dénivelé
+
+🏆Le Trophée École, remporté en 2023 par les Mines d''Alès, est remis en jeu. Prêt à remettre ça ?💪🏽
+
+❓Quoi ? L''édition 2024 du RAID VINCI AVENTURE
+
+📆Quand ? Les 1er et 2 juin 2024 (tu peux venir dès le 31 mai à 14h)
+
+📍Où ? Parc Naturel Régional du Verdon
+
+💶Combien ? 49€ par personne (comprenant hébergement en camping du vendredi au dimanche, repas, ravitaillements, location des VTT et canoës)
+
+Il reste environ 70 places inscrivez vous vite
+
+Retrouve toutes les infos pratiques et inscris-toi dès maintenant sur https://www.raidvinci.com/
+
+Sportivement vôtre🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Lili Roche; contenu : [Bod’EMA] X [AW]
+
+Hello les Emayens ! 🍷
+
+La Bod’EMA vous accueille demain soir à son afterwork pour avoir un avant goût de ce que ce sont les ferias !🥳🎉
+
+Au menu, un repas de ✨ qualidad ✨: patatas bravas avec sa sauce piquante 🥔, fajitas au poulet halal ou haricot rouge 🌯, et gâteau avec son coulis 🍰. 
+
+Que vous soyez en plein défi bar ou bien en entrainement, pensez à réserver puisque vous êtes tous conviés à la meilleure bodega de Alès !🫶🍽️
+
+Fériament vôtre 🍻,
+La Bod’EMA 🍇', 0);

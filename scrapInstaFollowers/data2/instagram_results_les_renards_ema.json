@@ -1,0 +1,618 @@
+{
+  "followers": [
+    {
+      "username": "asso.ema",
+      "full_name": "Ema"
+    },
+    {
+      "username": "poudlist_bde",
+      "full_name": "Poudlist"
+    },
+    {
+      "username": "mauguin.julien",
+      "full_name": "Julien Mauguin"
+    },
+    {
+      "username": "oumayma_dadda",
+      "full_name": "Oumaymadadda"
+    },
+    {
+      "username": "ssreynnick",
+      "full_name": "srey nick"
+    },
+    {
+      "username": "emerick.brn",
+      "full_name": "Ricko 🦊"
+    },
+    {
+      "username": "daniela_chg",
+      "full_name": "Daniela"
+    },
+    {
+      "username": "regiskyndt",
+      "full_name": "Régis Kyndt"
+    },
+    {
+      "username": "jules.savi",
+      "full_name": "Jules Savi"
+    },
+    {
+      "username": "cibelefj",
+      "full_name": "ＣＩＢＥＬＥ"
+    },
+    {
+      "username": "bonobonnes",
+      "full_name": "Bonobonnes 🏀🐒"
+    },
+    {
+      "username": "gustave_boissy",
+      "full_name": "Gustave Boissy"
+    },
+    {
+      "username": "thibault_frvl",
+      "full_name": "Thibault Fourvel"
+    },
+    {
+      "username": "yacineuh13",
+      "full_name": "Yacine Bou"
+    },
+    {
+      "username": "alex_mpml",
+      "full_name": "Alexandre"
+    },
+    {
+      "username": "fabricio_moura98",
+      "full_name": "Fabricio Moura"
+    },
+    {
+      "username": "laury_rttr",
+      "full_name": "Laury"
+    },
+    {
+      "username": "theo.ths",
+      "full_name": "Théo"
+    },
+    {
+      "username": "mat_brgn",
+      "full_name": "Mathis Baragnon"
+    },
+    {
+      "username": "bdeimtminesales",
+      "full_name": "BDE - IMT Mines Alès"
+    },
+    {
+      "username": "antoine_a10",
+      "full_name": "Antoine Andre"
+    },
+    {
+      "username": "lucas_texier",
+      "full_name": "Teeex"
+    },
+    {
+      "username": "gabriel_miniconi",
+      "full_name": "Gabriel Miniconi"
+    },
+    {
+      "username": "gabriel.m.t.z",
+      "full_name": "Gabriel Mtz"
+    },
+    {
+      "username": "emavisual",
+      "full_name": "EMA Visual"
+    },
+    {
+      "username": "denia_hz",
+      "full_name": "Dénia Hernandez-zga"
+    },
+    {
+      "username": "arnaudgbv",
+      "full_name": "arnaud"
+    },
+    {
+      "username": "malolgc",
+      "full_name": "Malo Le Gac"
+    },
+    {
+      "username": "emaxassom",
+      "full_name": "EMA X AssoM 💥"
+    },
+    {
+      "username": "dragonsema",
+      "full_name": ""
+    },
+    {
+      "username": "jdteles",
+      "full_name": "João Daniel Teles"
+    },
+    {
+      "username": "06d24edg",
+      "full_name": "Faysal"
+    },
+    {
+      "username": "daniel.lra.2000",
+      "full_name": "Daniel"
+    },
+    {
+      "username": "dumas_paul0508",
+      "full_name": "Paul Dumas"
+    },
+    {
+      "username": "ema_ultras",
+      "full_name": "Ema Ultras"
+    },
+    {
+      "username": "luc_mullie",
+      "full_name": "Luc"
+    },
+    {
+      "username": "emaglisse2023",
+      "full_name": "Ema Glisse"
+    },
+    {
+      "username": "gorilles_ales",
+      "full_name": "Les Gorilles d’Alès 🦍"
+    },
+    {
+      "username": "val.mth",
+      "full_name": "valentin.mth"
+    },
+    {
+      "username": "laurent96542",
+      "full_name": "Laurent Letrouit"
+    },
+    {
+      "username": "plpatouillet",
+      "full_name": "Pierre-Louis"
+    },
+    {
+      "username": "chaaaattes",
+      "full_name": "Chattes"
+    },
+    {
+      "username": "aigles_ema",
+      "full_name": "Les Aigles 🦅 - Équipe de Badminton de l'EMA 🏸🔴⚪"
+    },
+    {
+      "username": "orchestreminesales",
+      "full_name": "Orchestre des Mines d'Alès"
+    },
+    {
+      "username": "bds_imt_ales",
+      "full_name": "BDS Mines Alès"
+    },
+    {
+      "username": "ema_trail_",
+      "full_name": "EMA Trail"
+    },
+    {
+      "username": "adrien__grn",
+      "full_name": "Adrien Guérin"
+    },
+    {
+      "username": "adil.vsg",
+      "full_name": "🇲🇦🇫🇷"
+    },
+    {
+      "username": "alexylr",
+      "full_name": "Alexy"
+    },
+    {
+      "username": "lucass_grn",
+      "full_name": "Lucas Guérin"
+    },
+    {
+      "username": "hugo_ctl",
+      "full_name": "𝑯𝒖𝒈𝒐"
+    },
+    {
+      "username": "clement.vzt",
+      "full_name": "Clément"
+    },
+    {
+      "username": "les_coqs_ales",
+      "full_name": "IMT Mines Alès Foot"
+    },
+    {
+      "username": "quentin.gsg",
+      "full_name": "Quentin Goasguen"
+    },
+    {
+      "username": "noajk46",
+      "full_name": "Noa Jean Karam"
+    },
+    {
+      "username": "mael_lc.vitesse",
+      "full_name": "Mael Le Corre"
+    },
+    {
+      "username": "titouan.joly.7",
+      "full_name": "Titouan Joly"
+    },
+    {
+      "username": "eliotdbt",
+      "full_name": "Eliott"
+    },
+    {
+      "username": "alexandre__gautier",
+      "full_name": "A l e x"
+    },
+    {
+      "username": "theo_gdn13",
+      "full_name": "Théo"
+    },
+    {
+      "username": "crocos_ema",
+      "full_name": "Crocos / Tennis Club École des Mines d’Alès"
+    },
+    {
+      "username": "wesminesales",
+      "full_name": "Week-End Ski des Mines d’Alès"
+    },
+    {
+      "username": "quentinkyndt",
+      "full_name": "Quentin Kyndt"
+    }
+  ],
+  "followings": [
+    {
+      "username": "ema.rando",
+      "full_name": "EMA’Rando"
+    },
+    {
+      "username": "les_pantheres_ales",
+      "full_name": "Les Panthères 🐾"
+    },
+    {
+      "username": "emagolf_",
+      "full_name": "EMA Golf"
+    },
+    {
+      "username": "noajk46",
+      "full_name": "Noa Jean Karam"
+    },
+    {
+      "username": "dumas_paul0508",
+      "full_name": "Paul Dumas"
+    },
+    {
+      "username": "daniel.lra.2000",
+      "full_name": "Daniel"
+    },
+    {
+      "username": "alexandre__gautier",
+      "full_name": "A l e x"
+    },
+    {
+      "username": "luc_mullie",
+      "full_name": "Luc"
+    },
+    {
+      "username": "06d24edg",
+      "full_name": "Faysal"
+    },
+    {
+      "username": "adrien__grn",
+      "full_name": "Adrien Guérin"
+    },
+    {
+      "username": "laurent96542",
+      "full_name": "Laurent Letrouit"
+    },
+    {
+      "username": "clement.vzt",
+      "full_name": "Clément"
+    },
+    {
+      "username": "eliotdbt",
+      "full_name": "Eliott"
+    },
+    {
+      "username": "hugo_ctl",
+      "full_name": "𝑯𝒖𝒈𝒐"
+    },
+    {
+      "username": "alexylr",
+      "full_name": "Alexy"
+    },
+    {
+      "username": "adil.vsg",
+      "full_name": "🇲🇦🇫🇷"
+    },
+    {
+      "username": "arnaudgbv",
+      "full_name": "arnaud"
+    },
+    {
+      "username": "tremplin_de_la_meuh_folle",
+      "full_name": "Tremplin de la Meuh Folle"
+    },
+    {
+      "username": "grandbol_dart",
+      "full_name": "GBA - Grand Bol d’Art"
+    },
+    {
+      "username": "comuz_ema",
+      "full_name": "CoMuz'"
+    },
+    {
+      "username": "ffsu_montpellier",
+      "full_name": "SPORT U MONTPELLIER"
+    },
+    {
+      "username": "challengecentralelyon",
+      "full_name": "Challenge Centrale Lyon"
+    },
+    {
+      "username": "challenge_du_mineur",
+      "full_name": "Challenge du Mineur"
+    },
+    {
+      "username": "trams_entpe",
+      "full_name": "Tournoi Rhône-Alpes MultiSports"
+    },
+    {
+      "username": "ffsu_sportuniversitaire",
+      "full_name": "FF Sport Universitaire"
+    },
+    {
+      "username": "wec_minesales",
+      "full_name": "WEC - Week-End Culturel"
+    },
+    {
+      "username": "ema_scene",
+      "full_name": "EMAscène"
+    },
+    {
+      "username": "imt.ales_forum_entreprise2023",
+      "full_name": "Forum Entreprises 2023 IMT Mines Alès"
+    },
+    {
+      "username": "junior_imt_mines_ales",
+      "full_name": "Mines Alès Junior Études - MAJE"
+    },
+    {
+      "username": "cinema_mines_ales",
+      "full_name": ""
+    },
+    {
+      "username": "isf_ales",
+      "full_name": "ISF Alès"
+    },
+    {
+      "username": "val.mth",
+      "full_name": "valentin.mth"
+    },
+    {
+      "username": "emaffection",
+      "full_name": "EMA'ffection 💕"
+    },
+    {
+      "username": "ema.bobine",
+      "full_name": "EMA Bobine"
+    },
+    {
+      "username": "emaskiclub",
+      "full_name": "Ski Club des Mines d’Alès ⛷🏂"
+    },
+    {
+      "username": "clitoliste",
+      "full_name": "La Clitoliste"
+    },
+    {
+      "username": "tsiky_zanaka",
+      "full_name": "Tsiky Zanaka 🇲🇬"
+    },
+    {
+      "username": "tedx_imtminesales",
+      "full_name": "TEDxIMTMinesAles"
+    },
+    {
+      "username": "emastronomie",
+      "full_name": "Ema'stro"
+    },
+    {
+      "username": "ema_sterchef",
+      "full_name": "Ema'sterchef"
+    },
+    {
+      "username": "dragonsema",
+      "full_name": ""
+    },
+    {
+      "username": "les_asparrow",
+      "full_name": "Asparrow"
+    },
+    {
+      "username": "quentin.gsg",
+      "full_name": "Quentin Goasguen"
+    },
+    {
+      "username": "entr.ema",
+      "full_name": "Entr'Ema"
+    },
+    {
+      "username": "mael_lc.vitesse",
+      "full_name": "Mael Le Corre"
+    },
+    {
+      "username": "sacha_kzt",
+      "full_name": "Sacha Kosztur"
+    },
+    {
+      "username": "emaxassom",
+      "full_name": "EMA X AssoM 💥"
+    },
+    {
+      "username": "radiodingdong",
+      "full_name": "Radio Ding Dong 🎙️"
+    },
+    {
+      "username": "malolgc",
+      "full_name": "Malo Le Gac"
+    },
+    {
+      "username": "roman.bernard",
+      "full_name": "Roman Bernard"
+    },
+    {
+      "username": "bdi_pokumon",
+      "full_name": "BDI 2023 Mines Alès"
+    },
+    {
+      "username": "gala_imt_mines_ales",
+      "full_name": "Gala IMT Mines Alès 🐙"
+    },
+    {
+      "username": "les_coqs_ales",
+      "full_name": "IMT Mines Alès Foot"
+    },
+    {
+      "username": "plpatouillet",
+      "full_name": "Pierre-Louis"
+    },
+    {
+      "username": "la_mafias_bds",
+      "full_name": "Mafias"
+    },
+    {
+      "username": "jdteles",
+      "full_name": "João Daniel Teles"
+    },
+    {
+      "username": "ema_ultras",
+      "full_name": "Ema Ultras"
+    },
+    {
+      "username": "dindreaux",
+      "full_name": "Dindreaux"
+    },
+    {
+      "username": "lesblaireaux_alestt",
+      "full_name": "Les Blaireaux - Equipe de Tennis de Table des Mines d’Alès"
+    },
+    {
+      "username": "emavisual",
+      "full_name": "EMA Visual"
+    },
+    {
+      "username": "velociraptor_ema_vtt",
+      "full_name": "Vélociraptor Ema VTT"
+    },
+    {
+      "username": "aigles_ema",
+      "full_name": "Les Aigles 🦅 - Équipe de Badminton de l'EMA 🏸🔴⚪"
+    },
+    {
+      "username": "chaaaattes",
+      "full_name": "Chattes"
+    },
+    {
+      "username": "lestitisdales",
+      "full_name": "Tigresses d’Alès"
+    },
+    {
+      "username": "emaglisse2023",
+      "full_name": "Ema Glisse"
+    },
+    {
+      "username": "emamix_",
+      "full_name": "EMAMIX"
+    },
+    {
+      "username": "cratheres",
+      "full_name": "Crathères IMT Mines Alès"
+    },
+    {
+      "username": "gorilles_ales",
+      "full_name": "Les Gorilles d’Alès 🦍"
+    },
+    {
+      "username": "taureaux_rugby",
+      "full_name": "EMA Rugby - Les Taureaux"
+    },
+    {
+      "username": "les_aubergines_escalade",
+      "full_name": "EMA Escalade"
+    },
+    {
+      "username": "les_bouquetins_minesales",
+      "full_name": "Les Bouquetins - IMT Mines Alès Athlétisme"
+    },
+    {
+      "username": "orchestreminesales",
+      "full_name": "Orchestre des Mines d'Alès"
+    },
+    {
+      "username": "bonobonnes",
+      "full_name": "Bonobonnes 🏀🐒"
+    },
+    {
+      "username": "trail_des_mines",
+      "full_name": "TDM - Trail des Mines"
+    },
+    {
+      "username": "lesmagiciens_",
+      "full_name": "Les Magiciens 🧙"
+    },
+    {
+      "username": "bdeimtminesales",
+      "full_name": "BDE - IMT Mines Alès"
+    },
+    {
+      "username": "pompoms.minesales",
+      "full_name": "Les Cheertah 🎀"
+    },
+    {
+      "username": "bda_imt_ales",
+      "full_name": "BDA Mines Alès"
+    },
+    {
+      "username": "trophee_orlandini",
+      "full_name": "Trophée Orlandini 2023"
+    },
+    {
+      "username": "festival_meuh_folle",
+      "full_name": "Festival de la Meuh Folle"
+    },
+    {
+      "username": "vertmines_ales",
+      "full_name": "VertMines - IMT Mines Alès - 2ème Édition"
+    },
+    {
+      "username": "admissibles_imt_minesales",
+      "full_name": "Page de présentation de la vie associative de l’EMA"
+    },
+    {
+      "username": "ema_trail_",
+      "full_name": "EMA Trail"
+    },
+    {
+      "username": "cartel_imtatlantique2024",
+      "full_name": "Cartel 2024 IMT ATLANTIQUE"
+    },
+    {
+      "username": "les_aartificiers",
+      "full_name": "Les Artificiers 🎆"
+    },
+    {
+      "username": "bds_imt_ales",
+      "full_name": "BDS Mines Alès"
+    },
+    {
+      "username": "theo_gdn13",
+      "full_name": "Théo"
+    },
+    {
+      "username": "crocos_ema",
+      "full_name": "Crocos / Tennis Club École des Mines d’Alès"
+    },
+    {
+      "username": "wesminesales",
+      "full_name": "Week-End Ski des Mines d’Alès"
+    },
+    {
+      "username": "quentinkyndt",
+      "full_name": "Quentin Kyndt"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Charlotte Houzé; contenu : [Radio Ding Dong] x [Afterwork] 
+
+Heyy tout le monde ☺️ 
+
+Radio Ding Dong vous invite à venir manger son afterwork demain soir à partir de 19h en sdb !
+
+N’oubliez pas d’apporter une assiette et deux écocups si vous prenez une boisson 🍽️ 
+
+Le repas sera à 3,5 euros sans la boisson et 4 euros avec 🍹
+
+À demain ! 
+
+Ding Donguement vôtre 🎙️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [planning des sports ]X[guide des sports]
+
+Salut 👋 
+
+Voici un PDF présentant le planning des sports de la semaine ainsi que le guide des sports proposés à l’EMA !
+
+Sportivement votre', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [🏆🇫🇷Diffusion du match de CDM de rugby🇫🇷🏆]
+
+Le Trophée Orlandini et les Ultras vous invitent jeudi soir à 21h devant le bâtiment S pour supporter les bleus durant le match France-Uruguay ! 🏉🏉
+
+Alors venez en famille voir le match et profiter de la tireuse 🍻
+
+On vous attend nombreux pour une ambiance de folie 🤪
+
+Le trophée Orlandini et les Ultras
+
+Retrouvez nous sur insta : trophee_orlandini & ema_ultras', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Florian Bonnet; contenu : 🌲🏡 Les soirées en Pinède 🏡🌲
+
+Salut les Emayens,
+
+Je souhaite présenter au nom des locataires en Pinède notre mécontentement sur l''état des lieux. Bien que nous adorons tous nous réunir et profiter ensemble en ces lieux, il est temps de poser les choses et de parler du respect de notre environnement.
+Nous sommes tous responsables de préserver cet espace et de le maintenir propre. Il est regrettable de constater que certaines soirées se terminent par des couloirs remplis de déchets et des lieux communs laissés dans un état déplorable. Nos couloirs ne sont ni des poubelles, ni des toilettes et les locataires des appartements ne devraient pas avoir à supporter les coûts supplémentaires de nettoyage.
+
+Au nom de tous ceux qui apprécient cet endroit, nous vous prions de faire preuve de responsabilité et de nettoyer dans les plus brefs délais. Ce geste simple peut faire toute la différence. Ensemble, nous pouvons continuer à profiter de nos soirées en Pinède tout en préservant la propreté des lieux et le confort des usagers.
+
+Merci pour votre compréhension et votre coopération.
+
+#3Aaigri #Pinede #Sortezdubo', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [Cadeaux] ❤️‍🔥
+
+Chers dresseurs 📣
+
+Il est temps de vous annoncer les gagnants de la semaine d’intégration… 🥁🥁🥁
+
+Pour la chasse aux QR codes, les gagnants sont l’équipe 5 🎊 ! 
+Ce ne sont pas les seuls à gagner un cadeau car les 4 dresseurs dont le Pokudex est le plus rempli sont : Léonard Vincenzi, Célian Bellanger, Cyrian Salvado, et Emmanuel Lion 🎉 !
+
+Vos récompenses vous attendent en S23 à partir de 21h 😎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Thomas Mrn; contenu : [BAR] X [INAUGURATION DE LA TIREUSE]
+
+Vous l''attendiez, elle est là.
+
+Rendez-vous mardi 12 septembre de 19h à 23h afin de "tester" la nouvelle tireuse et de prendre un maximum de plaisir.
+
+La bise,
+Le bar
+
+#QuiPeutBattreLaFalaise
+#AdieuGérard
+#BarmanUnJourBarmanToujours', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [BDX]X[Parapente]
+
+Salut 👋 !
+
+Ce dimanche 17 septembre nous te proposons une journée parapente 🪂 ! C’est à Seynes à environ 20 minutes de la meuh qu’a lieu cette initiation. Les vols se font en duo 👬 avec un professionnel et pour s’y rendre des covoit 🚗 seront mis en place. Le prix de la participation s’élève à 40€ 💸 par personne qu’il faudra régler en espèce 💵 !
+
+En cas d’annulation de la sortie pour cause d’intempéries par exemple, la sortie sera reportée ou vous serez remboursés.
+
+Seules 20 personnes pourront participer, un Shotgun sera donc posté sur EMA promo le mercredi 13 septembre à 13h 🕐.
+
+Sportivement votre', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [Billetterie WEI] ❤️‍🔥
+
+Voici la billetterie du WEI, pour l’instant réservée aux 1A ⤵️
+
+https://boutique.lyf.eu/bdi/wei-pokumon
+
+Elle sera ouverte à tous à partir de jeudi 13h.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Conseil d’Administration] x [Compte Rendu]
+
+Bonsoir à toutes et à tous, 
+ce soir s’est tenu un nouveau CA avec à l’ordre du jour : présentation du Trail des Mines🏃, installation d’une clim en SDB❄️, intégration de 1A/3A aux CA👴👦, barrières de SDB, Radio Ding Dong 📻 et partenariats.
+
+Le Trail des Mines 🏃 s’est présenté avec son projet prévu pour la mi-novembre. Le bureau prévoit un événement composé de deux parcours de 10 et 17 km capable d''accueillir jusqu’à 300 participants. Emayens et alésiens y seront conviés ! Afin de pouvoir commencer à le préparer, le bureau nous demande un prêt de 1000 €💰. Cela permettra entre autres de payer les acomptes, et de préparer l’organisation. Le Cercle a accepté un prêt de 1200€, en s’alignant aux chiffres présentés par le bureau, pour faciliter leur organisation ! 🤩
+Vous pouvez vous renseigner sur l’événement en consultant leur Facebook: 
+https://www.facebook.com/profile.php?id=61551067860079
+
+Nous avons aussi discuté au sujet de l’installation d’une climatisation en SDB❄️. Le Cercle entrera en communication avec l’école et MAA afin de pouvoir avancer sur le sujet.
+
+La promesse de campagne concernant l’intégration des 1A👦 et 3A👴 au CA a aussi été discutée. L’idée est de permettre à ces deux promos de participer aux débats sur certains sujets durant les CA. Des canaux seront ouverts afin de partager les sujets en question et de permettre des discussions préalables.
+
+Le sujet des barrières en SDB a aussi été évoqué. En effet, ces dernières sont fortement endommagées et pour des raison de sécurité 🔓 l’achat de nouvelles barrières est actuellement étudié.
+
+Radio Ding Dong 📻 a réalisé une demande d’onde hertzienne, dans le but de relancer la radio, ce que le Cercle a bien évidemment accepté.🥳
+
+Le partenariat avec l''auto-école 🚘 Bruno a été renouvelé, ce qui permettra aux intéressés de bénéficier de réductions sur leurs heures de conduite !
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Maëlle Guichard; contenu : Quelqu''un a oublié sa gourde dans la bus', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [BDI] x [WEI] ❤️‍🔥
+
+Bonsoir jeunes dresseurs 👋
+
+Vous êtes beaucoup à vous poser des questions sur le Week-End Dresseurs qui arrive très prochainement, puisqu’il se déroule du vendredi 22 septembre au dimanche 24 septembre 😎.
+
+Nous sommes très heureux de vous annoncer que la billetterie ouvre lundi à 13h 🎊 ! Il y a 450 places, et la billetterie sera sur EMAPromo. La billetterie sera seulement ouverte aux 1A pour 3 jours, puis sera ouverte à tous à partir de jeudi 13h. 
+
+Deux options se présentent à vous :
+- une place SANS assurance à 105€ 🤠
+- une place AVEC assurance (individuelle multi-risque, rapatriement, annulation) à 130€ 😮‍💨
+
+Votre place au Week-End Dresseurs comprend votre logement pour les 2 nuits ; des packs bouffe pour les repas de vendredi soir, samedi midi et soir ; un accès à d’incroyables activités le samedi 💃🏻🕺.
+
+Pour ceux qui auront réussi le shotgun, nous allons organiser des permanences pour récupérer votre chèque de caution. ⚠️ Un chèque de caution de 100€ par personne est obligatoire (à l’ordre de ''WEI AND GO''). Nous vous donnerons les horaires des permanences dès que possible 🫡.
+(Pour ceux qui n’ont pas de chéquier, demandez à vos amis 🫂)
+
+En ce qui concerne le transport jusqu’à la mystérieuse destination, un shotgun ouvert seulement au 1A sera fait pour les 150 places de bus disponibles 🚌, le transport en bus est compris dans les 105€. La date de ce shotgun vous sera communiquée très prochainement.
+
+Ne loupez pas le shotgun du meilleur week-end de l’année 🚨 LUNDI À 13H SUR EMAPROMO 🚨
+
+Le BDI Pokumon', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Tom Boisau; contenu : Bonjour,
+
+J''ai une place de sdb pour ce soir mais je ne vais pas y aller. Je ne sais pas trop à qui la donner alors je la vend aux enchères. Je donnerai l''argent à l''association humanitaire Tsiky Zanaka.
+Je suppose que vous pouvez proposer en commentaire, je verrai avec la meilleur offre à 21h 
+
+Bonne soirée 😄', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Entr’EMA; contenu : [Entr’EMA]x[Classement des assos]
+
+Comme VertMines🌱, nous participons cette année au Classement des Associations🤩. C’est une compétition qui permet d’élire la meilleure asso étudiante de France🥇.
+Nous faisons ce concours pour inspirer les autres étudiants et leur montrer qu’il existe des associations solidaires étudiantes 🤝! Nous souhaitons aussi mettre en avant l’importance de ce type d’association, destiné à l’entraide, et leur monter que ce type d’association fonctionne !
+Alors n’hésitez pas à nous soutenir dans ce concours en votant 🗳️ via ce lien en donnant votre adresse mail 📧 (et en validant votre vote)
+https://vote.le-classement.fr/concours/2023/participations/141
+
+Le bureau Entr''Ema 🍎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Journée Intégration Sportive] x [Planning des matchs]
+
+Vous trouverez sur le document ci-contre la liste des équipes et des matchs de samedi !
+
+https://docs.google.com/spreadsheets/d/19hkOQ3PjGwS4_FWjLtbk08Qpz9IH1f2f4NnEM4r6Jew/edit?usp=sharing
+
+Il sera également possible de venir cotiser ou déposer les documents (licences FFSU et Certificats) durant toutes l’après-midi. 
+
+On vous attend dès 13h00 en pinède pour les premiers matchs de hand 🤾
+
+Un goûter vous attendra pour vous redonner des forces durant cette après-midi 🥞
+
+Profitez bien 💪', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [ Résultats SG] x [ SDB BDS ]
+
+Voici  enfin les résultats du SG !
+Quelques changements ont été adoptés pour réduire le bruit à l''entrée de la sdb . Ainsi il y n''y aura pas de places avec entrée libre cependant 270 places ont été validées par le SG au lieu de 200. Seul ces derniers seront autorisés à rentrer.
+
+Les bracelets seront à venir récupérer demain à la brocante ou l''après-midi lors des activités sportives en pinède. 🏃‍♂️
+
+🏈 Le thème de cette sdb sera la Rugby World Cup ! 🏈
+
+A demain soir,
+Sportivement votre 💪', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Anthony Durand; contenu : Salut tout le monde, j’ai perdu hier soir un petit porte carte comme celui-ci. Il contenait la carte de la meuh, de l’école et mon permis.
+BK offert à celui qui le retrouve
+Bisous', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : VertMines; contenu : [VertMines]x[Soutien]
+
+Bonjour à tous !
+
+Nous avons besoin de votre soutien aujourd''hui car VertMines s''est présentée au Concours des Associations organisé par le BNEI. 🥳
+
+Vous pouvez aider VertMines en lui permettant de faire partie des associations accédant à la finale du concours pour obtenir un financement ! 💵 😁
+
+Pour rappel, VertMines se tiendra à Alès le samedi 23 mars 2024.
+
+Lien du vote : https://vote.le-classement.fr/concours/2023/participations/131
+
+Le vote est rapide ! Il vous suffit juste de rentrer votre adresse email et de confirmer grâce au mail que vous recevez !
+
+Nous vous remercions par avance de votre soutien ! 😊
+Vertminement vôtre 🌱', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Gala] X [AfterWork]
+
+Bonjour à tous! Venez profiter de notre délicieux AfterWork concocté par nos com Restauration 🤤
+
+On vous attend lundi 11/09 à 20h en SDB 🤗
+
+Pensez à apporter des couverts et un ecocup ! 🍽️
+
+💶 Le repas est à **3,50 € **sans boisson et **4 €** avec.
+
+Venitiennement vôtre 🎭
+
+Le 96ème Gala', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [SG] x [SDB BDS]
+
+Voici le lien du sg de la sdb bds de samedi :
+
+https://docs.google.com/forms/d/e/1FAIpQLScLwBhrUtVLc3LCRQXkr1JyVnFUD9A347nMDcQ72PQntleK1A/viewform
+
+Sportivement votre 💪', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : A ce soir 🔥
+
+Pour votre plus grand plaisir… 😏', 0);

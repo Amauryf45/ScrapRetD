@@ -1,0 +1,181 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Fusion - L22,5; contenu : Bonjour à tous et surtout aux listeux, 
+
+Vous ne croyiez quand même pas qu’on avait oublié ? Qu’elle n’allait pas avoir lieu ? De toute évidence vous vous trompiez. 
+Le défi de la fusion L22,5 revient ce soir ! 
+
+6 personnes des listes BDS de cette année (3 fermiers de Les Asgriculteurs et 3 gaulois de Alesias) se verront remettre une convocation en main propre dans la journée. 
+
+Ils devront évidemment respecter le lieu, la date, l’heure et chacune des informations présentes sur cette convocation. 
+Ne loupez pas le décollage, ne manquez pas à l’appel ! 
+
+Des supporters sont autorisés pour aider nos champions dans cette épreuve, mais évidemment pour respecter la dignité de chacun, aucune vidéo ou photos ne seront autorisés. 
+
+Ce teaser vous donnera un avant-goût de ce qu’il va se passer ce soir …
+
+EDF ne maîtrise pas la fusion nucléaire, nous oui.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [DÉFIS TREZ X SECRÉTAIRE] 
+
+Cher listeux, 🐗🧑‍🌾
+
+Nous attendons 1 trez et 1 secrétaire de chacune des listes en pinède à 18h00. 🕕 
+
+Penser à prendre de l’alcool 🍻 et à manger 🥪 pour notre petite retrouvaille (pensez au végé, merci ✨) 
+
+De notre part nous vous avons préparez un petit dessert… 😋', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Mtz; contenu : [PETAS] X [DEFI] X [Reines du Shopping]  
+Bonjour la meuh ! Une nouvelle est arrivée à la villa !  
+Kimbourley et Sophie ont reçu, ce matin, une enveloppe celée dans laquelle une sublime nouvelle les attendait… 
+Elles ont un rencard DEMAIN SOIR !  
+Vu qu’elles ont bon cœur, elles aimeraient que 2 copines les accompagnent. 
+Alors ramenez 2 filles trop géniales les Les Asgriculteurs BDS et Alésias  hihi 🤗.  
+Rdv cowork du bas, samedi midi les girlz !
+
+Bisooous 💋 
+
+Pétassement vôtre 💅 
+
+#TinderCaAide
+#LendemainDeSoiréeDifficile
+#IlPayeLeRestau
+#HotelouLeCubi', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Mtz; contenu : [PETAS] X [Problème technique]
+
+Suite à un problème technique de leak onlyfan et de non floutage de la poitrine de Mme Kimbourley, le compte FB des PETAS à malheureusement été suspendu par Facebook lui même....
+
+Le STAFF s''excuse de la gène occasionnée et se permet de vous dire que :
+Le SECOND EPISODE DES PETAS EST DISPO SUR YOUTUBE, la vidéo a pas encore sauté, foncez !!!!
+EP2 : https://www.youtube.com/watch?v=3ij3pcE3Of4
+
+Et si vous êtes nostalgiques du premier épisode, le voici :
+EP1 : https://www.youtube.com/watch?v=5qJh14VkHpQ
+
+Pétassement vôtre 💅', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Asgriculteurs BDS; contenu : [Asgriculteurs]x[résultat sg five]
+Bravo ! Un groupe Messenger est créé avec les équipes gagnantes. Si vous n’êtes pas dans le groupe, contactez-nous !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Glisse; contenu : [EMA GLISSE] x [défi]
+yo les listeux Alésias  et Les Asgriculteurs BDS ! 🤙
+Tout est sur l''image, j''ai rien a ajouter 🛹
+Glissement votre  🏝️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : Alésias   et Les Asgriculteurs BDS , êtes vous prêts pour un défi où vos muscles et vos pinceaux ne feront qu''un ? 🎨🏋️‍♂️
+Enfilez vos casques 🪖 les plus brillants et sortez vos plus beaux tracteurs 🚜, car le Bureau de la Meuh Folle 🐮 vous invite à une épopée où le sport rencontre l''art en plein cœur de nos contrées festives ! 🎉
+Ralliez vos troupes (2 à 3 listeux) et rejoignez-nous ce samedi 27 Janvier à 9h00, au Bat B. Fakelists, on compte sur votre esprit espiègle pour pimenter le jeu !
+
+La Meuh Folle c''est demain et on lâche rien ! 🐮💛🩵🩷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Campagnes BDS] X [Défi BDE]
+
+Avant d’être élu, les membres du bureau étaient de braves célébrités de la mythologie grecque !!
+
+Oserez-vous venir les défier sur leur terrain favori ? Car même si Typhon a frappé au moment du SG du bureau BDS, ils n’ont pas perdu leur motivation sportive pour braver l’Olympe.⚡️
+
+Rendez-vous ce soir en MDC à 23h accompagné de quelques litres de votre cocktail de liste (les Dieux ont soif)🍾
+
+Circulairement vôtre⭕️
+Alésias  Les Asgriculteurs BDS', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : [DEFI BDS]x[WEV]x[🤙🤙🤙]
+
+Hellooo les listeux, ce soir vous allez pouvoir chiller un max pendant le défi WEV 🏄‍♂️🌊
+
+Pensez à enfiler un maillot de bain et à préparer un cocktail pour la liste adverse 👀
+
+🕦 Quand ? Aujourd’hui à 22h00
+📍Où ? Dernier étage du X
+👤 Qui ? 2 personnes de chaque liste
+
+À toute à l’heure ! 😁🤙', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : Chères listeuses, chers listeux,
+
+Le BDA vous propose un défi qui rime avec l''Italie ! 🇮🇹
+Vous devrez effectuer une sortie course à pied, dont le tracé gps dessine le mieux possible la botte de l''Italie ! 🏃
+
+Pour constituer une preuve irréfutable, cette sortie devra être publiée sur Strava, et cette publication devra être soigneusement accompagnée de photos/vidéos qui illustrent votre périple 🤩📸
+
+Choisissez soigneusement votre parcours, quelles rues ou routes vous emprunterez 🫵
+Car la liste gagnante sera celle qui produira le plus beau dessin (évidemment) ✨
+Vous avez jusqu''à Dimanche 19H pour nous envoyer le lien de la publication Strava 🤗.
+
+Bonne chance aux agriculteurs et aux gaulois 💪
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amael Ramdam; contenu : [E-CARTEL] x [Inscription]
+
+Bonjour à tous !
+
+Le E-CARTEL arrive très vite !
+Cette année c''est IMT Atlantique qui organise 🐙
+Il se déroulera sur deux jeux, League of Legend et Rocket League ! On enverra nos meilleures joueurs, vous avez jusqu''au mardi 30 à 14h pour vous inscrire.
+
+🚙 Pour Rocket League 🚙
+On a le droit à 3 titulaires et 1 remplaçant. À partir de début février, il y aura un match par semaine. 
+
+🧂 Pour LOL 🧂
+On a le droit à 5 titulaires et 2 remplaçants. Il y aura un match par semaine pendant 11 semaines et à la fin de ces 11 semaines, il y a les play-off.
+
+La participation est gratuite. 
+Pour participer il faut être de l''école et pouvoir justifier que vous l''êtes. Vous devez remplir le form avant mardi 30, 14h.
+
+[Lien pour s’inscrire] https://forms.gle/d7CR9PE1VCrdJhGt7
+
+PS: pour toute question, contactez Amael Ramdam', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Amael Ramdam; contenu : [DEFI BDS] x [EMA E-Sport]
+
+Salut à tous !
+Ce samedi se déroule le tournoi Mario Kurt 🍄🥰
+Nous attendons 2 grands joueurs par liste à 11h en U12 ! 🍺
+Ramener un cocktail serait bien vu 👀
+Les pétas et les De Gaulliste sont bien entendus invités 💅x💣
+
+PS : Les FL ramenez vous à boire 🙏 on a pas de budget', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : La Mafias; contenu : Chers listeux,
+
+4 parmi vous seront conviés à deux défis Mafias aujourd’hui et demain, les mafieux attendent leurs meilleurs gaulois et agriculteurs pour l’occasion.
+
+La mafias vous embrasse 🌹', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMAsana; contenu : # [Campagnes BDS] x [EMAsana]
+
+Salut à tous !
+
+Nous sommes ravis de vous inviter à notre événement unique en son genre : un bain froid spécial où gaulois, agriculteurs, résistants et stars de la téléréalité se rencontrent !
+
+Nous invitons les présidents des Asgriculteurs et Alésias  (+1 membre) ainsi que la participation s''ils veulent des Petas et @Gaulistes.
+
+🌼 Quand ? dimanche 10h
+
+📍 Où ? demander à Alexandre Guillaume
+
+🧺 Quoi ramener ? maillot, serviette et de quoi se sustenter (prenez du salé, du sucré)
+
+p.s. Alexandre Mapouata n''est pas venu la semaine dernière, c''est le moment de se rattraper 👀 tous les présidents l''année dernière sont venus !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Trophée Orlandini; contenu : [Défi Orlandini]x[Campagnes BDS]
+
+Chers listeux,
+
+Le bureau du Trophée Orlandini convie trois gaulois(e)s 🐗et trois agriculteurs/trices🥕 pour s’affronter lors du défi Orlandini 💃!
+
+Le premier défi sera d’amener le plus de goodies du trophée ! Vous êtes aussi priés d’amener 3L de votre meilleur breuvage🍻
+
+Ovalistiquement
+
+🤎🤎Le bureau du Trophée Orlandini🤎🤎', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Foyer; contenu : [Campagnes BDS] x [Défi Foyer]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Asgriculteurs BDS; contenu : [Asgriculteurs] x [shotgun terroir] 
+
+Il est là… 🧀🥓 ', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Asgriculteurs BDS; contenu : [Asgriculteurs] x [shotgun five] 
+
+Préparez vos équipes de 5 ⚽️ !
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alésias ; contenu : Nous sommes en 50 av JC. Toute la Gaule est occupée par les Romains. Toute? Non ! Un village peuplé d’irréductibles gaulois résiste encore et toujours à l’envahisseur. 
+
+✨Alésias✨
+
+🐗🐗🐗', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alésias ; contenu : [Afterwork] x [Alésias]
+
+Par toutatis ! Vous êtes tous invités à notre banquet en SDB !🍽️
+Venez vous régaler avec de la succulente cuisine gauloise à partir de 20h.
+N’oubliez pas de ramener une assiette et un eco cup. 
+
+Gauloisement vôtre, 
+Alésias 🐗🛡️', 0);

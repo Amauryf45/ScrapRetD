@@ -1,0 +1,180 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Médiév’art; contenu : [Médiév''art] x [Costumes] 
+
+Vous avez sûrement remarqué nos costumes médiévaux, ils ne passent pas inaperçus... Et pour cause! Ils ont été loués auprès de la costumière de la Semaine Cévenole d''Alès en personne. Ses productions sont incroyables et fort détaillées, nous la remercions grandement. ☺️
+Aussi, la location nous donne un avantage économique non négligeable, en plus de limiter notre impact environnemental ! ✨️
+
+Médiévalement votre, 
+Médiév''art 🏰', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Zavatt''art; contenu : [😱DEFI SURPRISE ZAVA🎪]
+
+Vous le savez le allô phare de la zava, qui se transmet à chaque apéro, c''est les zavattartes ! 
+À vous, chers listeux de défier la liste adverse, (en chifoumi c''est bonne ambiance), et le perdant aura le droit a une zavattarte 🥧
+La liste qui aura le plus entarté l''autre sera gagnante 🥰 on veut maaaaasse photos, vous avez jusqu''à dimanche 16h !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Amphi de présentation] x [Médiév''Art]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [CAMPAGNES BDA 2024] x [Défi Com Décors]
+
+Salut Salut 🤙
+
+C’est l’heure pour nous de tester la cohésion et le talent de vos super Com Décors, en peinture mais aussi en bricolage (et oui ^^) 🎨🔧✨
+
+👥 Qui : Les com décors des 2 listes
+📆 Date : Samedi 3 février 2024
+⏰ Heure : 11h
+📍 Lieu : Bat S
+ 
+PS: Hésitez pas à ramener à manger, on est en pleine croissance 😊 
+
+Artistiquement votre,
+Le BDA 🎨💖
+
+#VenezÇaVaÊtreSympa😈
+#ComDécorsLaMeilleurDesCom', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Zavatt''art; contenu : [DEFI ZAVA × ARTI]
+
+Tout est dit, à très bientôt les bizuths ❤️
+
+Ps : sentez vous très libre d''apporter vos meilleures denrées 😉', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : L’art-mour est dans le pré; contenu : RDV samedi matin, on vous emmène dans nos superbes champs 👩‍🌾
+Habillez-vous en conséquence et soyez en forme ! 🚜
+Amoureusement votre dans le pré 🌾', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Bohémi''Art; contenu : Défi [BOHÉMI''ART] x [MÉTAL''EMA]
+
+Parfait, je comprends. Voici une annonce concise pour le défi opposant les groupes médiéval et coups d''état dans un contexte inspiré de Fort Boyard avec l''ajout d''alcool :
+
+🏰🍻 Défi Épique à Tord Boyaux : Médiév’art  vs Coup d’Ét’art ! 🍻🏰
+
+Aventuriers intrépides, levez vos verres et préparez-vous à affronter des épreuves légendaires dans le cadre majestueux de Tord Boyaux ! Deux équipes, une médiévale et l''autre experte en coups d''État, s''affronteront dans des défis palpitants, mais avec une touche audacieuse : [touche audacieuse]
+
+🍺 Le Défi du Foie Solide : Les participants devront montrer l''étendue de leur courage, non seulement face aux épreuves classiques de Tord Boyaux, mais aussi avec un foie solide face à des surprises relevées. Lequel de ces groupes hétéroclites saura allier habileté médiévale et ruse politique tout en gardant son esprit vif ?
+
+🔗 Informations Pratiques :
+
+Date : [Date]
+Lieu : [Lieu]
+👑 Inscrivez votre équipe dès maintenant ! 👑
+
+Préparez-vous à vivre une aventure médiévale et politique comme jamais auparavant. Le Tord Boyaux n''a jamais été aussi prêt à accueillir des conquérants du Moyen Âge et des maîtres des coups d''État. Êtes-vous prêts à relever le défi ?
+
+#MoiTumParlesPasdArt
+#VraiDéfiRS
+#PlusRienàFumerSiCeNEstNousMêmes
+#ZZZzzzZzzaaAaAAAAa
+#MetalEMAencoreDebout
+#LeBarEstPlusBeauMaintenant', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Campagnes BDS]x[votes]
+
+Apres une belle semaine de défis, de allôs et d''activités il est temps de passer au vote !
+Qui des Asgriculteurs🌾 ou des Alésias🐗 prendra la succession du bureau ?
+
+Les votes sont désormais ouverts et ce jusqu''à 23h59 dimanche ! 🕛
+⚠️Pour rappel seul les cotisants BDS ont le droit de voter.⚠️
+Voici le lien :
+https://campus2.mines-ales.fr/course/view.php?id=143
+
+Pour tout problèmes techniques contactez Theo Bessiere.
+
+Bonne chance aux deux listes et que la meilleure gagne 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [CAMPAGNES BDA 2024] x [Défi Com Event] x [Tout est dans le visu]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : RockSt''Art; contenu : [Campagnes BDA] x [Défi Rockst''Art]
+
+Salut l''EMA !
+
+À l''occasion des campagnes 2024, la troupe de rockeurs organise sa dernière tournée EVER à la Meuh ! 👩‍🎤🧑‍🎤
+Devenus riches grâce à la thunasse des concerts, nous sommes aujourd''hui des investisseurs influents et nous souhaiterions savoir qui de la Médiév’art ou de la Coup d’Ét’art mérite d''être élue au conseil d''administration du BDA 💅😎
+
+On vous convie pour cela pour un défi enflammé 🐉🔥 :
+🕥 : 21h57 pétante
+📍 : Premier étage Bat Z
+
+Nous demandons aux deux listes de préparer un cocktail de bienvenue (différent du cocktail de liste). Le meilleur cocktail gagnera la première manche !
+
+La Rockst''Art 🤘💜
+Plus dans les bacs, on est trop vieux 😢
+PS : Défi sans alcool mais vous pouvez boire quand même
+PPS : La Cambriol''art et L’art-mour est dans le pré sont évidemment conviées
+
+#vieuxdossiers
+#CracheursDeFeu
+#soixanteneufvirgulequatrevingtdixhuitpourcents', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [Campagnes BDS] x [Trésorerie]
+
+Avant de passer aux votes, voici un petit récapitulatif des trésoreries de nos listeux! 💸
+
+Cet après midi, les votes vont ouvrir sur campus⏳⌛️
+
+On se donne rendez-vous mardi pour le résultat des votes et l''annonce du prochain Bureau des Sports ! 🏆🧑‍🌾  🐗
+
+Sportivement vôtre 🏅', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Campagnes BDS] X [Bilan carbone]
+Bonjour à tous,
+
+Voici le résultat des bilans d’émissions CO2 pour les deux listes BDS 🌳
+
+Bien joué aux Alesias avec un bilan de 3800 kgCO2e pour leur faible bilan (moyenne campagnes 2023 : 4600kgCO2e).👏
+
+⚠️ Cependant il est important de noter qu''une partie de la pâte à tartiner qu''ont utilisés les Alesias, contenait de l''huile de palme, ce qui est interdit* dans le réglement des campagnes. Une sanction avec un sens environnemental est à l''étude. ⚠️
+
+Pour ce qui est de la liste des Asgriculteurs, leur bilan est de 4600 kgCO2e au total, l''écart avec les Alesias est en majorité expliqué par le choix du boeuf, très émetteur de CO2e, pour leur AW.🐂
+
+Il est tout de même important de rappeler que les valeurs ne sont qu’un ordre de grandeur !
+
+Un grand merci aux deux listes pour leur communication active avec les Com Vert BDE ainsi que leur attention portés quant à l''origine de leurs textiles.✅
+
+ℹ️*En ce qui concerne l''interdiction de l''huile de palme pendant les campagnes : 
+
+L''huile de palme est aujourd''hui la première cause de déforestation en Indonésie et en Malaisie et cause la disparition de nombreuses espèces tropicales. A cela s''ajoute le travail d''enfant récurent dans les palmeraies de ces pays. ℹ️
+
+Circulairement vôtre ⭕️🌱', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : [SDB]X[Médiév’art]
+
+Voici les chevaliers qui mixeront ce soir 👑 
+Pour votre plus grand plaisir … 😏😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Voici les résultats des défis BDS de la semaine dernière ! 🔥', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Amphi de présentation] x [Coup d’Ét’art]', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Médiév’art; contenu : [Médiév’art] x [Résultats SG SDB]
+
+Il est temps de festoyer lors de notre célébration nocturne ! 🌃
+Rejoignez nous en SDB dès 23h pour la plus grande des réjouissances. Le thème sera : le voyage dans le temps ! Venez en tenue de votre époque préférée 👀 Le plus beau costume sera récompensé…
+Les places restantes seront distribuées à l’entrée 😌
+
+Médiévalement votre,
+Médiév’art 🏰', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Noëlie Esct; contenu : [Pompi’Art] x [Défi]
+
+🚨 Piiiimpooon piiiimpooon 🚨
+
+Les sold’art du feu de la Pompi’Art reprennent du service à la Meuh. 🚒 Ils souhaitent lancer une campagne de sensibilisations sur la sécurité à destination des EMAyens. ⚠️
+
+Nous mettons donc au défi la Médiév’art 🏰 et la Coup d’Ét’art 🥷 pour qu’ils réalisent une vidéo digne d’un Spielbeuge. 🎞️ Nous vous laissons carte blanche pour le thème. 😶
+
+Faites nous rire et régalez nous. 🤩
+
+Envoyez moi votre vidéo avant dimanche 18h. 🕑
+
+S’allumer, s’éteindre, les pires pompiers de Salindres 🚒', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : [EMA Visual] x [Défi]
+#toutEstDansLeVisu
+#soyezCreatifsSoyezLeBDA', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : L’art-mour est dans le pré; contenu : Toutes les infos sont sur notre affiche, on compte sur vous pour nous régaler avec vos meilleurs produits du terroir 🍷🧀🥓 
+Nous avons la chance d’accueillir des personnalités de choix pour cet événement ✨ soyez à la hauteur 
+A ce soir 🚜', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Campagnes BDA 2024]x[Défi Recettes Pompettes]x[Artificiers]x[Zavatt’art]x[Les anciens]
+
+Hey ! 👋
+
+On convie les gueux.ses et les complotistes à venir cuisiner dans la bonne humeur avec nous ce soir 😄
+
+Kissé ? : Prez + 1 Com Soirée
+
+C kan ? : Jeudi 01 février à 22h03 pétante 🔥
+
+Séou ? : Z25
+
+💗 A ramener : Votre cocktail de liste en masse, vos meilleur.e.s joueur.se.s et 4 oeufs 🥚
+
+La bise
+
+#MangerCestTricher
+#LaZavaEtLesArtiRéunis
+#SachaRendsLaTable
+#DuSelPasQueDansNosPlats', 0);

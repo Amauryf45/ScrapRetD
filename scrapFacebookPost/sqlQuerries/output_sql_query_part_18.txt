@@ -1,0 +1,95 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Miniconi; contenu : [Défi Iserm] x [Résultat]
+
+Cailloux trop petits.
+Cailloux trop béton.
+Match nul.
+Iserm vouloir vrais cailloux de la nature plus gros l''année prochaine.
+
+Bisous.
+Cailloux', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Nous avons ici deux vainqueurs pour ce défi BDX! 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Mtz; contenu : [PETAS] X [EPISODE 3]
+
+Du a un problème technique de type Big flemmasse + SDB l''épisode 3 n''est pas sortie hier soir ! 
+
+Nous l''avons donc posté ce matin vers 15h ! 👀
+
+Bisous bisous 😘
+
+A retrouver sur notre insta ou sur YouTube 🔥
+
+Le lien YT :
+https://www.youtube.com/watch?v=ODmviNv2VBs
+
+Pétassement vôtre 💅', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Margot Sablon; contenu : Bonjour, est ce que vous pouvez rapporter les banderoles Himalayas, draculas et karedas svp ? On va se faire taper sur les doigts 🙃', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Guillaume Rigaud; contenu : [DEFI TAUREAUX]
+
+Où : terrain de beach
+Quand : Dans 1h à 13h15
+Quoi : On sait pas 
+Qui : 3/liste ouvert à des taureaux ainsi qu''à des non taureaux', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Paulin Zumstein; contenu : Défi Dindreaux remporté par les Jardiniers malgré de super  Romains', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Mathis Baragnon; contenu : Bonjour,
+A la recherche de cette magnifique chaise de camping beige qui m’a été substitué pendant les activités pinèdes hier aprem, voir photo ci dessous.
+Cordialement,
+Un homme en deuil', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Paulin Zumstein; contenu : Chacune des 2 listes est conviée pour funky toutes les infos sont ci dessous', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Loïc Petit; contenu : Vieillement votre 🗻🎰🩸', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alésias ; contenu : Salut les gaulois ! 
+
+Voici les résultats du sg pour le superbe banquet que l’on vous propose en SDB demain midi. 🍖🍺🍇
+
+Saisissez vos choppes et soyez prêt à vous régaler, 
+
+Alésias 🐗', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Himalayas; contenu : [DÉFI HIMALAYAS] 
+RDV 22h30 EN S07 
+MONTAGNEMENT VOTRE 
+(On veut des bons joueurs)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gabriel Mtz; contenu : [PETAS] X [Résultats défi 1]
+
+Avant hier soir avait lieu le combat de choc qui opposé notre équipe de Petas d’élite, les 2 listes BDS ainsi que la De Gaulliste.
+
+Au cour d’un combat acharné, c’est la rapidité des cu et la justesse des réponses de Les Asgriculteurs BDS  qui leur font prendre beaucoup de points (score de 5). Les Alésias  auraient dû prendre la potion magique avant le défi….
+
+Les De Gaulliste étaient aussi en forme (on dirait que résister est la dernière de leur occupation) car ils se battaient au coude à coude avec les Asgriculteur.
+
+Malheureusement, dû à leur score beaucoup trop élevé, Les Asgriculteur et les De Gaulliste ne pourront rejoindre le casting à la différence de nos Petas qui prouvent encore une fois (score de 0) qu’elles sont chez elles. 
+
+C’est donc une victoire des Alésias (score de 1) que nous invitons à nous contacter s’ils désirent passer dans la prochaine saison.
+
+Pétassement vôtre 💅', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : Retour sur le défi com Perf avec quelques images. Pour ce défi pas de perdants mais deux vainqueurs !🏆
+Bravo aux deux athlètes!', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : Voici la Line up de ce soir ! 
+Pour votre plus grand plaisir …😏 
+Emamix VII', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Campagnes BDE] X [Votes]
+
+Bonjour à tous, 
+
+N''oubliez pas d''aller voter pour le prochain BDE!!  
+Qui de la Poudlist 🧙🏽‍♂️ ou de la Lucky List 🤠 voulez vous voir reprendre le flambeau après les EMAthéniens?⚡️ 
+
+Toutes les explications pour voter se trouvent sur Emapromo:
+https://www.facebook.com/groups/3465543800402596/permalink/3554878531469122/
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alésias ; contenu : [Alésias] x [Résultat SG SDB] 
+
+On vous attend nombreux à la fête du village Alésias à partir de 23h. 
+
+🐗🐗🐗', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alésias ; contenu : SG pour le banquet qui régalera vos papilles gustatives demain 12h en sdb :
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Alésias ; contenu : https://forms.gle/o5E2yJWitCiUw64K7', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Camilla Satler; contenu : pull oublié au Soccer Team Alès !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA ski club; contenu : [Ski-Club]x[Défi]x[FautQuonFasseAuMoinsUnTrucCetteAnnee]
+
+Salut à toi jeunes montagnards🏔️! 
+Enfile tes bottes, attache bien ton casque, ça va aller vite… 
+Au programme, descentes vertigineuses, terroir montagnard et plaisir !!
+Le Ski Club te donnes RDV en W14 À 20h pour affronter le Mont Pinède.
+Matériel nécessaire: lampe frontale, ecocup et une boisson de ta liste !', 0);

@@ -1,0 +1,105 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louis Le Strat; contenu : Trouve bat S. Un certain François', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Benjamin Vairon; contenu : Objet trouvé vers bat D', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Adam XB; contenu : [Objet trouvé] clé Y19?', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Emamix; contenu : La line Up de ce soir 🔥
+On espère vous voir nombreux !
+
+Pour votre plus grand plaisir …😏', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Carmen Goerrian; contenu : Air pod trouvé au niveau du bat O
+À venir chercher à l’accueil', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Respos Vss Mines Alès; contenu : - - - English version below - - - 
+[VSS] x [Respos VSS 173] 
+
+Bonjour à toutes et à tous ! ☀️
+
+En cette période d’intégration, nous souhaitions vous présenter les élèves qui luttent activement contre les violences sexistes et sexuelles :  
+🤍LES RESPONSABLES VSS🤍
+
+Les respos VSS sont 6 étudiant.e.s qui travaillent ensemble à la sensibilisation des élèves contre les violences sexistes et sexuelles. Ils seront présent tout au long de l’année, prêt à vous écouter, à vous informer, et à vous venir en aide en cas de besoin. 😊
+
+Accompagnés par les com VSS du BDE, nous nous engageons à accompagner les clubs et associations dans leurs évènements, que ce soit dans le cadre de l’école où à la maison des élèves. Si vous en sentez le besoin n’hésitez pas à nous contacter que ce soit par téléphone ou sur messenger. Vous trouverez ces numéros sur ce post mais également sur l’application Pokumon et dans le livret d’accueil.💛
+
+ZURITA Mathilde Com VSS : 06 40 99 35 74 
+BRUYERE Axel Com VSS : 07 83 41 13 82 
+FUMARD Amaury : 06 51 63 42 84 
+LE QUELLEC Anne : 06 63 65 66 06
+MONTAT Gabrielle : 07 83 57 71 29  
+DIJOUX Wendy : 06 60 94 89 86 
+
+En vous souhaitant une bonne journée et une bonne intégration ! 
+Vos Respos 173😇
+
+- - - [ENGLISH VERSION] - - - 
+Hello everyone !☀️
+In this period of integration, we would like to introduce you to the students who are actively fighting against gender and sexual violence:  
+🤍THE VSS LEADERS🤍
+
+The VSS leaders are 6 students working together to raise awareness of gender-based and sexual violence. They''ll be there all year round, ready to listen, inform and help you if you need it. 😊
+
+Accompanied by the BDE''s VSS committee, we are committed to supporting clubs and associations in their events, whether at school or at the student house. If you feel the need, don''t hesitate to contact us by phone or messenger. You''ll find these numbers on this post, but also on the Pokumon application and in the welcome booklet.💛
+
+ZURITA Mathilde Com VSS : 06 40 99 35 74 
+BRUYERE Axel Com VSS : 07 83 41 13 82 
+FUMARD Amaury : 06 51 63 42 84
+LE QUELLEC Anne : 06 63 65 66 06
+MONTAT Gabrielle : 07 83 57 71 29  
+DIJOUX Wendy : 06 60 94 89 86 
+
+Wishing you a good day and a funny integration ! 😇', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Brocante] X [Crêpes]
+
+Salut ! On espère que votre intégration se passe bien !
+
+Pour faciliter votre installation, on organise une brocante Samedi 9 Septembre au bat S de 9h30 à 13h.
+Il y aura également un stand de crêpes pour votre petit dej 🥞 (50 centimes la crêpe 🤑).
+
+Vous pourrez y trouver :
+Frigos ❄️
+Plaques de cuisson 🔥
+Matériel de sport du BDS 🏈
+Ustensiles de cuisine 🍽
+Meubles 🪑
+Vêtements 👚
+
+Comment ça se passe ?
+Si vous avez quelque chose à vendre, vous pourez le déposer au bat S à 9h (jusqu''à 10h max) avec votre numéro de téléphone  et le prix demandé.
+Les achats se feront ensuite par LyfPay 📱
+
+Passez une bonne semaine d''inté et on vous attend nombreux ! 🤩', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Nathan Derre; contenu : Salut les loustiques.
+C''est Belmont.
+
+J''ai tout perdu surtout mes clés.
+Sauvez moi j''ai vraiment plus rien.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : À tous les 2A, 3A et anciens 📣
+
+Alors que l’inté n’avait pas encore commencé, nous avons reçu des plaintes des voisins. Soyons raisonnables pour que les 1A aient le droit à une vraie intégration et que tout se passe bien pour tout le monde, sans que ce qui s’est passé l’année dernière se répète.
+
+Nous vous invitons notamment à faire très attention si vous mettez de la musique DÈS MAINTENANT, surtout si c’est à l’extérieur ou même dans un appart avec les fenêtres ouvertes.
+
+Sachez que la police est très vigilante et nous a sous son radar, elle nous a aussi prévenu qu’elle n’hésiterait pas à intervenir en cas de grosses nuisances, et que si elle y est obligée, elle placera des gens en garde à vue. ⚠️ La police a été appelée et est venue hier soir.
+
+MAA n’aura aucune tolérance, les responsables de grosses nuisances seront convoqués. Nous rappelons également que les fumigènes ne sont pas autorisés.
+
+Faisons tout pour pas priver les 1A (et nous mêmes) de ces 11 prochains jours. On espère vous régaler jusqu’à dimanche prochain 💪
+
+Le BDI Pokumon', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [EMA Promo 2023 -2024] × [BIENVENUE]
+
+Bonjour à tous ! 👋
+
+Bienvenue sur le nouvel EMA Promo de l''année 2023 - 2024 ! 😁
+Ce groupe est le point de repère pour tous les Emayens: la communication des clubs et associations passe par là. 📌
+Vous y trouverez par exemple vos objets perdus📱, les résultats sportifs des équipes de l''école 🏆, des annonces d''études de la Junior Entreprise 👔, des comptes rendu des réunions hebdomadaires du BDE ⭕️, etc.
+Vous retrouvez aussi en bannière du groupe le planning des événements de la semaine, développé par vos Comcom BDE. 🗓️
+
+Enfin, voici d’autres pages qui pourraient vous être très utiles :
+
+🛋️ le bon coin de la meuh : pour revendre les affaires que vous n''utilisez plus, entre Emayens
+🚗 Ema covoit : on peut trouver des propositions de covoiturage sur de longues distances, pour le retour des vacances par exemple 
+🧑‍💼IMT Mines Alès - Offre d''emplois/stages/thèses : Comme son nom l''indique, il s''agit d''une page où les Emayens peuvent communiquer des offres professionnelles
+✂️ Les Bons Plans de la Meuh : moyen privilégié pour communiquer sur ses horaires à la meuh de notre chère coiffeuse Laetitia Layre - peut aussi servir pour proposer des cours particuliers et d''autres jobs d''étudiants
+
+Avec toutes ces informations en main, vous pouvez maintenant profiter pleinement de votre expérience à l''EMA. 😉
+
+Circulairement vôtre ⭕️', 0);

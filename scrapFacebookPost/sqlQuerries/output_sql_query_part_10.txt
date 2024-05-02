@@ -1,0 +1,231 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [WEC] x [Résultats SG]
+
+Bonsoir à toutes et à tous ! 👋
+
+Voici le nom des heureux et heureuses élus.es qui pourront participer au WEC 2024 à Florence ! 🇮🇹👏
+
+Nous avons été très surpris du nombre de places prises lors du SG pour les cotisants BDA, nous ne nous attendions pas à un tel nombre de participants intéressés ! 🤯
+Nous sommes actuellement en négociation afin d’obtenir des places en plus, c’est pourquoi nous avons mis en place une liste d’attente. Ce serait une dizaine voire une quinzaine de places sans bus, en plus ! Nous vous tiendrons évidemment au courant des avancées. ☺️
+
+Nous tenons à nous excuser sincèrement auprès des cotisants BDA de dernière minute qui n’ont pas pu avoir leur place ou encore des cotisants BDE, qui ne sont pas prioritaires par rapport aux cotisants BDA.😔
+Encore une fois nous ne nous attendions pas à un tel résultat ! 
+
+Pour ceux qui voient leur nom sur la liste des participants 🥳, vous pouvez d’ores et déjà payer votre place via le lien de la billetterie ci-dessous 👇
+https://boutique.lyf.eu/bda/wec
+
+Le choix des activités se fera plus tard via une autre billetterie.😉
+
+⚠️Si vous voulez vous désister, de la liste des participants ou encore de la liste d’attente,  merci de vous faire connaître au plus vite en contactant Léa Goarin sur Messenger ! ⚠️
+
+Un grazie di cuore, e... a presto 🇮🇹', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDS Mines Alès; contenu : [AMPHI CARTEL] x [CHALLENGE INNOVATION]
+
+Salut à tous 👋 !
+
+Le Cartel c’est pour bientôt ! Un amphi de présentation aura lieu lundi 26 février à 12h45 ! Préparez vous à assister au plus bel événement de l’année 🔥
+
+Cette année, le Cartel de Nantes organise un Challenge Innovation afin d’élire le meilleur projet d’innovation sur le thème du sport, et tout ceci dans une optique de développement durable ! ♻️
+
+Vous trouverez les règles et détails dans la pièce jointe ci dessous ⬇️
+Si vous avez un projet en cours dans le cadre scolaire, dans le cadre d’une start-up ou encore à travers une réflexion personnelle, et cela dans le thème du sport ⚽️ 🏀🏉 , n’hésitez pas à contacter notre président Theo Bessiere pour avoir plus de détails !
+
+Pour info, ce challenge est une épreuve annexe qui permet de ramener des points supplémentaires à son école 🥇 !!
+
+Sportivement votre 🏆', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Comité Oenologie] x [Candidatures au VIIIe bureau du COMA]
+
+Bonjour à tout les bons vivants de l’EMA et plus particulièrement à nos chers 1A 👀
+
+Le VIIème Comité Oenologie des Mines d’Alès déclare les candidatures pour le nouveau bureau 2024-2025 OUVERTES 🥳🍷
+
+Nous faisons appel à tous les premières années qui adorent les dégustations, ceux qui attendent par dessus tous ces moments de convivialité 💃, ceux qui ne ratent aucun SG et qui ont les mains moites à 12h59 ⏰, ceux qui ne se lassent pas d’entendre nos chers cavistes Loïc et Simon nous enivrer de connaissances œnologiques, ceux qui partagent cette passion du vin et du terroir avec les copains tout simplement 😁🧀🥩
+
+Pour postuler, rien de plus simple :
+
+ · Tu as jusqu’au JEUDI 29 FÉVRIER 20h (date de la deuxième session de la dégustation de la Saint-Valentin) pour nous prouver ta motivation et ton envie de rejoindre le 8ème bureau ✅
+ · Tu envoie ta candidature au format de ton choix (lettre de motivation, vidéo, diaporama, affiche, poème, … bref soyez créatifs) à la page FB du Comité sur Messenger 🫡
+ · Nous annoncerons la composition du 8ème bureau courant mars 📅
+
+Vous avez donc toutes les vacances pour nous préparer des magnifiques candidatures, on a hâte de voir ça 🍷
+
+⚠️ N’oubliez pas le SG duo (Lundi 26 Février à 13h) pour la deuxième session de la dégustation de la Saint-Valentin ⚠️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Camilla Satler; contenu : Salut, j''ai oublié ma doudoune noire C&A hier en SDB, si quelqu''un l''a retrouvé n''hésite pas à me contacter ! Merci 😁', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Gala IMT Mines Alès; contenu : [Gala] x [Annonce du thème] x [Rejoignez cette épopée🌟]
+Le suspens est à son comble... Heureusement, l’heure est venue pour l’équipe du 97ème de vous annoncer, enfin, le thème du Gala 2024... 
+Nous vous souhaitons un bon visionnage, et surtout, de très bonnes vacances !
+Pour nous rejoindre c''est par ici : https://forms.gle/hBUZkg5wYZ5P1iAJA
+Le 97ème 🫶', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Remerciements] X [CAMPAGNES]
+
+Bonjour à tous, 
+
+Les 3 semaines de campagnes sont maintenant terminées et nous tenons à tous vous remercier pour leur bon déroulement. 👏 C’est grâce à vous que nous avons pu mettre en place ces campagnes dans de bonnes conditions et cela permettra également aux prochains bureaux de reprendre sereinement les événements de l’année prochaine.
+
+Il y a 4 semaines nous avons posté  un message de prévention sur cette même page, tous les points qui y ont été abordés, ont été entendus et appliqués. Nous vous remercions de votre implication et espérons que ces bonnes conditions vont perdurer pour continuer à autant profiter des événements de la vie EMAyenne.🥳
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : [WEV]x[Résultat SG]
+
+ Hellooo les riders 🤙
+
+Voici finalement les résultats du SG WEV🏄‍♂️
+(Regardez la vidéo en premier 👀)
+ 
+Bravo à tous, on a hâte de se régaler avec vous !!🏖️☀️
+
+On revient vers vous très rapidement pour toutes les informations nécessaires 😉
+
+Le WEV qui vend du rêve 🌊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [SG WEC] x [Cotisant BDA] 
+
+Buona fortuna 🇮🇹 
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Mathieu Fabre; contenu : Salut ! J''ai perdu ma gourde à la Meuh en début de semaine près des poubelles bât N, si quelqu''un l''a trouvée et me la rend je hurle de joie', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Louis Blmnt; contenu : [ SDB 3A ] x [ Respos VSS ]
+
+Bonsoir 👋
+
+Afin que notre SDB Duo se passe pour le mieux, voici les numéros du Duo Respo VSS de la soirée : 👊
+
+Louis Belmont : 07 67 87 67 16
+Jay Timan : 07 77 34 10 98
+
+Bonne Saint Valentin, Bonne désintégration 🥳🌹💥', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Théo Nicolau; contenu : 🫶', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Intégration Mines Alès 2024; contenu : ❤️‍🔥 [Recrutement BDI 2024] ❤️‍🔥
+
+Suite aux élections des nouveaux BDE, BDS, et BDA, il est temps de lancer les candidatures pour le Bureau de l’Intégration de la rentrée 2024 🥳 !
+
+Vous le savez, l''inté est un moment marquant pour les emayens, surtout pour les nouveaux étudiants. Il est donc indispensable d''avoir des organisateurs motivés, responsables et prêts à assurer le travail impliqué 🫡. Si vous voulez marquer les esprits des prochains arrivants, c''est le moment de candidater !
+
+Pour cela, remplissez le forms suivant avec vos 3 postes préférés, classés par ordre de préférence. Il y aura ensuite des entretiens de motivation avec les membres du bureau actuel 👩‍💼🧑‍💼
+
+🔗 : https://docs.google.com/forms/d/e/1FAIpQLSd0Jn7C3MwmWdFeiq6VIQs2dHTRMUV3nIizuI9wPt5B9scraA/viewform?usp=pp_url
+
+La date limite de candidature est le lundi 4 mars ⏳
+
+Les postes à pourvoir sont les suivants :   
+• Un.e président.e
+• Deux vice-président.e.s    
+• Un.e trésorier/ère
+• Un.e secrétaire général.e
+• Un.e responsable communication    
+• Deux hommes/femmes de fer    
+• Un.e respo bar
+
+N’hésitez pas à nous contacter dès maintenant si vous avez des questions sur le travail du BDI, ses différents postes et leurs responsabilités respectives 🤓. On sera très contents de répondre à vos questions !
+
+📣 Petit message pour le respo BDI du nouveau BDE : vu que ton « double-poste » est tout nouveau, ton rôle et tes responsabilités au sein du BDI ne sont pas encore fixés, on éclaircira ça ensemble 😉
+
+Pour conclure, on n’y croyait plus mais il est enfin là (mieux vaut tard que jamais 🤠)… Voici l’aftermovie du WEI (en deux parties) réalisé par le tour-op 🎥 !
+
+Le BDI ❤️‍🔥', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : [SG]x[WEV]
+
+Voici le lien du SG pour le WEV :
+
+https://docs.google.com/forms/d/e/1FAIpQLSf3-pLwrB_ngUBg952INj91FPCOMCdcL3UXYsIvIJIUYKv24g/viewform?usp=sf_link
+
+Le WEV qui vend du rêve 🌊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Ema''it; contenu : [EMA''IT] X [HACKATHON]
+L''association EMA’IT vous propose de participer à un évènement unique : un Hackathon accompagné d''épreuves de développement, prévus pour le 28 février ! 📅✨
+
+Cet événement est conçu pour tous - aucune compétence particulière requise, juste votre enthousiasme et votre envie de participer !  
+Au Programme : * Hackathon & Épreuves de Développement. * 
+Restauration sur Place : Profitez de pizzas gratuites pour tous les participants. * 
+Lots à Gagner : Des prix excitants vous attendent quelque soit votre niveau.  
+
+🎉 Participation Gratuite 🎉 Afin de nous organiser au mieux, il est nécessaire de s’inscrire sur le form suivant :
+https://forms.gle/wDPQ8vp9rF9dvkis7', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Adelie Marrec; contenu : Bonjour,
+Mon train de vendredi pour Nantes est annulé. J''envisage de faire le trajet en voiture vendredi à partir de midi, je propose donc un covoiturage. Je peux m''arrêter sur le trajet si vous n''êtes pas de Nantes même. Je recherche surtout des personnes qui pourraient prendre le volant pour se relayer. 
+N''hésitez pas à me contacter !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : [WEV]x[Recap]
+
+Hello les riders 🤙🏄‍♂️
+
+Petit rappel en cette belle journée ☀️ :
+
+Le SG du WEV est DEMAIN à 13h sur EMA PROMO ⏳
+
+Le recap complet de l’amphi est sur Facebook : 
+
+https://www.facebook.com/groups/3465543800402596/permalink/3566615623628746/
+
+Il y a 90 places dont 10 maximum pour ceux qui ne souhaitent pas surfer et juste profiter de la plage, des Landes, des ballades et des soirées 💃🕺
+
+Peu importe votre question n’hésitez pas à nous envoyer un message 😉
+
+https://www.instagram.com/wev_ales?igsh=dzUxY3QyZzh3Ynhr
+
+Ridement vôtre,
+Le WEV qui vend du rêve 🌊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Arnaud NA; contenu : [AW] x 🦅[Aigles] x [Blaireaux] 🦡
+
+Bonjour à tous !
+
+Ce mercredi soir à 20h vous attend l''AW des Aigles x Blaireaux 🤩
+
+Venez vous régalez et n''oubliez pas vos couverts + ecocup 🍽️
+
+À ce soir ! 🦅🦡', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Résultats campagnes BDA 2024]
+
+Après une semaine riche et intense en allos, défis, activités et soirées, nous souhaitons avant tout féliciter les deux listes pour tout leur travail, leur implication et leurs efforts pour nous avoir fait passer une semaine de campagnes mémorable. 👏🌟 
+
+Hier soir, a eu lieu l''annonce de la liste gagnante ! La liste qui reprendra le Bureau Des Arts l''année prochaine et qui succèdera aux Art''ificiers est... 🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁🥁
+
+la Coup d''Ét''Art 🥷✊️ ! 
+
+Voici le détail des résultats 🗳️ :
+
+• Coup d’Ét’Art : 267 votes (61,38%) 
+• Médiév’Art : 146 votes (33,56%)
+• 17 votes blancs (3,91%) 
+
+Nous allons adopter un fonctionnement en double bureau jusqu''à leur prise de fonction complète en mai. 🤝 
+
+Nous tenons également à remercier les Fake listes qui nous ont régalés avec leur thème et leur bonne humeur ! Bravo à la Cambriol''Art, qui s''impose face à l''Artmour est dans le pré ! 💰👏 
+
+• Cambriol''Art : 308 votes (70,8%)
+• Artmour est dans le pré : 95 votes (21,84%)
+• 26 votes blancs (5,98%) 
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : WEV Mines Alès - Week-End Vagues; contenu : [AMPHI WEV]x[RÉCAP]  
+
+Salut les riders ! 🤙 
+
+Alors chauds pour aller surfer à Vieux-Boucau du 29 mars au 1er avril ?🔥
+
+Voici le récap de notre amphi avec toutes les informations dont vous aurez besoin ! N''hésitez pas à nous dm si vous avez des questions 📨 
+
+Le shotgun est jeudi à 13h sur Ema Promo⏳️ 
+
+Il y a 90 places dont 10 maximum pour ceux qui ne souhaitent pas surfer et juste profiter de la plage, des Landes, des ballades et des soirées 🕺💃 
+
+Les résultats du sg seront publiés jeudi soir à 20h !
+
+Ridement vôtre, 
+🌊 Le WEV qui vend du rêve 🌊', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Tom Herrou; contenu : [EMATrail]x[Course d’orientation]x[SG]  
+
+Bonsoir à tous, 
+
+jeudi à 14h EMATrail organise une course d’orientation📍
+
+que nous avons décidé d’ouvrir à tous les Emayens 👨‍👩‍👧‍👦 
+
+Pour un total de 15km et de 550m de D+, c’est un super entraînement pour le Raid Vinci, que nous déconseillons aux débutants. 
+
+(Nous vous enverrons les coordonnées, nous pourront faire des co-voits mais il faudra quelques voitures) 
+
+Étant donné que le nombre d’équipe est limité à 15 nous organiseront un SG maintenant ⌛️ sur EMApromo où il faudra s’inscrire par équipe de 2 👫!
+
+[https://forms.gle/aDBvcAzU51Ma53B58](https://forms.gle/aDBvcAzU51Ma53B58)
+
+📷
+
+**Course d''orientation jeudi 15 fevrier 14 h**', 0);

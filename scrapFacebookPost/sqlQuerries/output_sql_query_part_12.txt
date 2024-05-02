@@ -1,0 +1,164 @@
+insert into public.post (created_at, user_id, page_id, repost, circle_id, data, content, type) values (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [CAMPAGNES BDA] x [Résultats des défis]
+
+Salut à tous ! 👋
+
+Voici le récapitulatif des résultats des défis des campagnes BDA 2024 !
+Des duels serrés entre la Coup d’Ét’art 🥷et la Médiév’art ⚔️ !
+
+Nous posterons demain les comptes de Trésorerie 💸 de chaque liste et le bilan carbone arrivera très vite. 🌱
+
+Artistiquement vôtre,
+Le BDA 🎨💖', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Jules Savi; contenu : Live de la finale de qualification aux championnats de France de rugby dans 10min sur le compte Insta des Taureaux : 
+
+https://www.instagram.com/taureaux_rugby?igsh=MXEyamtjdjRmbnZoNQ%3D%3D&utm_source=qr', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : **https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1345255116131294/**', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Le Dindon Attaque; contenu : [SDB DINDON] × [SG]
+
+La sdb dindon c''est ce soir 😱
+À très vite 
+
+Glougloument vôtre 💛
+
+', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [ Vidéo teaser ] x [ Illumination ]
+
+Illumination ça ressemble à quoi ? 🤔
+
+Cette petite vidéo vous en donne un aperçu !😍
+
+Prenez vos billets !🤩
+
+https://boutique.lyf.eu/cercle-des-eleves/illumination2024?fbclid=IwAR3cgNt3YB43CaiNgbXZKf5Z8ay_H2sBGeHhIdNbbi_jsCln9wYhKIG8pas_aem_AR4gI7TaKlZpY2wjJi1g4IOz5tNyod2nkpTDb2m2XGHZpCYZV6TZGLYk6NSG1sCxJfA
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Cabarema; contenu : [Résultats  des défis Cabar’Ema] 
+Samedi après-midi, nos intrépides chevaliers ont défié nos révolutionnaires  déchaînés lors d''un jeu d''équilibre épique sur la slackline. L''objectif  ? Effectuer un aller-retour aussi rapidement que possible avec l’aide  d’un bâton. Une mention spéciale à Romain de la Mediev’art, qui nous  étonné par son équilibre hors norme ! Le défi s''est ensuite transformé  en une session Magie. Un grand merci aux 2 listes qui ont bien voulu  nous montrer leurs talents d’apprenti magicien en essayant de nous  bluffer. Le bureau Cabarema a passé un très bon moment aux côtés des  listes et a décidé d''accorder un ex-aequo bien mérité : la Medievart  décroche la palme du premier défi, suivi de près par la coup d’Étart  pour le deuxième défi.
+Cirquement, l''équipe Cabar''Ema', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [WEC] x [Amphi de présentation] x [Reporté] 
+
+Bonjour à tous 👋
+
+Comme vous avez pu le voir, l’amphi de présentation du WEC 2024 à Florence devait avoir lieu ce vendredi 9 février ! 
+Cependant pour des raisons pratiques, nous reportons la date de l’amphi au Mercredi 14 février, toujours en Pasteur à 12h45 !
+
+N’hésitez pas à suivre la page insta du WEC 😉 : https://www.instagram.com/wec_minesales?igsh=MWdmemk3eDJlajl3ZA==
+
+A presto 🇮🇹', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Vol d''accessoires et de costumes] x [Rendez les aux listeux.ses svp]
+
+Bonjour à tous,
+
+⚠️ La couronne du roi des Médiév''art a été volée au moment des reveals et ils ont besoin de la récupérer ! La couronne ne leur appartient pas et appartient à la couturière qui leur a gentiment tout prêté ! ⚠️
+
+Pour le respect de son travail et du matériel emprunté, il faut que la couronne leur soit rendue. 
+
+Si vous avez d''autres objets que vous avez empruntés, c''est pareil rendez les, ils ne peuvent pas se permettre de payer la caution ! 
+
+Hésitez pas à contacter quelqu''un de la liste maintenant pour tout objet emprunté ou que vous auriez vu !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Résultats] x [Défi Com Events]
+
+Samedi dernier, on a pu rencontrer les 6 joyeux lurons des coms évents 🤩 Médiév’art⚔️ et Coup d’Ét’art📢. Ils ont pu s''affronter durant toute la matinée. 
+Au bout d''une bataille acharnée, c''est la Coup d’Ét’art qui s''impose d''une courte tête 👏.
+
+Merci à tout le monde, c''était un super moment, hâte de vous revoir en poste pour les futurs vainqueurs !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/groups/LaGaleriebyEMAVisual/permalink/1344744909515648/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Md''EMA; contenu : [Defi] x [Campagne BDA] x [MD’Ema]
+
+Bravo à la Coup d’Et’Art qui gagne notre défi ! 
+
+Avec de supers tee-shirts , aucune des 2 listes n’ont démérité ! 
+
+Merci encore et rendez vous ce soir en SDB pour notre AW !', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA Visual; contenu : https://www.facebook.com/share/p/RLY9ooQDZpsAQ167/', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : EMA''Sterchef; contenu : [Meuh d’Argent] x [SG]
+
+Voici le lien du SG : 
+https://docs.google.com/forms/d/e/1FAIpQLSdWtP8LkFVHBc_R8_tKc_aula9wszIU_vU-bEe8nyX6aEJZwQ/viewform?usp=pp_url
+
+Pour rappel, vous pouvez être bénévole et manger au restaurant 💪 
+Le prix du repas sera de 16€
+🚨 Le restaurant ouvrira ses portes ce dimanche à 20h (et non pas à 11h comme indiqué sur le planning de la semaine) 🚨
+
+Gros bisous,
+Le bureau EMA’sterchef 👩‍🍳🧑‍🍳', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Résultats] x [Défi Com Soirée x Partenariat x Musique]
+
+Dimanche soir, nous avons réuni beaucoup de beau monde des deux listes afin de les faire s’affronter sur différents mini-jeux à propos des différentes coms présentes 🪩🎸👔.
+
+La Coup d’Ét’art 🏴 a su montrer l’étendue de ses connaissances sur les campagnes des Artis 🎆, avec une victoire 6-2 😊! La Médiév’art 🗡️ a proposé une idée de nouveau partenariat viable et un nouveau thème de SDB très drôle : la SDB Gulli 👽. Ils marquent deux points pour ces idées originales.
+
+Enfin pour le blind test, Rebecca a su nous charmer grâce à ses talents de violoniste 🎻. Néanmoins, la Coup d’Ét’art avec Martin 🎺, Noa et Nina 🎹 ont joué un grand nombre de morceaux de beaucoup de répertoires différents ! La Coup d’Ét’art ressort vainqueur de cette partie du défi.
+
+Finalement, ce défi se solde avec une égalité 2-2 ! Les deux listes nous ont montré qu’elles méritaient le BDA, la relève est bien assurée. 🥰
+
+Merci à tous ceux qui étaient présents, on espère sincèrement que vous vous êtes éclatés et avez un peu décompressé des campagnes ! On a beaucoup aimé passer ce moment convivial et vous rencontrer durant cette soirée ❤️🌄', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Les Art’ificiers; contenu : [Résultats] x [Défi Zava x Arti]
+
+Après des campagnes acharnées, Arti et Zava ont mis leur différend de côté et ont uni leurs talents pour créer un jeu de l’oie très spécial ! 🤩 Les bizuts Coup d’Ét’art et Médiév’art ont dû affronter la rage de gagner des clowns et des pyromanes ! 🎪🎇
+
+C’est non sans diffiCUlté que la Coup d’Ét’art a réussi à finir le jeu de l’oie ! 🤩
+
+Bravo à tous les participants pour ce beau jeu et pour votre patience 😉 (merci la sécu 🤡)', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Comité Œnologie Mines Alès; contenu : [Comité Œnologie] x [Dégustations de la Saint-Valentin]
+
+Bonjour à toutes et à tous,
+
+Les campagnes sont terminées 🥲, il est temps pour le Comité de se remettre au travail !
+
+Vous le savez, le partage et la convivialité sont des valeurs fortes en œnologie 🍷
+
+Ainsi, célébrons l’Amour autour de 2 dégustations sur la plus belle fête de l’année : ***la Saint-Valentin ***❤️‍🔥
+
+Pour l’occasion, nous vous invitons à participer en duo d’amoureux/amis/potes/partenaires/concubins/ex/ennemis/chats (bref avec la personne que tu veux) lors du SG « duo » spécial pour l’événement : 1 personne fera le SG pour lui-même et sa moitié 💞
+
+📅 Les deux dégustations auront lieu le **Lundi 12 Février** et le **Jeudi 29 Février**
+
+PRIX 🤑
+
+13€ pour les cotisants BDE
+
+18€ pour les non cotisants
+
+À vos rappels :
+
+⏰ LE SG AURA LIEU **CE VENDREDI 13H00** POUR LA PREMIERE DÉGUSTATION DU 12 FÉVRIER (sur la page du comité) ⚠️ et celui de la seconde dégustation aura lieu **Lundi 26 Février à la même heure** pour la dégustation qui aura lieu le Jeudi 29 Février 😉
+
+Préparez votre meilleur outfit 💃, invitez votre crush ✨ et venez profiter d’une excellente soirée autour de mets d’exceptions et de vins de grande qualité 🍷
+
+> In Vino Veritas 🍷', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : Festival de la Meuh Folle; contenu : [Meuh Folle] x [Défi BDA]
+
+Après plusieurs heures de travail acharné de la part de nos deux listes BDA, il est temps de choisir. Malgré un score très serré, la Médiév’art 🏰 **remporte la victoire**🥇 à 4 votes contre 3 pour la Coup d’Ét’art ✊
+
+Nous tenons à féliciter les deux listes pour avoir travaillé sur ces magnifiques pancartes pendant 2 jours qui serons bien évidemment utilisées.
+
+Vous pourrez retrouver le **Bar''bapapa** et le **Bar&Vous** les **5&6 Avril** au dessus des bars pendant Festival 🐮 Un grand merci également à La Cambriol''art pour leur pancarte **Clebar** 🐕', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : bar de la meuh; contenu : [Résultats Défi]x[Ouverture ce soir]
+Je suis ouvert ce soir comme la semaine dernière et la semaine prochaine.', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDE IMT Mines Alès - Cercle des Élèves; contenu : [Illumination] x [Billetterie]
+
+Bonjour à tous !
+
+Ce samedi a lieu la soirée Illumination au Self de l’école. Un show spectaculaire de sons et lumières vous sera proposé de 22h30 à 3h pour LA soirée de l’année 🥳!
+
+Des accessoires 🎩 seront distribués : colliers, chapeaux, sticks fluo, maquillage et plus encore !🤩
+
+Le Cercle vous proposera plusieurs type de boissons : bière (blonde et red), shots fluos (Get, Soho et Limoncello) et cocktail (punch avec et sans alcool)🍹 !
+
+L’entrée sera à 8€ pour les buveurs et 5€ pour les SAM.  Voici la billetterie !
+
+https://boutique.lyf.eu/cercle-des-eleves/illumination2024?fbclid=IwAR3cgNt3YB43CaiNgbXZKf5Z8ay_H2sBGeHhIdNbbi_jsCln9wYhKIG8pas_aem_AR4gI7TaKlZpY2wjJi1g4IOz5tNyod2nkpTDb2m2XGHZpCYZV6TZGLYk6NSG1sCxJfA
+
+On vous attend nombreux !!! 🥳
+
+Circulairement vôtre ⭕️', 0),
+  (now(), 'f43df1d6-232c-4bc5-99a3-dc79a438218e', 2, false, 2, '{}', 'Posté par : BDA Mines Alès; contenu : [Résultats] x [Défi Secrétaires x Com Com]
+
+Dimanche dernier, nous avons réuni les secrétaires et les com com des deux listes afin de tester leur cohésion, leurs aptitudes à communiquer ainsi que leurs connaissances sur leur propre liste et sur le Bureau de l’Amour. 🤓💖
+
+La Médiév’art a prouvé qu’elle connaissait bien les visuels et logos des événements du BDA et de ses assos 🥰, la Coup d’Ét’art quant à elle, a su montrer que les anecdotes de sa liste n’étaient plus un secret pour elle. 👀
+
+Cependant, chaque manche était très serrée et on a vu beaucoup d’égalités ! Ce défi se termine donc sur une belle égalité. 🤝 
+
+Merci aux secrétaires et aux comcom des deux listes pour ce beau défi et pour la manche glouglou qui nous a bien fait rire ! 😆', 0);
